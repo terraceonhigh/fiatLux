@@ -89,7 +89,9 @@ Canon has *Fiat Lux* cut by the cogeneration crew in year seven as a gag about t
 
 ### The Vestals are prior art only — these people live and love and have children and die
 
-**No vow, no enclosure, no celibacy.** The flame image is literary furniture; it is not an order's rule. Which retires an argument an earlier draft of this file made: that the tenders being childless forced the province to supply them, and that the schools and circuit were therefore an intake. **Dead.** The Academy reproduces itself biologically. The circuit and the village schools are services first; recruitment from the province is incidental and opportunistic.
+**No vow, no enclosure, no celibacy. Collie has progeny; that is the point of her.** The flame image is literary furniture; it is not an order's rule.
+
+**But one Vestal is imported specifically, and she is the ancestor's name.** See the note below on Coelia Concordia — the reference is to a particular woman and the way her institution ended, not to the order's discipline. Nothing conflicts: that woman's story is about defunding, not chastity. Which retires an argument an earlier draft of this file made: that the tenders being childless forced the province to supply them, and that the schools and circuit were therefore an intake. **Dead.** The Academy reproduces itself biologically. The circuit and the village schools are services first; recruitment from the province is incidental and opportunistic.
 
 So it is **not a monastery with families. It is a town whose civic religion happens to be an institution.** The Rule still does all the load-bearing work — the horarium, apprenticeship, maintenance as assigned labour on a timetable — and then everyone walks home from the shift to a household.
 
@@ -139,6 +141,11 @@ Texture that follows: the masks are a line item, kept in a locker, counted, issu
 
 - **"Graceful degradation"** — systems and safety engineering: designed loss of function under partial failure, rather than collapse.
 - **The city on a hill** — Matthew 5:14, and Winthrop's 1630 sermon, from which the American exceptionalist usage descends. The obligation in the original is to be *seen*.
-- **The tended flame** — the Vestals of Rome, whose perpetual fire's extinction was treated as a threat to the state's own survival. **Borrowed for the image of custody only**; their enclosure and celibacy are explicitly not imported. *Fiat Lux* itself is Genesis 1:3.
+- **The tended flame** — the Vestals of Rome, whose perpetual fire's extinction was treated as a threat to the state's own survival. Borrowed for the image of custody only; their enclosure and celibacy are **not** imported. *Fiat Lux* itself is Genesis 1:3.
+- **Coelia Concordia — the ancestor's name, and the sharpest anchor in the setting.** The last attested *Vestalis Maxima*, chief of the order in the 380s CE. The reason there was no successor is the exact mechanism this whole file describes: the Vestals were not suppressed, **Gratian withdrew the state subsidy** around 382, public funding for the old cults stopped, and within roughly a decade a fire tended continuously for centuries went out. Not persecution — a budget line, with the constitutional order formally intact and nobody signing anything. **That is Decade 2 and Decade 3 of the collapse, happening in 382 CE.**
+
+  *Concordia* is the second half of it: concord, agreement, the harmony of the state — the thing a deliberative body is supposed to produce. A Vestal named Concord at the moment the Roman religious settlement stopped cohering, in a setting that governs by division counts and surviving minutes.
+
+  **And the name works as an inversion rather than a template.** Coelia Concordia's fire went out. Collie Swartz's line keeps one lit for a thousand years, tending a boiler, having children, never having heard of her. Open question worth settling early: whether Collie knows. Cleanest is that she does not choose it — a joke someone in her cohort made in second year, which is the same law *Fiat Lux* obeys.
 - **The Rule** — Benedictine monasticism, where continuity is a timetable rather than an aspiration, and copying is assigned labour rather than reverence. This is the mechanism, not the mood.
 - **Long-horizon institutional practice, real and still running** — Rothamsted's Park Grass plots since 1856; Beal's seed bottles buried in 1879 to be dug on schedule by people not yet born. Also Ise Jingū, rebuilt every twenty years with timber forests on multi-century rotations for rebuildings nobody alive will attend.
