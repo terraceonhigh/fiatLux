@@ -55,7 +55,9 @@ So the brief is **the stock's decay order**, and my ranked chokepoint list is th
 
 The polity walks back down that list to sulfonamides, then to antisepsis and surgery and nothing else, and **calls it consolidation of the curriculum.** The motion passes with amendments.
 
-Two consequences worth having:
+§IX's "the twelve people who can machine a rifled barrel are in their fifties" is the two-generation decay curve from brief 1, and the briefs explain why it is not fixable by writing things down: generation one knows which steps in the protocol matter and which are ritual, generation three has the book and cannot tell the difference. Yield falls and nobody can say why. The protocol is not the skill.
+
+Two further consequences worth having:
 
 - **Penicillin V is what makes Plutarch's voyage physically possible.** Acid-stable, oral, no cold chain, no vials, no needles — it survives a three-month passage in a sealed tin. Injectable penicillin G does not. The whole saint is downstream of one substitution in the fermentation feedstock, and the polity that could do that substitution stopped being able to.
 - **§V has Chemistry keeping everything forever** — arsenal, pharmacy, water authority, dye. That's the concentration my brief describes from the inside: the same people, the same solvents, the same still. Nobody planned it and nobody can unwind it, and when Chemistry loses the fermentation plant it keeps the arsenal.
@@ -68,7 +70,7 @@ What survives from mine as still useful:
 
 - **Facilities and the prestige inversion** — §IV has Custodian as *custos* and Facilities as a guild with keys, §V has Electrical holding the cogen plant, but the *social* fact is worth keeping: the machinist outranks the postdoc, and the people condescended to for a career now allocate heat. §VI Phase 5 says the first serious coup comes from Facilities or the militia, which is that fact arriving.
 - **The Library as chancery, and preservation triage.** Canon has the Library fighting the Registrar for the file (§X) but not the physical decay. Digital dies first, completely, silently, while the lights are still on — most of it was licensed, never owned. Paper is acid. **Microfilm is the counterintuitive winner** and the silver competes with the hospital. §VII's descent is the moment that triage list gets written, and §XII's "sheds the knowledge it swore to hold in trust" is what the list is.
-- **My Indigenous-sovereignty section is not in the bible at all.** §VII is entirely about villages, headmen and affiliation. In a Cascadian setting the neighbouring nations are co-sovereigns with functioning governments, land bases and treaty rights whose Crown counterparty has evaporated — and §VII's "empire by invitation" and §IX's "charter rivals rather than fight them" both read very differently against a party that has its own charter. This is the largest gap between the briefs and the bible, and it's a gap in the bible's direction.
+- **The Indigenous-sovereignty material is the largest gap, and it's structural rather than sectional.** §VII is entirely villages, headmen and affiliation. But §I makes the accreditation empire's ultimate weapon **withdrawal of recognition** — which only bites against a party that needs your charter. Against a nation with its own governance, its own land base, its own legitimacy claim, and treaty rights whose Crown counterparty has evaporated, that weapon has nothing to grip. §VII's "empire by invitation" and §IX's "charter rivals rather than fight them" both lose their mechanism at the same time, and §IX's standing failure mode — modelling the periphery as unitary states when it is kin networks and factions — inverts: here is a periphery that *is* a polity, and the Academy's instinct will be to treat it as a valley. **That's a hole in §VI through §IX, not a missing paragraph.** It's also the only counterparty in the setting that can decline recognition right back.
 
 ### `four-beats.md` → the materiel under three canon saints
 
@@ -90,10 +92,14 @@ One correction to my own earlier note, now that §V is in front of me: **receive
 
 - **Lacks** rides circuit. The telegraph and the resident magistrate end the circuit.
 - **Plutarch** carries penicillin across water. Phase 7 sheds the capability to make it.
-- **Lamarr** builds the chronometer. That one *survives* — pre-1880 and comfortably under the floor.
 - **Vavilov** holds the greenhouse. 4,118 is standing in the valley in year 1080.
+- **Lamarr** builds the chronometer — and this one is a question for you rather than a claim from me. Chronometry is pre-1880 and sits comfortably under the floor, so the *capability* should survive where penicillin doesn't. But §XII calls the greenhouse "**the one thing** successfully handed a thousand years forward," which either is loose rhetoric or means a surviving craft is not the same as a specific instrument reaching 1080. Worth deciding, because a Lamarr chronometer still being wound in year 1080 is a very different object from a Lamarr chronometer that is a name on a lecture.
 
-So the martyrology splits cleanly into saints whose gift persisted and saints whose gift the polity itself abolished, and it does not distinguish between them. Lacks and Plutarch are honoured annually by an institution that made their work impossible and, per §VII, called it consolidation of the curriculum. **Lamarr and Vavilov handed something forward; Lacks and Plutarch handed forward only the example.** That's the grief in §XII with names on it, and it gives the year-1080 lecturer a second argument to lose.
+So the martyrology contains saints whose gift persisted and saints whose gift the polity itself abolished, and it does not distinguish between them. **Lacks and Plutarch are honoured annually by an institution that made their work impossible** and, per §VII, called it consolidation of the curriculum. Vavilov handed something forward; they handed forward only the example. That's the grief in §XII with names on it, and it gives the year-1080 lecturer a second argument to lose.
+
+Incidentally, §XII's own phrasing — "at a cost of nineteen votes and two halls" — independently settles which way the Division went. The nineteen lost.
+
+**Where the beats sit on the phase line**, which is worth having in one place: Vavilov is **Phase 2** (the Winters, where §VI puts the Division). Lacks is **Phase 4** ("circuit begins as practicum"). Lamarr is **Phase 5** (third generation). Plutarch is **Phase 6** (the republic of letters). Each brief's materiel applies at its saint's phase and is being lost by Phase 7.
 
 ---
 
@@ -105,15 +111,22 @@ This is the map decision that sets every number in §VIII, and real geology answ
 
 §VIII prices overland bulk at 50 km and navigable water at 300 km-plus for a tenth the cost. So coal is not marginally within reach; it is *comfortably* within reach on the Strait, and the answer arrives with a shape attached:
 
-**This settles §II.5 as well — corridor, not blob.** The polity is linear along the Strait of Georgia, its bulk economy is coastal shipping rather than carting, Nanaimo and Comox are the industrial dependency, and the interstices §VIII warns about are the mountainous island interior and the mainland inlets. Which also means the coercion radius is measured in sailing days from the naval yard, the store's wavefront moves by schooner, and every rebellion still has a correct month.
+**This settles §II.5 as well — corridor, not blob.** The polity is linear along the Strait of Georgia, its bulk economy is coastal shipping rather than carting, and the interstices §VIII warns about are the mountainous island interior and the mainland inlets. The store's wavefront moves by schooner.
 
-Washington-side alternatives if you'd rather: Bellingham, Black Diamond, Roslyn, Centralia. All real, all worked historically.
+**But the better finding is in §VIII's own table, not in the geology.** Coercion reaches 100 km, and only in the eight weeks after harvest. **Nanaimo sits right at that edge.** So the coalfield is not merely the industrial dependency — it is at the precise limit of what the Academy can compel, which turns §VIII's warning ("if the ore lies outside the dendrite, you have acquired a dependency and a foreign policy") into a dated crisis with two exits:
 
-### §II.1 — governance template. **Commonwealth, nearly free.**
+- **Annex it early**, at a cost the Bursar cannot fund and in the one eight-week window per year when force is possible at all, or
+- **hold it by permanent negotiation forever** — which is the *respublica literaria* applied to a commodity, and means the polity's entire industrial base sits with a partner it cannot coerce.
 
-If the Academy is a British Columbia university, the dyarchy in §IV is not a design choice, it's the existing statutory structure: a ceremonial **Chancellor**, an executive **Vice-Chancellor**, a **Senate**, a **Board of Governors**, and — the load-bearing one — **Convocation as a real constitutional body** that elects the Chancellor. §IV's doge and §VI Phase 5's "Convocation hardens into an assembly" are then developments of an existing organ rather than inventions. The American template would require you to build Convocation from nothing.
+That's a real constitutional question rather than a supply figure, and it's derived from canon's numbers plus the map. Washington-side alternatives if you'd rather move the problem: Bellingham, Black Diamond, Roslyn, Centralia — all real, all worked historically, all with different distances.
 
-Verify the current statutory particulars before any of it appears as in-world constitutional detail, but the shape is right and it's free history in exactly the way §III's land-grant move is.
+### §II.1 — governance template. **The bible already answered this and hasn't noticed.**
+
+§II lists it as open, but §IV writes the dyarchy on the Commonwealth assumption outright: a ceremonial Chancellor hardening into a doge, *elected for life by Convocation*, with the Vice-Chancellor as executive and the Provost holding the courts on the Scottish burgh model. That's not an American structure — it presupposes Convocation as a constitutional body.
+
+Which the real geography confirms rather than decides: a British Columbia university already has, by statute, a ceremonial **Chancellor**, an executive **Vice-Chancellor**, a **Senate**, a **Board of Governors**, and **Convocation as a real body that elects the Chancellor**. So §VI Phase 5's "Convocation hardens into an assembly" is the development of an existing organ, and the American template would mean building Convocation from nothing after having already given the Chancellor to it in §IV. **Close §II.1 as settled by §IV.**
+
+Verify the current statutory particulars before any of it appears as in-world constitutional detail.
 
 ### §III's land-grant premise — confirmed, and it decides a thing in brief 2
 
@@ -125,11 +138,11 @@ Irrigation makes him an engineer and pulls you toward Wittfogel — worth knowin
 
 The mutual-aid granary is the anarchist reading and makes him a nuisance to the Bursar — which is structurally good, because the Bursar is Odede's office and a standing quarrel with it inherits the founding.
 
-**But the research points at a third door.** Kropotkin's *Fields, Factories and Workshops* (1899) is largely an argument for **intensive market gardening and glasshouse horticulture** — he wrote admiringly and at length about the French *maraîchers* and Channel Islands growers getting extraordinary yields from small plots under glass. So the historical Kropotkin's actual agricultural enthusiasm was **greenhouses.**
+**And the research makes the granary the better branch, on Kropotkin's own evidence.** *Fields, Factories and Workshops* (1899) is largely an argument for **intensive market gardening and glasshouse horticulture** — he wrote admiringly and at length about the French *maraîchers* and Channel Islands growers pulling extraordinary yields off small plots under glass. That same volume argues it alongside mutual aid and decentralisation; it's one book, one case.
 
-Which makes Kropotkin's valley a glasshouse district, and puts him in direct lineage from Vavilov rather than in a separate policy argument — the man whose name is on the intensive-cultivation valley is named for the theorist of exactly that, and the founding relic of the polity is a greenhouse held at temperature off a flue. It keeps the anarchist valence (small holdings, cooperative, a nuisance to the Bursar because it can't be assessed like a grain field), it takes the irrigation problem as a subordinate technical detail rather than a constitutional one, and it gives §XI's martyrology a second horticultural saint who is not a repetition of the first.
+So the historical Kropotkin is evidence *for* the anarchist option the bible already offers, dressed in market-garden clothes rather than in grain: small holdings, cooperative intensity, and a district the Bursar cannot assess the way a grain field is assessable — which is precisely why he's a nuisance to an office that inherited Odede's ledgers. The stored surplus is what answers the next drought, and the intensive cultivation is how a valley of small holdings generates a surplus worth storing.
 
-I'd take that door. It's also the one that makes the ballad easier to write.
+**I'd take the granary.** Note the trap I nearly fell into and you might too: a glasshouse district is tempting because it rhymes with Vavilov's greenhouse, but §XI specifies **"the valley saved from the next drought,"** and glass is season extension and yield density, not water security — it needs irrigation itself. The rhyme isn't the function. If you do want the glasshouse reading, it has to carry its own drought argument (far more food per litre under glass, so the valley eats through the dry summer by moving indoors), and that sentence has to be on the page.
 
 ---
 
