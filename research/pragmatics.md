@@ -52,6 +52,16 @@ Wrought and cast iron, crucible and open-hearth steel. Window and bottle glass, 
 
 **They buried the making, not the knowing.** That is why the archive is a tomb rather than a bonfire, and why the place stays a university instead of degenerating into a very good technical school.
 
+### And the ceiling is why the restoration project exists
+
+Every constraint above is a **population** constraint wearing different clothes. Trades you can keep in apprentices, purity you can hold, elements inside the corridor — all of them say the same thing, which canon §XII states outright: **the minimum viable population for most of what the Academy does is the planet.**
+
+So **~1900 is not a ceiling in principle, only a ceiling for one corridor.** A restored planetary division of labour is the single route past it: it is where the chromium and the platinum and the tropical rubber come from, where a semiconductor supply chain could exist again, where nitrogen fixation at pressure becomes fundable, and where a fermentation plant stops being one polity's grotesque disproportionate commitment. Nothing local gets them there and they know it.
+
+Which reframes both islands. **Antibiotics and radio are not luxuries above their station — they are the project's instruments.** Oral penicillin is what makes a three-month voyage to a distant institution worth making, and the open band is how you find out an institution is still there. The polity funds its two hardest capabilities because those are the two that reach.
+
+And it reframes the interment as a **promise rather than a loss**: the buried sciences are buried against a day the project is trying to bring about. Every generation that votes the archive its heating allocation is asserting the day is still coming.
+
 ---
 
 ## II. Why the university survives and the municipality withers

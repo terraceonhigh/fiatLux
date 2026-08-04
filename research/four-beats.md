@@ -4,9 +4,18 @@
 
 *Research brief. Confidence notes at the end.*
 
+> **Status against the third-edition bible.** The martyrology is cut, so **none of the four beats is canon any longer as a named event** — no seed-bank martyr, no circuit saint, no chronometer saint, no sailor. What survives is the **materiel**, which is what this brief was always actually for, and two of the four have been promoted or repurposed:
+>
+> - **Beat 1 — the seed bank.** No longer a founding event. But the germplasm research is exactly what any replacement founding vote will need, because the reason a collection is worth arguing over is that it is a farm on a rotation with a clock on every accession. Read it as material, not as plot.
+> - **Beat 2 — the circuit.** The function is canon (§VI Phase 4, §VII); the saint is not. The kit, the drug panel, the dentistry, the living arm-to-arm vaccination chain and the failure modes all stand.
+> - **Beat 3 — the instruments.** The craft is canon; the named maker is not. Rate certificates, index error, the dividing engine and the almanac office are untouched.
+> - **Beat 4 — the voyage. Promoted.** No longer a legend at the end of a millennium: it is now **the restoration project's first outward act** (§XII). Reconnaissance for reassembly. The verification problem in both directions is the load-bearing part.
+>
+> The "spine" paragraph immediately below is **dead** — it depends on a martyr, a century's distance, and a founding myth being audited. Kept because the ethic it describes survives as §0's purpose; ignore its plot.
+
 ---
 
-## The spine: beats one and four are the same beat, a century apart
+## The spine — SUPERSEDED (see status note above)
 
 Before the details, the structural observation, because it's the thing that makes these four beats one story rather than four good scenes.
 
@@ -22,7 +31,7 @@ Say that once, quietly, and never again.
 
 ## Chronology — SUPERSEDED
 
-> **The absolute years below are dead.** Canon runs to year 1080 across ten phases, so the scale is millennial, not centennial, and "nobody from the apocalypse is alive anymore" is a condition that obtains for nine centuries rather than a landmark. Canon also puts a **technological floor at the 1880s** in Phase 7, which the radio in beat 4 and the whole penicillin brief sit above. See [canon-reconciliation.md](canon-reconciliation.md).
+> **The absolute years below are dead.** The millennium is real, so the scale is millennial rather than centennial, and "nobody from the apocalypse is alive anymore" is a condition obtaining for nine centuries rather than a landmark. The 1880s floor that an earlier note cited here is **also gone** — there is no second descent, the equilibrium is ~1900 held by remanufacture, and the only route past it is the restoration project. See canon §VIII and §XII.
 >
 > The *relative* sequencing still holds and is kept for that reason. Read the year column as ordering only.
 
@@ -44,7 +53,11 @@ Two consequences worth holding onto:
 
 # Beat 1 — The martyr at the seed bank doors
 
-> **Canon correction.** The anniversary is **the vote, not the death** — the Division, 23–19, two abstentions from Medicine, funding the greenhouse out of Kirkwall and Trent halls. The heroism is **thermal, not martial**: Vavilov held a key to 40,000-plus edible accessions, and **did not go in**, because entry cost roughly forty minutes of margin and the heat was not his. Found at the sill. The mob is deleted. So the multiplier arithmetic below is a *floor speech*, not a private justification, and the door is a heat leak with a budget of openings, not a barricade. **Accession 4,118 is the wheat now standing in the valley** — the payoff, not the forcing function. My posthumous-conferral idea is retired; canon's petition, received nine times, is the better version. See [canon-reconciliation.md](canon-reconciliation.md).
+> **No longer canon — read as material.** The named martyr, the stated tally, the halls, the accession number and the sacred greenhouse are all cut with the martyrology. What survives and is worth keeping if you build a replacement founding event:
+>
+> **The anniversary is the vote, not the death** (canon §VI Phase 2 keeps this as the *type* of the founding event). **The heroism is thermal, not martial** — a key to a room of edible seed, and the custodian does *not* go in, because entry costs margin and the margin is not theirs. No mob, no barricade: the door is a heat leak with a budget of openings, and someone keeps the tally. The multiplier arithmetic below is therefore a **floor speech to a deliberative body**, not a private justification.
+>
+> That shape is reusable for any resource a close vote has to allocate. It is no longer attached to a person.
 
 ## This happened
 
