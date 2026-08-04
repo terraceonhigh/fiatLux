@@ -59,9 +59,9 @@ You told me to disregard it, and you're right, but the interesting part is *why*
 
 I've marked the table dead in place rather than deleting it; the *relative* sequencing still holds and the absolute years don't.
 
-**The much larger problem it exposes: the 1880s floor caps my technology, and my briefs describe a peak.**
+**And the 1880s floor is a later trough, not a ceiling.** I nearly got this wrong. Canon accounts for Phases 7 through 10 and says nothing about Phases 1 through 6 — which is most of the timeline and all of the ascent. So the floor is where the polity falls *to* in Phase 7, not a cap over the setting, and penicillin and radio sit comfortably in a pre-Phase-7 peak with no contradiction. Your note that 1080 is far future even relative to the story puts the action before the descent.
 
-Phase 7 descends to an 1880s technological floor. Line the briefs up against that:
+What the floor does give you is an ordering. Line the briefs up against it:
 
 | Capability | Real-world era | Survives the 1880s floor? |
 |---|---|---|
@@ -72,12 +72,10 @@ Phase 7 descends to an 1880s technological floor. Line the briefs up against tha
 | **Penicillin, deep-tank fermentation** | **1940s** | **No** |
 | **Radio** | **1900s onward** | **No** |
 
-So my penicillin brief and the radio half of beat 4 describe capability that sits *above* the floor the polity later falls through. That reframes both briefs, and reframes them in a way that's better than what I wrote:
+So penicillin and radio are the two capabilities that Phase 7 takes away, and that gives the descent its structure for free:
 
-- **The penicillin brief is not a description of how the polity works. It's a description of what the polity loses in Phase 7.** Every chokepoint I ranked by tightness is now a *timeline of the descent* — the strain degenerates, the solvent still fails, the blowers stop, and the polity walks back down the list in reverse order until it's at sulfa, then at antisepsis and surgery. "Bereavement rather than decadence" is exactly right, and the ranked chokepoint list is the order in which the bereavement arrives.
-- **Beat 3's instruments survive the floor and beat 4's radio does not.** Chronometers, sextants and the almanac are all comfortably pre-1880. Radio is not. So Greenwich keeping the twenty-metre band open is either before the descent, or a recovered capability, or the single anachronistic thing the polity holds onto — and if it's the third, that's a wonderful asymmetry: **a polity that can hear the world but has lost antibiotics.**
-
-This is the biggest open question and I've put it at the top of the list below.
+- **The penicillin brief doubles as a Phase 7 timeline.** Every chokepoint I ranked by tightness is an order of failure — the strain degenerates, the solvent still loses its copper, the blowers stop, and the polity walks back down the list until it is at sulfa, then at antisepsis and surgery and nothing else. "Bereavement rather than decadence" is exactly right, and the ranked list is the order in which the bereavement arrives. This is an *additional* use of the brief, not a correction to it: at the peak it describes a working industry, and read backwards it describes losing one.
+- **Beat 3's instruments survive the floor; beat 4's radio does not.** Chronometers, sextants, the dividing engine and the almanac are all comfortably pre-1880, which means the navigation half of beat 3 is the part of the setting that never breaks. Radio is post-1895. So Greenwich keeping the twenty-metre band open is either pre-descent, or recovered in Phase 9–10, or the one anachronism the polity refuses to drop — and the third option gives you **a polity that can hear the world but has lost antibiotics**, which is the most interesting of the three by a distance.
 
 ### 2. Beat 1 — the vote outranks the death, and the door is thermal
 
@@ -95,13 +93,11 @@ And Odede is the mechanism that makes it nobledark rather than hagiography: **he
 - Vavilov holds a key to a room full of edible seed in a famine, and the heroism is that **he opens it as rarely as possible.** Not defiance — accountancy. Small technical heroism, exactly as the register specifies.
 - **Accession 4,118** is then almost certainly a specific accession that had to be grown out or lost, which is what forces the door open at a cost. My grow-out material is the mechanism: an accession with a clock on it, in a famine winter, requiring a planting.
 
-**One invention of mine that needs re-pointing, not scrapping: the posthumous conferral.** I proposed the martyr dies uncredentialed and the state's first sovereign act is conferring a degree on a corpse — which is why convocation becomes the citizenship rite. Canon puts a vote at the centre instead of a death, so the conferral can't be the founding act. Three ways to keep it:
+**One invention of mine that needs re-pointing, and it survives.** I proposed that the martyr dies uncredentialed and the state's first sovereign act is conferring a degree on a corpse, which is why convocation becomes the citizenship rite. Canon says the *anniversary* is the vote — that constrains what the polity commemorates every year, not what its first sovereign act was. Both can be true, and **the gap between the two is characterization**: a polity whose founding act was a conferral and whose calendar remembers the division has told you which of those it found easier to live with.
 
-- Attach it to **the twenty-three.** The unnamed losing side receives something posthumously, and the wall's inversion is that gesture. This fits "inversion of the wall" better than anything else I can construct.
-- Attach it to **Odede** specifically, who is owed something the polity cannot name.
-- Retire it, and let the citizenship rite descend from the Division instead — you are a citizen because you are entered in a register, and the founding register is a division list.
+**Recommendation: attach the conferral to the twenty-three.** The losing side receives posthumously what the nineteen got by winning, and that is the best sense I can make of "inversion of the wall" — the memorial honours the people who were wrong. It also puts Odede at the centre of the rite rather than off to one side, which he has earned by forging his own ration downward.
 
-The third is probably the cleanest and it costs me my favourite idea, which is usually a sign it's correct.
+Two alternatives if that's too neat: attach it to Odede alone, or retire the conferral and let the citizenship rite descend directly from the Division — you are a citizen because you are entered in a register, and the founding register is a division list.
 
 ### 3. Beat 2 — the circuit is already canon, and it has a name
 
@@ -120,7 +116,7 @@ That changes the emotional register of the beat completely and for the better. I
 
 - **My verification-problem material is the load-bearing thing in the brief**, not a garnish. A republic of letters conducted at three months' latency, between institutions that cannot confirm each other's existence, runs entirely on authentication — potency, weights, time, credentials, a callsign, a seal, a recognizable fist on a key. That *is* the *respublica literaria*, mechanically. "Authentication is what this polity exports" turns out to be the setting's thesis rather than my observation.
 - **"Longitude is the ability to find people again"** is the best line in the export and it's the answer to why Engineering makes chronometers at all. Not trade, not exploration. Finding people. My four-seconds-per-nautical-mile arithmetic is in service of that, and Plutarch's chronometer should probably have a rate certificate with a chain of signatures going back decades — every rating a small act of institutional continuity.
-- **My "receive is cheap, transmit is expensive" asymmetry needs qualifying.** Canon has Greenwich keeping the twenty-metre band open, which means a real transmitter at the standards institution. So the asymmetry holds for everyone *except* Greenwich, which makes Greenwich's transmitter a strategic asset and its silence a diplomatic event. My solar-cycle point gets sharper here: Greenwich can keep the band open and the band can still close, and no one is at fault, and the relationship goes quiet for years.
+- **My "receive is cheap, transmit is expensive" asymmetry is a claim about ordinary polities, and Greenwich is the exception that defines it.** Anyone can build a crystal set and listen; a transmitter takes power, a mast, and manufacturing consistency. Canon has Greenwich keeping the twenty-metre band open, so **Greenwich's transmitter is what makes it a standards institution rather than merely a participant** — it is the one party that can answer. Which makes its silence a diplomatic event, and my solar-cycle material the reason that event can occur **with no one at fault**: the band closes, Greenwich keeps calling, nobody hears, and a relationship goes quiet for years over the state of the ionosphere.
 
 ---
 
@@ -139,13 +135,17 @@ And the export's own frame deserves keeping verbatim in the notes: **a universit
 
 ---
 
-## What I need from you, in priority order
+## What I need from you
 
-1. **The two artifacts.** The 809th Vavilov Lecture and the Academy Brainstorm second edition, especially **§XI**. Everything above is reconstructed from a summary and I don't want to build further on it.
-2. **Where does the story sit relative to the 1880s floor?** This decides whether the penicillin brief describes a live capability or an elegy, and whether beat 4's radio is pre-descent, recovered, or the one thing held. It's the single question that most changes what research is useful next.
-3. **The 809/1080 arithmetic.** 1080 − 809 = 271. Is the vote in year 271 of the calendar, or did the lecture series begin or resume then, or does the calendar count from an epoch earlier than the vote? A lecture "delivered on a fixed night whether or not anyone comes" implies an unbroken series, and an unbroken series of 809 in a polity that went through Phases 7 through 9 is itself a remarkable claim worth making deliberately.
-4. **Which way did the Division go, and whom does the wall name?** Nineteen and twenty-three, and the inversion.
-5. **The 1:40 ratio** — what's the numerator.
-6. **Kropotkin's valley.** The export says settle it soonest, and it's right: irrigation works pulls you toward hydraulic despotism and makes Kropotkin an engineer; a mutual-aid granary makes him an irritant to the Bursar and pulls the polity somewhere else entirely. I can research either, but they're different books.
+**Blocking:** the two artifacts — the 809th Vavilov Lecture and the Academy Brainstorm second edition, especially **§XI**. Everything above is reconstructed from a summary of a summary and I don't want to build further on it.
+
+**Next, because the export flagged it as urgent and it's a fork rather than a detail:** **Kropotkin's valley.** Irrigation works makes him an engineer and pulls the setting toward hydraulic despotism, with the water bureaucracy as the real government. A mutual-aid granary makes him an irritant to the Bursar and pulls it somewhere else entirely. I can research either, and they aren't the same book.
+
+**When you have a moment,** none of these blocks research:
+
+- **Which phase does the story sit in?** Given the floor is a trough rather than a cap, I'd guess a pre-descent peak, which makes the penicillin brief a working industry and beat 4's radio unremarkable. Worth confirming, since it decides whether the descent material is foreshadowing or setting.
+- **The 809/1080 arithmetic.** 1080 − 809 = 271. Vote in year 271, series begun or resumed then, or a calendar epoch earlier than the vote? A lecture given "whether or not anyone comes" implies unbroken, and 809 unbroken across Phases 7 through 9 is a remarkable claim — worth making on purpose rather than by subtraction.
+- **Which way the Division went, and whom the wall names.**
+- **The 1:40 ratio** — what's the numerator.
 
 Standing offer on the research side, once the above lands: the descent through the chokepoint list as a Phase 7 timeline, or the mechanics of a correspondence republic at three months' latency — packet schedules, seals, what a letter actually contains, and how two institutions verify each other across a generation of silence.
