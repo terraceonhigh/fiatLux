@@ -6,14 +6,72 @@ The container went into a separate bin, installed two years ago, and the paper s
 
 ---
 
-Adjunct Professor Swartz (please, just Collie is fine) of the classical studies department had her own papers to grade now, and worse, the Academy had her assigned to teach freshmen about colonialism without mentioning Said and economics without mentioning Friedman. She spent her evenings in the long-awaited flat, thankfully far below market rate for something this comfortable this close to her workplace, which on the days that she did not have to wrestle Canvas meant just around two corners and the bookstore. Nona visited, quite often, and told her about the charity she worked at. One election cycle, she got Collie to show up on a video about the grain dole and what a government owes its people. The food bank director was in the next slot.
+Adjunct Swartz (please, just Collie is fine) of the classical studies department had her own papers to grade now, and worse, the Academy had her assigned to teach freshmen about colonialism without mentioning Said and economics without mentioning Friedman. She spent her evenings in the long-awaited flat, thankfully far below market rate for something this comfortable this close to her workplace, which on the days that she did not have to wrestle Canvas meant just around two corners and the bookstore. Nona visited, quite often, and told her about the charity she worked at. One election cycle, she got Collie to show up on a video about the grain dole and what a government owes its people. The food bank director was in the next slot.
 
 Nona had dragged Maia too, to observe the meeting where the campus food bank's funding would be discussed, and left to celebrate before the board took up the Biology department's reply to the government's RFP for water quality assurance in the region. The dinner was at a restaurant lit with amber bulbs and fenced by overgrown trellises. The marinara sauce was proudly made from local hothouse tomatoes.
 
-The water had a marginally higher chlorine content two years after, and Collie did not notice. The next contract review proudly presented downward pressure on the ozone budget.
+The water had a marginally higher chlorine content two years after, and Collie did not notice. The next contract review proudly presented downward pressure on the UV disinfection budget.
 
 ---
 
 Nadia Elbakyan is confused why the buses come in two colours and why one of them is noisier. Her mom Nona tells her that two different companies run the buses now, and that's also why the map is confusing sometimes. Her friend Nanaya, though, is even more helpless. But once she drags Nanaya onto the bus, they can just relax and listen to the hum of the engine. Nadia always likes that their neighbourhood has more of the newer and less dirty red buses, instead of the noisy blue ones in downtown, which mom usually drives them to and from anyways. Nanaya's mom is someone who is very smart, and works at the university, where all the red buses live just outside. Auntie Collie is a nice woman, and sometimes big brothers and sisters come to her study room and ask her questions, and she kisses them both and tells them to cross the street to the park. Nanaya doesn't like the girls in the daycare next to that park, and Nadia is always sorry that Nanaya has to study there. Auntie Collie has said that the daycare is safe, and that she is sorry too about the girls, but she will make sure that they are dealt with.
 
-She likes Auntie Collie's house too. It is on the third floor of a red brick building and it is so close to the supermarket and her study room. After work, Auntie Collie always teaches them fun things like how to make massive soap bubbles from bacon grease and ash from a campfire, or how to tie different knots and make sure that the branch is sound before swinging hard on it. She likes hanging out with Lewis too. He is a bit older and his mom Maia works at the observatory on the mountain, so he gets lonely sometimes. Lewis likes his computer, and Auntie Maia gives him a game disk just before each time she has to go back to the observatory. Nadia wants to ask why the observatory people can't move the place closer so Auntie Maia can be with Lewis.
+She likes Auntie Collie's house too. It is on the third floor of a red brick building and it is so close to the supermarket and her study room. After work, Auntie Collie always teaches them fun things like how to make massive soap bubbles from bacon grease and ash from a campfire, or her mom would teach Nanaya and her how to tie different knots and make sure that the branch is sound before swinging hard on it. She likes hanging out with Lewis too. He is a bit older and his mom Maia works at the observatory on the mountain, so he gets lonely sometimes. Lewis likes his console, and Auntie Maia gives him a game disk just before each time she has to go back to the observatory. Nadia wants to ask why the observatory people can't move closer so Auntie Maia can be with Lewis.
+
+---
+
+Collie got Lewis a proper bunk when he was twelve, and spent as much time as he did at her apartment as he did at Maia's place, which Maia did sob and thank her a few times through the handset. Lewis, on his part, never did find a proper three-player game, the teams never were balanced. One time, over the lip of a patched pothole he slid off his bicycle with the console in his backpack, and—thankfully—one of the controllers took the hit. It still worked when he got to Mrs Swartz's place, the scratched plastic just dug into his hands a little.
+
+Nadia crashed her cart into his, and the controller didn't rumble. He noticed it, just a little bit. When he rode back in the morning, his father took the thing apart, and showed him where the wire to the motor had gone loose. Lewis opened the window and held his breath as dad put a soldering iron to it and made it work again.
+
+*Remember, always test before you put the shell back together, save you some time.*
+
+He helped strip down and put back together Nanaya's bike in the summer when Mrs Swartz found it at a yard sale, the old brake cables had to be swapped out and the seat was too high. The console lived in the living room of her place now, which always was the more sensible option. The lights would go out after dinner sometimes at his father's place, and the console with it. Last time mom was home, she talked with dad about selling the place when they thought he was asleep.
+
+---
+
+*Senior Lecturer Swartz?*
+
+*Please, just Collie is fine.*
+
+*A Nona Elbakyan says she knows you?*
+
+*That would be so, what is the matter?* Swartz grabbed her coat.
+
+*She presented at the university clinic with acute abdominal pain, the clinic says they don't treat unaffiliated patients.*
+
+*She is affiliated with me. Is she still at the clinic?*
+
+*Yes.*
+
+*Bring me to her.*
+
+---
+
+*Mistress Swartz—*
+
+*Doctor, Doctor.*
+
+*Right, Doctor Swartz, you simply must understand that we are overloaded as is. There are twenty students out in the waiting room not yet even triaged.*
+
+*I understand, and I sympathize. I furthermore ask you to consider the fact that Mrs Elbakyan's child is currently in my living room unawares and that I have a mobile phone in my pocket I would most regret using as a device for—*
+
+*I regret to tell you, but she is neither student nor staff, to treat her would mean treating the rest of the city.*
+
+*It needn't be, if you can deliver her safety, I can do my utmost to make sure the resources of your clinic are both sufficient and efficiently spent.*
+
+*I—*
+
+*She is a mother and treasured member of the community, Doctor, if this goes out the optics could be disastrous.*
+
+*Doctor Swartz—*
+
+*I ask only for her safety, Doctor.* She held his hand unblinking.
+
+*Of course, Doctor Swartz.* And then it was a handshake.
+
+---
+
+Maia and her husband came to Collie's door for Christmas and did not leave until April, when the international students flew back home and never came back and the flats were open. The old house had finally been sold, and the gold took two people to bring to the third floor. They taught the children the importance of carrying the laminated cards that Maia and Collie wrote in longhand and signed. The two for Nona and Nadia were delivered over three pots of tea, while the children played with the console in the living room.
+
+Lewis had a job now, at the old repair workshop that fixed Collie's phone back during grad school. He hated laptops and got handy with a microscope. Sometimes, new frames were printed instead of bought, because Alibaba was spotty and they were going to wait anyways. Maia wanted him in the electrical engineering department, but had to search for someone in the faculty to meet with him and see his projects.
