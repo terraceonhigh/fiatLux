@@ -87,11 +87,15 @@ Same substance, opposite duties. **Every institutional argument in the setting i
 
 Canon has *Fiat Lux* cut by the cogeneration crew in year seven as a gag about the turbine hall — they meant electric light — and every generation since taking it for scripture. In this frame **the crew were simply correct.** Keeping the lights on is the mission, literally and entirely. The sacred fire of this order is a boiler somebody has to feed at three in the morning; the vigil is a shift; the Vestals of the Academy are the steam crew. The metaphor collapses into the material exactly as the register demands — exterior only, load-bearing objects, the log entry rather than the speech. Nobody has to say it. The plaque is already on the gate, it was a joke, and it is also true.
 
-### Taking the brightest is structural, not a privilege
+### The Vestals are prior art only — these people live and love and have children and die
 
-If the tenders are enclosed, the order is childless — a university left alone ages into a grey bolus and dies. So **the flame consumes people and the province must supply them**, every generation, permanently. The circuit and the village schools are not only services; they are the intake. Not cynically — necessarily.
+**No vow, no enclosure, no celibacy.** The flame image is literary furniture; it is not an order's rule. Which retires an argument an earlier draft of this file made: that the tenders being childless forced the province to supply them, and that the schools and circuit were therefore an intake. **Dead.** The Academy reproduces itself biologically. The circuit and the village schools are services first; recruitment from the province is incidental and opportunistic.
 
-The family that gives up a child to the flame is honoured and bereaved in the same afternoon, both feelings correct, and there is no version where the polity gets the light without that transaction. The most reliable source of ordinary grief in the setting, recurring annually, in every valley, by examination.
+So it is **not a monastery with families. It is a town whose civic religion happens to be an institution.** The Rule still does all the load-bearing work — the horarium, apprenticeship, maintenance as assigned labour on a timetable — and then everyone walks home from the shift to a household.
+
+Which means the enclosure is not a calling. **The family stays in the University the way a family stays in a mill town**: the work is there, the housing is there, and nobody has ever framed it as devotion. Devotion would be a monument.
+
+And the bible's demography argument softens accordingly. §III assumed a cohort ageing into a grey bolus. This is a **population**: grandmothers on the Grounds, pregnancies that change a rota, a funeral that also creates a vacancy somebody has to cover, a child asleep under the bench in the chronometer workshop while her mother finishes the winding, because childcare is whoever is on shift. Generational turnover as ambient noise in every scene rather than as the frame's connective tissue.
 
 ### A light cannot be hidden
 
@@ -99,10 +103,42 @@ You cannot be a city on a hill and also keep secrets. So the compartmentation cr
 
 ---
 
+---
+
+## The frame: how it is told
+
+**A matriline descending from a TA**, from before the apocalypse, remaining in the University for the whole story. Generations of women, **by flesh or by covenant** — and covenant lands as a domestic fact, not a doctrine: a woman comes home from circuit with an orphan and now she has a child. Nobody frames it as continuing a line.
+
+**They are staff, not saints.** Not the kind who gets remembered. The whole world arrives **one rung down from wherever the significance is** — the chronometer workshop seen as a shift rota, the republic of letters seen as cargo on an outrigger, the almanac seen from the desk where the professors stare and she writes it down, the circuit seen as a job you come home from. Nobody in the line ever decides anything.
+
+**Present tense, each woman in her own now.** No retrospective frame, no year-1080 historian, no lecture, no archive read back, **no payoff and no reveal.** The consequences of this are strict:
+
+- **No woman may sense a lineage.** No heirloom remarked upon, no grandmother's story recognized. The moment one of them feels the shape of it, the book becomes a saga.
+- **Continuity is carried by the horarium and the room** — the same hour, the same bench, the same window with the stone worn differently — because the institution made it recur, not because a family kept it. Both exterior; neither requires a character to notice anything.
+- **Duration comes only from material drift nobody remarks on.** The outrigger is rigged differently and she has no idea it was ever otherwise. The almanac is computed by a method the previous section's professors would have argued about. A building that was the new wing is now just the wing. A word has moved. The reader assembles the century out of things no one in the book finds notable. This is the hardest thing in the book and it is the whole book.
+- **Each section opens inside a task**, since present tense across generations has no dateline to lean on.
+- **No ending.** The last woman closes nothing — mid-task, someone covering her shift or not covering it, and it stops. A polity built to run in place has no third act, and a resolution would be a claim the setting cannot support.
+
+**The grand decisions stay off-screen**, arriving as procedure, gossip, or a rule someone obeys. The worked example, and the model for all of it:
+
+> The boat goes upstream to the factory to pick up the product. **The captain orders masks and goggles, and that is that.** The sacrifice was argued two generations ago, in a debate about *where* to site the factory that has to exist for the polis to live — never whether. Nobody on deck pauses. There is no plaque.
+
+Three things that beat is doing:
+
+- **The poisoning survives only as an operational rule.** Masks and goggles is the estuary's sole monument and nobody reads it as one. A woman born after the vote sails past a dead inlet and it is simply what the coast looks like — no commentary required.
+- **It is benign drift, in real time.** The reason has been shed, the practice remains, the practice is correct. Which marks the honest limit of the Academy's creed: the explanation requirement holds at the bench and does not travel. A boat crew is not a licensed cohort. The Rule covers the workshop; it does not cover the water.
+- **One degree of wrongness:** the crew think the masks are for the cargo. Two hazards on that trip — the air over the water, the drums coming aboard — and the reason has quietly reattached to the nearer one. Ask a deckhand and she will tell you confidently, and be half right, and still put the goggles on.
+
+**The product is chlor-alkali** — chlorine and caustic soda. Chlorine treats the wells and the mains; caustic feeds half of chemistry, the soap and the pharmacy. The old processes are filthy in exactly the estuarine way, and it cannot be salvaged, improvised, or made at village scale. So the sentence underneath the setting is **they killed an inlet to keep the wells clean**, and nobody has to say it, because it is just where the boat goes.
+
+Texture that follows: the masks are a line item, kept in a locker, counted, issued, signed for, replaced on a schedule. The straps have perished in the damp again. That complaint is the only conversation anyone has about the estuary on the entire voyage.
+
+---
+
 ## Sources for the borrowed frames
 
 - **"Graceful degradation"** — systems and safety engineering: designed loss of function under partial failure, rather than collapse.
 - **The city on a hill** — Matthew 5:14, and Winthrop's 1630 sermon, from which the American exceptionalist usage descends. The obligation in the original is to be *seen*.
-- **The tended flame** — the Vestals of Rome: sworn, enclosed, taken as children, serving decades, with the extinction of the flame treated as a matter of the state's own survival. *Fiat Lux* itself is Genesis 1:3.
+- **The tended flame** — the Vestals of Rome, whose perpetual fire's extinction was treated as a threat to the state's own survival. **Borrowed for the image of custody only**; their enclosure and celibacy are explicitly not imported. *Fiat Lux* itself is Genesis 1:3.
 - **The Rule** — Benedictine monasticism, where continuity is a timetable rather than an aspiration, and copying is assigned labour rather than reverence. This is the mechanism, not the mood.
 - **Long-horizon institutional practice, real and still running** — Rothamsted's Park Grass plots since 1856; Beal's seed bottles buried in 1879 to be dug on schedule by people not yet born. Also Ise Jingū, rebuilt every twenty years with timber forests on multi-century rotations for rebuildings nobody alive will attend.

@@ -6,6 +6,12 @@
 
 Bible reference: `The Academy — Working bible, second edition`. Origin conversation tail: [origin/2026-08-03-claude-chat-export.md](../origin/2026-08-03-claude-chat-export.md).
 
+> **Since overruled by the author — read [the-two-lights.md](the-two-lights.md) first.** Four things below are stale and kept only because the surrounding analysis still holds:
+> - **Phase 7 and the descent to the 1880s floor are out.** There is no second descent. The antagonist is entropy and the polity runs in place. So the penicillin brief is not a timeline of loss; the "depreciation schedule" reading in §2 is void as a plot but survives as a maintenance burden.
+> - **The year-1080 lecture is not the frame**, and there is no retrospective frame at all. Present tense, per generation.
+> - **The martyrology has receded.** The saints may persist as building names and job titles; they are not the story. Whether they persist at all is still open.
+> - **No enclosure and no celibacy.** The Academy is a population, not an order.
+
 ---
 
 ## 1. Where I was wrong
