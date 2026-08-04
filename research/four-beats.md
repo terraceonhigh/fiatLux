@@ -44,7 +44,7 @@ Two consequences worth holding onto:
 
 # Beat 1 — The martyr at the seed bank doors
 
-> **Canon correction.** The anniversary is **the vote, not the death**, and the heroism is **thermal, not martial** — he held a key to a room of edible seed and opened it as rarely as possible. The mob is deleted. The multiplier arithmetic below is therefore a *floor speech* to a body that divided nineteen to twenty-three, not a private justification; and the door is a heat leak with a budget of openings, not a barricade. My posthumous-conferral invention needs re-pointing. See [canon-reconciliation.md](canon-reconciliation.md).
+> **Canon correction.** The anniversary is **the vote, not the death** — the Division, 23–19, two abstentions from Medicine, funding the greenhouse out of Kirkwall and Trent halls. The heroism is **thermal, not martial**: Vavilov held a key to 40,000-plus edible accessions, and **did not go in**, because entry cost roughly forty minutes of margin and the heat was not his. Found at the sill. The mob is deleted. So the multiplier arithmetic below is a *floor speech*, not a private justification, and the door is a heat leak with a budget of openings, not a barricade. **Accession 4,118 is the wheat now standing in the valley** — the payoff, not the forcing function. My posthumous-conferral idea is retired; canon's petition, received nine times, is the better version. See [canon-reconciliation.md](canon-reconciliation.md).
 
 ## This happened
 
