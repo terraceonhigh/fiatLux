@@ -20,18 +20,20 @@ Say that once, quietly, and never again.
 
 ---
 
-## Chronology, so the beats don't collide
+## Chronology — SUPERSEDED
 
-"Nobody from the apocalypse is alive anymore" sets a hard floor. Someone born in year 10 who lives to 85 dies in year 95. So:
+> **The absolute years below are dead.** Canon runs to year 1080 across ten phases, so the scale is millennial, not centennial, and "nobody from the apocalypse is alive anymore" is a condition that obtains for nine centuries rather than a landmark. Canon also puts a **technological floor at the 1880s** in Phase 7, which the radio in beat 4 and the whole penicillin brief sit above. See [canon-reconciliation.md](canon-reconciliation.md).
+>
+> The *relative* sequencing still holds and is kept for that reason. Read the year column as ordering only.
 
-| Era | Years | What's true | Beats |
+| Era | ~~Years~~ | What's true | Beats |
 |---|---|---|---|
 | **The decay** | −25 to 0 | The five mechanisms from brief 2. Nobody knows they're founding a country | — |
-| **The long winter** | ~0–10 | Famine. The quorum crisis. The martyrdom | **Beat 1** |
+| **The long winter** | ~0–10 | Famine. The quorum crisis. The vote, and the death | **Beat 1** |
 | **Consolidation** | 10–40 | Perimeter, tax in kind, the first war. Salvage still abundant | — |
 | **The circuit era** | 30–60 | Provinces integrated by treaty and by riders. The circuit becomes a degree requirement | **Beat 2** begins |
 | **Maturity** | 60–95 | Last survivors die. Salvage exhausted. Manufacture replaces scavenging | Beat 2 routine |
-| **The voyage** | ~95–110 | Fourth generation. The polity is simply what a state is | **Beats 3 & 4** |
+| **The voyage** | ~95–110 | The polity is simply what a state is | **Beats 3 & 4** |
 
 Two consequences worth holding onto:
 
@@ -41,6 +43,8 @@ Two consequences worth holding onto:
 ---
 
 # Beat 1 — The martyr at the seed bank doors
+
+> **Canon correction.** The anniversary is **the vote, not the death**, and the heroism is **thermal, not martial** — he held a key to a room of edible seed and opened it as rarely as possible. The mob is deleted. The multiplier arithmetic below is therefore a *floor speech* to a body that divided nineteen to twenty-three, not a private justification; and the door is a heat leak with a budget of openings, not a barricade. My posthumous-conferral invention needs re-pointing. See [canon-reconciliation.md](canon-reconciliation.md).
 
 ## This happened
 
