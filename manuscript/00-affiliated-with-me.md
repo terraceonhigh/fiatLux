@@ -73,5 +73,3 @@ He helped strip down and put back together Nanaya's bike in the summer when Mrs 
 ---
 
 Maia and her husband came to Collie's door for Christmas and did not leave until April, when the international students flew back home and never came back and the flats were open. The old house had finally been sold, and the gold took two people to bring to the third floor. They taught the children the importance of carrying the laminated cards that Maia and Collie wrote in longhand and signed. The two for Nona and Nadia were delivered over three pots of tea, while the children played with the console in the living room.
-
-Lewis had a job now, at the old repair workshop that fixed Collie's phone back during grad school. He hated laptops and got handy with a microscope. Sometimes, new frames were printed instead of bought, because Alibaba was spotty and they were going to wait anyways. Maia wanted him in the electrical engineering department, but had to search for someone in the faculty to meet with him and see his projects.
