@@ -46,9 +46,13 @@ The `.html` is a generated AO3-safe render of the `.md`. Regenerate rather than 
 
 ---
 
-## 2. Time-sensitive: the AO3 draft expires
+## 2. Chapter one is posted — the repo is canonical
 
-The draft at the URL above is **scheduled for deletion around 2 September 2026** if it is never posted. Nothing is lost if it goes — `manuscript/` holds the text and the posting kit holds the tag set — but re-entering the form is tedious. Posting is the author's call and has not been made.
+Posted 4 August 2026, public, at the URL above. Chapter two is repo-only; AO3 shows `1/?`.
+
+**Write in the repo.** AO3 is a publishing target, not a working copy, because **AO3 keeps no version history** — an edit there overwrites permanently and the repo is the only place a previous draft survives. Chapter one was edited on AO3 between 5 and 7 August and pulled back on the 7th; the two are byte-identical as of that sync. If it happens again, see `manuscript/ao3-posting-kit.md` for the direction to sync in and why pasting the rendered page back would flatten every line of dialogue.
+
+To render a chapter for posting: `python3 manuscript/to-ao3.py manuscript/<chapter>.md`
 
 ---
 

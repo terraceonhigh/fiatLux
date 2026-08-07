@@ -1,8 +1,24 @@
-# AO3 posting kit — chapter one, *ante finem mundi*
+# AO3 posting kit
 
-Live draft: **https://archiveofourown.org/works/89851861** — work title *Fiat Lux*, chapter 1 *ante finem mundi*. Filled and saved, **not posted**. Unposted drafts are deleted after about a month.
+**Live and posted: https://archiveofourown.org/works/89851861** — *Fiat Lux*, chapter 1 *ante finem mundi*.
 
-Chapter body: **`00-ante-finem-mundi.ao3.html`** — paste into the AO3 editor with **HTML mode toggled on**, not rich text. 38 blocks, 20 `<em>` runs for the dialogue, 6 `<hr />` section breaks. No stray asterisks or backticks.
+## The repo is canonical
+
+Write here. AO3 is a publishing target, not a working copy.
+
+This was tested the hard way: chapter one was edited directly in the AO3 editor on 5–7 August (eleven changes, all improvements, made on a bus) and the repo went stale behind it. Those edits were pulled back on 7 August and the two are now byte-identical.
+
+**Why the direction matters:** AO3 keeps **no version history**. An edit overwrites, permanently, with no way back. The repo is the only place any previous draft exists. Editing on AO3 is fine when it is the machine you have — just sync it back the same day, or the previous version is gone.
+
+**To sync AO3 → repo**, if it happens again: diff the rendered page text against a markdown-stripped copy of the chapter, then apply the changes to the `.md` rather than pasting the page in. The rendered page loses the `*italics*`, so pasting it back would silently flatten every line of dialogue.
+
+## Publishing a chapter
+
+```
+python3 manuscript/to-ao3.py manuscript/00-ante-finem-mundi.md
+```
+
+Writes `.ao3.html` beside the source. Paste that into the AO3 editor with **HTML mode toggled on** — AO3 does not parse markdown, so pasting the `.md` shows literal asterisks. Chapter one renders as 32 paragraphs, 20 italic runs, 6 section breaks.
 
 ## Driving that form, if it's ever scripted again
 
@@ -49,6 +65,8 @@ Every tag below was checked against the tag search with **Canonical** filter on.
 - **Summary** — *At the beginning, a restaurant advertised that they used locally grown tomatoes.*
 - Language English, multiple chapters checked, `1/?`.
 
-## Not done
+## State
 
-**The work has not been posted.** Publishing is yours to trigger.
+Chapter one is **posted and public** as of 4 August 2026. Chapter two exists only in the repo — AO3 shows `1/?`.
+
+Note the stakes changed with posting: edits to chapter one are now edits to something people have read.
