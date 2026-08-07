@@ -57,9 +57,9 @@ From `canon/the-academy-brainstorm.md` §II, §XIII — listed here only as a po
 
 ## Orientation, if you are new to this repo
 
-- `canon/` — the working bible, third edition. Authoritative. Read §0 and §XII first.
+- `canon/` — authoritative. `the-academy-brainstorm.md` is the working bible, third edition; read §0 and §XII first. `pedigree.md` has the chapter one cast, their kin, and the placeholder tokens for every name still unsettled.
 - `research/` — five briefs behind it: the register and narrative frame (`the-two-lights.md`), the technology and state-collapse machinery (`pragmatics.md`), the pharmacopeia (`penicillin-city-state.md`), institutional conversion (`university-to-city-state.md`), and materiel for four specific scenes (`four-beats.md`, which carries a status header explaining what in it is no longer canon).
-- `manuscript/` — the prose. Chapter one is done.
-- `origin/` and `research/sources/` — historical records of earlier conversations. **Do not edit these**; they are evidence, and parts of them are superseded by design.
+- `manuscript/` — the prose. Chapter one is done and posted. `to-ao3.py` renders a chapter for the AO3 editor.
+- `research/sources/` — a transcript of the conversation the setting started in. **Do not edit it**; it is evidence, it carries an archival header, and most of the names in it are dead. Anything it says is superseded by `canon/`.
 
 The author's role for the assistant here has been **researcher, not writer** — supply facts, constraints, failure modes and historical precedent; catch errors of fact and grammar on request; do not draft narrative prose unless asked.

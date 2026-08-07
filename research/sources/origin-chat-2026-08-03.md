@@ -1,3 +1,15 @@
+> # ARCHIVAL — do not edit, do not treat as current
+>
+> This is a transcript, not a working document. It records where the setting started, **including decisions that have since been reversed**, and it is kept unaltered for exactly that reason: it is the only evidence of how the thing was built.
+>
+> **The names in here are mostly dead.** Vavilov, Odede, Oyelaran, Anwuli, Greenwich, Plutarch, Lamarr, Lacks, Locke and Kropotkin were a martyrology that has been **cut entirely** — see `canon/the-academy-brainstorm.md`, third edition, §XI. The descent to an 1880s floor and the year-1080 frame narrative discussed here are also cut. Nothing in this file is authoritative about anything.
+>
+> For live character names and relations see `canon/pedigree.md`. For the setting see the bible. This file exists so that a future reader can tell what was decided, what was overruled, and why.
+>
+> *Note also that this transcript is only the tail of that conversation, and mostly one side of it. Two documents it refers to — a lecture and the second-edition brainstorm — are not in it.*
+
+---
+
 # University campus becomes post-apocalyptic city-state - Claude
 
 Source: [Claude Chat](https://claude.ai/chat/c9111187-4710-4762-ab13-d9c6d07d34cb)
