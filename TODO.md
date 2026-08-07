@@ -4,47 +4,33 @@
 
 ---
 
-## 1. Rename Nanaya — decided, not yet done
+## 1. ~~Rename Nanaya~~ — DONE, 7 August 2026
 
-**Do this first.** It is the only item the author explicitly queued for the next session.
+**Collie's daughter is now Medea, called Maddy.** All seven occurrences in `00-ante-finem-mundi.md` renamed to *Maddy*, and the `.ao3.html` regenerated.
 
-### Who she is
+**Why Medea.** Μήδεια is from *mēdomai*, to plan or devise — *the one who plans* — and that *med-* root is the root of *medicine* (*medeor*, to heal). The planner and the physician are etymologically one word, which is a good name for the daughter of a classicist in a polity whose founding competence is a clinic and whose purpose is minimising pain. She is also a *pharmakis*, a drug-woman, and *pharmakon* means the cure and the poison without distinguishing — which is what the chlor-alkali plant does. And she is the granddaughter of Helios, who escapes at the end of Euripides in the chariot of the Sun, in a book called *Fiat Lux*. Collie is a classicist and would know all of that.
 
-**Nanaya is Collie's daughter.** Second generation. She appears as a child in chapter one, playing with Nadia and Lewis in the household that forms around Collie's third-floor flat.
+The infanticide is deliberate, not an oversight. Euripides gives Medea the argument and makes you follow the reasoning — a wronged woman who *calculates*. That is the register: the person who did the terrible thing had reasons and could defend them in the minutes.
+
+**Why Maddy.** It reproduces the Collie pattern exactly — *Coelia 'Collie' Swartz*, *Medea 'Maddy' Swartz* — a grand name filed down to something you can shout across a park, which is characterization on its own: Collie did to her daughter what someone did to her. It also fixes the problem that killed *Nanaya*: two syllables, front-stressed, flat vowel, no *-ia* ending, so nothing left to confuse with *Nadia*. Mild residual: *Maddy* and *Maia* are both M-initial two-syllable names sharing scenes, judged acceptable since one is a child and one is a mother.
+
+### Still to do for the rename
+
+- **The full name has never appeared on the page.** Every existing mention is in child POV, so they are all *Maddy* and *Medea* is unspent. Introduce it once, in the established form — `Coelia 'Collie' Swartz (please, just Collie is fine)` is the model — whenever she gets a section of her own.
+- **Her surname is unstated.** Nadia has Elbakyan, Lewis presumably has Latimer. *Medea Swartz* is the obvious default if she takes Collie's.
+- **AO3 still says Nanaya.** Chapter one is posted and public, so this is an edit to something people have read. See item 2 for the render command; the change is `Nanaya` → `Maddy`, seven occurrences.
+
+### Who she is, for reference
+
+**Collie's daughter.** Second generation. She appears as a child in chapter one, playing with Nadia and Lewis in the household that forms around Collie's third-floor flat.
 
 The household, for reference:
 
 | Adult | Child | Notes |
 |---|---|---|
-| **Coelia 'Collie' Swartz** | **Nanaya** | Classicist. Adjunct → Senior Lecturer → insists on *Doctor*. The line runs through her |
+| **Coelia 'Collie' Swartz** | **Medea 'Maddy'** | Classicist. Adjunct → Senior Lecturer → insists on *Doctor*. The line runs through her |
 | **Maia** | **Lewis** | Astronomer, away at the mountain observatory. Lewis is lonely because of it |
 | **Nona** | **Nadia Elbakyan** | Knits, charity work, drives the kids. Nadia has the POV in the child sections |
-
-### Why it needs changing
-
-Almost certainly because **Nanaya and Nadia collide.** Same initial syllable, similar length, same age, same scenes, and in the child-POV sections they alternate line by line — *Nadia … Nanaya … Nadia … Nanaya*. It is genuinely hard to track on the page. The household is already crowded with N-names and open vowels: **N**ona, **N**adia, **N**anaya, plus Maia and Coelia.
-
-If there was a second reason the author didn't state it.
-
-### Constraints a replacement has to satisfy
-
-1. **Phonetically distinct from Nadia above all**, and ideally from Nona, Maia and Coelia. Avoid an initial N. Avoid a trisyllable ending in a vowel.
-2. **Stay in the classical register.** Collie is a classicist, so she would name a daughter in that idiom — the household's naming culture is Greco-Roman-adjacent names picked up as graduate-school nicknames that hardened. (*Coelia* is a Roman *gens* name and the last Vestalis Maxima; *Maia* is the eldest Pleiad and Greek for midwife; *Nona* is the Parca who spins.) Nanaya was Mesopotamian, so the register has already stretched east — that latitude is available.
-3. **Do not use the corrective-naming device for her.** That device — naming for people the old world took from and did not credit — belongs to the *other* children: Nadia **Elbakyan** (Sci-Hub) and **Lewis** (Latimer, who made the incandescent filament practical and is credited for none of it). Canon §I is explicit that the correction works better when the founding generation is un-corrected. Collie's daughter should sound like her mother's world, not like the polity's later conscience.
-4. If the name can carry something thematically useful, good, but **plainness is not a fault here.** She is staff, not a saint; the whole register is people who don't get remembered.
-
-### Where to change it
-
-Three occurrences in each of two files, same line numbers in both:
-
-- `manuscript/00-ante-finem-mundi.md` — lines 17, 19, 29
-- `manuscript/00-ante-finem-mundi.ao3.html` — lines 17, 19, 29
-
-The `.html` is a generated AO3-safe render of the `.md`. Regenerate rather than hand-edit if convenient; the conversion is `*italics*` → `<em>`, `---` → `<hr />`, paragraphs wrapped in `<p>`, backticks dropped.
-
-**And it must also be changed on AO3**, where chapter one exists as an unposted draft: **https://archiveofourown.org/works/89851861** — work *Fiat Lux*, chapter 1 *ante finem mundi*. See `manuscript/ao3-posting-kit.md` for the three ways that form silently discards programmatic input; they will cost you a round trip each if you don't read it first.
-
----
 
 ## 2. Chapter one is posted — the repo is canonical
 
