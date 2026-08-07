@@ -18,7 +18,7 @@ The infanticide is deliberate, not an oversight. Euripides gives Medea the argum
 
 - **The full name has never appeared on the page.** Every existing mention is in child POV, so they are all *Maddy* and *Medea* is unspent. Introduce it once, in the established form — `Coelia 'Collie' Swartz (please, just Collie is fine)` is the model — whenever she gets a section of her own.
 - **Her surname is unstated.** Nadia has Elbakyan, Lewis presumably has Latimer. *Medea Swartz* is the obvious default if she takes Collie's.
-- **AO3 still says Nanaya.** Chapter one is posted and public, so this is an edit to something people have read. See item 2 for the render command; the change is `Nanaya` → `Maddy`, seven occurrences.
+- ~~**AO3 still says Nanaya.**~~ **Done, 7 August 2026, on the author's explicit instruction.** All seven occurrences replaced in the live chapter body and saved. Verified after: 0 `Nanaya`, 7 `Maddy`, and the rating, chapter count and chapter title all still intact. Repo and AO3 are content-identical — SHA-256 match over all 32 paragraphs. See `manuscript/ao3-posting-kit.md` for the comparison method, which is paragraph-level because AO3 rewrites the raw HTML on save.
 
 ### Who she is, for reference
 

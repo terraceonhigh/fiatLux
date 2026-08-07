@@ -12,6 +12,23 @@ This was tested the hard way: chapter one was edited directly in the AO3 editor 
 
 **To sync AO3 → repo**, if it happens again: diff the rendered page text against a markdown-stripped copy of the chapter, then apply the changes to the `.md` rather than pasting the page in. The rendered page loses the `*italics*`, so pasting it back would silently flatten every line of dialogue.
 
+### Never compare raw bytes — AO3 rewrites the HTML on save
+
+The chapter body **will not** match `.ao3.html` byte-for-byte, and that is normal, not drift. AO3 normalizes on every save:
+
+- **`\n\n<hr />\n\n` becomes ` <hr>\n\n`** — the tag is un-self-closed and hoisted onto the end of the preceding paragraph's line. Six section breaks, four characters each, so the edit-form textarea reads exactly **24 characters shorter** than the repo file.
+- **A landmark `<h3>Chapter Text</h3>` lives *inside* `div.userstuff`** on the public page, inflating its `innerText` by 13 characters and 2 words. Excluding it via `cloneNode` does not work — a detached node has no layout, so `innerText` degrades to `textContent` and every paragraph break collapses.
+
+**The check that actually works** is paragraph-level, and it is exact. Live page:
+
+```
+[...document.querySelectorAll('div.userstuff p')].map(p => p.textContent.replace(/\s+/g,' ').trim()).join('\n')
+```
+
+Repo: pull `<p>(.*?)</p>` with DOTALL out of the `.ao3.html`, strip inner tags, unescape entities, collapse whitespace, join with `\n`. SHA-256 both. As of 7 August 2026 both sides give `6adcdb9e…d561778` over 32 paragraphs and 8,206 characters.
+
+Structural fingerprint, cheaper and usually enough: **32 paragraphs, 20 `<em>`, 6 `<hr>`**.
+
 ## Publishing a chapter
 
 ```
@@ -26,6 +43,8 @@ Three traps, all of which bit once:
 
 - **Tag fields and the rating select ignore programmatic values.** Setting the input value looks like it works and is silently discarded on submit — the chips are a JS widget that rebuilds the field. You must click the visible input and *type*, using a comma to commit each tag.
 - **Return inside any field submits the form.** Use the Save Draft button, not the keyboard.
+- **The submit button ignores accessibility-reference clicks.** Clicking *Update* by element ref reported success and did nothing — no navigation, form still populated. A click at the button's screen **coordinates** submitted it immediately. Always confirm submission by the flash message (*"Chapter was successfully updated."*) plus the changed URL, never by the click tool's own return value.
+- **The chapter body, unlike the tag and rating widgets, takes programmatic values fine.** `#content` / `chapter[content]` is a plain textarea with no rich-text layer, so setting `.value` persists through save. Check for `[contenteditable]` first if AO3 ever ships an editor.
 - **Scroll-wheel over a native `<select>` changes its value.** This silently flipped the rating once. Never scroll with the cursor at an x-coordinate inside a select; use element references instead of coordinates.
 
 And **the multiple-chapters checkbox controls whether the Chapter Title field is visible at all** — if it's unchecked, there is nowhere to put a chapter title.
@@ -68,5 +87,7 @@ Every tag below was checked against the tag search with **Canonical** filter on.
 ## State
 
 Chapter one is **posted and public** as of 4 August 2026. Chapter two exists only in the repo — AO3 shows `1/?`.
+
+**Last sync 7 August 2026, repo → AO3**: the `Nanaya` → `Maddy` rename, seven occurrences, pushed to the live chapter. The two are content-identical as of that save.
 
 Note the stakes changed with posting: edits to chapter one are now edits to something people have read.
