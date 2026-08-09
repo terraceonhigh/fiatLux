@@ -42,7 +42,33 @@ To render a chapter for posting: `python3 manuscript/to-ao3.py manuscript/<chapt
 
 ---
 
-## 3. Still open in canon
+## 3. Chapter two — the direction, decided 9 August 2026
+
+**A palace drama in the history department.** The university absorbs the failing municipal police force and the campus fraternities into a single security force. Collie witnesses and participates. It is set in §VI's decade two or three — the accords era, well before Phase 1's Emergency — so **nobody in the room knows they are founding anything**, which is the zone `university-to-city-state.md` calls the best fiction in the setting.
+
+**Who proposes it.** A **Latin Americanist** whose expertise is partly the history of violence in universities. Not from the region — the expertise is scholarly and citable, not ancestral. Seeing what is coming, they make the difficult decision to do the unthinkable thing *responsibly*, as damage control, on the grounds that the police will rent themselves out and the houses will arm themselves regardless, and the only real question is whether it happens under a charter with rules or in the dark. That argument is unanswerable and is how these things are actually built. §0: no villain, someone who can defend it in the minutes.
+
+The sharpest thing about them: their field's founding constitutional principle is **autonomía universitaria** — police may *not* enter campus — out of the Córdoba Reform of 1918, which also won *co-gobierno*. They are proposing the precise inversion of the tradition their scholarship rests on, and can name the year it went wrong in half a dozen countries.
+
+**Why it matters structurally.** This plants **§VI Phase 5** — *first serious coup attempt, from Facilities or the militia; the absorbed garrison does not believe a committee should command it.* Chapter two is that garrison's founding charter, written by people who will all be dead before it is refused.
+
+**Collie's position is load-bearing.** She is a classicist, not a historian, so she needs a reason to be in the room — either her unit was merged into History by austerity (she has personally been through the operation they are about to perform, which makes her the precedent sitting there), or she is the precedent-supplier, since watch and ward and the proctors are in her field. Either way: **as an adjunct she has no vote.** She can speak, be cited, and not be counted. §I says division counts; she is in the room and not in the division. Her arc runs adjunct → Senior Lecturer → Doctor, so **the moment she gains a vote is a datable event in the manuscript.** The founding vote is Phase 2, a decade or more later, so nothing here forecloses §XIII.4.
+
+### Still to decide for chapter two
+
+- **Which charter model wins the vote.** Three coherent, incompatible positions are set out in `research/absorbing-the-houses.md` — charter nothing, charter one house at a time, or charter all twelve for status only. The losing sides are not cowards, which is what §0 requires.
+- **Frats versus Athletics.** §VI Phase 2 already says *Athletics becomes the militia*. Frats-as-guards competes with it. Three reconciliations, none chosen: frats replace Athletics (a canon amendment), frats and Athletics as rivals (two factions at ground level, thirty years early), or cops-and-frats as the small pre-founding force that the Winters' mass militia later envelops.
+- **Whether the vote to take the police station is the founding vote.** §VI names two candidates already built — the water quality contract and the vote to absorb the charity. This is a stronger candidate than either, because it is the first that transfers a *power* rather than a service. The question is how much weight decade three should carry.
+- **What the force is called.** It starts as a committee, so it will carry a committee's name, and whatever it is called in decade three is what it is still called in Phase 5 — which lands the garrison's objection on the sign above its own door.
+- **The existing 71 words of chapter two** are Lewis at the repair shop. The vignette form means these can coexist in one chapter or be displaced; it is the only prose that would move.
+
+### Shelved, with the reason
+
+**The salmon-run beat** — a fisheries expert with jurisdiction over run information, and a vote to eat the escapement against a four-year deferred harm. Shelved 9 August 2026 because it is **structurally the seed bank again**: escapement is a corpus, harvest is income, and *don't eat the seed* is a beat this setting has already got. Possibly revivable much later in the story, where the co-sovereignty negotiation (§XIII.3) needs a scene rather than a gap. The research is not written down; the anchors were Hells Gate 1913–14, the Babine barricades 1904–06, *Sparrow*, *Boldt*, and W̱SÁNEĆ reef-net sites as named heritable property.
+
+---
+
+## 4. Still open in canon
 
 From `canon/the-academy-brainstorm.md` §II, §XIII — listed here only as a pointer, not restated:
 
@@ -58,7 +84,7 @@ From `canon/the-academy-brainstorm.md` §II, §XIII — listed here only as a po
 ## Orientation, if you are new to this repo
 
 - `canon/` — authoritative. `the-academy-brainstorm.md` is the working bible, third edition; read §0 and §XII first. `pedigree.md` has the chapter one cast, their kin, and the placeholder tokens for every name still unsettled.
-- `research/` — five briefs behind it: the register and narrative frame (`the-two-lights.md`), the technology and state-collapse machinery (`pragmatics.md`), the pharmacopeia (`penicillin-city-state.md`), institutional conversion (`university-to-city-state.md`), and materiel for four specific scenes (`four-beats.md`, which carries a status header explaining what in it is no longer canon).
+- `research/` — six briefs behind it: the register and narrative frame (`the-two-lights.md`), the technology and state-collapse machinery (`pragmatics.md`), the pharmacopeia (`penicillin-city-state.md`), institutional conversion (`university-to-city-state.md`), materiel for four specific scenes (`four-beats.md`, which carries a status header explaining what in it is no longer canon), and the police-and-fraternity absorption behind chapter two (`absorbing-the-houses.md`, produced by a blind three-lens panel — the header explains why that matters).
 - `manuscript/` — the prose. Chapter one is done and posted. `to-ao3.py` renders a chapter for the AO3 editor.
 - `research/sources/` — a transcript of the conversation the setting started in. **Do not edit it**; it is evidence, it carries an archival header, and most of the names in it are dead. Anything it says is superseded by `canon/`.
 
