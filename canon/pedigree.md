@@ -2,37 +2,7 @@
 
 *Kin among the chapter one cast only. Authoritative for names and relations; see `the-academy-brainstorm.md` for the setting.*
 
-```mermaid
-flowchart TD
-    subgraph adults["roommates, grad-school era &mdash; how roommate is unpinned"]
-        Collie["Coelia 'Collie' Swartz<br/>classical studies<br/>adjunct, then Senior Lecturer, then Doctor"]
-        Maia["Maia placeholder_00<br/>astronomer<br/>the mountain observatory"]
-        Nona["Nona Elbakyan<br/>charity work, knits, drives"]
-    end
-
-    subgraph men["the fathers &mdash; one on the page, two not"]
-        Husband["placeholder_01 placeholder_02<br/>Lewis's father<br/>repairs, the soldering iron"]
-        MaddyFather["placeholder_03<br/>Maddy's father<br/>unwritten"]
-        NadiaFather["placeholder_04<br/>Nadia's father<br/>unwritten"]
-    end
-
-    subgraph kids["grew up together"]
-        Medea["Medea 'Maddy' Swartz"]
-        Lewis["Lewis placeholder_02<br/>the console, electrical"]
-        Nadia["Nadia Elbakyan<br/>POV of the child sections"]
-    end
-
-    Maia --- Husband
-    Collie -.- MaddyFather
-    Nona -.- NadiaFather
-
-    Maia --> Lewis
-    Husband --> Lewis
-    Nona --> Nadia
-    Collie -.->|"never stated on the page"| Medea
-    MaddyFather -.-> Medea
-    NadiaFather -.-> Nadia
-```
+The graph itself lives in [`pedigree.dot`](pedigree.dot) — open it with a Graphviz preview (e.g. the VS Code Graphviz extensions). Everything below still applies to reading it.
 
 ## How to read it
 
@@ -81,7 +51,7 @@ Numbered so each unknown is tracked separately and greppable. Numbers are append
 | `[placeholder_03]` | **Maddy's father**, entire name | Wholly unwritten. If he is ever named, *Swartz* is the likelier surname to be his than Collie's, given ¶29's *Mrs Swartz* — settling that also settles whether Coelia Swartz is a married name |
 | `[placeholder_04]` | **Nadia's father**, entire name | Wholly unwritten, and with less support than `[placeholder_03]` — no marriage is implied for Nona anywhere. *Elbakyan* is Nona's own as far as the page goes |
 
-Rendered bare inside the mermaid block because square brackets break the parser inside node labels.
+Rendered bare in `pedigree.dot`'s node labels — Graphviz's own bracket syntax means the literal `[placeholder_NN]` form stays in this table, not the graph.
 
 ## Naming, for consistency
 

@@ -1,0 +1,42 @@
+// Pedigree — chapter one. Each couple flanks a union point (marriage/pairing bar);
+// the child hangs off that point, genogram-style, instead of two parents fanning in.
+// Solid = stated in the prose. Dashed = implied and never written on the page.
+digraph pedigree {
+    rankdir=TB;
+    node [shape=box, style=rounded, fontname="Helvetica"];
+    edge [fontname="Helvetica", fontsize=10];
+
+    Maia        [label="Maia placeholder_00\nastronomer\nthe mountain observatory"];
+    Husband     [label="placeholder_01 placeholder_02\nLewis's father\nrepairs, the soldering iron"];
+    Collie      [label="Coelia 'Collie' Swartz\nclassical studies\nadjunct, then Senior Lecturer, then Doctor"];
+    MaddyFather [label="placeholder_03\nMaddy's father\nunwritten"];
+    Nona        [label="Nona Elbakyan\ncharity work, knits, drives"];
+    NadiaFather [label="placeholder_04\nNadia's father\nunwritten"];
+
+    node [shape=point, width=0.02, label=""];
+    u_lewis; u_maddy; u_nadia;
+
+    { rank=same; Maia; u_lewis; Husband; Collie; u_maddy; MaddyFather; Nona; u_nadia; NadiaFather; }
+
+    Maia   -> u_lewis     [dir=none];
+    u_lewis -> Husband    [dir=none];
+
+    Collie -> u_maddy     [dir=none, style=dashed];
+    u_maddy -> MaddyFather [dir=none, style=dashed];
+
+    Nona   -> u_nadia     [dir=none, style=dashed];
+    u_nadia -> NadiaFather [dir=none, style=dashed];
+
+    node [shape=box, style=rounded];
+    subgraph cluster_kids {
+        label="grew up together";
+        style=dashed;
+        Lewis [label="Lewis placeholder_02\nthe console, electrical"];
+        Medea [label="Medea 'Maddy' Swartz"];
+        Nadia [label="Nadia Elbakyan\nPOV of the child sections"];
+    }
+
+    u_lewis -> Lewis;
+    u_maddy -> Medea [style=dashed, label="never stated on the page"];
+    u_nadia -> Nadia [style=dashed];
+}
