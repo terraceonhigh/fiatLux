@@ -9,8 +9,8 @@ Published on AO3 as [work 89851861](https://archiveofourown.org/works/89851861).
 | Path | Holds | Rule |
 |---|---|---|
 | `manuscript/` | The chapters, as markdown | **Prose only.** Nothing generated ever lands here |
-| `canon/` | Names, kinship, settled decisions | `pedigree.md` is authoritative for names and relations; the chart is `pedigree.dot` |
-| `notes/` | Directions still being weighed | **Not canon.** Marks what is the author's decision and what is an outside reading; settled things graduate to `canon/` |
+| `canon/` | Names, kinship, settled decisions | `canon/pedigree.md` is authoritative for names and relations; the chart is `canon/pedigree.dot` |
+| `notes/` | Directions still being weighed | **Not canon.** `chapter-plan.md` is the sequence; `spitball.md` is the discursive record with reasoning; `stripped-canon.md` inventories what commit `7330333` removed. Settled things graduate to `canon/` |
 | `research/` | Briefs written to support the fiction | Primary documents under `research/sources/` |
 | `tools/` | Build and check scripts | |
 | `build/` | Generated HTML | Gitignored. Derived from `manuscript/`, never hand-edited |
@@ -44,5 +44,5 @@ If a chapter file is renamed while an editor has it open, re-save from the edito
 
 ## Known gaps
 
-- The authoritative canon documents — **The 809th Vavilov Lecture** and **The Academy Brainstorm, 2nd edition** (its §XI records fixed canon) — originated in a claude.ai chat and are not in this repo. `canon/pedigree.md` links to a `the-academy-brainstorm.md` that does not exist. Canon details not visible here need checking against those first.
+- **The working bible is not in the working tree, but it is in the history.** `canon/the-academy-brainstorm.md` — 310 lines, third edition, subtitled *"descent removed, project installed"* — was stripped in `7330333` along with 2,062 lines of research and the origin chat. Deliberate, not lost. Inventory and recovery paths in [`notes/stripped-canon.md`](notes/stripped-canon.md), which also flags a live contradiction between that bible's removal of descent and the current direction. **The 809th Vavilov Lecture** remains outside the repo entirely.
 - AO3 work-level tags are still chapter one's set: no relationship tag, no Diana, and `POV Multiple` now describes a work whose second chapter is a single close third.

@@ -1,6 +1,6 @@
 # Pedigree — chapters one and two
 
-*Kin among the chapter one and two cast only. Authoritative for names and relations; see `the-academy-brainstorm.md` for the setting.*
+*Kin among the chapter one and two cast only. Authoritative for names and relations. The setting reference was `canon/the-academy-brainstorm.md`, stripped from the branch in `7330333` and recoverable with `git show 7330333^:canon/the-academy-brainstorm.md` — see [`../notes/stripped-canon.md`](../notes/stripped-canon.md).*
 
 The graph itself lives in [`pedigree.dot`](pedigree.dot) — open it with a Graphviz preview (e.g. the VS Code Graphviz extensions). Everything below still applies to reading it.
 
@@ -54,7 +54,7 @@ Her leg is also chapter one's clinic scene arriving one generation later. Nona c
 
 **One of the four is on the page and three are not**, and that asymmetry is currently doing work whether or not it was chosen.
 
-**Lewis's father is written and present.** ¶25 has him take the controller apart and show Lewis where the wire to the motor had gone loose; ¶29 gives him a house where *"the lights would go out after dinner sometimes"*, and a wife who talks about selling it when they think the boy is asleep. He is the only adult male relative in the chapter, he is the reason Lewis can hold a soldering iron, and he is the one member of the household whose material circumstances are visibly failing. His marriage to Maia is stated outright in ¶75 — *"Maia and her husband"*.
+**Lewis's father is alive** — decided 2026-08-10, and chapter two does not yet reflect it: ch2 ¶11's habitual *"His father would say"* and his absence from the ¶143 ledger both read as elegiac. A candidate posting is the relocated observatory, mounting and maintaining the instruments, which would make his absence geographic rather than mortal. **In chapter one he is written and present.** ¶25 has him take the controller apart and show Lewis where the wire to the motor had gone loose; ¶29 gives him a house where *"the lights would go out after dinner sometimes"*, and a wife who talks about selling it when they think the boy is asleep. He is the only adult male relative in the chapter, he is the reason Lewis can hold a soldering iron, and he is the one member of the household whose material circumstances are visibly failing. His marriage to Maia is stated outright in ¶75 — *"Maia and her husband"*.
 
 **Maddy's father and Nadia's father are absent without comment.** No pronoun, no reference, no gap acknowledged. The nearest thing to evidence is ¶29 calling Collie **"Mrs Swartz"** in Lewis's POV — a child's politeness convention, but it does imply a marriage happened. For Nona there is nothing at all; Nadia carries Elbakyan and no man is attached to it.
 

@@ -2,7 +2,9 @@
 
 ### Running an apiary with no resupply, ever again
 
-*Research memo, companion in register to `research/pragmatics.md`. Real-world facts only — not tied to any fictional setting's numbers.*
+*Research memo. Real-world facts only — not tied to any fictional setting's numbers.*
+
+*Its original companion, `research/pragmatics.md`, was stripped from the branch in `7330333`; see [`../notes/stripped-canon.md`](../notes/stripped-canon.md). Later companions are `water-systems-under-failure.md`, `absorbing-armed-bands.md`, `trapping-and-small-game.md` and `copper-iud-no-resupply.md`.*
 
 ---
 
