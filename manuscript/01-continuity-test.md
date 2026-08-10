@@ -54,7 +54,7 @@ The copper run took place south of the town, when the rest of the trucks were al
 
 ---
 
-The clock on the wall said two in the morning and the overcast shade said about noon. Lewis wiped off the grease on his hands and bit into a sausage with his left, while his right sorted the rounds that would be of use for Bréal from another pile destined for his backpack. Someone had an ex-police laptop open and connected to a phone that was meant to be a display unit but now impressed into doing so much more.
+The clock on the wall said two in the morning and the overcast shade said about noon. Lewis wiped off the grease on his hands and bit into a sausage with his left, while his right sorted the rounds that would be of use for Bréal from another pile destined for his backpack. Someone had an ex-police laptop open and connected to a phone that was meant to be a display unit but now impressed into University service.
 
 *My auntie said she needed some sage, so pardon me while I grab some.*
 
