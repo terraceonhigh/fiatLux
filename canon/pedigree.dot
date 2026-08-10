@@ -1,22 +1,31 @@
-// Pedigree — chapter one. Each couple flanks a union point (marriage/pairing bar);
+// Pedigree — chapters one and two. Each couple flanks a union point (marriage/pairing bar);
 // the child hangs off that point, genogram-style, instead of two parents fanning in.
 // Solid = stated in the prose. Dashed = implied and never written on the page.
+// Bold, no arrowhead = a romance the prose states outright, short of marriage.
+// Diana's household enters in chapter two and descends from none of the three women.
 digraph pedigree {
     rankdir=TB;
     node [shape=box, style=rounded, fontname="Helvetica"];
     edge [fontname="Helvetica", fontsize=10];
 
-    Maia        [label="Maia placeholder_00\nastronomer\nthe mountain observatory"];
-    Husband     [label="placeholder_01 placeholder_02\nLewis's father\nrepairs, the soldering iron"];
+    // Declaration order sets left-to-right position on the rank, so it is the
+    // layout: the two flatmate households whose children stayed in the flat,
+    // then Lewis's, then Diana's — the outsider — at the far end, next to his.
     Collie      [label="Coelia 'Collie' Swartz\nclassical studies\nadjunct, then Senior Lecturer, then Doctor"];
     MaddyFather [label="placeholder_03\nMaddy's father\nunwritten"];
     Nona        [label="Nona Elbakyan\ncharity work, knits, drives"];
     NadiaFather [label="placeholder_04\nNadia's father\nunwritten"];
+    Maia        [label="Maia placeholder_00\nastronomer\nthe mountain observatory"];
+    Husband     [label="placeholder_01 placeholder_02\nLewis's father\nrepairs, the soldering iron"];
+    DianaMother [label="placeholder_06\nDiana's mother\nnamed as Mother, ch2 ¶139"];
+    DianaFather [label="placeholder_07\nDiana's father\nunwritten"];
 
     node [shape=point, width=0.02, label=""];
-    u_lewis; u_maddy; u_nadia;
+    u_maddy; u_nadia; u_lewis; u_diana;
 
-    { rank=same; Maia; u_lewis; Husband; Collie; u_maddy; MaddyFather; Nona; u_nadia; NadiaFather; }
+    // Membership only — dot orders this row by declaration order above, not by
+    // the order listed here.
+    { rank=same; Collie; u_maddy; MaddyFather; Nona; u_nadia; NadiaFather; Maia; u_lewis; Husband; DianaMother; u_diana; DianaFather; }
 
     Maia   -> u_lewis     [dir=none];
     u_lewis -> Husband    [dir=none];
@@ -27,7 +36,15 @@ digraph pedigree {
     Nona   -> u_nadia     [dir=none, style=dashed];
     u_nadia -> NadiaFather [dir=none, style=dashed];
 
+    DianaMother -> u_diana [dir=none, style=dashed];
+    u_diana -> DianaFather [dir=none, style=dashed];
+
     node [shape=box, style=rounded];
+
+    // Outside the cluster on purpose — Diana did not grow up in the flat.
+    // Declared before it so she lands beside Lewis rather than past Nadia.
+    Diana [label="Diana placeholder_05\nthe lodge, the hunt, the metal leg"];
+
     subgraph cluster_kids {
         label="grew up together";
         style=dashed;
@@ -39,4 +56,7 @@ digraph pedigree {
     u_lewis -> Lewis;
     u_maddy -> Medea [style=dashed, label="never stated on the page"];
     u_nadia -> Nadia [style=dashed];
+    u_diana -> Diana [label="mother stated, father not"];
+
+    Lewis -> Diana [dir=none, style=bold, constraint=false, label="ch2 ¶97, ¶139"];
 }
