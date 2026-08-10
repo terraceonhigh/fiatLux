@@ -136,7 +136,7 @@ She moved the bottle of mead, sat down, and pulled off her metal leg.
 
 He left a jar of Nona's honey she told him to keep for himself, and put into his backpack an identical jar, with honey-sweetened huckleberry jam. The casing he'd brought would be filled with deer by the next time he came by.
 
-*Mother says hi.* A kiss. And he was on his way.
+*Mother says hi, and to mind the trip home.* A kiss. And he was on his way.
 
 He met the crew back at the parking lot, Bréal said something about how sweet sage must burn if its smoke can lose him in a forest, *shut up*. Someone else chuckled, and they went past university perimeter with thirty kilos of copper.
 
