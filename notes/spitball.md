@@ -14,6 +14,24 @@ Where it goes: some chapter after ch2, once the schoolteacher's five-month posti
 
 ---
 
+**The sending off, ch2 — the father speaks, and Maia answers him.**
+
+> *Best bring back all your fingers, boy. They're for the saws to eat. If you lose one, though, the going rate is two pounds of sausage to a finger.*
+>
+> *No it ain't, heed not your driveling father beyond the first sentence.*
+
+Goes in the send-off sequence around ch2 ¶7–¶11. **This closes the father item**: he is alive, present, and audible in the chapter that read as though he were dead, and ¶11's habitual *"Go get them, champ. His father would say"* becomes the benediction he always adds rather than a line quoted from an absent man.
+
+Three things it does. *"They're for the saws to eat"* is the darkest line in the chapter and it is delivered as reassurance — the trade will take fingers eventually and the only question is scheduling. *"Two pounds of sausage to a finger"* is worldbuilding disguised as a gag: injury compensation paid in goods, at an insulting rate, landing on the object the chapter already uses as its unit of small value (¶45, ¶57). And Maia's correction ratifies the first sentence while denying the tariff — she permits the joke's premise and refuses its arithmetic, which is a whole marriage in one clause.
+
+**Two things to be deliberate about.**
+
+*No it ain't* would be **Maia's first spoken line in the book.** She does not speak in ch1 at all, and in ch2 she only acts — the hug (¶7), the backpack (¶9), the oath (¶143), all reported. So this sets her ear for the reader, and she headlines the almanac chapter in a horological register. Folksy at home and precise at the instrument is a real and good choice; it just wants to be a choice, since *ain't* currently belongs to Lewis (¶39).
+
+And his absence from the **¶143 homecoming ledger** stops being an oversight and becomes a decision. There is a good reading available — the ledger accounts for the women who wanted something and got it, and he wanted nothing but the fingers back — but it is now load-bearing either way.
+
+---
+
 **The peppermint numbing the underside of his fingernail.** To be added on the far side of the ch2 ¶133 section break, where the reader currently gets no beat of *after* — the jar swap and the kiss arrive too fast for the stump scene to land as intimacy rather than as an errand completed.
 
 Why it is the right detail: the underside of a nail is the one place he cannot wipe clean, so the numbness is **evidence he cannot remove** — the same logic as the sage smoke, a trace of the visit that outlasts the alibi. It is also not a sensual detail but an irritation, which is why it works; the scene stays on the face and the arms and the aftermath stays on a residue. He carries it through the jar, the ride back, and Bréal's teasing, and nobody else knows it is there.
@@ -165,7 +183,7 @@ Title register for the shop half is machinist — *Tolerance*, *Backlash*, *Runo
 
 ## To fix
 
-- **Lewis's father, ch2.** He is alive, but the chapter reads as though he is not. Two places: **¶11** — *"**Go get them, champ.** His father* ***would*** *say"* — habitual past reads elegiac; and **¶143**, the homecoming ledger, where Maia, Maddy and Swartz each get a line and he gets none, in a paragraph whose whole method is accounting for everyone. The second is the louder one.
+- **Lewis's father, ch2** — *has a fix now, see the sending-off exchange above.* He is alive, but the chapter as posted reads as though he is not. Two places: **¶11** — *"**Go get them, champ.** His father* ***would*** *say"* — habitual past reads elegiac; and **¶143**, the homecoming ledger, where Maia, Maddy and Swartz each get a line and he gets none, in a paragraph whose whole method is accounting for everyone. The second is the louder one.
 - **`canon/pedigree.md`** calls him "written and present" on chapter one's evidence alone and says nothing about chapter two. Wants a line once his degree of presence is decided.
 - **`canon/pedigree.md:3`** links to a `the-academy-brainstorm.md` that does not exist in the repo.
 - **AO3 work-level tags** are still chapter one's set: no relationship tag, no Diana, and `POV Multiple` now describes a work whose second chapter is a single close third.
