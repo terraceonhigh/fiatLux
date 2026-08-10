@@ -2,7 +2,7 @@
 
 *Provisional. Chapters 1–2 are posted; 3–5 are the author's numbering; 6–9 are numbers assigned on 2026-08-10 with reasoning below, and are the most movable thing in this file. Reasoning for every entry lives in [`spitball.md`](spitball.md).*
 
-**Before drafting anything past ch5, read [`stripped-canon.md`](stripped-canon.md).** Commit `7330333` removed a working bible subtitled *"descent removed, project installed"*, and much of the plan below treats descent as load-bearing. That contradiction is unresolved.
+*The apparent conflict with the stripped bible is **settled**: `main`'s worldbuilding was overwrought and this branch is intentionally breezy and agile. The second canon governs. See [`stripped-canon.md`](stripped-canon.md) for what was set aside and why it is not a constraint.*
 
 ---
 

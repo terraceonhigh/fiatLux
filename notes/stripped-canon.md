@@ -38,13 +38,17 @@ Everything is recoverable: `git show 7330333^:<path>`.
 
 ---
 
-## The one that needs a decision, not just a note
+## Settled: the second canon governs
 
-**The working bible's third edition is subtitled "descent removed, project installed," and `the-two-lights.md` opens with "there is no second descent" as *the correction that reorganizes everything*.**
+Raised as a possible contradiction and **resolved by the author on 2026-08-10.** The stripped bible's third edition is subtitled *"descent removed, project installed"* and `the-two-lights.md` opens with *"there is no second descent"* as the correction that reorganizes everything — while the current direction leans the other way, treating descent as load-bearing through Roman clientela, Collie as Patronus, the marriage plot, and contraception as fertility policy.
 
-The session of 2026-08-10 leaned hard the other way. Roman patronage as hereditary clientela, the covenant descent in `canon/pedigree.md`, Collie as Patronus managing bloodlines, the marriage plot as alliance-making, and contraception research framed around descent as a managed resource — all of it treats descent as a load-bearing axis.
+There is no conflict to manage. **`main` got riddled with overwrought worldbuild; this branch is intentionally breezy and agile.** The strip was the point, the second canon governs, and nothing above is a constraint on it.
 
-That may be exactly right: the strip reset to a *second* canon and is under no obligation to honour the third edition of the first. But **it is a live contradiction between the removed bible and the current direction, and only the author can say which governs.** Flagged here rather than resolved, and it should be settled before the marriage plot is drafted, because that plot is the descent theme's load-bearing beam.
+Read the inventory as a source of *optional* prior art — `absorbing-the-houses.md`'s shape-of-the-vote material is worth a look before the minutes chapter — not as a standard to reconcile against.
+
+## The merge, planned for 2026-08-11
+
+Tag `main`'s current commit as reference first, then merge `terrace/second-canon` into `main`. The tag is what makes the stripped material findable by name rather than by remembering a commit hash — after which everything in the inventory above is reachable from the tag instead of from `7330333^`.
 
 ---
 
