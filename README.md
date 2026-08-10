@@ -10,6 +10,7 @@ Published on AO3 as [work 89851861](https://archiveofourown.org/works/89851861).
 |---|---|---|
 | `manuscript/` | The chapters, as markdown | **Prose only.** Nothing generated ever lands here |
 | `canon/` | Names, kinship, settled decisions | `pedigree.md` is authoritative for names and relations; the chart is `pedigree.dot` |
+| `notes/` | Directions still being weighed | **Not canon.** Marks what is the author's decision and what is an outside reading; settled things graduate to `canon/` |
 | `research/` | Briefs written to support the fiction | Primary documents under `research/sources/` |
 | `tools/` | Build and check scripts | |
 | `build/` | Generated HTML | Gitignored. Derived from `manuscript/`, never hand-edited |
