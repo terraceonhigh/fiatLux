@@ -2,15 +2,15 @@ Lewis had a job now, at the old repair workshop that fixed Collie's phone back d
 
 He got really good at holding his breath, even though the rig in the shop had a proper hose and fan to the outside. Every Friday, he put his copper wires back into his backpack to put at home. Madam Swartz had grown a habit of patting him on the head on paydays, even though he definitely isn't that age anymore.
 
-Every other weekend, though, the big boys from Epsilon Rho Rho would toot the horn outside the building to tell him they are there, and then they would all drive out to the city to find old parts. Madam Nona always made him bring two vials of mead on the way out. The small one for the guards at the gate, the bigger one for the boys around the fire. And she will want new rubber gloves and a few bundles of sage by Monday.
+Every other weekend, though, Bréal and the boys from Epsilon Rho Rho would toot the horn outside the building to tell him they are there, and then they would all drive out to the city to find old parts. Madam Nona always made him bring two vials of mead on the way out. The small one for the guards at the gate, the bigger one for the boys around the fire. And she will want new rubber gloves and a few bundles of sage by next Monday.
 
 The truck bed smelled of french fries as it rolled down the highway towards the city. The governor set at sixty kilometers an hour, with a screw that his father made sure he knew how to turn before his first outing. The biscuits had a taste of ginger from Nadia's patch, and covered the slight rancid smoke from the exhaust.
 
-The hardware store made them drive in from the narrow road, ever since the rest of the highway turned to mulch. His job here was to haul salt and painkillers and disinfectant, which always was heavy, though it didn't show until that night. They made him go into the warehouse and find the gloves himself. Which the manager said now cost two vials of poppy. The trucks will be going elsewhere next month.
+The road to the hardware store had flashing red in the traffic lights and two times when it was useful. Lewis moaned and then got to unloading the painkillers and loading the insulation. The staff made him go into the warehouse and find the gloves himself. Which the manager said now cost two vials of poppy.
 
-The medical student threw up from the fumes about the time when they lost sight of the river. From the cab, Bréal handed him a pouch of dried mint and a square of rolling paper.
+The medical student threw up from the fumes about the time when they lost sight of the river. From the cab, Bréal handed him a pouch of dried mint and a square of rolling paper, for the egghead.
 
-*First time, egghead?*
+*First time, egghead?* Lewis snatched the mint.
 
 *Yeah.*
 
@@ -22,6 +22,35 @@ A lick on the edge of the paper.
 
 *That'll do it, try and keep your eyes on the road.*
 
-Lewis took out his flint and knife and told the egghead to lean in.
+Lewis took out his flint and knife and told the egghead to lean in. He kept one hand holding his briefcase straight up.
 
+*...what about you?*
+
+*Must be in the dozens of trips now.*
+
+*All this... rancid?*
+
+*It ain't so bad once you get used to it. Right, and you oughta try these biscuits from my auntie.*
+
+They got to the town before sundown, and the guards in the towers blew the celebratory horn as they were let in. Bréal dapped up the two campus guards who said something about can't wait to eat at the dining hall again after a month out in the country, before they got to briefing the two guards from the caravan who would be their replacement. 
+
+The other med student had been here for three months, and handed over Egghead the binders for the village and which patient was on what for how long, and which old man could never be trusted to take his pills so make his son make double sure.
+
+The rest could wait, for tonight, they just had to sit around the town fire and share the soup the folks had made. Lewis took from the truck five jars of honey from the campus and a dozen of the smoked salmon from another run by another crew to another town.
+
+---
+
+The copper run took place south of the town, when the rest of the trucks were already almost full with the butter and leather and jam from the fields and the boys were busy with raising a barn or whatnot. Their team parked at an old mall, and half the crew pulled security while the other half went in with sledgehammers and multimeters and wire-strippers. Lewis' job was to make sure that junction boxes were properly off and to find the parts that the university would be wanting.
+
+About midway through the trip, after he'd flagged a few boxes for taking home wholesale and a few trippers to rip out along with the tag he put on, he'd make some excuse about taking a dump or smoking and run to the north side of the bush. 
+
+*Sure, lil bro, good luck out there.*
+
+Behind the thicket there was a blind with a littlest path to a lodge, and from there a dirt road back into town.  
+
+One knock, two, then out with four.
+
+A beat, he adjusted his collar like how Madam Swartz taught him.
+
+She let him in.
 
