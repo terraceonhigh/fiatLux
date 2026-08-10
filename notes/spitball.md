@@ -14,6 +14,12 @@ Where it goes: some chapter after ch2, once the schoolteacher's five-month posti
 
 ---
 
+**The peppermint numbing the underside of his fingernail.** To be added on the far side of the ch2 ¶133 section break, where the reader currently gets no beat of *after* — the jar swap and the kiss arrive too fast for the stump scene to land as intimacy rather than as an errand completed.
+
+Why it is the right detail: the underside of a nail is the one place he cannot wipe clean, so the numbness is **evidence he cannot remove** — the same logic as the sage smoke, a trace of the visit that outlasts the alibi. It is also not a sensual detail but an irritation, which is why it works; the scene stays on the face and the arms and the aftermath stays on a residue. He carries it through the jar, the ride back, and Bréal's teasing, and nobody else knows it is there.
+
+---
+
 ## Decided
 
 - **Diana keeps her name.** Callisto was weighed and set aside *for now*. Recorded so it is not re-litigated from scratch: the case **for** was that Callisto is Diana's expelled companion rather than the goddess, which makes the name describe her position instead of her hobby, and that Juno's curse leaves Ursa Major circumpolar — always in the sky, never permitted to set — which is exactly a woman outside the perimeter. The case **against** is decisive on craft grounds: her shout-name would be *Callie* against Coelia's *Collie*, one vowel apart, in shared scenes. Also, the name pre-announces a specific fate.
@@ -67,6 +73,20 @@ Research is in [`research/absorbing-armed-bands.md`](../research/absorbing-armed
 
 **The reversal this collects on:** ch1 ¶9 has the university making Collie *teach freshmen about colonialism without mentioning Said and economics without mentioning Friedman* — it censored its own humanities as ornament. Now it needs a classicist and a historian to work out how a polity survives its own armed young men. The department treated as decoration turns out to be the strategic studies faculty. Also: the governance body is a **Senate**, and a classicist advising a Senate about chartering armed bands is a pun that does not need pointing at.
 
+**A documentary chapter — the Senate minutes.** The meeting ch5 spends months preparing for, told entirely as record: minutes, tabled findings, citations. **Ch5 is the private argument; this is what survived into the record**, and the gap between them is the chapter. The reader has both and performs the subtraction.
+
+The register is already declared. The nobledark definition in use is *tragic choice not villainy, **recorded vote counts**, small technical heroism* — and ch1 is written in this voice throughout: a board taking up a departmental reply to a government RFP, a procurement choice up for debate at the next student council meeting, *"the next contract review proudly presented downward pressure on the UV disinfection budget."* The world ended in a contract review, so documents are the form the catastrophe took. `Bureaucracy` is already one of the work's AO3 tags.
+
+**The device worth stealing: the confidence-notes structure of this repo's own research memos is the in-world document form.** Findings tiered by what could be verified — solid and citable, standard consensus, range-dependent, *could not verify and flagged rather than guessed*, and the author's own synthesis. That is exactly how a university with a dying library would write, and the bibliography becomes an inventory of what still physically exists. A brief citing a 1993 paper because somebody kept the photocopy, beside a line reading *journal unavailable*, records the collapse of the archive in its apparatus.
+
+It also delivers horror without narrating any: *category 2 — advantages generally outweigh risks, with clinical follow-up advised*, and a footnote observing that follow-up presupposes a haemoglobin measurement nobody can perform. The document condemns itself.
+
+**Two craft requirements.** Minutes are dead when they record agreement and electric when they record **dissent overruled** — so give the reader a vote count with one name on the wrong side of it. And **the minute-taker is the POV, invisibly**: what is quoted verbatim against what is summarised, what earns a footnote, whose title is given in full, whether the record says *the Chair noted* or *the Chair asserted*. All characterisation by someone who never appears. A student taking notes for a faculty member is also how an apothecary trainee ends up in a Senate subcommittee.
+
+**Practical.** Documents are dense, so this wants to be **shorter** than a narrative chapter — under ch2's ~1,570 words, not over. And a pipeline note: pandoc wraps footnotes in a `<section>` element, which is *not* in `tools/verify-fidelity.py`'s AO3 allowlist, so the build will fail rather than ship something the Archive strips. Endnotes as a plain list, or anchor links, both pass. Decide footnote handling deliberately.
+
+Comparables: Kim Stanley Robinson's *The Ministry for the Future* (institutional climate fiction interleaving minutes, testimony and lectures) is the closest living analogue; Max Brooks's *World War Z* is postwar-commission oral history; *Dracula* is the canonical documentary novel; Lem's *A Perfect Vacuum* is fiction that is entirely apparatus.
+
 **A Diana chapter — unnumbered, but before the marriage plot.** Her quotidian. Her own traps and her unease about them since one took her foot. More small game. Something with her mother. Something about jam, which leads at the end to looking forward to Lewis's next visit.
 
 **The constraint that governs it: Lewis does not define her.** She has her own life and her own town, which she goes to **every other other week** — alternating with his visits (ch2 ¶5 has the frat coming every other weekend). That interleaves her life with his *absence* rather than organising it around his presence, and it means she has a whole week he has never seen. Structural rather than asserted, which is why it works.
@@ -80,6 +100,64 @@ Research is in [`research/trapping-and-small-game.md`](../research/trapping-and-
 - **Two guards.** The Lewis beat must be last and small, one line, the way ch2 lands on the apiary — otherwise the chapter is about him regardless. And the unease has to cost her something on the page: a hesitation that loses an animal, a set laid badly because she is flinching, a place she will not walk any more.
 
 Her register for the title is trapping: *Trapline*, *Sprung*, *Runs*, *The Check*, and **_Blind Set_** — the technical term for a trap on a trail with no bait at all, relying entirely on knowing where something will walk.
+
+**A Maia scene — unnumbered.** After the work party builds a worse but functioning observatory closer to campus, and Maia now has to chart the almanac because the feds have gone radio silent.
+
+**Nadia gets her wish, and the apocalypse is what granted it.** Ch1 ¶17: *"Nadia wants to ask why the observatory people can't move closer so Auntie Maia can be with Lewis."* That is the emotional core and it wants exactly one line, unremarked — the reader who remembers chapter one supplies the rest. You got what you asked for and the price was the world.
+
+**Maia is the person who knows the country is gone, because she was listening for a tick.** Not a broadcast, not news — a *time signal*. Canada's came from CHU in Ottawa. A clock has no way to know it is wrong; you correct it against something outside. When the signal stops, the most information-poor transmission imaginable becomes the most information-rich silence in the book, and she is the only person positioned to register it. And she would register it as a **work problem** before she registered it as grief, which is the whole character in one beat.
+
+**What an almanac actually is** — four services a polity cannot run without, produced by one woman with a transit instrument:
+
+- **Time.** Before radio signals, definitive time *came from* astronomical observation: timing star crossings of the meridian to determine a clock's rate. Observatories sold time; that was the business. With the feds silent, nobody has time unless Maia makes it.
+- **Calendar.** Sunrise and sunset, moon phase, solstices — the agricultural year, and therefore the horticultural spaces and the planting Nadia depends on.
+- **Tides.** Coastal, so this is not optional. Tide prediction needs harmonic analysis of a local gauge record, and the hydrographic office that used to publish the tables is silent. Worth knowing that **Kelvin's tide-predicting machine (1872) is a mechanical analogue computer of pulleys and gears** that sums the harmonic constituents and draws the curve — entirely inside an 1880s floor, and exactly the kind of object this book likes.
+- **Navigation.** Celestial position fixing needs an almanac of solar, lunar and stellar positions. Anyone moving by water is dependent on her arithmetic, which makes the almanac a strategic capability and not a courtesy.
+
+**The retroactive payoff:** ch2 ¶57, *"the clock on the wall said two in the morning and the overcast shade said about noon."* Lewis lives in a world where clocks lie, and his mother's job is the reason they ever told the truth. That connection is already sitting in the manuscript.
+
+**"Worse but functioning" has real content.** Mountain sites are chosen for atmospheric seeing — above the inversion, drier, steadier. Moving to a lower coastal site costs seeing and costs cloud-free nights, which on this coast is the serious loss. But the collapse *gave* them one thing: **no light pollution**, so that penalty largely evaporates. A downgrade she is grateful for is the right register.
+
+**This also solves the father.** He is alive and needs somewhere to be. A man who takes things apart and shows a boy where the wire went loose is a natural fit for mounting and maintaining a transit instrument — which would make his absence from Lewis's daily life *geographic rather than mortal*, and would explain ch2 ¶11's habitual *"would say"* as quoting an absent man rather than a dead one. Worth considering, since it closes an open item in *To fix* rather than adding one.
+
+Her register for the title is astronomical and horological: *Transit*, *Meridian*, *Ephemeris*, *Sidereal*, **_Culmination_** (the moment a star crosses the meridian, at its highest), and **_Rate_** — the technical term for a clock's daily error, which cannot be known without observing something outside the clock.
+
+**One craft warning: an observatory chapter goes inert without a deadline.** An almanac is a publication — it must be finished *before* the period it covers. Give her a hard date and no way to check her own work.
+
+### The shop half: second-generation men and second-generation machines
+
+Lewis's father helps dismantle and pack the mountain equipment, then works with another protégé — mechatronics department — building the tide computers and the clocks from printouts of the old patterns. An old maritime chronometer spun anew on a lathe itself spun from a pre-collapse machine. **Man and machine both second-generation.**
+
+**The engineering fact this rests on is real, and so is the problem.** A lathe is the mother machine: it can produce the parts for another lathe, which is why machine tools bootstrap. But **accuracy does not survive copying.** Every generation inherits its parent's errors and adds its own, so a lineage of machines copied from machines degrades — which is precisely what "second-generation" threatens.
+
+**The answer is that accuracy has to be *generated* rather than copied, and the method is 1840s technology.** Whitworth's **three-plate method**: lap three plates against one another in rotation, and because no two of the three can be consistently mutually convex, the errors cancel and the surfaces converge on a true plane. A flat reference produced from no flat reference. The same family of tricks generates a straightedge, a right angle by reversal, and — via a dividing engine corrected against itself, as Ramsden did in the 1770s — an accurate circle division, which is what gear cutting and scale graduation both depend on.
+
+So the second generation's real inheritance is not the patterns. **It is knowing how to make a true surface without having one**, and that is the difference between a lineage that decays and one that holds.
+
+**Four instances of one principle, three already in the manuscript:**
+
+| Where | The claim |
+|---|---|
+| Ch1 ¶27, the father's maxim | *"always test before you put the shell back together"* |
+| Ch2's title, *Continuity Test* | Verify the connection; do not assume it |
+| A clock's **rate** | A clock cannot know it is wrong from inside itself |
+| The three-plate method | Do not copy accuracy; regenerate it |
+
+All four are the same idea: **you cannot verify a thing against itself.** Maia's chapter is not introducing a theme, it is the book finally stating the one it has been making all along in its purest form.
+
+**And the marriage becomes an industrial loop.** Chronometers were rated at observatories — Greenwich, Kew, Neuchâtel ran the trials. So he builds the instrument and *she determines its rate*; neither half is a clock without the other. Labour as intimacy, which is ch2's method, arriving between two people who have been married for twenty years.
+
+**What is genuinely hard about a marine chronometer**, in rough order of difficulty: the **balance spring** (fine tempered steel, and helical); the **jewel bearings** (corundum, drilled and polished with diamond powder — synthetic ruby via the Verneuil process is 1902, so natural stone or salvage); the **bimetallic compensation balance**; the **spring detent escapement**; and the **mainspring**, which puts spring steel on the chokepoint list a second time, alongside the traps. The fusee — a chain and cone evening out mainspring torque — is comparatively coarse work.
+
+**For the tide machine, the hard part is the gear ratios.** Kelvin's design sums harmonic constituents mechanically, and each constituent needs gearing at a specific ratio, which means accurately cut teeth in specific counts — so it routes straight back through the dividing-engine problem above.
+
+**"Printouts of the old patterns" carries a real trap.** A drawing shows shape; it does not show *fit*. Without tolerances a pattern is not manufacturable, and a second-generation maker working from paper has no way to know which dimensions are critical and which are incidental. Add that toner fades and paper yellows, and a misread dimension is a part that will not go together. That is a better source of failure than any shortage.
+
+**The craft note that matters most: a chronometer does not need to be right, it needs to be consistently wrong.** Its virtue is a *stable rate* — a known daily gain can be applied as a correction, an unknown one cannot. So the failure to write is not a slow clock. It is a clock whose error will not settle, which is useless for an almanac and much crueller than simple inaccuracy, because it looks like success every time you check it.
+
+Also: do not let the father be a saint. He is the last first-generation maker and that is a great deal of weight. Give him something he cannot do, or has forgotten and will not say so.
+
+Title register for the shop half is machinist — *Tolerance*, *Backlash*, *Runout*, *Datum*, *True*. **_Rate_** still looks like the best single title for the whole chapter, since determining a rate needs her sky, his clock, and an outside reference, and it is exactly what the second generation has to establish rather than inherit.
 
 **Why this chapter has to exist:** Diana appears in exactly one chapter. That is thin ground on which to break a reader's heart, and the marriage plot will read as disposal rather than tragedy until she has more page time. Related craft note recorded during the same conversation: **the university girl is currently a device, not a person** — "slide-rule jockey" was the tell. Give her something Diana genuinely cannot give Lewis that he actually wants, and make her a steered protégé with no more say than he has, and there is no rival to root against and nobody to blame. Two people who like each other, used by the same machine, is much worse to read and much better to have written.
 
