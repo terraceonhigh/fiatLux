@@ -9,7 +9,7 @@ Published on AO3 as [work 89851861](https://archiveofourown.org/works/89851861).
 | Path | Holds | Rule |
 |---|---|---|
 | `manuscript/` | The chapters, as markdown | **Prose only.** Nothing generated ever lands here |
-| `canon/` | Names, kinship, settled decisions | `canon/pedigree.md` is authoritative for names and relations; the chart is `canon/pedigree.dot` |
+| `canon/` | Names, kinship, geography, settled decisions | `canon/pedigree.md` is authoritative for names and relations, `canon/setting-map.md` for places and what flows between them; both have a Graphviz companion |
 | `notes/` | Directions still being weighed | **Not canon.** `chapter-plan.md` is the sequence; `spitball.md` is the discursive record with reasoning; `stripped-canon.md` inventories what commit `7330333` removed. Settled things graduate to `canon/` |
 | `research/` | Briefs written to support the fiction | Primary documents under `research/sources/` |
 | `tools/` | Build and check scripts | |

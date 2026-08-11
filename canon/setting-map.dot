@@ -1,0 +1,127 @@
+// Setting map — a transit-and-texture graph, not a simulation input.
+//
+// Declaration order sets left-to-right position on a rank, so the order below
+// IS the layout. See canon/pedigree.dot for the same lesson learned the hard way.
+//
+// EDGES        solid black   = transit, a route someone travels on the page
+//              blue          = water, source to tap
+//              gold          = power, generation to load
+//              dashed grey   = trade flow, direction of goods
+//              dotted        = an institutional input, not a physical one
+//
+// NODE FILL    white   = campus jurisdiction
+//              grey    = municipal
+//              light blue = regional (the utility authority)
+//              pink    = the level above, or absent
+//              yellow  = a STOCK that drains rather than a place
+//
+// Nothing here is pinned to a real jurisdiction. The setting is a blend and the
+// brands are shorthand for retail TYPES, not for a country.
+
+digraph setting {
+    rankdir=LR;
+    compound=true;
+    node [shape=box, style="rounded,filled", fillcolor=white, fontname="Helvetica", fontsize=10];
+    edge [fontname="Helvetica", fontsize=9];
+
+    // ---------- the outside world ----------
+    subgraph cluster_outside {
+        label="beyond the horizon"; style=dashed; color=grey60;
+        Port [label="THE PORT\nconnection to outside\nin: administration, clearing,\npolitical stability\nout: import goods", fillcolor=pink, shape=box3d];
+        Admin [label="administrative\ncapacity", fillcolor=pink, shape=ellipse];
+        Clearing [label="economic\nclearing", fillcolor=pink, shape=ellipse];
+        Stability [label="political\nstability", fillcolor=pink, shape=ellipse];
+    }
+
+    Admin -> Port [style=dotted];
+    Clearing -> Port [style=dotted];
+    Stability -> Port [style=dotted];
+
+    // ---------- utilities ----------
+    subgraph cluster_water {
+        label="water — gravity fed"; style=dashed; color=steelblue;
+        Watershed [label="WATERSHED\nprotected upland", fillcolor=lightblue];
+        Intake [label="intake", fillcolor=lightblue];
+        Treatment [label="TREATMENT WORKS\nUV + chlorination\n(ch1 P13 budget line)", fillcolor=lightblue];
+        Balancing [label="balancing reservoir\nthis is the pressure", fillcolor=lightblue];
+        Valve [label="THE VALVE\nmunicipal connection\n(ch3 crux)", fillcolor=lightblue, shape=diamond];
+    }
+
+    subgraph cluster_power {
+        label="power — hydro dominated"; style=dashed; color=goldenrod;
+        Gen [label="UPLAND\nGENERATION", fillcolor=pink];
+        Trunk [label="transmission line\nthrough country\nnobody holds", fillcolor=pink];
+        Substation [label="SUBSTATION\nthe real chokepoint", fillcolor=lightblue];
+    }
+
+    // ---------- the metro ----------
+    Suburbia [label="SUBURBIA\nwhere everyone lived at year 0\namorphous by design\nSTOCK: population", fillcolor=yellow, shape=box3d];
+    Downtown [label="DOWNTOWN\nnamed, visible, never entered\nno lot to back a truck into\nwhere the municipality WAS", fillcolor=pink];
+
+    subgraph cluster_ring {
+        label="the big-box ring — where salvage actually happens"; style=dashed; color=grey40;
+        BestBuy [label="BEST BUY (type)\nelectronics\n'old parts', ch2 P5\ndisplay units, P57", fillcolor=grey90];
+        GenRetail [label="GENERAL RETAILER (type)\nsporting goods counter\nAMMUNITION, ch2 P57\n'whatever was left'", fillcolor=grey90];
+        HomeDepot [label="HOME DEPOT (type)\nstandalone, own lot\nSTAFFED + PRICED, ch2 P15\nsalt, painkillers, gloves", fillcolor=grey90];
+    }
+
+    Campus [label="THE UNIVERSITY\nwaterfront\ngate, perimeter, parking lot\nshop, clinic, dining hall,\nbakery, apiary", fillcolor=white, shape=box3d];
+    CampusPower [label="campus district energy?\nUNRESOLVED — audit D-02", fillcolor=white, style="rounded,filled,dashed"];
+
+    // ---------- out past the ring ----------
+    Town [label="THE TOWN\nSaanich-shaped: sprawl,\nno core, farmland threaded\nthrough the housing", fillcolor=grey90];
+    Fields [label="the fields\nbutter, leather, jam\ninterleaved, not separate", fillcolor=grey90];
+    Farm [label="ELBAKYAN FARM\nbeyond the valve\n(ch3)", fillcolor=grey90];
+    Village [label="the village\nsame as the town?\nOPEN", fillcolor=grey90, style="rounded,filled,dashed"];
+    OtherTown [label="another town\nch2 P47 — a NETWORK,\nnot one settlement", fillcolor=grey90, style="rounded,filled,dashed"];
+
+    subgraph cluster_south {
+        label="south of the town"; style=dashed; color=darkgreen;
+        CopperSite [label="the copper site\ncut chain, re-entered\nSTOCK: salvage", fillcolor=yellow];
+        Lodge [label="THE LODGE\nthicket, blind, littlest path\nDiana", fillcolor=pink];
+    }
+
+    Mountain [label="the mountain\nold observatory\n(ch8 dismantles it)", fillcolor=pink];
+
+    // ---------- transit: the route as written ----------
+    Campus -> HomeDepot [label="the highway"];
+    HomeDepot -> BestBuy [label="the ring road"];
+    BestBuy -> GenRetail;
+    GenRetail -> Town [label="before sundown\n~60 km/h governed"];
+    Town -> CopperSite [label="south"];
+    CopperSite -> Lodge [label="the dirt road"];
+    Town -> OtherTown [style=dashed, label="another crew"];
+    Town -> Village [style=dashed];
+
+    Downtown -> BestBuy [dir=none, style=dotted, constraint=false, label="adjacent,\ndeclined"];
+
+    // ---------- water chain ----------
+    Watershed -> Intake [color=blue];
+    Intake -> Treatment [color=blue];
+    Treatment -> Balancing [color=blue];
+    Balancing -> Valve [color=blue];
+    Valve -> Campus [color=blue, label="held", penwidth=2];
+    Valve -> Suburbia [color=blue, style=dashed, constraint=false];
+    Valve -> Town [color=blue, style=dashed, constraint=false];
+    Valve -> Farm [color=blue, style=dashed, label="cut first", penwidth=2];
+
+    // ---------- power chain ----------
+    Gen -> Trunk [color=goldenrod];
+    Trunk -> Substation [color=goldenrod];
+    Substation -> Campus [color=goldenrod];
+    Substation -> Suburbia [color=goldenrod, constraint=false];
+    Substation -> HomeDepot [color=goldenrod, style=dashed, constraint=false, label="the flashing\nsignals?"];
+    CampusPower -> Campus [color=goldenrod, style=dashed];
+
+    // ---------- trade ----------
+    Port -> Campus [style=dashed, color=grey40, constraint=false, label="imports\nwhile inputs hold"];
+    Fields -> Town [style=dashed, color=grey40, constraint=false];
+    Town -> Campus [style=dashed, color=grey40, constraint=false, label="butter, leather, jam"];
+    Campus -> Town [style=dashed, color=grey40, constraint=false, label="honey, salmon"];
+    Lodge -> Campus [style=dashed, color=grey40, constraint=false, label="jam, deer"];
+    Mountain -> Campus [style=dashed, color=grey40, constraint=false, label="instruments (ch8)"];
+
+    // ---------- the stock that drives everything ----------
+    Suburbia -> Downtown [style=dotted, color=grey40, constraint=false, label="drains"];
+    Suburbia -> BestBuy [style=dotted, color=grey40, constraint=false, label="emptying is what\nmakes salvage possible"];
+}
