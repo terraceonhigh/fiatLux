@@ -126,19 +126,89 @@ Terrace's premise: the school of medicine says it is absolutely imperative that 
 - **The ranked list.** To plan properly Engineering needs the pharmacopeia ranked, and a ranked list is a document naming which medicines they elected to lose, with a date and a signature, that outlives everyone. "As much as possible" exists precisely so that document does not. **Terrace's call: Medicine produces *half* a list** — which is worse than refusing, because refusing is at least a position. They ranked what was easy to rank, stopped where it got expensive, and handed over a document that is correct as far as it goes. The remainder gets ordered **by distance from the hose** anyway. So the surviving record is half a signature and a field of standing plants, and that is ch6's subtraction performed a chapter early, by nobody.
 - **What Engineering produces** is a real artifact for ch5/ch6 to cite: a served-area calculation, a flow budget, a schedule. Correct, and it will not contain the word *vegetables*. The area it does not cover is the answer.
 
+#### What the farm actually is, and why that decides the losses
+
+**Terrace's premise: the university is a net caloric importer from the satellite towns, and the campus farm is an expanded one that grew in the early years.** Both halves change the picture, and the first is already on the page in ch2.
+
+**Ch2 records the trade in both directions.** In: butter, leather and jam from the fields (ch2 ¶55), plus the manifest's bulk. Out: honey (¶49), smoked salmon from another run to another town, teachers on five-month postings (¶51), doctors on three-month rotations (¶45), guards, medicine, electronics repair, and the poppy that buys rubber gloves (¶17). **The university exports services and processed goods and imports bulk calories and materials.** It is a capital, and the towns are its hinterland.
+
+**Which makes the farm the innermost ring, in the Von Thünen sense** (*Der isolierte Staat*, 1826 — land use rings a market by transport cost per unit value; perishable and high-labour close in, grain and grazing far out). So the campus farm's rational specialisation is **whatever a convoy cannot deliver**:
+
+- **A market garden for perishables.** The town can send butter and jam because they keep. It cannot send salad or soft fruit — two days on an unrefrigerated bed at sixty kilometres an hour (ch2 ¶15) settles that.
+- **A seed farm** — increase plots for every annual the region sows.
+- **A nursery** — rootstock, grafting, cuttings. Continuous skilled attention, tiny area, enormous value.
+- **The pharmacopeia**, for the same reasons plus supervision.
+- **Breeding stock and variety maintenance** — the genetics, which is the actual university function.
+- **Trials.** It is a research farm; that is the specialisation.
+
+**And it is not a granary, a hayfield or a beef operation.** Ch2 confirms this by what arrives: *butter and leather*, not cattle. **The herd is in the country.**
+
+**The expansion is area without fertility.** A campus of that kind has maybe twenty-odd hectares of real farm; expanding it in the early years means converting what universities have most of — playing fields, lawns, an arboretum, endowment land. That yields a great deal of ground that is compacted, low in organic matter, and often **sand-capped for drainage.** So it explains why they import calories despite holding land: they have hectares and not soil. *Research pending in [`research/cropping-a-summer-dry-coast.md`](../research/cropping-a-summer-dry-coast.md).*
+
+#### The irrigation deficit, and when a failure is worst
+
+**That coast has a Mediterranean-shaped year** — wet October to May, near-desert July and August. So irrigation is not supplemental there; it is the entire second half of the season, and the farm was always water-dependent.
+
+| | Rain | ET₀ demand | Deficit |
+|---|---|---|---|
+| May | 40–50 mm | ~105 mm | −60 |
+| June | 30–40 mm | ~125 mm | −90 |
+| **July** | **15–25 mm** | **~155 mm** | **−135** |
+| Aug | 20–30 mm | ~135 mm | −110 |
+| Sept | 40–50 mm | ~85 mm | −40 |
+
+**Season total is roughly 400–450 mm of unmet demand**, i.e. 4,000–4,500 tonnes per hectare between May and September.
+
+**Unirrigated, the farm reverts to a Mediterranean calendar** — fall-sown favas and winter cereals harvested by midsummer, overwintering brassicas, one early hay cut, deep-rooted perennials surviving at reduced yield, and bare brown ground until October. Which is a fraction of the irrigated farm, and it loses exactly the crops the campus exists to grow.
+
+**Set the emergency in mid-July.** Peak deficit is late July into early August, but the *consequence* peaks slightly earlier, because crops have yield-determining windows — flowering, pollination, tuber initiation, grain fill, seed set — where stress costs disproportionately and permanently:
+
+- **June failure** — crops fail at establishment or flowering, and there is still time to replant something fast. Partially recoverable.
+- **Mid-July failure** — the yield-determining window, every input sunk, too late to plant anything that will mature. **Total, and nothing to do about it.**
+- **August failure** — partial. Salvage-harvest early at reduced yield.
+
+**And seed cannot be salvage-harvested**, because immature seed will not germinate. So a July failure kills the increase plots outright.
+
+**Mid-July is also peak fire season**, which puts a depressurised network with its fire hose stripped for the bypass in the worst possible month — and ch2 ¶101 already has *"the last fire from inland"* on the page. Both of the chapter's catastrophes share a date.
+
+**The soil decides who dies first, and it is not triage.** Available water in a metre of root zone runs 150–200 mm in a good loam against 40–60 mm in sand, with turf roots only 30 cm down anyway. At 5–6 mm/day:
+
+| | Water in hand | Visible stress | Dead |
+|---|---|---|---|
+| **The old farm** — decades of compost, deep roots | ~150 mm | ~2 weeks | ~4 weeks |
+| **The expansion ground** — converted turf | ~25 mm | **2–3 days** | **4–6 days** |
+
+Against a week to get water to roots: **the expansion ground is dead before the bypass is charged, and the old farm is right at the edge.** Nobody ranked that. It was decided by which fields were rugby pitches.
+
 #### How much of the crop is lost
+
+**Revised for the net-importer premise. The old table read as though campus ran a herd; it does not.**
 
 | | Emergency loss | Deferred loss |
 |---|---|---|
-| **Livestock** | ~0% | 30–50% culled in winter, for want of feed |
-| **Pharmacopeia** | ~10% of standing stock | The year's propagation and seed beds — most of it |
-| **Field vegetables** | Most of it | A deficiency-disease season |
+| **Campus livestock** — bees, poultry, draft animals, breeding stock, maybe a house dairy | ~0%, and cheap to water | None. **The November cull belongs to the countryside, not campus** |
+| **Perennials** — fruit, nuts, hops, tea, medicinal stock | ~10% of standing stock | Reduced yield for a season |
+| **Market garden** — the perishables nobody else can supply | Most of it | The campus eats what the towns send, which is worse and duller |
+| **Seed increase and propagation** | Most of it | **A region's planting year.** See below |
+| **Field annuals on the expansion ground** | All of it, before anyone reaches them | Fertility programme set back, since the legumes were also the nitrogen |
 
-- **Livestock is the counterintuitive one: animals are an order of magnitude cheaper to water than crops.** Beef 25–70 L/head/day, dairy 60–150, sheep and goats 4–12, pigs 10–30, hens 0.2–0.4. A hundred cattle is ~5 tonnes a day, half a tanker load, against 50 tonnes for one hectare of crop. So the herd comes through at essentially zero loss and **dies in November instead**, because the field annuals that failed were also the forage. The consequence outlives the memory of the cause.
+**The catastrophe is the seed, and it is a regional loss.** If the campus farm is where the region's seed comes from, losing the increase plots does not cost the farm a year — **it costs every town on the circuit a year**, and they will not find out until they go to sow. It is deferred twelve months, it looks like a bed of seedlings gone brown, and it is four items down a list Nona is helping her professor write.
+
+**And the shortage gets exported.** A net-importing capital with a failed harvest does not starve; **it raises its demand on the hinterland.** More butter for the same medicine, months later, settled in a polite negotiation. The instrument is already on the page — ch2 ¶17: rubber gloves *"now cost two vials of poppy,"* and **_"The trucks will be going elsewhere next month."_** Not a rifle. The route.
+
+So the university survives ch3 by making the countryside pay for it, and nobody in the chapter visits the town that settles the bill.
+
+- **Animals are an order of magnitude cheaper to water than crops**, which is worth knowing wherever the herd is. Beef 25–70 L/head/day, dairy 60–150, sheep and goats 4–12, pigs 10–30, hens 0.2–0.4. A hundred cattle is ~5 tonnes a day — half a tanker load — against 50 tonnes for one hectare of crop. **So no animal on this map dies of thirst.** The November cull happens anyway, in the countryside, because the *forage* failed rather than the water — and since the herd is rural, that bill lands on the towns and reaches campus only as less butter next spring. The consequence outlives the memory of the cause, and it also travels.
 - **The pharmacopeia survives and its future does not.** Drip line is finite and goes to what is irreplaceable, so standing stock lives and **the propagation beds, cuttings and seed stock go.** They end the season with exactly what they started with and no way to have more next year — a loss that shows up three years later as a plateau, not as damage.
-- **The micronutrients eat the whole loss.** Field vegetables are the one case the hydraulics cannot serve. The consequence is not hunger — calories are the easy part — it is **deficiency disease**. Precedent is exact: **Cuba's Special Period produced an epidemic of optic and peripheral neuropathy in 1991–93, roughly 50,000 cases**, from B-vitamin and folate deficiency on a diet narrowed to rice and sugar. Nobody starved; tens of thousands lost vision and sensation.
+- **The micronutrients eat the whole loss.** The consequence is not hunger — calories arrive by truck — it is **deficiency disease**. Precedent is exact: **Cuba's Special Period produced an epidemic of optic and peripheral neuropathy in 1991–93, roughly 50,000 cases**, from B-vitamin and folate deficiency on a diet narrowed to rice and sugar. Nobody starved; tens of thousands lost vision and sensation.
+- **Be precise about which crop causes the beri-beri, because it is not the greens.** Thiamine comes from **legumes, whole grain, organ meat and yeast**. So the peas and favas failing *is* ch4's epidemic; losing kale and cabbage gives a separate vitamin C and A problem, real but a different disease. **And the legumes were also the fertility programme** — with no imported nitrogen, the clover, vetch, favas and peas *are* the fertiliser, so their loss damages next year's soil as well as this year's protein. It compounds past the season even if the water returns in September, which is a cost nobody in the chapter can compute.
 - **Every decision in that table is correct**, and the outcome is that the university's medicine came through fine while the region's food did not. Indefensible optics, impeccable conduct, and no way for anyone afterward to tell the difference. **That is what Collie walks into ch5 carrying.**
-- **One cruelty worth adding:** lose one irreplaceable stand for a reason that is not triage at all — the only stock of something, sitting two hundred metres too far along the run, past where the pressure held. Not deprioritised. Planted years ago in a spot that turned out to be beyond the reach of a hose nobody imagined needing.
+- **One cruelty worth adding, and it must not be cheap. Terrace: the priorities were set competently, and by council.** Not one professor's judgement and not a shrug at something unfashionable — a standing committee under a deadline, agronomy and medicine and the farm, applying criteria that are all correct: acreage, calorific and medicinal value, whether the stock exists anywhere else, what can be resown. **"They deprioritised it because it was boring" is the version to refuse.** It makes the loss a failure of taste, and it hands the reader somebody to be angry at.
+
+  What kills the stand instead is that **two axes get treated as one**. *Recoverable* — the seed exists elsewhere, or it is an annual you can sow again — is not the same as *least bad to lose*, and nothing in the room is wrong to weigh both. But a **short-seed-life biennial landrace** scores low on value and reads as recoverable because it is only a vegetable, when in fact it is biennial and viable one to two years, **so no seed bank anywhere buffers it.** Lose the year-two crop and the variety is simply gone. It loses on a fair count, taken on the record, by people qualified to take it.
+
+  **No villain, no error, and a document at the end of it** — which is ch6's device arriving a chapter early and in miniature. The only person who would have caught it holds the nutrition degree and is outside, cutting canvas.
+- *Superseded:* an earlier draft of this beat had the stand lost to geography — two hundred metres too far along the run, past where the pressure held. Accident rather than judgement, and weaker for it. The council version is the one to use.
 - **This decides the poppy question.** If opium is in that patch, "the medicinal stock survived and the vegetables didn't" reads as the university keeping its narcotics while the region lost its greens. A much harsher book, and available.
 
 #### Nona
