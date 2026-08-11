@@ -60,7 +60,7 @@ The map on the table was printed the same day Oyá was born. The professor's scr
 
 *Standby...*
 
-*14.3, Grand Central.*
+*24.8 meters, Grand Central.*
 
 *Thank you, South Station.*
 
