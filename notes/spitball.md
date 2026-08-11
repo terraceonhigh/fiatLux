@@ -53,9 +53,15 @@ Why it is the right detail: the underside of a nail is the one place he cannot w
 
 ### The next chapters
 
-**Ch3 — the water emergency.** The university detects a loss of pressure on the water mains and cuts the municipal connection in an emergency, to hold overpressure in its own network. The Elbakyan farm is on the far side of that boundary, and the works department runs desperate temporary piping to keep the next crop coming.
+**Ch3 — *Isolation*.** Title settled. It is the term of art for sectioning a network by closing valves, and it is what the university does to itself. Shortlisted against *Charge*, *Tie-In*, *Water Hammer* and *Residual*; *Residual* was dropped once *Boil Water* took ch4, since chlorine residual belongs on the public-health side of that line. *Aqueducts* was weighed and set aside: it is Collie's register on a chapter she is not in, no POV here would use the word, and **Frontinus is worth banking for ch5 or ch6** — a water commissioner's report to a Senate is that room's document, not this one's.
 
-**This is a works-department chapter, not a Collie chapter.** Water trucks, damage control, and restoring supply to the horticultural spaces — plural, not only the medicinal patch the Elbakyans are responsible for. The scale is people doing physical work against a decision taken above them, which is ch2's mode. Collie in a meeting is a later chapter.
+**Terrace's sequence.** Municipal mains fail → emergency cutoff → the University farm, of which the Elbakyan patch is a part, is cut off → **Epsilon and the other frats are *impressed* by Engineering profs and students** to run new lines, pronto → which is what makes ch5 necessary.
+
+**POV is Bréal and Maddy.** Already connected on the page: Bréal is of Epsilon (ch2 ¶5) and Maddy's ointment herbs come from an Epsilon boy (ch2 ¶153). Bréal carries the labour, Maddy carries what the water was for. Bréal being *of* the frat puts him on the receiving end of the impressment, which is the better seat. **This calls in the naming debt** — `canon/pedigree.md:105` wants his reference settled before he takes a second chapter, and this is a POV chapter.
+
+**The farm is university land**, which kills the old approved-or-quiet question entirely: no unaffiliated household, no precedent to establish, no Collie. The university's own emergency cut strands the university's own ground. Self-inflicted, nobody to blame. `canon/setting-map.dot:74` still has the farm as grey90 (municipal) and wants recolouring to campus — still beyond the valve.
+
+**"Impressed" is the load-bearing word**, and Terrace reached for it rather than "mobilised." Impressment is conscription, and the chapter has to answer *by what authority* — the university has no police and the frats outnumber the faculty. The cheap and best answer is that nobody is compelled; it is their water too. **So the profs think they commanded and the boys think they helped, and both are describing the same afternoon.** That gap is ch5's subject, and ch3 plants it without a word of comment. It also reframes ch5: Collie is not proposing to make the frats important, she is cleaning up after somebody already used them as an instrument without anyone having decided they were one.
 
 **And it is the second time the frats are mobilized** — hauling pipe and priming joints for the welding specialists. This is the load-bearing addition, because **the labor is the absorption mechanism**, and ch2 already planted it: the boys raise a barn "or whatnot" (ch2 ¶53), Bréal unlocks the toolbox and hands out the pliers, and the copper run is a work detail with a rifle on overwatch. A frat has already been shown operating as a labor company. Mobilization is the second formalization of a capability the reader has watched work.
 
@@ -68,6 +74,87 @@ Technical grounding is in [`research/water-systems-under-failure.md`](../researc
 - **The emergency isolation is itself dangerous.** Closing a valve fast water-hammers the network and can burst it somewhere nobody is watching, so the cutoff has to be done slowly, by hand, while the pressure being raced is already falling. Valves that have not been exercised in years may also simply refuse to turn.
 - **The real threat is cross-connection, not drought.** Tying a non-potable source into potable piping to move irrigation water is the mechanism of the 1933 Chicago outbreak, performed deliberately. The old world ended on water quality; the new one could end the same way, done by people trying to save a crop. Danger comes from the works department's own improvisation, which is a better engine than scarcity.
 
+#### How the shutdown actually runs
+
+**Terrace's opening: inside a control centre at the university plant reading telemetry, then half the engineering department with shovels, riding truckbeds out to the manual valves.**
+
+Working telemetry commits the setting to **licensed VHF/UHF radio SCADA** — tiny bandwidth, solar-powered RTUs, no cellular, no leased line. Genuinely the most survivable architecture there is. It also rhymes for free: the university's water talks by radio while the feds have gone radio silent (ch8). Opposite fates, same spectrum.
+
+- **Make the board partial.** A clean picture is people watching numbers agree. Three live gauges and five dead RTUs means the room is *arguing about where the hole is* and can be wrong. The likely first signal is not a pressure alarm but **the balancing reservoir emptying faster than it fills** — arithmetic somebody notices, not a klaxon.
+- **Neither POV works at the plant.** Cleanest fix: **Bréal is summoned there** to be handed the job, so the reader gets the control room through a man who does not belong in it. Puts the decision at a distance from whoever executes it.
+- **The closing is manual.** Automation lives at plants and pump stations; distribution valves are buried gate valves turned with a **valve key** on a 2-inch AWWA operating nut, roughly three turns per inch of diameter — ~36 turns on a 12-inch main, past a hundred on a large one. Minutes of cranking, not a lever.
+- **Three field details worth having.** AWWA standard is close-clockwise but plenty of older systems run the other way, so a crew genuinely cannot tell *seized* from *wrong direction*, and grows more certain the harder it leans. A gate valve has a quick-opening characteristic, so flow barely changes through most of the travel and **the surge risk lives entirely in the last few turns** — exactly when the crowd has decided nothing is happening. And over-torquing shears the stem, converting a stuck valve into one they can never close.
+- **Part of it closes itself.** An intertie between two systems carries a check valve or backflow preventer, which shuts the instant the gradient reverses. So the water may already have stopped before anyone arrived, and **the manual close makes it deliberate and permanent rather than making it happen.** A valve that acted correctly before any human decided anything is very much this book's kind of object.
+- **The automation that survives a collapse is the unpowered kind** — pilot-operated PRVs, altitude valves, check valves, all driven by line pressure alone. SCADA dies with the grid; the hydraulic automatics regulate indefinitely. The surviving intelligence in the system is Victorian in principle.
+- **Split the crowd.** Locating and digging out valve boxes is mass labour — lids paved over, boxes packed with gravel, records reading *approx. 40 ft E of pole*. That is the shovels and the truckbeds. **Turning is not**: two or three people who know the network, slowly, counting turns. A crowd at the stem gets a sheared stem. So the mob digs, then everyone stands in a ring watching one person crank for six minutes, and by the dangerous part they have been bored for a quarter hour.
+- **Let one valve beat them.** A segment has three to six boundary valves. When one is seized or unlocatable they widen to the next ring, which cuts more than intended — **a second unchosen decision, made by a valve that stopped working in about 2009.**
+
+**Whose valve map is it?** The university inherited a water contract, not necessarily the municipality's drawings, and valve records rot faster than valves. Partial maps, twenty years of hand annotation, a few question marks. Same trap as ch8's printouts: a drawing shows shape, not fit.
+
+#### The discovery, and why parallel is right
+
+Terrace: *after, or perhaps parallel.* **Parallel, for a physical reason.** A gate valve has no safe middle position — partially closed it throttles, cavitates and damages its own seat, so you do not leave one half-shut while you go and think. Thirty turns in, finishing is the *safer* action and reopening is its own surge event.
+
+So somebody works out that the farm is inside the segment while the crank is turning, says it aloud, and **the physics has already taken the decision away.** Nobody chooses to strand the farm. Nobody is even callous. That is the ratchet with a torque wrench on it.
+
+*After* is defensible on a different footing — they did not know because **the record was wrong**, which makes a document the antagonist. Colder and more procedural.
+
+#### The routing, and what defeats it
+
+- **Distance is unset and governs everything.** Terrace has "across a road or two" — call it several hundred metres to a kilometre.
+- **Fire hose is what they lay**, and it is free irony: they solve a water emergency by stripping the fire suppression from a network whose pressure is already compromised, and the brief says those two failure modes are coupled. Nobody notices. A very quiet gun.
+- **Diameter is the whole question.** 2.5-inch attack line runs ~12 psi loss per 100 ft at working flow — 125 psi over a thousand feet, more than they have. 4- or 5-inch LDH is ~2 psi per 100 ft. **So whether campus stocked large-diameter supply hose is the difference between possible and not**, which is another capability decided by a purchasing choice made before the collapse.
+- **What defeats them is joints and friction, not pipe.** Salvage means forty couplings of mismatched diameter, each leaking and costing head. **They succeed at moving water and fail at moving pressure.** Sprinklers need 2–4 bar and become expensive mist below it; drip runs on 0.7, low-head tape on a few metres. So drip is not a preference, it is the only thing that still functions — slow, entirely manual, saves the perennials, cannot possibly save a field. **Nobody chooses which crops die. Friction loss does.**
+- **The hydrant tap closes the loop.** Hydrants drag system pressure down when opened, so the harder the crew works the worse the gauges get in the room the chapter opened in. Somebody upstairs has to call it, and the crew on the ground takes a second cut for reasons invisible from where they stand. **Two decisions, two rooms, and the people who paid for both never met.**
+- **Closing image:** the temporary line stays. Unlabelled, undocumented, connected to something nobody wrote down, because the crew dispersed and the emergency ended. Hose still lying across the road in spring with grass grown through it.
+
+#### Timeline
+
+- **Shutdown: one hard day**, finishing in the dark on the valve that nearly did not turn. (4–8 hours is the figure for a competent crew with good records on a maintained system; this is neither.)
+- **Routing: about a week** from valve seated to water at roots — half a day stripping hose racks, half a day walking the route, a day laying, a day or more of charge/leak/re-do, then the discovery about far-end pressure, then days of hand-laying drip.
+- **The governing clock is the crops', not theirs.** A root zone holds one to three weeks of soil moisture under summer demand; visible wilting at day three to five, unrecoverable loss in the second week. **The field dies at exactly the speed they work.** Nobody fails and nobody is slow.
+- **Structural cost: ch2 is a single day and this is not.** Either compress — end on the first charge or the far-end gauge, and let the field die off-page — or span it in four or five dated sections and take the slow defeat. Spanning is the better chapter and the bigger build.
+
+#### The engineering plan, once Medicine issues an imperative
+
+Terrace's premise: the school of medicine says it is absolutely imperative that as much of the pharmacopeia as possible survive. **Engineering cannot act on "as much as possible," and the conversion is the political event of the chapter** — a categorical demand from Medicine becomes a specific deletion signed by Engineering, and only one of those ends up in writing.
+
+- **The question back is the best one in the chapter: *alive, or yielding?*** Keeping an established perennial alive costs a fraction of keeping it productive. Medicine wants both and is not equipped to choose, so Engineering picks — and picks *alive*, because it saves more plants and cannot be called wrong. The pharmacopeia comes through nearly all standing and produces nothing for a year.
+- **The architecture change that actually solves it.** Stop pushing irrigation pressure down a long hose. Friction loss scales with the square of flow, so the same hose that fails at full flow passes ~100 L/min across a kilometre for a few psi. That is 144 tonnes a day — three hectares' worth. **Fill a tank continuously, irrigate from the tank by gravity.** The far-end pressure problem stops existing because they were never delivering pressure, they were delivering volume and had all night. Undramatic fix: somebody reframes the problem, and the cost is a full day with nothing watered while the tank fills. Puts the plan behind one question — **do they have a tank, and is it uphill of the patch.**
+- **Cut demand instead of moving water.** Mulch, shade, foliage cut back. Cheaper per litre than transport, and it spends labour, which is the one input in surplus.
+- **Stop using treated water on plants** — tap raw, upstream of treatment, leave the treated supply for people. Legitimate and a large win. **And it is where Medicine finally signs something**: WHO guidance scales required quality to crop and method, and material for topical use on broken skin sits at the cautious end. Engineering offers the thing that saves the most pharmacopeia and the price is a standard Medicine has to accept in writing, for a product that goes into wounds.
+- **The ranked list nobody will write.** To plan properly Engineering needs the pharmacopeia ranked. **Medicine will not produce it**, because a ranked list is a document naming which medicines they elected to lose, with a date and a signature, and it outlives everyone. "As much as possible" exists precisely so that document does not. So the ranking happens anyway, **by distance from the hose** — and that is ch6's subtraction performed a chapter early, by nobody, with the only surviving record being which plants are still standing.
+- **What Engineering produces** is a real artifact for ch5/ch6 to cite: a served-area calculation, a flow budget, a schedule. Correct, and it will not contain the word *vegetables*. The area it does not cover is the answer.
+
+#### How much of the crop is lost
+
+| | Emergency loss | Deferred loss |
+|---|---|---|
+| **Livestock** | ~0% | 30–50% culled in winter, for want of feed |
+| **Pharmacopeia** | ~10% of standing stock | The year's propagation and seed beds — most of it |
+| **Field vegetables** | Most of it | A deficiency-disease season |
+
+- **Livestock is the counterintuitive one: animals are an order of magnitude cheaper to water than crops.** Beef 25–70 L/head/day, dairy 60–150, sheep and goats 4–12, pigs 10–30, hens 0.2–0.4. A hundred cattle is ~5 tonnes a day, half a tanker load, against 50 tonnes for one hectare of crop. So the herd comes through at essentially zero loss and **dies in November instead**, because the field annuals that failed were also the forage. The consequence outlives the memory of the cause.
+- **The pharmacopeia survives and its future does not.** Drip line is finite and goes to what is irreplaceable, so standing stock lives and **the propagation beds, cuttings and seed stock go.** They end the season with exactly what they started with and no way to have more next year — a loss that shows up three years later as a plateau, not as damage.
+- **The micronutrients eat the whole loss.** Field vegetables are the one case the hydraulics cannot serve. The consequence is not hunger — calories are the easy part — it is **deficiency disease**. Precedent is exact: **Cuba's Special Period produced an epidemic of optic and peripheral neuropathy in 1991–93, roughly 50,000 cases**, from B-vitamin and folate deficiency on a diet narrowed to rice and sugar. Nobody starved; tens of thousands lost vision and sensation.
+- **Every decision in that table is correct**, and the outcome is that the university's medicine came through fine while the region's food did not. Indefensible optics, impeccable conduct, and no way for anyone afterward to tell the difference. **That is what Collie walks into ch5 carrying.**
+- **One cruelty worth adding:** lose one irreplaceable stand for a reason that is not triage at all — the only stock of something, sitting two hundred metres too far along the run, past where the pressure held. Not deprioritised. Planted years ago in a spot that turned out to be beyond the reach of a hose nobody imagined needing.
+- **This decides the poppy question.** If opium is in that patch, "the medicinal stock survived and the vegetables didn't" reads as the university keeping its narcotics while the region lost its greens. A much harsher book, and available.
+
+#### Nona
+
+**Terrace: Nona requisitions canvas and makes cover from it — cutting cloth, and determining fates.** Shade cloth is one of the two cheapest moves on the board, because cutting evapotranspiration spends labour instead of litres. The reading needs no help: the one who spins decides where the cover goes and therefore which stands live. `canon/pedigree.md:101` already has her as the exception — not a light, but the Parca who makes the thread the others get measured on. Here she measures.
+
+**Terrace: Nona holds a bachelor's in nutrition or agronomy, which is how she was hired to help run the university farm.** Recommend **nutrition** — ch1 ¶9 puts her at a **charity**, getting Collie onto a video about **the grain dole and what a government owes its people**, with the **food bank director** in the next slot. That is a nutrition graduate's professional world; agronomy would put her on a farm and ch1 does not. It also pays off the crop loss precisely: **the person running the farm is the one credentialed to know what a season without vegetables does to a population, and she is not in the room where the water is allocated.** She would have told them. Nobody asked.
+
+**Ordering constraint:** she must be hired *after* ch1's clinic scene, or `canon/pedigree.md:51` breaks — she could not be treated because she was unaffiliated and Collie had to spend standing to fix it. So: unaffiliated → treated on Collie's credit → later hired onto the farm on the strength of a degree the new world suddenly needs. Which answers the requisition question — **she is staff, and has standing to requisition canvas because somebody gave her a job.** The favour that got her treated produced the university's farm manager. The ratchet running, for once, in a direction that helped somebody.
+
+**But watch the verb.** *Requisitioning* is the university's word (ch2 ¶147, the trailer and the generators). An unaffiliated woman requisitioning university canvas would be either absorption or overreach; a hired one is neither. Either way, **two informal parties acquire standing by being useful during the same emergency** — Nona and Epsilon — neither asked, neither told. The ratchet visible twice without commentary.
+
+#### Sequence of events
+
+**Moved to [`manuscript/02-isolation.md`](../manuscript/02-isolation.md)**, as scaffolding to write over — eight phases in bracketed beats, with day markers. It is the one exception to the prose-only rule for `manuscript/`, and it is temporary: it gets deleted as the chapter is written on top of it.
+
 **Ch4 — Maddy.** Stuck in high school, tailing the MDs, and set up by Collie to become a proper doctor ever since Collie saw her take to the apothecary.
 
 She is the only one of the three children never on the page as herself — so far an object in both chapters, a bike found at a yard sale and a cream Lewis carries out to the lodge. It is also the same story as Lewis's told from inside: he was steered toward EE by Maia (ch2 ¶1) and wants what he was pointed at. **Whether Maddy wants it is the question Lewis's chapter never had to ask.** If she does not, the covenant starts costing something from the inside, before Collie ever gets to Diana.
@@ -75,6 +162,37 @@ She is the only one of the three children never on the page as herself — so fa
 Her register for the title is pharmacy — *Compounding*, *Titration*, *Contraindications*. The `research/sources/who-essential-medicines-list-2023` material already in the repo points at her.
 
 One connection to watch: if Maddy is tailing the MDs, she and Egghead share a small medical world, and Egghead is posted out to the town where Diana wants her leg looked at. Maddy is the link between Diana's leg and the person who could treat it, and she is also the one whose cream Lewis carries out there. She may already be an accessory without knowing to what.
+
+**Title settled: *Boil Water*.** Terrace's, and it takes the public-health side of the register line so ch3 can keep the hydraulics. It is also **the most menial instruction in medicine** — what you tell people when there is nothing else to do. A girl being made into a doctor, in the middle of the largest thing that has ever happened to her town, whose actual contribution is going door to door telling people to boil their water. Correct clinical advice, saves lives, and nothing.
+
+**Terrace: Maddy is *impressed* as a field medic and nurse in the season after the pressure loss, with regular practicums shadowing Collie's MD friends, even as she is technically in high school.**
+
+- **Same verb as the frats, one chapter later, applied to a fifteen-year-old.** Ch3 impresses Epsilon; ch4 impresses her. The instrument gets pointed at a child within a season of being invented, and by then it is routine enough that nobody needs a justification.
+- ***"Technically in high school"* is the chapter in one word** — a field medic's work, a nurse's hours, and still enrolled somewhere she is expected to appear. Nobody has promoted her. They have stopped letting her be a student without withdrawing the requirement that she be one.
+- **"The season after" fixes the pacing.** Ch3 and ch4 stop being one event split in two, and the deficiency disease gets the months it needs. The acute waterborne cases sit in ch3's tail; what Maddy sees is the slow one.
+
+**The doctor's slip — Terrace's.** She wants the doctor she is shadowing to write her a note explaining that she has been setting splints and managing beri-beri for the last couple of weeks, and to excuse her. *Doctor's orders.*
+
+- **The form does all of it.** An absence note is the most ordinary document a person can hold, and this one certifies a high schooler ran a thiamine-deficiency epidemic. The paper is the comment.
+- **It is also a causal summary of ch3 written by someone who does not know it.** Splints are the injury load from ten days of untrained people hauling pipe and digging valve boxes; beri-beri is what happens a season after the field vegetables die. Two lines, one valve, and the doctor signing has no idea they describe the same afternoon. Lewis's father already set the tariff — *they're for the saws to eat* (ch2 ¶11).
+- **The load-bearing detail is that she asks for it.** Not a girl things are done to. She has found the lever that lets her keep the work she likes, and pulling it is what finishes her capture. **What she negotiates for is exemption from being a child.**
+- ***"Doctor's orders" is ch6's move at one-girl scale.*** Nobody ordered her; she solicited the order and carried it as though it came from above. A voluntary act restated in the imperative becomes a fact with a signature on it — the minutes do it to a fraternity in front of a Senate, and she does it to herself with a slip of paper. If the line is hers rather than the narration's, said straight-faced to a teacher, it is her first act of institutional manipulation, learned by watching Collie do it for years.
+- **Beri-beri is the correct disease.** Thiamine deficiency is *the* classic result of a diet narrowed to milled grain with the vegetables, legumes and organ meat removed — same family as the Cuban neuropathy epidemic the crop loss is modelled on. And it is **treatable, fast**, sometimes turning cardiac cases around in hours. Maddy is not failing; she is watching people get better because of what she does. That is what makes the trap close so easily.
+- **Write the deficit as drugs, not percentages.** A number is inert in a clinic. The two that hurt: **the topicals** — her own domain, since she makes the ointments (ch2 ¶125, ¶153) from herbs an Epsilon boy brings her — and **analgesia**. The emergency generates the wounds and destroys the supply that dresses them, in the same fortnight, and nobody planned either.
+
+**The structural problem, and it is the real one: ch4 cannot be all disaster recovery.** Terrace wants the slower beat where she is just in high school, bemoaning that she is not out adventuring like Lewis.
+
+**The fix is that the high school is not a break from the plot, it is the plot.** She is at a desk while Lewis is on a truck. Both children were steered and chosen for; only one gets to *go*. He was pointed at EE and it came with a road, a crew, a rifle in a sunroof and a girl outside the perimeter. She was pointed at medicine and it came with homework. The envy is the argument, not a character note. **And an emergency makes the desk worse** — everyone in the world is suddenly busy and useful and she is in a classroom.
+
+So the shape is **slow → fast → slow**, and the second slow is where it lands. She is pulled in because they are short-handed, she is visibly good at it, best week of her life; then it ends and she goes back to the desk, and somebody tells her warmly that she handled herself well and will make a fine doctor. **The compliment is the trap closing** — shown the thing she wants, proven capable of it, and returned to school on the strength of it, by someone who thinks they are giving her a gift and is not wrong.
+
+Open and close in the classroom. Disaster holds the middle third only, so the reader's first and last image is a desk and the recovery reads as an interruption in her life rather than the subject of it.
+
+**Three things the slip makes you decide.**
+
+1. **Which doctor signs it.** Egghead connects Maddy to the person posted out to Diana's town — the link already flagged above. An unnamed MD is cleaner and wastes it.
+2. **What kind of document it is.** Strongest version is not pointed: **a physician writing a note writes a physician's note**, because the old conventions for a school absence are gone and nothing replaced them. What comes out is a duty log with *please excuse* at the top. Not making a point — just the only register they still have.
+3. **Whether anyone objects.** The receiver — a teacher — is the chance at the book's first actual dissent, as opposed to leakage: a person saying out loud that a fifteen-year-old should not be running a deficiency epidemic. Costs one exchange, and **nobody in the book has ever objected to anything.** If the school simply files it, that is the answer too, and the colder one: the institution agreeing she is staff now.
 
 **Ch5 — Collie and a professor of history.** A conversation months before a Senate meeting, on how their studies have taught them to least destructively absorb a dozen or so groups of organized and potentially violent young men.
 
@@ -191,8 +309,14 @@ Title register for the shop half is machinist — *Tolerance*, *Backlash*, *Runo
 
 ## Open
 
-- **Whose POV carries the water chapter?** Works department, but no individual is named yet, and the titling convention needs one before the title exists. Note a register collision: a works chapter lands in the same engineering English as ch2's *Continuity Test*, which weakens the one-register-per-character system by making two adjacent chapters sound alike. If the POV sits with someone on the receiving end at the farm instead, the register shifts to horticultural — *Hardening Off*, *Rootbound*, *Fallow* — and the distinction survives. Worth deciding rather than discovering.
-- **Is the temporary pipe built quietly or approved?** Quietly keeps Collie a smuggler and the *fides* register. Approved makes her a Patronus on the record — and then every other farm on the far side has a precedent to cite.
+- ~~**Whose POV carries the water chapter?**~~ Settled: Bréal and Maddy. The feared register collision with ch2 turned out overstated — hydraulics English (*Isolation*, *Head*, *Backflow*) reads nothing like electronics English.
+- ~~**Is the temporary pipe built quietly or approved?**~~ Moot once the farm became university land. No unaffiliated household, no precedent, no Collie.
+- **Bréal's naming reference** (`canon/pedigree.md:105`) is now due — he takes a POV chapter in ch3.
+- **How far is the farm from the tap?** Unset, and it governs the whole back half of ch3 — hose diameter, whether the run is viable at all, how long the lay takes.
+- **Do they have a tank, and is it uphill of the patch?** The buffer architecture is the plan's single point of failure.
+- **Does ch3 span two weeks in dated sections, or compress to the first charge?** The bigger, better chapter versus ch2's single-breath intensity.
+- **Does anyone in ch4 object to the slip?** Would be the book's first dissent rather than leakage.
+- **Ch4 or ch5 first?** Terrace's ch3 sequence ends *"which leads to the next chapter of Collie discussing with the history department"* — but the plan has Maddy at 4 and Collie at 5. The absorption argument is stronger immediately after the impressment.
 - **Collie and Egghead still need chapters.** An earlier recommendation of Collie at three and Egghead at four is superseded by the plan above, but the reasoning may still hold for later placement: the doctor's chapter wants to be the one where the affiliation rule gets *broken*, not the one where it gets set up, and only Collie can do the setting up. Egghead's register would be clinical — *Off-Label*, *Formulary*.
 - **What is the copper for?** Thirty kilos went through the perimeter in ch2 ¶141 and nothing has been built with it.
 
