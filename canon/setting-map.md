@@ -63,6 +63,14 @@ Two questions the continuity audit filed as open resolve the moment a node has t
 - **The water source.** Drawn gravity-fed from a protected upland watershed through a treatment works to a balancing reservoir — which is what supplies pressure, which is what ch3 races. Treatment sits *upstream* of the valve, so ch1 ¶13's UV budget line has a physical location, and cutting the municipal connection does not cut the university's treatment.
 - **The campus power.** Still dashed. Whether the university has its own district energy, or hangs off the substation like everyone else, is undecided — and the dashed gold edge to the ring, labelled *the flashing signals?*, is the same question asked from the other end.
 
+## The climate is pinned even though the place is not
+
+The blend leaves the jurisdiction unresolved; it does not leave the weather unresolved, because ch3 runs on the deficit.
+
+**Mediterranean-shaped year, rain-shadowed, roughly 640 mm annually** — concentrated October to May, with July and August near-desert at 15–25 mm. Choose the drier of the plausible coastal figures deliberately: it puts the setting **just above the threshold where dry farming remains a real practice rather than a comfortable default**, so an unirrigated season is survivable, argued about, and not free. The wetter figure would remove the argument.
+
+Consequence for the graph: **the campus farm is irrigation-dependent from May to September in every year, not only the bad ones.** The blue layer is therefore a food dependency as well as a drinking-water one, and cutting the municipal connection cuts both at once. No city is named and none needs to be.
+
 ## Open adjacencies
 
 1. Is the village (ch2 ¶43) the town (ch2 ¶41), or a smaller settlement on the same circuit?

@@ -64,6 +64,8 @@ The reframe first, because it is the strongest fact in this memo: **the maritime
 
 ## IV. Making arable ground out of a playing field
 
+> **Retired as a plot point on 2026-08-11.** Terrace cut the repurposed-playing-fields material; the farm's expansion is now glass and open field. This section is kept because the agronomy is sound and may serve elsewhere, but nothing in the chapter should depend on it. See `notes/spitball.md`, *What the farm actually is*.
+
 What amenity turf actually is, agronomically: **compacted by design and traffic, with its organic matter concentrated in the top few centimetres** as thatch and root mat, over a subsoil that has often not been loosened in decades. Bulk density is high, infiltration is poor, and rooting depth — the whole basis of Section I's stored-moisture calendar — is shallow until the compaction is physically broken.
 
 **Sand-capped fields are a separate and worse case.** Sports-turf construction deliberately caps the ground with a deep sand rootzone *because* sand sheds water and resists compaction; the standard specification is around 30 cm of conforming sand. Sand holds roughly 0.05–0.10 cm of plant-available water per cm of depth against roughly 0.15–0.20 for loams, and has a fraction of the nutrient-holding capacity (cation exchange). **The sand cap is a decision the ground remembers.** Fertility can be composted into it season by season; water-holding capacity at depth cannot be, on any timescale shorter than decades of heavy organic-matter import. The realistic disposition is to treat sand-capped ground as the *last* to dry-farm and the first claim on whatever irrigation or stored water exists — or to hold it in fall-sown crops and early potatoes that finish before the deficit, per Section I.

@@ -71,7 +71,7 @@ digraph setting {
     // ---------- out past the ring ----------
     Town [label="THE TOWN\nSaanich-shaped: sprawl,\nno core, farmland threaded\nthrough the housing", fillcolor=grey90];
     Fields [label="the fields\nbutter, leather, jam\ninterleaved, not separate", fillcolor=grey90];
-    Farm [label="ELBAKYAN FARM\nbeyond the valve\n(ch3)", fillcolor=grey90];
+    Farm [label="THE UNIVERSITY FARM\nElbakyan patch within it\nglass + open field\nCAMPUS land, beyond the valve\n(ch3)", fillcolor=white];
     Village [label="the village\nsame as the town?\nOPEN", fillcolor=grey90, style="rounded,filled,dashed"];
     OtherTown [label="another town\nch2 P47 — a NETWORK,\nnot one settlement", fillcolor=grey90, style="rounded,filled,dashed"];
 

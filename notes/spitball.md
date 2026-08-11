@@ -143,11 +143,20 @@ Terrace's premise: the school of medicine says it is absolutely imperative that 
 
 **And it is not a granary, a hayfield or a beef operation.** Ch2 confirms this by what arrives: *butter and leather*, not cattle. **The herd is in the country.**
 
-**The expansion is area without fertility.** A campus of that kind has maybe twenty-odd hectares of real farm; expanding it in the early years means converting what universities have most of — playing fields, lawns, an arboretum, endowment land. That yields a great deal of ground that is compacted, low in organic matter, and often **sand-capped for drainage.** So it explains why they import calories despite holding land: they have hectares and not soil. *Research pending in [`research/cropping-a-summer-dry-coast.md`](../research/cropping-a-summer-dry-coast.md).*
+**The expansion is glass and open field. Terrace has cut the repurposed-playing-fields material, which was marginal anyway.** A campus of that kind has maybe twenty-odd hectares of real farm, and the sane way to expand it is the way a research station expands: **more protected cropping and more of the ground already in cultivation.** Polytunnels, the horticulture teaching houses, cold frames, propagation benches — plus whatever open field the farm already held, worked harder.
+
+That gives the farm **two estates that fail differently**, which is worth more than a third estate that fails stupidly:
+
+- **Under glass** — small area, enormous value per square metre, **100% irrigation-dependent because no rain ever reaches it.** 5–10 L/m²/day, higher per unit area than field, but the areas are tiny so the absolute demand is small.
+- **Open field** — most of the hectares, most of the tonnage, rain-assisted eight months a year and wholly irrigated for the other four.
+
+It still explains the calorie import without needing bad soil: **they have a research farm, not a granary**, and a research farm is not trying to feed anybody. *Supporting work in [`research/cropping-a-summer-dry-coast.md`](../research/cropping-a-summer-dry-coast.md).*
 
 #### The irrigation deficit, and when a failure is worst
 
 **That coast has a Mediterranean-shaped year** — wet October to May, near-desert July and August. So irrigation is not supplemental there; it is the entire second half of the season, and the farm was always water-dependent.
+
+**Pinned to the drier of the two candidates: roughly 640 mm a year, rain-shadowed.** The summer months are nearly identical either way — July is 15–25 mm whichever coastal city you take — so the *emergency* plays the same. The difference is the fallback. At ~640 mm the farm sits **just above the ~500 mm floor below which dry farming stops being a practice and starts being a gamble**, so unirrigated cropping is real, marginal, and something people argue about. At the wetter figure (~1,200 mm) dry farming is comfortable and the tension evaporates. Pin the dry one. It also gives the setting a genuine summer-drought identity rather than a bad month. Recorded in `canon/setting-map.md` without naming a city.
 
 | | Rain | ET₀ demand | Deficit |
 |---|---|---|---|
@@ -171,14 +180,25 @@ Terrace's premise: the school of medicine says it is absolutely imperative that 
 
 **Mid-July is also peak fire season**, which puts a depressurised network with its fire hose stripped for the bypass in the worst possible month — and ch2 ¶101 already has *"the last fire from inland"* on the page. Both of the chapter's catastrophes share a date.
 
-**The soil decides who dies first, and it is not triage.** Available water in a metre of root zone runs 150–200 mm in a good loam against 40–60 mm in sand, with turf roots only 30 cm down anyway. At 5–6 mm/day:
+**A number stamped on a fitting decides who dies first, and it is not triage.** Sprinklers need **2–4 bar** to throw a pattern at all; below that they stop distributing and start making expensive mist, wetting the first two metres and evaporating. Drip runs at **0.7–1.4 bar**, and low-head tape on a few metres of head. So as pressure falls the two estates cross a threshold months apart in consequence and minutes apart in time:
 
-| | Water in hand | Visible stress | Dead |
+| | Runs on | Fails at | Outcome |
 |---|---|---|---|
-| **The old farm** — decades of compost, deep roots | ~150 mm | ~2 weeks | ~4 weeks |
-| **The expansion ground** — converted turf | ~25 mm | **2–3 days** | **4–6 days** |
+| **Under glass** — drip and benches | 0.7–1.4 bar | below ~0.7 bar, i.e. essentially never | **Lives.** Fed off a bypass a fire hose can charge |
+| **Open field** — sprinkler mains | 2–4 bar | the moment the network sags | **Dies.** And a hose bypass cannot restore sprinkler pressure |
 
-Against a week to get water to roots: **the expansion ground is dead before the bypass is charged, and the old farm is right at the edge.** Nobody ranked that. It was decided by which fields were rugby pitches.
+**The glass lives and the fields die because of an equipment decision made years ago by somebody buying irrigation.** Nobody in the chapter chooses it and nobody can overrule it. That is the same shape as the two clocks and the red phone — a locally correct decision, made in advance, producing a catastrophe nobody is responsible for.
+
+**And this fixes the seed loss rather than contradicting it.** Increase plots need *area* and *isolation distance*, so they are open field by definition — you cannot multiply a region's supply on a bench. What is under glass is the **breeder and foundation seed**: tiny quantities, precious, and isolated by the structure itself, since a greenhouse is an isolation device. So:
+
+- **The foundation seed lives.** The university keeps the ability to start again.
+- **The increase fails.** The region has nothing to sow next spring, and rebuilding supply off foundation stock is two to three seasons.
+
+Recoverable in principle and by nobody in practice — **the same flavour of loss as the port** (`canon/setting-map.md:51`), which is a good rhyme to have twice.
+
+**Plus the invisible one.** Whatever increase got *partially* watered produces seed that threshes, weighs and looks perfectly normal, because **maternal drought stress degrades germination and vigour transgenerationally.** It fails the following spring, in somebody else's field, and nobody traces it back.
+
+**Which makes Nona's canvas a decision about *which houses*, not a field improvisation.** Shade cloth over glass is routine summer practice — the houses run hot and get covered every year. What is not routine is needing every house covered at once, which is the shortfall: the inventory was sized for partial deployment because partial is all anyone ever needs, **and some of it went out to a town that needed it worse.** Canvas is a manufactured good and manufactured goods are what this university exports (ch2), so the export is the established pattern producing the gap. Nobody at fault, twice over.
 
 #### How much of the crop is lost
 
@@ -190,13 +210,20 @@ Against a week to get water to roots: **the expansion ground is dead before the 
 | **Perennials** — fruit, nuts, hops, tea, medicinal stock | ~10% of standing stock | Reduced yield for a season |
 | **Market garden** — the perishables nobody else can supply | Most of it | The campus eats what the towns send, which is worse and duller |
 | **Seed increase and propagation** | Most of it | **A region's planting year.** See below |
-| **Field annuals on the expansion ground** | All of it, before anyone reaches them | Fertility programme set back, since the legumes were also the nitrogen |
+| **Open-field annuals** — the sprinkler ground | All of it, the moment the mains sag | Fertility programme set back, since the legumes were also the nitrogen |
+| **Under glass** — foundation seed, propagation, the precious pharmacopeia | ~0%, on drip off the bypass | None. The recovery capacity survives intact |
 
 **The catastrophe is the seed, and it is a regional loss.** If the campus farm is where the region's seed comes from, losing the increase plots does not cost the farm a year — **it costs every town on the circuit a year**, and they will not find out until they go to sow. It is deferred twelve months, it looks like a bed of seedlings gone brown, and it is four items down a list Nona is helping her professor write.
 
-**And the shortage gets exported.** A net-importing capital with a failed harvest does not starve; **it raises its demand on the hinterland.** More butter for the same medicine, months later, settled in a polite negotiation. The instrument is already on the page — ch2 ¶17: rubber gloves *"now cost two vials of poppy,"* and **_"The trucks will be going elsewhere next month."_** Not a rifle. The route.
+**The shortage does not get exported — it stays. Terrace killed the earlier version of this paragraph and was right to.** It assumed the towns hold no stocks, which is backwards: **a farming community stores a year's surplus by construction**, because that is what a harvest is. Nothing about a broken main upstream of a campus touches a granary sixty kilometres out.
 
-So the university survives ch3 by making the countryside pay for it, and nobody in the chapter visits the town that settles the bill.
+And the campus never fed itself, so **no calorie deficit is created at all.** The trucks keep coming; butter, leather and jam are not what died. What died is the fraction nobody could ever ship — the perishables the farm existed to grow because a convoy cannot carry them.
+
+**So the deficiency relocates onto the campus, and that is far better.** Beri-beri, scurvy and pellagra are **institutional diseases** — navies, prisons, garrisons, asylums, work camps. Not diseases of the poor generally; diseases of **a population fed by an administration on a procured diet.** Which is exactly what a campus is. The hinterland eats its own mixed harvest and is fine. The dining hall serves what arrived on a manifest, and the manifest has no greens on it.
+
+**And the casualties are the men who hauled the hose.** Highest labour load, institutional board, no garden of their own — the brothers who dug in July are eating the narrowed diet in November. **Epsilon saves the university and Epsilon gets sick**, and nobody connects the two events because they are four months apart. That is the ch3→ch4 handoff, and Maddy is the one who sees the ward fill.
+
+Ch2 ¶17's instrument still stands — gloves *"now cost two vials of poppy,"* and **_"The trucks will be going elsewhere next month"_** — but it is not a bill for calories. It is the same leverage doing its ordinary work while the university's own people go short.
 
 - **Animals are an order of magnitude cheaper to water than crops**, which is worth knowing wherever the herd is. Beef 25–70 L/head/day, dairy 60–150, sheep and goats 4–12, pigs 10–30, hens 0.2–0.4. A hundred cattle is ~5 tonnes a day — half a tanker load — against 50 tonnes for one hectare of crop. **So no animal on this map dies of thirst.** The November cull happens anyway, in the countryside, because the *forage* failed rather than the water — and since the herd is rural, that bill lands on the towns and reaches campus only as less butter next spring. The consequence outlives the memory of the cause, and it also travels.
 - **The pharmacopeia survives and its future does not.** Drip line is finite and goes to what is irreplaceable, so standing stock lives and **the propagation beds, cuttings and seed stock go.** They end the season with exactly what they started with and no way to have more next year — a loss that shows up three years later as a plateau, not as damage.

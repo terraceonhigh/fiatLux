@@ -12,8 +12,8 @@
 |---|---|---|---|
 | **1** | *ante finem mundi* — **posted** | Three women, three children, and a university quietly cutting its UV disinfection budget. | Latin — Collie's |
 | **2** | *Continuity Test* — **posted** | Lewis runs copper out of a dead city, spends a sage errand as an alibi, and greases a hinge at a lodge behind a thicket. | Engineering English — Lewis's |
-| **3** | The water emergency | Pressure drops on the mains, the university cuts the municipal connection to save its own, and the works department and a second frat mobilisation haul pipe toward horticultural spaces the trucks cannot possibly water. | Works/trades — or horticultural if the POV sits at the farm |
-| **4** | Maddy | Stuck in high school, tailing the MDs, being made into a doctor by Collie since the day she took to the apothecary — and nobody has yet asked whether she wants it. | Pharmacy — *Compounding*, *Titration* |
+| **3** | *Isolation* — **drafting** | Pressure drops on the mains, the university cuts the municipal connection to save its own, and a second frat mobilisation hauls hose toward ground the pressure will never reach. | Works/trades — Oyá's and Bréal's |
+| **4** | *Boil Water* | Stuck in high school, tailing the MDs, being made into a doctor by Collie since the day she took to the apothecary — and nobody has yet asked whether she wants it. Ch3's diggers are her ward. | Pharmacy — *Compounding*, *Titration* |
 | **5** | Collie and the historian | Two humanities academics, months before a Senate meeting, working out how to absorb a dozen bands of organised young men without being taken over by them. | Latin — Collie's |
 | **6** | The minutes | Chapter five's private argument as it survived into the public record — tabled findings, citations, a vote count — with the subtraction left to the reader. | Institutional; the minute-taker is the invisible POV |
 | **7** | Diana | Her trapline, her mother, her jam, and her own town every other other week, in a life that does not arrange itself around his visits. | Trapping — *Blind Set* |
