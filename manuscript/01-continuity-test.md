@@ -8,7 +8,9 @@ Maia always hugged him tight before they headed out, he couldn't bear to tell he
 
 At her behest, he double-checked his backpack: one large electrician's toolkit (packed last night), two pairs of insulating gloves, one hardhat, one tourniquet and first aid kit. One large vial of mead, one medium vial of mead, and one small vial of grease and ointment each.
 
-*Go get them, champ.* His father would say.
+*Best bring back all your fingers, boy. They're for the saws to eat. If you lose one, though, the going rate is two pounds of sausage to a finger.*
+
+*No it ain't, heed not your driveling father beyond the first sentence.*
 
 The truck bed smelled of french fries as it rolled down the highway towards the city. The governor was set at sixty kilometers an hour, with a screw that his father made sure he knew how to turn before his first outing. The biscuits had a taste of ginger from Nadia's patch, and covered the slight rancid smoke from the exhaust.
 
@@ -38,7 +40,7 @@ Lewis took out his flint and knife and told the egghead to lean in. She kept one
 
 *It ain't so bad once you get used to it. Right, and you oughta try these biscuits from my auntie.*
 
-They got to the town before sundown. Bréal dapped up the two campus guards who said something about can't wait to eat at the dining hall again after a month out in the country, before they got to briefing the two guards from the caravan who would be their replacement. 
+They got to the town before sundown. Bréal dapped up the two campus guards who said something about can't wait to eat at the dining hall again after a month out in the country, before they got to briefing the two guards from the caravan who would be their replacement.
 
 The other med student had been here for three months, and handed over to Egghead the binders for the village and which patient was on what for how long, and which old man could never be trusted to take his pills so make his son make double sure.
 
@@ -46,7 +48,7 @@ He caught the general store just before it closed, and got himself a link of sau
 
 The rest could wait, for tonight, they just had to sit around the town fire and share the soup the folks had made. Lewis took from the truck five jars of honey from the campus and a dozen of the smoked salmon from another run by another crew to another town.
 
-The schoolteacher hugged her beau, who rode the truck behind him and Egghead. Around the fire Lewis could see them holding each other and exchanging stories. By the book, she still had five more months with this class before she would come back to the university. 
+The schoolteacher hugged her beau, who rode the truck behind him and Egghead. Around the fire Lewis could see them holding each other and exchanging stories. By the book, she still had five more months with this class before she would come back to the university.
 
 ---
 
@@ -54,13 +56,13 @@ The copper run took place south of the town, when the rest of the trucks were al
 
 ---
 
-The clock on the wall said two in the morning and the overcast shade said about noon. Lewis wiped off the grease on his hands and bit into a sausage with his left, while his right sorted the rounds that would be of use for Bréal from another pile destined for his backpack. Someone had an ex-police laptop open and connected to a phone that was meant to be a display unit but now impressed into University service.
+The clock on the wall said two in the morning and the overcast shade said about noon. Lewis wiped off the grease on his hands and bit into a sausage with his left, while his right sorted the rounds that would be of use for Bréal from another pile destined for his backpack. Someone had an ex-police laptop open and was jailbreaking a phone that was once a display unit.
 
 *My auntie said she needed some sage, so pardon me while I grab some.*
 
 *Sure, lil bro, good luck out there.*
 
-Behind the thicket there was a blind with the littlest path to a lodge, and from there a dirt road back into town.  
+Behind the thicket there was a blind with the littlest path to a lodge, and from there a dirt road back into town.
 
 One knock, two, then out with four.
 
@@ -138,7 +140,15 @@ He left a jar of Nona's honey she told him to keep for himself, and put into his
 
 *Mother says hi, and to mind the trip home.* A kiss. And he was on his way.
 
-He met the crew back at the parking lot, Bréal said something about how sweet sage must burn if its smoke can lose him in a forest, *shut up*. Someone else chuckled, and they went past university perimeter with thirty kilos of copper.
+He met the crew back at the parking lot, the underside of his fingernails still peppermint-numb.
+
+Bréal counted the convoy before they headed back. 
+
+Thirty kegs of salted butter, five sides of leather, twenty crates of jam. Seven bags of pool shock, Two shipping boxes of laptops and speakers and headphones. A requisitioned trailer pulling two requisitioned generators cached and hidden two weeks ago.
+
+One freshman relieved after two weeks under a tarp. Egghead's predecessor, hugging the town children, two Campus Security guards and a Pelican case between them.  One high-school aged child with a letter from the schoolteacher and a rucksack embroidered with red thread. The convoy was short one beau, and the town was up one carpenter. 
+
+Someone in the cab said something about how sweet sage must burn if its smoke can lose him in a forest, *shut up*. Someone else chuckled, and they went past university perimeter with thirty kilos of copper.
 
 Maia made him swear that the mead went to the guards and the boys respectively, and he could honestly say yes. Maddy made her ointments with a bundle of herbs from another Epsilon boy. Madam Swartz did not say anything, but served the next breakfast with butter and huckleberry jam. The week after that, she brought cake batter to the bakery and layered it with the jam when she got it home. She told Lewis to bring a slice to Bréal.
 
