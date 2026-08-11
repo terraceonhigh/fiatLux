@@ -132,5 +132,9 @@ The truck rumbled down University Road at eighty an hour. Bréal spoke into the 
 
 From outside the rolled-down window: *Oorah!*
 
+Valve E-2 connected the municipal water mains to the university farm, and then entered the campus proper through the South Station. Oyá circled where it would be from what the team at Windsor Station described, in the red marker. Then, it was simply an issue of calling the agronomy and medicine departments with the utmost composure she could muster.
+
 ---
+
+Ms Nona Elbakyan was instructed to help her professor enumerate and produce a list of the crops, in descending order of priority. 
 
