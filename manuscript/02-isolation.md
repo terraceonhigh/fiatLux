@@ -54,12 +54,13 @@ The map on the table was printed the same day Oyá was born. The professor's scr
 
 *South Station, readback on gauge three-four-three.*
 
-*Right, uh, sorry, field team one reported 2500 milibars half an hour ago.*
+*Right, uh, sorry, field team one reported 250 kPa half an hour ago.*
 
-*Radio them for the another readout.*
+*Radio them for another readout.*
 
 *Standby...*
-*2433 milibars, Grand Central.*
+
+*243 kPa, Grand Central.*
 
 *Thank you, South Station.*
 
