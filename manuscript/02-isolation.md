@@ -14,7 +14,7 @@ The professor said something about oak chips and about the chemistry department.
 
 ---
 
-The odometer slaved to a bob in the south tank stayed the same number while the day got warm. The professor folded a page out from the extracurricular publication.
+The odometer slaved to the south inlet turbine stayed the same number while the day got warm. The professor folded a page out from the extracurricular publication.
 
 A yellow LED came on.
 
@@ -44,7 +44,7 @@ The phone fizzed to life.
 
 *And one more with a high-gain radio, I want the city on the line.* The professor shouted from the record room.
 
-*And one communication truck to establish contact with city water works.*
+*And one communication truck to establish contact with city water works at 1215 Windsor Street.*
 
 *South Station receives.*
 
