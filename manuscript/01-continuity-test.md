@@ -142,11 +142,11 @@ He left a jar of Nona's honey she told him to keep for himself, and put into his
 
 He met the crew back at the parking lot, the underside of his fingernails still peppermint-numb.
 
-Bréal counted the convoy before they headed back. 
+Bréal counted the convoy before they headed back.
 
-Thirty kegs of salted butter, five sides of leather, twenty crates of jam. Seven bags of pool shock, Two shipping boxes of laptops and speakers and headphones. A requisitioned trailer pulling two requisitioned generators cached and hidden two weeks ago.
+Thirty kegs of salted butter, five sides of leather, twenty crates of jam. Seven bags of pool shock, two shipping boxes of laptops and speakers and headphones. A requisitioned trailer pulling two requisitioned generators cached and hidden two weeks ago.
 
-One freshman relieved after two weeks under a tarp. Egghead's predecessor, hugging the town children, two Campus Security guards and a Pelican case between them.  One high-school aged child with a letter from the schoolteacher and a rucksack embroidered with red thread. The convoy was short one beau, and the town was up one carpenter. 
+One freshman relieved after two weeks under a tarp. Egghead's predecessor, hugging the town children, two Campus Security guards and a Pelican case between them. One high-school aged child with a letter from the schoolteacher and a rucksack embroidered with red thread. The convoy was short one beau, and the town was up one carpenter.
 
 Someone in the cab said something about how sweet sage must burn if its smoke can lose him in a forest, *shut up*. Someone else chuckled, and they went past university perimeter with thirty kilos of copper.
 
