@@ -100,3 +100,37 @@ The phone clicked shut with a thud.
 
 ---
 
+*Grand Central, Operator. I have the team at Windsor on the line. Connecting you now.*
+
+*Perun, get me some good news.*
+
+*Hate to disappoint, Prof. We found two guys and a red phone that nobody on the other side picked up.*
+
+*Any information you got on why the pressure dropped?*
+
+*An iron segment gave at midnight, corroborates with our downtown clinic reporting dropping pressure on their daily radio.*
+
+The professor covered the microphone, and told Oyá to issue evacuation orders for the community clinics on the office phone.
+
+*Anything else?*
+
+*Yes, get those valves turning on their end, and take whatever maps they have that aren't twenty-years old. Bring the two workers back to the university.*
+
+*One sec... The shift leader said they already tried the valves. About three neighbourhoods are already bone-dry and the rest of the city will depressurize by 8pm.*
+
+*You have a pin on the broken segment?*
+
+*Yes I do. Clark Street and Erickson Street.*
+
+*That will be all. I will hand you back to South Station.*
+
+---
+
+The truck rumbled down University Road at eighty an hour. Bréal spoke into the CB radio thus:
+
+*Friends, Brothers, Epsilons. Now hear this, the university's fate is in our hands. The city's water is dying, and if we don't dig up and turn those valves by sundown we get poisoned as well. That shovel in your hands is here today not just for you, but for what it means to wear this seal, for your mama huddled in our house, and that chick you are so fond of. Till Valhalla!*
+
+From outside the rolled-down window: *Oorah!*
+
+---
+
