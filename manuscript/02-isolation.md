@@ -54,13 +54,49 @@ The map on the table was printed the same day Oyá was born. The professor's scr
 
 *South Station, readback on gauge three-four-three.*
 
-*Right, uh, sorry, field team one reported 250 kPa half an hour ago.*
+*Right, uh, sorry, field team one reported 25.5 meters half an hour ago.*
 
 *Radio them for another readout.*
 
 *Standby...*
 
-*243 kPa, Grand Central.*
+*14.3, Grand Central.*
 
 *Thank you, South Station.*
+
+0.7 meters over half an hour, that's 1.4 per hour, contamination starts at 14.3...
+
+The professor began using the red marker.
+
+Check time, the wall said 1104, contamination begins at around 1730.
+
+*South Station, prepare eight work parties at your location, details to follow. Phone the Douglas station and send a runner with the message "Isolate northern municipal ingress, begin filling trucks".*
+
+*South Station receives.*
+
+---
+
+Bréal went downstairs to fill his water jug, and let it run for about ten seconds until it was clear. Must be the university patching the pipes again.
+
+It was ice-cold, and tasted faintly of blood.
+
+He whittled his pencil, and considered how to convince the Rector not to look too close at the pledge records this semester. Then onto more pragmatic matters, if an extra circle on top of a "0 credits this term" read convincingly enough as an 8.
+
+A brother called for him to the common room, said a Madam Oyá asked for the bossman on the phone, and that it was urgent.
+
+*You're talking to him.*
+
+...
+
+*I see.*
+
+...
+
+*Loud and clear, thirty minutes.*
+
+The phone clicked shut with a thud.
+
+*If you would ring the bell and rouse the men with me. I want every brother in their work gear and at the driveway in ten.*
+
+---
 
