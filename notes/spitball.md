@@ -624,6 +624,70 @@ It also supplies the pressure loss without inventing breaks — hydrants open ev
 
 *The visual, using machinery already built:* ch2 ¶147–149 is a **manifest** — thirty kegs of butter, five sides of leather, one freshman relieved from under a tarp, one high-school child with a letter. Bréal counts the convoy. **Now the count includes two bodies and a telescope.** Same trucks, same enumeration, one new category.
 
+##### The state burial — Terrace's beat, 2026-08-12
+
+**The bodies are found, and somebody has to work out how to bury them, at the exact moment the university has woken up into statehood.** It now holds coercive capacity via the sanctioned frats. It has never had to perform itself before.
+
+**The forms exist and have been sitting in the costume department the whole time.** A university is a pre-modern corporation: processions, robes, beadles, a chapel, obit rolls, a **mace** — which is a club that became ceremonial and, in an institution regaining coercion, un-becomes ceremonial. The thing carried at convocation is a weapon and everyone remembers at once.
+
+**Two people in this book already know exactly what a funeral is, and they know different halves of it.**
+- **Collie**, the classicist, knows what it *means*: the Roman aristocratic funeral was a political act — the *laudatio funebris* in public, the ancestor masks carried in procession. A funeral is where a state performs itself.
+- **The ch5 emeritus** knows what it *transmits*: Soviet funerals were the primary Kremlinological text. Who stood where on the mausoleum, in what order the pallbearers walked. **He has to design a document knowing it will be read the way he reads them.** This is the strongest possible follow-on from ch5 and costs no new machinery.
+
+**And the first state funeral defines who counts.** That is the beat's real engine. Ch3's diggers and ch4's ward died *first* and got nothing, because there was no state yet to give it. Two researchers get honours and a hundred students who dug got a list. Diana will never get one. Nona nearly died unaffiliated. **The register again, in its first ceremonial form.**
+
+*Candidate slot: ch7 — Maia's chapter, since Maia is the one who takes the child.*
+
+##### The Senate motion, and the license
+
+**Terrace, 2026-08-12.** There is a beat in the Senate: **Collie — or somebody Collie whispered to — sponsors a motion to approve a university funeral for the Doctors Lacks, and from there a license for the Swartzes to produce two copies of the gonfalon.**
+
+**The third-remove pattern from ch5 repeats exactly.** She whispers; somebody else moves it; the Senate emits a document. The cut minutes chapter comes back as a *beat* instead of a chapter — a sponsor, a motion, a resolution — which is the device surviving at the right size.
+
+**The license is the moment the university becomes a state, and it is not the frats.** Regalia is controlled property; you may not simply make a gonfalon. So the Senate has to **authorise the manufacture of its own symbols**, and it issues that authority to *private persons*. That instrument has a name: **letters patent** — a grant from a sovereign permitting a private party to do something only the sovereign may do. Minting, holding a market, bearing arms. Heraldic right is *granted*, never taken; that is what a college of arms is for.
+
+**Coercive capacity was never the threshold. The grant is.** Because a grant implies the standing to withhold — and the first time this university withholds one, everybody will know what it is.
+
+**And the household walks out of a funeral holding a franchise.** All three readings are true at once and none of them is villainous: Collie wanted her friend's colleagues buried properly; the license was a procedural necessity to get the cloth made at all; and the Swartzes are now **the licensed producers of state regalia.** She did not ask for money or a post. She asked for a warrant. *(Whether she saw the third one coming is not a question the book has to answer.)*
+
+**Register, once more:** a license names who may, which means it names who may not.
+
+##### The coffins — Tsien father and son
+
+**Terrace, 2026-08-12: the coffins are built by Mr Tsien and Lewis, with whoever was on the initial assessment party.** The men who found them build the boxes, which is the guild answer again — you handle your own dead.
+
+**And the maxim is already written.** ch1 ¶25–27: the father takes the controller apart, shows Lewis where the wire to the motor had gone loose, and says *"Remember, always test before you put the shell back together, save you some time."* **That sentence, over a coffin.** Nothing needs adding and nothing should be pointed at.
+
+Lewis is also the household's salvage hand, and pallets are salvage — the wood arrives through the same channel as everything else he brings home.
+
+*Worth naming so it stays a choice:* **the men build the boxes and the women make the flags.** Historically exact for a pre-modern funeral, and it is the one beat in the book where the men have the task — in a book that has been female-led throughout. Mrs Tsien went up for the instruments and found the bodies; Mr Tsien and Lewis build what they go into. **Maia's family handles her friends end to end.**
+
+**Terrace's image, 2026-08-12:** *"planks and nails taken from old pallets, stained with whatever passed as stains. Maia stitching a facsimile of two university flags to be draped atop. Coworkers from the sciences being the pallbearers."*
+
+**Revised the same day — it is the whole household's work, not Maia's alone.** *(Terrace: "this feels more like something all the Swartz women would contribute to.")*
+
+**The rhyme is already on the page, and it is the best thing here.** ch1 ¶75: *"the laminated cards that Maia and Collie wrote in longhand and signed"* — *"delivered over three pots of tea, while the children played with the console in the living room."* **The women hand-made the household's first official documents at a table; now they hand-make the state's first regalia at the same table.** Same hands, same improvisation, one register up — and the tableau repeats with a child in the next room who has no parents. A polity whose flags are sewn by friends of the deceased is a polity with no flag office yet, which is the entire "just awoken into statehood" premise in one action and no exposition.
+
+**What each of them brings is already established, which is why the scene costs nothing:**
+
+- **Nona cuts the cloth.** She knits (ch1 ¶3), and in ch3's sequence she *"requisitions canvas; cuts cover; chooses where it goes."* **The same shears did triage two chapters ago and do ceremony now** — she cut canvas to shade dying plants, and cuts cloth for a flag. Nothing needs saying.
+- **Collie supplies the form.** The classicist knows what goes on it, in what order, and what is said over it. She is also the one who brought cake batter to the bakery and layered it with jam (ch2 ¶153): domestic production that means something is her register.
+- **Maia's part is not a skill.** She is there because they were her friends, and she is the one who found them.
+- *Recommendation, unratified:* **Nadia supplies the colour.** She grows things — the ginger in ch2 ¶15 — and dyestuff is horticulture: madder, weld, woad, walnut hull. The stain on the planks and the dye in the cloth come out of the patch.
+- **Maddy is the complication.** Her ward filled with ch3's diggers and none of them got this. She is roughly seventeen and holds an opinion nobody asked for.
+- **And the open question is whether the Lacks girl is in the room** while they sew the flags for her parents' coffins. Either unbearable or exactly right; not mine to settle.
+
+**This may be the book's structural signature rather than one scene.** Ch5 transacts the state's business in an office over mead. The obstetric chapter transacts it over bread. This transacts it over cloth. **The polity has no capacity of its own, so its business keeps happening at the Swartz table** — and every time, the women are doing it because there is nobody else to do it, not because they were asked.
+
+Notes toward the objects, none of them load-bearing:
+
+- **Pallet wood carries the stamps of the dead trade system.** Pallets in international shipping are marked IPPC — *HT* for heat-treated, *DB* debarked, plus a **two-letter country code**. So the coffins are built from the last physical evidence that global shipping existed, and one of the planks says where it came from. The port thread in the woodgrain, requiring no comment.
+- **What passed as stains.** Walnut hull is the traditional and likeliest. **Iron acetate** — vinegar and steel wool — reacts with tannin and greys wood toward black, and both inputs are free. Lampblack and oil if they have oil. And **potassium permanganate**, which browns wood and which the *water works* stocks as an oxidant — a coffin stained with a water treatment chemical, in the year the water failed. *(Not pool shock: ch2 ¶147's calcium hypochlorite would bleach the wood, not darken it — available, and the wrong reach.)*
+- **The object Maia is imitating is probably a gonfalon** — the ceremonial faculty banner carried at the head of an academic procession, one per faculty, and real ones would exist in a storeroom. Which sharpens rather than spoils it: either there are only so many and they belong to the living, or the improvised copy is the point.
+- **Two flags because two coffins**, and the doubling is what makes it a ceremony instead of a burial. A state learning this has to learn it twice at once.
+- **Pallbearers from your faculty is the guild answer**, and it is correct — your guild carried you, your college carried you. It also runs the register one more time: colleagues from the sciences have standing to carry, and the frat boy who dug in ch3 and died in ch4 had nobody who did.
+- **Nona knits** (ch1 ¶3). Whether Maia sews alone or the household sews together is a real choice and changes what the object is.
+
 ##### The rest of her
 
 **She was raised at the outpost, and she is literate** — her parents were researchers and taught her. Literacy is no longer a guarantee and is what makes her apprenticeable at all. **Before she came down she had known about two dozen human beings in her life.** She goes from that to a university, and later to a table with six people at it.
