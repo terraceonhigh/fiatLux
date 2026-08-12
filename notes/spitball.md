@@ -562,6 +562,49 @@ Her register for the title is astronomical and horological: *Transit*, *Meridian
 
 **One craft warning: an observatory chapter goes inert without a deadline.** An almanac is a publication — it must be finished *before* the period it covers. Give her a hard date and no way to check her own work.
 
+#### The timeline — computed 2026-08-12
+
+**Terrace's anchors:** *Lewis is 16 in ch2*; *Collie's bus ride is year 0*; Maddy is 18 in the obstetric chapter; that chapter falls one or two years after the depressurization.
+
+**What the prose actually pins.** Only three things. Lewis is twelve at ch1 ¶23. The chlorine rises *"two years after"* the food-bank meeting (ch1 ¶13) — the only interval written anywhere. And the three women share a flat before any of the children (ch1 ¶1–5, `pedigree.md:21`). **Collie's career clock is ordered but never measured** — grad student → adjunct → Senior Lecturer → Doctor, with no year on any step. So the spine is Lewis's age, and year 0 hangs off one free parameter: **Lewis born in year B, B ≈ 2–5**, depending how fast Maia left the flat.
+
+| Year 0 + | Lewis | Event |
+|---|---|---|
+| 0 | — | **Collie's bus ride.** Grad school, hungover. Three women, one flat, no children. Portal says `waitlisted`. |
+| B | 0 | **Lewis born** to Maia. |
+| — | — | Collie makes adjunct. The long-awaited flat. The grain-dole video, the food bank director in the next slot. |
+| — | — | **Maddy born**, then **Nadia**, both **2 years** behind Lewis. |
+| +2 from the meeting | ~3 | Chlorine up. **The contract review cuts the UV budget.** First domino; nobody notices. |
+| B+7 | 7 | **ch1 §C** — Nadia's POV. Maddy 5, Nadia 5. *Nadia wishes the observatory would move closer.* |
+| B+12 | 12 | **ch1 §D** — the bunk, the console, the loose motor wire, Maddy's bike with the seat too high. Maddy 10. |
+| B+13 | 13 | **ch1 §E** — the clinic. Collie now Senior Lecturer and Doctor. |
+| B+13/14 | 13–14 | **ch1 §F** — Christmas to April. The flats open, the silver goes up three floors, the laminated cards. **Collapse onset.** |
+| B+16 | **16** | **ch2 — *Continuity Test*.** Maddy 14, Nadia 14, Diana ~16. Year ~3 of the collapse. |
+| B+18 | 18 | **ch3 — *Isolation*** (July). **ch4 — *Boil Water*** (November), Maddy 16 and in high school. **ch5 — the historian.** |
+| B+19 | 19 | **The observatory relocation.** See below. Lacks comes down, 8–9. |
+| B+16→22 | 16→20 | **ch6 — Diana.** Spans years, overlapping most of the above. |
+| B+19/20 | 19–20 | **ch7 — Maia.** |
+| B+20 | 20 | **ch8 — the marriage.** Lewis in college. **The obstetric chapter**, Maddy 18. |
+| B+21/22 | 21–22 | **F2 arrives** via Lewis. Lacks is 10–11 — a fixture in the house before the baby, and old enough to be handed it. |
+
+**Two settings make the four constraints close, and neither is derivable — they are canon decisions.** The **Lewis–Maddy gap is 2 years** (a 3-year gap forces the obstetric chapter to depressurization + 4, breaking *"one or two"*), and **ch3 falls ~2 years after ch2**. Gap-2 checks clean against the prose: §C is Maddy 5 / Lewis 7 (*"a bit older"*), §D is Maddy 10 / Lewis 12 (seat too high). **Ch3's draft pins nothing** — no date, no Lewis, only *"twenty-years old"* maps — so the window is free.
+
+#### The relocation moves after ch5, and becomes the first *sanctioned* activation
+
+**Terrace, 2026-08-12.** Previously the observatory relocation was the frats' first mobilisation ever, sitting before ch3 to satisfy hard constraint #4. It now sits **after ch5**, as the first activation *on the books*.
+
+**Why the move earns its keep.** It makes ch5 load-bearing instead of a conversation that produces a policy the book then drops. The frat thread becomes four beats: an unsanctioned first mobilisation, **ch3**'s unsanctioned second, **ch5** deciding what these young men are, and then **the relocation** — the first activation under the new rule, and the one that works. It also **relieves** constraint #4 rather than satisfying it: the first-ever mobilisation no longer needs a chapter or a slot, and can stay a precedent the emeritus and Collie reason *from*, which is exactly what a Kremlinologist and a classicist would do with one.
+
+**And it is a recovery operation, not a planning decision.** Nobody pulls a crew off a post while the post is working. A skeleton crew stayed up the mountain for years after Maia stopped going back — which is why the site needed *sanctioning* to close: you are not moving equipment, you are closing a station and settling an estate.
+
+**Why the child's parents die, and why she lives.** *(Terrace: "something needs to have taken out both parents.")* **Carbon monoxide** — improvised heating in a sealed building, remote post, winter. Odourless, nobody wakes up, no villain, no fault. The most technically competent people in the setting die of a stove, which is the book's thesis in one event and rhymes with the loose motor wire.
+
+**She lives because she was not there.** The mountain has no school, so she was **sent down to campus at 6–7 to board and be taught to read**, going back up for summers. That solves three things at once: no contrivance about why one survived; she is literate, which is no longer a guarantee and is what makes her apprenticeable at all; and **it is why she does not appear in ch2** — she is on campus, fostered, outside the Swartz orbit entirely. *The last thing her parents did for her was make her the kind of child an institution could take.*
+
+**Maia does not adopt an orphan — she takes a colleague's child**, which is what one does. The instrument is already in the book.
+
+**What the move costs:** the grandmother window compresses from six years to about two, so that material has to live inside ch7 rather than accumulate across the sequence. **What it gains:** a girl who grew up under a sky with nobody left below to pollute it, brought down to a worse observatory closer to town.
+
 ### The shop half: second-generation men and second-generation machines
 
 Lewis's father helps dismantle and pack the mountain equipment, then works with another protégé — mechatronics department — building the tide computers and the clocks from printouts of the old patterns. An old maritime chronometer spun anew on a lathe itself spun from a pre-collapse machine. **Man and machine both second-generation.**

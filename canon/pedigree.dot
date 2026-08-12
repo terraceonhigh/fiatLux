@@ -16,7 +16,7 @@ digraph pedigree {
     Nona        [label="Nona Elbakyan\ncharity work, knits, drives"];
     NadiaFather [label="placeholder_04\nNadia's father\nunwritten"];
     Maia        [label="Maia placeholder_00\nastronomer\nthe mountain observatory"];
-    Husband     [label="placeholder_01 placeholder_02\nLewis's father\nrepairs, the soldering iron"];
+    Husband     [label="placeholder_01 Tsien\nLewis's father\nChinese\nrepairs, the soldering iron"];
     DianaMother [label="placeholder_06\nDiana's mother\nnamed as Mother, ch2 ¶139"];
     DianaFather [label="placeholder_07\nDiana's father\nunwritten"];
 
@@ -48,7 +48,7 @@ digraph pedigree {
     subgraph cluster_kids {
         label="grew up together";
         style=dashed;
-        Lewis [label="Lewis placeholder_02\nthe console, electrical"];
+        Lewis [label="Lewis Tsien\nthe console, electrical"];
         Medea [label="Medea 'Maddy' Swartz"];
         Nadia [label="Nadia Elbakyan\nPOV of the child sections"];
     }

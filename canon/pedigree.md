@@ -54,7 +54,7 @@ Her leg is also chapter one's clinic scene arriving one generation later. Nona c
 
 **One of the four is on the page and three are not**, and that asymmetry is currently doing work whether or not it was chosen.
 
-**Lewis's father is alive** — decided 2026-08-10, and chapter two does not yet reflect it: ch2 ¶11's habitual *"His father would say"* and his absence from the ¶143 ledger both read as elegiac. A candidate posting is the relocated observatory, mounting and maintaining the instruments, which would make his absence geographic rather than mortal. **In chapter one he is written and present.** ¶25 has him take the controller apart and show Lewis where the wire to the motor had gone loose; ¶29 gives him a house where *"the lights would go out after dinner sometimes"*, and a wife who talks about selling it when they think the boy is asleep. He is the only adult male relative in the chapter, he is the reason Lewis can hold a soldering iron, and he is the one member of the household whose material circumstances are visibly failing. His marriage to Maia is stated outright in ¶75 — *"Maia and her husband"*.
+**Lewis's father is alive, and he is Chinese** — alive decided 2026-08-10, Chinese decided 2026-08-11 with the surname. Lewis is therefore mixed, and nothing in either posted chapter contradicts it or remarks on it. Chapter two does not yet reflect the *alive* half: ch2 ¶11's habitual *"His father would say"* and his absence from the ¶143 ledger both read as elegiac. A candidate posting is the relocated observatory, mounting and maintaining the instruments, which would make his absence geographic rather than mortal. **In chapter one he is written and present.** ¶25 has him take the controller apart and show Lewis where the wire to the motor had gone loose; ¶29 gives him a house where *"the lights would go out after dinner sometimes"*, and a wife who talks about selling it when they think the boy is asleep. He is the only adult male relative in the chapter, he is the reason Lewis can hold a soldering iron, and he is the one member of the household whose material circumstances are visibly failing. His marriage to Maia is stated outright in ¶75 — *"Maia and her husband"*.
 
 **Maddy's father and Nadia's father are absent without comment.** No pronoun, no reference, no gap acknowledged. The nearest thing to evidence is ¶29 calling Collie **"Mrs Swartz"** in Lewis's POV — a child's politeness convention, but it does imply a marriage happened. For Nona there is nothing at all; Nadia carries Elbakyan and no man is attached to it.
 
@@ -74,12 +74,12 @@ Numbered so each unknown is tracked separately and greppable. Numbers are append
 
 | Token | Slot | Note |
 |---|---|---|
-| `[placeholder_00]` | Maia's surname | May turn out to equal `[placeholder_02]`, if she took her husband's |
-| `[placeholder_01]` | The husband's **given** name | He has none at all. He is the one who takes the controller apart and puts a soldering iron to the loose motor wire, and the maxim about testing before you close the shell is what survives him |
-| `[placeholder_02]` | Lewis's surname | **Not** automatically *Latimer*. That reference supplies his *given* name — Lewis Latimer made the carbon filament practical and is credited for none of it |
+| `[placeholder_00]` | Maia's surname | **Tsien if she took her husband's** — still open. She is not Chinese; he is |
+| `[placeholder_01]` | The husband's **given** name | Still open, and now a *Chinese* given name. He is the one who takes the controller apart and puts a soldering iron to the loose motor wire, and the maxim about testing before you close the shell is what survives him |
+| ~~`[placeholder_02]`~~ | Lewis's surname | **Settled 2026-08-11 — Tsien**, through his father. **Not** *Latimer*: that reference supplies his *given* name — Lewis Latimer made the carbon filament practical and is credited for none of it |
 | `[placeholder_03]` | **Maddy's father**, entire name | Wholly unwritten. If he is ever named, *Swartz* is the likelier surname to be his than Collie's, given ¶29's *Mrs Swartz* — settling that also settles whether Coelia Swartz is a married name |
 | `[placeholder_04]` | **Nadia's father**, entire name | Wholly unwritten, and with less support than `[placeholder_03]` — no marriage is implied for Nona anywhere. *Elbakyan* is Nona's own as far as the page goes |
-| `[placeholder_05]` | **Diana's surname** | Wholly unwritten. She is introduced by given name alone (ch2 ¶71) and never gets a second one. Whether she has one the university would recognise is the same question as whether she can be treated |
+| `[placeholder_05]` | **Diana's surname** | Wholly unwritten. She is introduced by given name alone (ch2 ¶71) and never gets a second one. Whether she has one the university would recognise is the same question as whether she can be treated. ***Lacks* was proposed here on 2026-08-12 and declined** — see the naming section |
 | `[placeholder_06]` | **Diana's mother**, entire name | Her existence *and* the relation are on the page — Diana calls her Mother (ch2 ¶139) — so the edge is solid and only the name is open. Will equal `[placeholder_05]` if the surname passes through her |
 | `[placeholder_07]` | **Diana's father**, entire name | Wholly unwritten, nil support, same standing as `[placeholder_04]` |
 
@@ -101,6 +101,26 @@ The adults carry classical names that read as graduate-school nicknames which ha
 Four of the five are named for things that hold or give light, in a book called ***Fiat Lux***. **Nona** is the exception and the interesting one: she is not a light but the Parca who *spins* — the one who makes the thread the others get measured on — and she is also the one who keeps the bees, and the apiary is the last image in chapter two (ch2 ¶145).
 
 Every one of them goes by something a neighbour could shout across a park. The grand register is entirely on the paperwork.
+
+**Settled 2026-08-11.** **Lewis's surname is Tsien**, through his father, who is Chinese. Maia is not. The reference is **Qian Xuesen** — who published in the West as *H. S. Tsien*, co-founded JPL, held a wartime commission, and was as inside the institution as a person could be. In 1950 his clearance was pulled; after five years of detention and house arrest he was deported, went to China, and built its missile and space programme from nothing.
+
+**That is a different device from Elbakyan's, and it is the one this book runs on.** Elbakyan and Latimer are *taken from and not credited* — outsiders the record declined to name. Tsien is **the register being wrong about someone already on it**, applied competently, by correct procedure, at catastrophic cost to the institution doing the applying. Every failure in this book is a list problem: Nona is not on it, Diana has never been offered a card, the landrace lost a fair count on correct criteria, and the frats need a category nobody has written. Tsien is the name for that.
+
+The surname also lands on the right line. He was an aerodynamicist and ballistician, and **ballistics and celestial navigation are the same mathematics** — so the name sits on the household that computes rate, keeps the almanac, and eventually supplies a navigator. Carrying it as *Tsien* rather than *Qian* keeps the spelling the expelling institution used.
+
+Free rhyme, never to be pointed at: **the observatory child refusing to have this surname written onto a laminated card is refusing the name of a man who was written out of a register.**
+
+### Lacks — declined for Diana, given to the apprentice
+
+**Terrace, 2026-08-12:** *Lacks* was proposed for Diana, whose whole position is being taken from by an institution that will not extend her care. **Terrace declined it, and the reason governs the whole device:** putting **Henrietta Lacks**'s name on a character built to be institutionally abused is digging her up for another round of it. The corrective device exists to *credit*. It does not get to borrow a real woman's name in order to hurt a fictional one.
+
+**The name goes to Maia's apprentice instead**, and the reasoning inverts cleanly:
+
+- **HeLa is the first immortal human cell line** and is still dividing seventy-odd years on. The apprentice is this book's continuity device — the almanac, the rate, and eventually the navigator. Persistence is the correct association.
+- **Henrietta Lacks's name was erased while her cells were used** — pseudonymised wrong for decades. The apprentice, at eight or ten, **refuses to have her surname written over on a laminated card.** That is a restoration, not a repetition. She gets to insist on exactly the thing the real woman was never asked about.
+- **The almanac is a published document with a name on the title page.** Whose name goes on it is a decision that arrives decades later, when a ship going south needs figures signed by someone strangers can trust. Lacks on that title page is the whole argument, unspoken.
+
+**She is female**, and she is the one still carrying the name decades on, holding Maia's hand at the end. *(Terrace: "if we even depict it" — the deathbed is a possible beat, not a planned one.)*
 
 **Settled 2026-08-11.** **Bréal** is **Michel Bréal** — the philologist who proposed the marathon. He sits in neither the classical-light register nor the corrective device, and that is the answer rather than a gap: he is the only man in the book with a voice, and he is named for a man who **invented a tradition and made it real by getting people to run it.** Bréal also coined *sémantique*.
 
