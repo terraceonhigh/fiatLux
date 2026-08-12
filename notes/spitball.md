@@ -32,6 +32,18 @@ And his absence from the **¶143 homecoming ledger** stops being an oversight an
 
 ---
 
+**The shape of the obstetric chapter, in four.**
+
+> *Proof, a dough for the schoolteacher, a trial by fire for Maddy, and bread for the Swartz table.*
+
+And its register, in one:
+
+> *Something almost like a "how was school, sweetheart?" but the global system had ceased existing and it was an 18 year old in a bloody practicum and someone was named godmother.*
+
+Held verbatim because the second one is the whole chapter and the first is its structure. Reasoning under *The obstetric chapter* below. **One caution on the four:** *dough* is the one thing in a kitchen that has nothing done **by** it — cast the schoolteacher as dough and the passive voice comes back in through the window. The defence is true to bread rather than a dodge: **proofing is the stage where the baker does nothing.** The dough is fermenting; the baker is watching a clock. Which is exactly labour. Hold that and it is the strongest of the four.
+
+---
+
 **The peppermint numbing the underside of his fingernail.** To be added on the far side of the ch2 ¶133 section break, where the reader currently gets no beat of *after* — the jar swap and the kiss arrive too fast for the stump scene to land as intimacy rather than as an errand completed.
 
 Why it is the right detail: the underside of a nail is the one place he cannot wipe clean, so the numbness is **evidence he cannot remove** — the same logic as the sage smoke, a trace of the visit that outlasts the alibi. It is also not a sensual detail but an irritation, which is why it works; the scene stays on the face and the arms and the aftermath stays on a residue. He carries it through the jar, the ride back, and Bréal's teasing, and nobody else knows it is there.
@@ -365,6 +377,69 @@ Open and close in the classroom. Disaster holds the middle third only, so the re
 2. **What kind of document it is.** Strongest version is not pointed: **a physician writing a note writes a physician's note**, because the old conventions for a school absence are gone and nothing replaced them. What comes out is a duty log with *please excuse* at the top. Not making a point — just the only register they still have.
 3. **Whether anyone objects.** The receiver — a teacher — is the chance at the book's first actual dissent, as opposed to leakage: a person saying out loud that a fifteen-year-old should not be running a deficiency epidemic. Costs one exchange, and **nobody in the book has ever objected to anything.** If the school simply files it, that is the answer too, and the colder one: the institution agreeing she is staff now.
 
+#### The obstetric chapter — unnumbered
+
+*Sketched 2026-08-11. No slot yet; see `## Open`. **Terrace decided** everything in this first list — the rest is marked.*
+
+**Terrace's decisions.**
+
+- **The theatre is never entered.** The whole operation is **delivered in retrospect across the Swartz dinner table.**
+- **Opens with Collie making a dough, played straight**, and runs straight to dinnertime, where Maddy recounts the day while stabbing something on her plate and eating her bread.
+- **One to two years after the depressurisation.** Maddy is **18** and steady on the pharmacist/doctor track — a *bloody practicum*.
+- **Egghead and the schoolteacher were unloaded two weeks earlier from a truck also carrying sacks of flour.**
+- **Lead surgeon is the MD Maddy has been shadowing**, and she is one of Collie's friends. The Y3 may be male.
+- **Blood bags — men pulled off campus to be transfused directly. Not necessarily frats.**
+- **Someone is named godmother.**
+- **Six at the table.** Lewis is out scavenging and somebody sighs about it; **Lewis's father makes the six.**
+- **The register is *"how was school, sweetheart?"*** with the global system gone out from under it.
+
+**Why the flour is the whole chapter.** It makes the truck a **manifest** — sacks, a med student, a pregnant woman, all three as freight. So **she reached care because a flour run was already going that way**, not because anyone decided to save her. That is the second of the three delays with a face on it, and the same logic as Windsor's red phone and the UV budget: the institution's mercy arrives as a by-product of its supply chain. Then Collie bakes it. **One shipment, two uses** — so the bread is not a metaphor, it is a material fact, and needs no nudge. Keep **"unloaded."** Ch2 ¶13 governs the truck to sixty over a low-hundreds run, so that is most of a day, pregnant, on sacks.
+
+**Two weeks is clinically right and it buys something.** You do not send a malpresentation home; you hold her where the surgery is. So a fortnight of her simply living on campus — which means **she is not a stranger on a table**, and **somebody signed for two weeks' board for a woman whose posting expired.** That cost can sit unstated at the head of the table.
+
+**The sigh is aimed at the wrong child.** Maia worries about the son on the salvage circuit because **his danger is legible** — a road, a truck, a cut chain. The daughter came from an abdomen and nobody worries, because hers is a *practicum*, on a timetable. And Lewis's father sits through it: the man who took the controller apart to show the boy where the wire went loose, whose son now does the dangerous version for a living, and who does not get to say anything either.
+
+**Godmother is the crack in the wall.** Godparenthood is a **covenant relation** — *compadrazgo*, the formal mechanism for making kin out of non-kin, historically used to bind a household to a patron. `canon/pedigree.md` already carries the phrase *by flesh or by covenant*. So a townswoman with an expired posting has **created an affiliation the rule cannot see** — the rule that failed Nona in ch1 and still has not been spent on Diana's leg, got around at a font. **Nobody at that table notices**, and it is the largest institutional event in the chapter. *It also decides, quietly, that the baby lives — worth registering as a decision rather than an assumption.*
+
+**Recommendations, not Terrace's.** Vetoable individually.
+
+- **Give the whole chapter to Collie's POV.** Ch1 is her register, so it bookends. The real reason is craft: **if Maddy narrates her own composure it reads as brave or as callous and you cannot control which** — observed across a table it reads as *normal*, which is the target. Collie hears an abdomen described and passes the butter, and Collie built this.
+- **State the outcome flatly in the first few lines.** Withholding turns the chapter into suspense, which fights a dinner table.
+- **Name Maddy the godmother.** Eighteen, no standing of her own, named by a woman whose abdomen she held open, reported in the same tone as the sponge count. The reader learns her standing changed **from a domestic aside** — the book's usual method run backwards.
+- **Make Maddy one of the donors.** She gave blood and scrubbed back in. That hands Collie something to *do* in her own POV: her daughter is grey, slow and eating a lot of bread, noticed in the first paragraph, explained three paragraphs later in a subordinate clause because Maddy does not consider it part of the story. **Collie can see it and Maddy cannot.**
+- **Diagnosis: transverse lie.** Diagnosable by hand (Leopold's), absolute — no vaginal delivery is possible — and it gives weeks of dread rather than minutes.
+- **Anaesthesia: spinal.** A needle and a few millilitres of lidocaine, no machine, no airway. **General would put her unconscious for her own chapter.** Awake means the schoolteacher runs the room, which is her job — she has spent her working life keeping a room of people who don't know what they're doing calm.
+- **The mother lives**, and the near-miss is what changes policy. A death makes it a tragedy chapter; a survival makes it a *minutes* chapter, and that device is already owned.
+- **Same-day frame** — morning dough, evening loaf. One household day with the hospital offstage inside it.
+- **No section labels.** Ch3 runs on bare `---` breaks. Titling the movements turns it into a concept album.
+
+**The played-straight discipline.** One sentence about something rising, or waiting, or being alive under a cloth, and the reader gets ahead of it and the whole thing becomes a metaphor being administered. **Collie makes bread and it means nothing.** Same for the fork: **do not time the stab to the worst line** — on *incision* it is a wink, three sentences later on something procedural and dull it is real.
+
+**What actually constrains the surgery is logistics, not skill.** Competence is present and materials are not, which is the book's thesis — the port, the UV budget, the red phone. Steel is fine and an autoclave is a pressure vessel. The scarcities: **blood** (haemorrhage is the killer and skill does not substitute for product — hence the walking blood bank, which is a *roster* problem); **suture**, manufactured and counted; **misoprostol**, heat-stable, where oxytocin needs a cold chain; **antibiotics**, which decide whether she is alive a week later, off the page; and **light**.
+
+**Banked from the superseded town version** — not dead, and probably Egghead's own chapter or this one's pre-history: the **daily radio window** for medical posts (ch2 ¶43, ch3 ¶111), so she cannot call when she decides; **the textbook re-read**, where a field manual written for settings without surgery still assumes you can *refer*, so every decision tree terminates in a box she does not have, and she is reading in case a different sentence is there this time; and the **two-stage escalation** — first a midwife for an external cephalic version at ~36 weeks, then the truck when it fails.
+
+**The lexicon.** The chapter's device is that kitchen and operating-room vocabulary are the same vocabulary. The load-bearing subset, because these already appear in the book:
+
+| Word | Already in the book | At the table | In the theatre |
+|---|---|---|---|
+| **head** | ch3 measures pressure in metres of head | a head of cabbage | the baby's head, crowning |
+| **station** | South Station, Grand Central | a station in the brigade | fetal station |
+| **pressure** | all of ch3 | pressure cooker | blood pressure |
+| **drain** | the south tank draining | draining a pot | a surgical drain, which you *milk* |
+| **irrigation** | the crop deficit | — | wound irrigation |
+| **bypass** | the hose bypass to the farm | — | surgical bypass |
+| **stock** | seed stock, breeding stock | broth | blood stock |
+| **cover** | Nona's shade cloth | a *cover* is a diner served | — |
+| **count** | — | counting covers | the sponge count, spoken aloud |
+| **section** | — | a section of cake | caesarean section |
+| **labour** | the frats, impressed | — | labour, arrested or obstructed |
+| **delivery** | the convoy | food delivery | delivery |
+
+And the bread motif proper: **proof** is the rise, the evidence, and the *test* — and **a trial of labour** is the real clinical term, so Terrace's two middle legs are one word in two rooms. **Score** a loaf so it opens where you choose instead of bursting, which is the entire logic of a caesarean against uterine rupture — *score it or it tears* — and is a better word than *trial by fire*. Plus **oven spring** and **the crumb**, which can only be judged after it is cut. At the table, **cut the loaf** while she describes someone cutting a woman, and never remark on it. *Companion* is **com-panis**, with-bread.
+
+**One warning on the device: if every noun is a double it becomes a pun chapter and the reader starts hunting instead of reading.** One or two a page, never remarked on, nobody at the table noticing.
+
 **Ch5 — Collie and a professor of history.** A conversation months before a Senate meeting, on how their studies have taught them to least destructively absorb a dozen or so groups of organized and potentially violent young men.
 
 Follows from ch3: once the frats have been mobilized twice, they are an instrument, and somebody has to decide what the instrument is. Two humanities academics working out the security architecture of a polity because they are the only people who have read about it happening before.
@@ -482,7 +557,11 @@ Title register for the shop half is machinist — *Tolerance*, *Backlash*, *Runo
 
 - ~~**Whose POV carries the water chapter?**~~ Settled: Bréal and Maddy. The feared register collision with ch2 turned out overstated — hydraulics English (*Isolation*, *Head*, *Backflow*) reads nothing like electronics English.
 - ~~**Is the temporary pipe built quietly or approved?**~~ Moot once the farm became university land. No unaffiliated household, no precedent, no Collie.
-- **Bréal's naming reference** (`canon/pedigree.md:105`) is now due — he takes a POV chapter in ch3.
+- ~~**Bréal's naming reference**~~ Settled 2026-08-11 — Terrace confirms **Michel Bréal**, *"marathon man"*. Recorded at `canon/pedigree.md:105`.
+- **Where does the obstetric chapter go?** It has no slot. Strongest candidate is the **Egghead** slot below, since the godmother *is* the affiliation rule being broken rather than set up — but the sketch gives Collie the POV and Egghead a retractor, so taking that slot may mean Egghead never gets her own.
+- **Is the schoolteacher still affiliated?** Her posting had five months left at ch2 and this is two-plus years on. If she stayed with the carpenter she is a townswoman, and the theatre is a favour somebody spent standing on — which makes it **ch1's clinic scene for the third time**, after Nona and Diana's leg. The sharpest version, and the one that costs Collie something.
+- **Who is actually named godmother?** Maddy is the recommendation; the MD, Egghead and Collie are all live, and Collie is the most loaded, since the woman who signed for the board would then hold the child.
+- **Which six are at the table?** Terrace said *perhaps* six with Lewis out and his father making the number. The working enumeration is **Collie, Maddy, Maia, Lewis's father, Nona, Nadia** — but that implies the flat has **fully reconverged**, all three women and all three grown children under the Swartz roof, which is a large canon event resting on an arithmetic reading. Open until Terrace says.
 - **How far is the farm from the tap?** Unset, and it governs the whole back half of ch3 — hose diameter, whether the run is viable at all, how long the lay takes.
 - **Do they have a tank, and is it uphill of the patch?** The buffer architecture is the plan's single point of failure.
 - **Does ch3 span two weeks in dated sections, or compress to the first charge?** The bigger, better chapter versus ch2's single-breath intensity.

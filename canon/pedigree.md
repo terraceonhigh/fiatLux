@@ -102,7 +102,7 @@ Four of the five are named for things that hold or give light, in a book called 
 
 Every one of them goes by something a neighbour could shout across a park. The grand register is entirely on the paperwork.
 
-**Open:** **Bréal** is the only named character in chapter two who does not yet sit in either system. The surname belongs to Michel Bréal, the philologist who proposed the marathon — a plausible fit for the corrective device, but he was credited in his lifetime, so the parallel to Latimer and Elbakyan is imperfect. Worth settling before he acquires a second chapter.
+**Settled 2026-08-11.** **Bréal** is **Michel Bréal** — the philologist who proposed the marathon. He sits in neither the classical-light register nor the corrective device, and that is the answer rather than a gap: he is the only man in the book with a voice, and he is named for a man who **invented a tradition and made it real by getting people to run it.** Bréal also coined *sémantique*.
 
 ## Out of scope
 
