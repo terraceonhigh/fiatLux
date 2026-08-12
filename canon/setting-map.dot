@@ -44,7 +44,7 @@ digraph setting {
         Intake [label="intake", fillcolor=lightblue];
         Treatment [label="TREATMENT WORKS\nUV + chlorination\n(ch1 P13 budget line)", fillcolor=lightblue];
         Balancing [label="balancing reservoir\nthis is the pressure", fillcolor=lightblue];
-        Valve [label="THE VALVE\nmunicipal connection\n(ch3 crux)", fillcolor=lightblue, shape=diamond];
+        Valve [label="THE VALVE\nmunicipal connection\n(ch4 crux)", fillcolor=lightblue, shape=diamond];
     }
 
     subgraph cluster_power {
@@ -71,7 +71,7 @@ digraph setting {
     // ---------- out past the ring ----------
     Town [label="THE TOWN\nSaanich-shaped: sprawl,\nno core, farmland threaded\nthrough the housing", fillcolor=grey90];
     Fields [label="the fields\nbutter, leather, jam\ninterleaved, not separate", fillcolor=grey90];
-    Farm [label="THE UNIVERSITY FARM\nElbakyan patch within it\nglass + open field\nCAMPUS land, beyond the valve\n(ch3)", fillcolor=white];
+    Farm [label="THE UNIVERSITY FARM\nElbakyan patch within it\nglass + open field\nCAMPUS land, beyond the valve\n(ch4)", fillcolor=white];
     Village [label="the village\nsame as the town?\nOPEN", fillcolor=grey90, style="rounded,filled,dashed"];
     OtherTown [label="another town\nch2 P47 — a NETWORK,\nnot one settlement", fillcolor=grey90, style="rounded,filled,dashed"];
 
@@ -81,7 +81,7 @@ digraph setting {
         Lodge [label="THE LODGE\nthicket, blind, littlest path\nDiana", fillcolor=pink];
     }
 
-    Mountain [label="the mountain\nold observatory\n(ch8 dismantles it)", fillcolor=pink];
+    Mountain [label="the mountain\nold observatory\nWILDFIRE takes it, ch4 season\nsanctioned salvage run after ch6\nthe road down is where they died", fillcolor=pink];
 
     // ---------- transit: the route as written ----------
     Campus -> HomeDepot [label="the highway"];
@@ -119,7 +119,7 @@ digraph setting {
     Town -> Campus [style=dashed, color=grey40, constraint=false, label="butter, leather, jam"];
     Campus -> Town [style=dashed, color=grey40, constraint=false, label="honey, salmon"];
     Lodge -> Campus [style=dashed, color=grey40, constraint=false, label="jam, deer"];
-    Mountain -> Campus [style=dashed, color=grey40, constraint=false, label="instruments (ch8)"];
+    Mountain -> Campus [style=dashed, color=grey40, constraint=false, label="instruments + two bodies\n(salvage run, after ch6)"];
 
     // ---------- the stock that drives everything ----------
     Suburbia -> Downtown [style=dotted, color=grey40, constraint=false, label="drains"];
