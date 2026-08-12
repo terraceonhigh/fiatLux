@@ -515,7 +515,11 @@ Research is in [`research/absorbing-armed-bands.md`](../research/absorbing-armed
 
 **The Austen frame hands you ch9.** Austen's engine is marriage brokerage — connections, prospects, respectability, what an alliance would cost. **The vocabulary for absorbing an armed band and the vocabulary for settling a match are the same vocabulary**, so playing it straight makes ch5 funny, which the book needs after a water emergency and an epidemic. Then in ch9 Collie does it to an actual person and the reader has already heard her do it to an institution. (*Reading the title as Li Bai's 將進酒, the one that ends with the horse and the furs sold for wine.*)
 
-**Titles moved register with the historian.** The Latin candidates are banked rather than dead — ***Foedus*** is the best of them, one word meaning *the treaty*, and identical in form to the adjective meaning *foul*. Now leading: ***The Register***, which is the Cossack institution, the nomenklatura, and the thing Bréal forged, while being the most mundane word a university owns — registrar, registration, the register of students. ***Reestr*** for strangeness; ***Streltsy*** if the title should name the ending rather than the act.
+**Title settled 2026-08-12: *Druzhina*.** The prince's war-band in Kievan Rus — young armed men bound to a lord by gift and oath, the Slavic counterpart to Tacitus's *comitatus*. **Its root is *drug*, friend: *druzhina* means the band of friends.** So **the word for a fraternity and the word for an armed retinue are the same word, built on "friend"** — which lands on the *veteres amici* thread and is the joke the chapter is built on. It also names *what is being absorbed* rather than the instrument used on it.
+
+**Banked, with reasoning, in case it moves:** ***Reestr*** — the Cossack Register was a **cap**, a fixed number who drew pay and privilege while everyone else had no standing, and **capping it produced the grievance that caused the uprisings**; it names the solution and the disaster together. ***Kollegiya*** — Peter I's collegial boards, literally the Russian for *College*, so it carries the Latin *collegium* underneath the Slavic. ***Komsomol*** — the most precise content match, since a card, a hierarchy, tasks and a career gate is the mechanism the chapter picks. ***Streltsy*** if the title should name the ending rather than the act, though it promises a violence the chapter may not want to. ***Propiska*** — the registration that gated housing, work and *medical care*, which is Nona at the clinic with a Soviet name, and it pairs with *pripiska*: **propiska is the register, pripiska is the lie inside it**. Also ***Sluzhba*** (standing in exchange for service — the deal on offer), ***Poruka*** (surety, from *krugovaya poruka* — what the frat offers and the university declines), ***Blat***, ***Prikaz***, ***Ukaz***. Latin candidates still banked: ***Foedus***, and ***Foederati***, which names the peoples settled inside the empire under treaty and is what eventually ate it.
+
+**Keep transliteration Latin, not Cyrillic** — the AO3 pipeline runs `pandoc --ascii`, and the slug becomes the filename.
 
 #### Ch5's thesis on collapse and women — Terrace, 2026-08-12
 
@@ -864,6 +868,54 @@ Notes toward the objects, none of them load-bearing:
 *Complication worth having, not solving:* **Lewis would know their names.** The observatory people are the reason his mother was not there. He did not go up — ch1 §C has him lonely at the bottom of the mountain — so they are abstractions to him, and one of them is now living in the house.
 
 **What the move costs:** the grandmother window compresses from six years to about two, so that material lives inside ch7 rather than accumulating across the sequence. **What it gains:** a girl who grew up under a sky with nobody left below to pollute it, brought down to a worse observatory closer to town.
+
+#### *Ruts* — Diana's chapter, titled 2026-08-12
+
+*This section uses the post-renumbering sequence; it mostly names chapters by title instead, which is the safer habit.*
+
+**Terrace: *"Rut*, I think. And we counterbalance with the amber beauty of the forest and her quotidian." Then, the same day: "it should be *Ruts*, plural."***
+
+**The plural is the fix, and it does more work than it looks like.** Three senses were in play for the singular. The **breeding season** — her *work calendar*, since the rut is when deer move, when they are careless, and when you take them, and ch2 ¶139 already has a casing waiting to be filled with deer. A **groove worn in a track by repeated passage** — the shape of a spanning chapter, the same path deepened. And **an unvarying routine**, which is the reading the chapter exists to refuse.
+
+**Pluralising kills the third sense structurally.** *Stuck in a rut* is singular; **the idiom does not survive the *s***. So the title stops carrying a verdict and becomes plain description: grooves worn by passage. That matters because a title is unattributed speech — the singular risked reading as *the book's* judgment on Diana rather than the institution's, and the plural removes the risk instead of relying on the prose to argue it away.
+
+**What the plural costs:** the deer-rut sense recedes, since *the* rut is a season and *ruts* are tracks. Her hunting calendar goes quiet and the landscape comes forward. Fair trade.
+
+**What it gains beyond the fix:** *many* grooves. Multiple passes, multiple years, multiple paths — the spanning structure stated in the title's grammar. And ruts are what repeated traffic makes on an unpaved road, which is **the dirt road from the lodge into town** (ch2 ¶65).
+
+**The dependency is lighter now but still real.** *Ruts* is neutral rather than hostile, so the title no longer works against the chapter — but the amber still has to be on the page. **Terrace's counterbalance is the plan, not a garnish:** the title gives the flat view of a life, and the forest and the dailiness are the rebuttal. Without them the chapter is a landscape feature and Diana is a groove in it.
+
+##### The roads not taken — the full naming sweep, 2026-08-12
+
+*Recorded so the veins are not re-searched. Six were worked; each entry is what it yielded.*
+
+| Vein | Candidates surfaced |
+|---|---|
+| **Trapping / hunting** | ***Blind Set*** (previously banked — a set laid in a travel route with **no bait and no lure**, betting purely on knowing where things go; doubles with ch2 ¶65's blind), ***Trapline*** (the circuit walked on a schedule; structurally the chapter's own form), ***Sign***, ***Prime***, ***Take*** (the wildlife-management term for a lawful kill), ***Line***, *deadfall*, *cubby*, *drag*, *lure*, *pelt*, *fleshing*, *stretching* |
+| **Multi-year natural process** | ***Second Growth***, ***Succession***, ***Recruitment***, ***Seasoning***, ***Coppice***, ***Snag***, ***Nurse Log***, ***Sett***, ***Escapement***, *cohort*, *attrition*, *regeneration*, *old growth*, *carrying capacity*, *yield*, *increase*, *philopatry* |
+| **Mycelial** | ***Conk***, ***Fairy Ring***, ***Flush***, ***Duff***, ***Fruiting Body***, ***Mycelium***, ***Mycorrhiza***, ***Sclerotium***, ***Anastomosis***, ***Dikaryon***, ***Myco-heterotrophy***, *rhizomorph*, *saprotroph*, *inoculum*, *Armillaria* |
+| **Prepper / *innawoods*** | ***Homestead***, ***Overwinter***, ***Bug In***, ***Cache***, ***Woodcraft***, ***Provision***, *WROL*, *grey man*, *OPSEC*, *rule of threes*, *two is one and one is none*, *INCH bag*, *normalcy bias* |
+| **Old frontier living** | ***Proving Up***, ***Patent***, ***Stump Ranch***, ***Blaze***, ***Hardscrabble***, ***Witness Tree***, ***Line Cabin***, *preemption*, *improvement*, *girdling*, *grubbing*, *metes and bounds*, *long hunt*, *grub stake*, *freshet*, *skid road*, *winter count* |
+| **Foraging** | ***Gleaning***, ***Enclosure***, ***Usufruct***, ***Mast***, ***Browse Line***, ***Bearing***, ***Windfall***, *estovers*, *turbary*, *pannage*, *piscary*, *herbage*, *wildcrafting* |
+
+**The strongest runners-up, with why.** ***Second Growth*** — the forestry term for the *lesser* forest regrown on cut ground, denser and worth less, which is the book's signature move (whatever passed as stains, a worse observatory, slush because snow cannot commit). Note it would have paired with the shop-half section's *"second-generation men and second-generation machines"* one chapter later — a rhyme or a redundancy, undecided. ***Proving Up*** — demonstrating five years' residence and improvement to receive the patent: multi-year by definition, entirely about establishing a claim, **and there is no land office left to file with**; also lands on Terrace's own *proof* line from the obstetric lexicon. ***Homestead*** — a land-tenure instrument where **title came from occupying and improving**, so it names a claim the university has no machinery to recognise; rejected as too warm. ***Hardscrabble*** — names the difficulty without calling it failure.
+
+**Rejected on legibility, and the test is worth keeping.** The book's model is **plain words used technically** — *Continuity Test*, *Boil Water*, *Isolation*, *Slush*: you get something off the surface and more if you know the trade sense. **A title fails when its surface reading points *away* from the trade.** ***Succession*** failed hardest — first reading is dynastic inheritance, second is the HBO show, and the ecological sense never arrives; worse, "inheritance" is **Collie's** register, not Diana's. Also failed: ***Prime*** (four competing senses), ***Seasoning*** (reads as cooking, and collides with the kitchen/theatre lexicon), ***Sett*** (looks like a typo for *set*), ***Conk*** (slang crowds out the mycology), ***Bug In*** (jargon with nothing on the surface), ***Bearing*** (four senses, two already spoken for by Maia and the obstetric chapter).
+
+##### Two findings from the sweep that are not titles
+
+- **Diana may hold a registration from a dissolved authority.** **Trapline territories are a registered, allocated, heritable instrument** — a licence from a wildlife authority, not a courtesy. So she is not *unregistered*; she is **registered with a state that no longer exists**, holding paper that was valid. That is a harder position than having no standing, and it sits one chapter after *Druzhina*, which is about who gets onto a register that counts.
+- **Her lodge is a textbook retreat, and it is already written.** ch2 ¶65: *"Behind the thicket there was a blind with the littlest path to a lodge, and from there a dirt road back into town."* **Concealed approach, observation post, secondary egress.** The one bug-out location in the book that actually worked, and the prose never calls it that.
+
+##### Vocabulary banked for elsewhere
+
+- ***Gleaning*** **goes to Lewis, not Diana.** It was a **customary right of the poor, extinguished by an English court in 1788** because it existed only in practice. Diana is self-sufficient and does not glean — **the salvage economy is gleaning**, going into emptied buildings for what was left, re-entering the copper site where the chain still lies. Biblically it is Ruth: a foreign woman gleaning in a field who marries into the household, which is the marriage plot inverted.
+- **The commons rights are the affiliation thesis in one vocabulary.** ***Enclosure*** is the process — centuries long, and its content is **extinguishing unwritten customary rights by drawing a line and putting it on paper.** The rights it destroyed each have a one-word name: ***estovers*** (to take wood), ***turbary*** (to cut peat), ***pannage*** (to graze pigs on fallen acorns), ***piscary*** (to fish), ***herbage*** (to graze). Every one held for generations, unwritten, erased for want of a document. **Diana's claim is an estover.** ***Usufruct*** is the same idea in Collie's register — the Roman right to take the fruits of a thing you do not own.
+- ***Myco-heterotrophy*** **is what the university does.** A plant with no chlorophyll that draws everything from the mycorrhizal network and returns nothing. Ghost pipe. Not a metaphor — a trophic category.
+- ***Dikaryon*** **belongs in `pedigree.md`.** The fungal state in which **two genetically distinct nuclei share one body indefinitely, never fusing.** That is *by flesh or by covenant* in a single word: one household, two lines, no merger. Too obscure for a title, possibly the right name for what the Swartz household *is*.
+- ***Escapement*** **is held for Maia.** In fisheries it is the fish that get through to spawn; in horology it is **the mechanism that releases the gear tooth by tooth and makes a clock tick.** Too good to spend twice, and it belongs beside *Rate* and *Culmination*.
+- ***Anastomosis*** — mycological *and* surgical: the fusion of two separate networks into one. Bridges Diana's register and Egghead's, and names what the marriage plot severs.
+- **A *winter count* is a structure, never a title.** One image or name per year, each year identified by its most memorable event — precisely a spanning chapter's form. **But it is a specific Lakota and Blackfoot historiographic practice**, and putting it on a settler-descended character's chapter, in a book deliberately indicting colonial land management, would read as appropriation. Take the shape; leave the name.
 
 ### The shop half: second-generation men and second-generation machines
 
