@@ -581,7 +581,8 @@ Her register for the title is astronomical and horological: *Transit*, *Meridian
 | B+13/14 | 13–14 | **ch1 §F** — Christmas to April. The flats open, the silver goes up three floors, the laminated cards. **Collapse onset.** |
 | B+16 | **16** | **ch2 — *Continuity Test*.** Maddy 14, Nadia 14, Diana ~16. Year ~3 of the collapse. |
 | B+18 | 18 | **ch3 — *Isolation*** (July). **ch4 — *Boil Water*** (November), Maddy 16 and in high school. **ch5 — the historian.** |
-| B+19 | 19 | **The observatory relocation.** See below. Lacks comes down, 8–9. |
+| B+18 | 18 | **The wildfire.** Takes the watershed and the outpost in the same season as ch3. **Lacks comes down, 8**, in the improvised aftermath. |
+| B+19 | 19 | **The sanctioned salvage run** goes back up for the instruments, and brings down two bodies. **The state burial.** |
 | B+16→22 | 16→20 | **ch6 — Diana.** Spans years, overlapping most of the above. |
 | B+19/20 | 19–20 | **ch7 — Maia.** |
 | B+20 | 20 | **ch8 — the marriage.** Lewis in college. **The obstetric chapter**, Maddy 18. |
@@ -595,15 +596,55 @@ Her register for the title is astronomical and horological: *Transit*, *Meridian
 
 **Why the move earns its keep.** It makes ch5 load-bearing instead of a conversation that produces a policy the book then drops. The frat thread becomes four beats: an unsanctioned first mobilisation, **ch3**'s unsanctioned second, **ch5** deciding what these young men are, and then **the relocation** — the first activation under the new rule, and the one that works. It also **relieves** constraint #4 rather than satisfying it: the first-ever mobilisation no longer needs a chapter or a slot, and can stay a precedent the emeritus and Collie reason *from*, which is exactly what a Kremlinologist and a classicist would do with one.
 
-**And it is a recovery operation, not a planning decision.** Nobody pulls a crew off a post while the post is working. A skeleton crew stayed up the mountain for years after Maia stopped going back — which is why the site needed *sanctioning* to close: you are not moving equipment, you are closing a station and settling an estate.
+**And it is a salvage run, not a planning decision.** *(Terrace, 2026-08-12.)* A skeleton crew stayed up the mountain for years after Maia stopped going back. **A wildfire takes the outpost, and nobody is coming** — there is no fire service left, and there is no counterfactual to argue about. The site becomes a closure because there is nothing left to staff.
 
-**Why the child's parents die, and why she lives.** *(Terrace: "something needs to have taken out both parents.")* **Carbon monoxide** — improvised heating in a sealed building, remote post, winter. Odourless, nobody wakes up, no villain, no fault. The most technically competent people in the setting die of a stove, which is the book's thesis in one event and rhymes with the loose motor wire.
+##### The fire — settled 2026-08-12
 
-**She lives because she was not there.** The mountain has no school, so she was **sent down to campus at 6–7 to board and be taught to read**, going back up for summers. That solves three things at once: no contrivance about why one survived; she is literate, which is no longer a guarantee and is what makes her apprenticeable at all; and **it is why she does not appear in ch2** — she is on campus, fostered, outside the Swartz orbit entirely. *The last thing her parents did for her was make her the kind of child an institution could take.*
+**Terrace: two centuries of colonial mismanagement made the conflagration.** Cultural burning was suppressed across the settler colonies, then total-suppression policy stacked a century of fuel on top of the ban — all of it carried out by people who believed they were practising correct forestry. **So the fire's severity was set by administrative acts generations before anyone alive was born.** Same shape as the sprinkler fitting, the UV budget line, and the valve that stopped working in 2009, but on a hundred-year lever instead of a ten-year one. No villain, correct procedure, catastrophic result — and this is the deepest the device goes anywhere in the book.
 
-**Maia does not adopt an orphan — she takes a colleague's child**, which is what one does. The instrument is already in the book.
+**And it is already planted.** Ch2 ¶101: the hinge has grime on it, *"most likely from the last fire from inland."* Fires from inland are routine here. This one is not. July at 15–25 mm is fire season by construction.
 
-**What the move costs:** the grandmother window compresses from six years to about two, so that material has to live inside ch7 rather than accumulate across the sequence. **What it gains:** a girl who grew up under a sky with nobody left below to pollute it, brought down to a worse observatory closer to town.
+**Folding it into ch3 — Terrace's proposal, and it makes ch1 ¶13 the murder weapon.** An earthquake would only break pipes. A fire in the *protected upland watershed* sends ash, turbidity and organic load into the intake — and the thing that handles organic load is disinfection, the exact line the university spent a decade squeezing. So the failure becomes: **the water is still there and is no longer safe, and the capacity to make it safe was traded away at a contract review while Collie did not notice.** The quiet gun fires into the thing it was aimed at.
+
+It also supplies the pressure loss without inventing breaks — hydrants open everywhere for suppression drag the system flat, which is a mechanism the plan *already has* in the hydrant-tap beat — and it over-determines why nobody goes up the mountain: fire line is mass unskilled labour, the same bodies as the valves, the same day.
+
+*Craft flag, Terrace's call:* the drafted ch3 opens on **anomaly noticed** — arithmetic, not a klaxon. A known fire pushes detection toward damage assessment instead. Keeping the smoke *distant and unremarkable* in the opening preserves the discovery beat and hands the reader dramatic irony for free.
+
+##### Three horses, and the smoke
+
+**Settled 2026-08-12.** Not a cart, not a load, no error to explain. **Three horses. They put her on the fastest one and rode behind her**, because that is where you ride when you are driving a child in front of you. Two adults on the two slower animals. Both decisions correct; both fatal. *The people who arranged the order died of the order they arranged.*
+
+**She does not know when it happened.** Visibility in heavy smoke drops to metres. She is fifty metres ahead, her horse is running, and she cannot see that there is nobody behind her. **She arrives alone and cannot tell anyone what happened, because she never saw it** — an account she cannot complete, for the rest of her life. *(A ten-year-old raised at a horse-dependent outpost rides the way a farm kid drives a tractor. Mongolian child jockeys race 15–30 km cross-country at five to thirteen. Ten is not young for this.)*
+
+**The dome survived. The road did not.** With no cart, the instruments never left the building — concrete and steel on ground already cleared for sightlines. So the salvage run arrives months later and finds the equipment *fine*. **The institution's property was never really at risk; the people were.** Nobody says it.
+
+##### Her descent and the salvage run are two different events
+
+**And the split is the knife.** She comes down in the improvised aftermath — weeks after ch3, whenever there is slack. The **sanctioned** activation goes back up at B+19 for the equipment. **The institution mobilised formally for instruments and improvised for people.**
+
+*The visual, using machinery already built:* ch2 ¶147–149 is a **manifest** — thirty kegs of butter, five sides of leather, one freshman relieved from under a tarp, one high-school child with a letter. Bréal counts the convoy. **Now the count includes two bodies and a telescope.** Same trucks, same enumeration, one new category.
+
+##### The rest of her
+
+**She was raised at the outpost, and she is literate** — her parents were researchers and taught her. Literacy is no longer a guarantee and is what makes her apprenticeable at all. **Before she came down she had known about two dozen human beings in her life.** She goes from that to a university, and later to a table with six people at it.
+
+##### Maia knew them, and the Tsiens do the salvage
+
+**Settled 2026-08-12. The collision over Lewis's father resolves as (a), with a turn.** He is on campus when it burns — ch1 ¶75 has him arriving at Christmas and never leaving, ch2 ¶11–13 reads as present, and `pedigree.md:57` stands unrevised. **But both Tsiens go up on the salvage run.** He is a sparkie and she is an astronomer: he handles the delicate mechanical and electrical work, she knows which glass matters and which is only glass. A married pair of specialists, and the only two people qualified to decide what comes down.
+
+**So Maia finds her friend on a road.** She went up for instruments.
+
+**Maia worked at that observatory. She knew the Lacks.** ch1 §C has her going back to the mountain on rotation, and the Lacks parents shared that post with her for years. **This is not a colleague's child taken up by procedure — it is a family friend taking in a dead friend's daughter, one she had likely already helped raise in the early years.** *(Terrace, 2026-08-12.)*
+
+**Which reframes the two dozen.** If Maia is one of the ~24 human beings the girl has ever known, then **the descent is not a placement — it is the only door she knows.** She does not arrive among strangers and get assigned. She arrives at the one adult from the mountain who is still alive and reachable, and there is nothing to negotiate.
+
+**And it detonates ch1 ¶19, which is already on the page.** *"Nadia wants to ask why the observatory people can't move closer so Auntie Maia can be with Lewis."* **The observatory people.** Plural — those are the Lacks. The childish wish is granted exactly as asked: the observatory moves closer, in a truck, with two bodies in it. Nothing needs adding; the line is already written.
+
+**The emotional core, and it is earned entirely by ch1.** ¶23 has Maia sobbing her thanks down a handset because Collie gave Lewis a bunk — Maia spent her son's childhood on a mountain and another woman raised him. **Now she takes in the child of the woman she shared that mountain with, and does at home the thing she could not do for Lewis.** The Lacks girl gets the version of Maia that Lewis never got.
+
+*Complication worth having, not solving:* **Lewis would know their names.** The observatory people are the reason his mother was not there. He did not go up — ch1 §C has him lonely at the bottom of the mountain — so they are abstractions to him, and one of them is now living in the house.
+
+**What the move costs:** the grandmother window compresses from six years to about two, so that material lives inside ch7 rather than accumulating across the sequence. **What it gains:** a girl who grew up under a sky with nobody left below to pollute it, brought down to a worse observatory closer to town.
 
 ### The shop half: second-generation men and second-generation machines
 
