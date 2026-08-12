@@ -2,6 +2,24 @@
 
 Where the story might go, from the session the night chapter two posted. **Nothing here is canon.** Settled things move to `canon/`; this file is for what is still being weighed. Attribution is marked throughout, because a note that blurs the author's intent with an outside reading is worse than no note.
 
+## Renumbering key — read this before trusting any `chN` in this file
+
+***Slush* was inserted at chapter 3 on 2026-08-12**, pushing everything after it down one. Entries in this file are dated, and **the numbers in them were correct when written.** They have deliberately *not* been rewritten — recasting a dated note in a numbering that did not exist yet would falsify the record. Convert as you read:
+
+| Written as | Now | Chapter |
+|---|---|---|
+| `ch3` | **ch4** | *Isolation* |
+| `ch4` | **ch5** | *Boil Water* |
+| `ch5` | **ch6** | Collie and the historian |
+| `ch6` | **ch7** | Diana |
+| `ch7` | **ch8** | Maia |
+| `ch8` | **ch9** | the marriage |
+| `ch9` | **ch9** | the marriage — *do not shift these* |
+
+**Two traps.** `ch9` references (lines ~480, ~498) predate the **2026-08-11 minutes cut**, when the marriage was ch9; they were stale by one and are accidentally correct again — leave them. And any reference to the **cut minutes chapter's** number means the minutes, not Diana. `canon/setting-map.dot`'s `ch8` labels had the same accident and have been rewritten outright.
+
+**Exactly two places in this file use the new numbering:** the **timeline table** (`#### The timeline`) and the ***Slush* section**, both of which say so at the top. **Everywhere else — above *and* below them — is pre-renumbering**, including sections dated 2026-08-12, because today's material was written around the older sections rather than after them. The dated sections were deliberately left alone; the table above is the conversion.
+
 ---
 
 ## Terrace's lines
@@ -254,7 +272,7 @@ Ch2 ¶17's instrument still stands — gloves *"now cost two vials of poppy,"* a
 
   What kills the stand instead is that **two axes get treated as one**. *Recoverable* — the seed exists elsewhere, or it is an annual you can sow again — is not the same as *least bad to lose*, and nothing in the room is wrong to weigh both. But a **short-seed-life biennial landrace** scores low on value and reads as recoverable because it is only a vegetable, when in fact it is biennial and viable one to two years, **so no seed bank anywhere buffers it.** Lose the year-two crop and the variety is simply gone. It loses on a fair count, taken on the record, by people qualified to take it.
 
-  **No villain, no error, and a document at the end of it** — which is ch6's device arriving a chapter early and in miniature. The only person who would have caught it holds the nutrition degree and is outside, cutting canvas.
+  **No villain, no error, and a document at the end of it** — which is **the cut minutes chapter's** device arriving early and in miniature. *(Written when the minutes were ch6; the number would mislead, so it is spelled out.)* The only person who would have caught it holds the nutrition degree and is outside, cutting canvas.
 - *Superseded:* an earlier draft of this beat had the stand lost to geography — two hundred metres too far along the run, past where the pressure held. Accident rather than judgement, and weaker for it. The council version is the one to use.
 - **This decides the poppy question.** If opium is in that patch, "the medicinal stock survived and the vegetables didn't" reads as the university keeping its narcotics while the region lost its greens. A much harsher book, and available.
 
@@ -507,11 +525,28 @@ It is not *women rise when the order falls* — the opposite is the historical d
 
 **And Diana is the control, already written.** A woman outside the institution with autonomy, production, a rifle — and a leg nobody will look at. She is not attacked. She is *unattended*. The book's claim is not that collapse favours women; it is that **inside a surviving institution, the people who knew how to work it are the ones who can.**
 
-#### Egghead's chapter — the town rotation. Terrace, 2026-08-12
+#### *Slush* — ch3. Terrace, 2026-08-12
 
-**Terrace's premise: an Egghead-focus chapter, with Diana, an abused woman by way of an Epsilon member, and various farming-community injuries and violence.** File stubbed at `manuscript/slug.md`, name pending.
+**Terrace's premise: an Egghead-focus chapter, with Diana, an abused woman by way of an Epsilon member, and various farming-community injuries and violence.** **Titled *Slush* and slotted at chapter 3**, file at `manuscript/02-slush.md`. *This section and everything below it uses the post-renumbering sequence.*
 
-**It fills the gap the timeline opened.** Ch2 sits at B+16 and ch3 at B+18, and the two-year span exists because the ages will not close otherwise. Egghead arrives in the town in ch2 on what the prose says is a three-month rotation. **Put her chapter in that window and the gap stops being arithmetic and starts carrying weight.** Reading-order slot still undecided — inserting it at 3 renumbers everything after and renames a chapter mid-draft.
+**It fills the gap the timeline opened.** Ch2 sits at B+16 and *Isolation* at B+18, and the two-year span exists because the ages will not close otherwise. Egghead arrives in the town in ch2 on what the prose says is a three-month rotation. **Put her chapter in that window and the gap stops being arithmetic and starts carrying weight.**
+
+##### What choosing *Slush* settled
+
+**The title is *Slush*, and the runners-up are banked, not dead.**
+
+- ***College*** — the strongest word in the lexicon and worth keeping in the chapter even though it lost the title. **A college is a body of colleagues.** The frat is a college; the **College of Physicians and Surgeons** is a College. So a complaint travels **from one self-governing brotherhood to another**, and ***nemo iudex in causa sua*** — nobody may judge his own cause — is what both are constituted to violate. Also reaches the **College of Arms**, which is what the Senate becomes when it licenses the gonfalon.
+- **The Juvenal** — *audio quid ueteres olim moneatis amici*, Satire VI ~346. The **setup** line, whole hexameter, never a fragment, so the reader supplies *quis custodiet ipsos custodes* unprompted. **Never the third line** (*cauta est et ab illis incipit uxor*) — Juvenal's punchline blames the wife. Check against an OCT or Loeb before it ships; the *quis custodiet* lines carry known textual complexity. Settle *u/v* once across the book.
+
+**The slush fund is the reason the word carries more than weather.** It is nautical: **slush was the fat skimmed off boiled salt pork, which the crew sold for their own money.** A slush fund is **the grease you skim and do not declare** — and ch2 already runs on grease, a vial of it in Lewis's pack and a hinge at a lodge.
+
+**Winter is now committed, and it decides three things.**
+
+- **The caseload shifts from harvest to confinement.** Machinery and entanglement trauma is a late-summer pattern. **Winter is livestock in closed barns, chainsaw, roof falls, cold injury — and people indoors together for months.** Confinement is the right injury pattern for this chapter, and the violence hides inside it more naturally than it would inside a harvest.
+- **The channel gets worse, which is the point.** Bad roads mean fewer convoys and longer gaps, so the complaint is not *"carried by the boys"* but **"carried by the boys, in six weeks, if the road holds."** And she cannot leave either.
+- **It is slush, not snow, and the climate note is why.** The setting is pinned at ~640 mm, rain-shadowed, wet-winter Mediterranean — sea-level snow is occasional, not reliable. **Slush is what happens when snow cannot commit:** three snowfalls a season, each one grey slop within a day. Which puts it in the book's register of degraded versions, next to *whatever passed as stains*.
+
+*One flag, not a fix:* `README.md:39` documents that **each chapter is titled in its POV character's own register** — Latin for the classicist, engineering English for Lewis. Egghead's is clinical. ***Slush* is weather and nautical.** The title stands; the documented rule now has an exception, so either README wants a note or the rule wants restating as the *chapter's* register rather than the character's profession.
 
 **It resolves a contradiction the book has been sitting on since ch1.** The campus clinic will not treat Nona because she is unaffiliated (ch1 ¶59) — and the same university **posts a medical student into a town to treat everyone in it.** Those cannot both be about membership. **The difference is that the town has butter, leather and jam, and Nona had nothing.** Affiliation was never about belonging; it is about whether you sit inside a flow the institution needs. Egghead is the instrument of both rules at once, which is why this is the chapter where the rule is *broken* rather than set up.
 
@@ -524,6 +559,53 @@ It is not *women rise when the order falls* — the opposite is the historical d
 **There is no channel. The complaint has to ride home in the truck** — carried by the same boys, on the same convoy, because there is no other way for paper to travel. That is the image the chapter is built on, and **it is precisely what ch5 is later convened to fix.**
 
 **The farming injuries are the right camouflage.** Agriculture is genuinely among the most lethal occupations — entanglement, crush, livestock, falls — and pre-antibiotic a dirty wound is a slow death sentence. So the caseload is a crush injury, an infected hand, a fracture set late, and **one woman whose account does not match her injuries.** That is how it actually presents: nobody tells you, you notice a pattern that does not fit. **The violence hides inside the ledger.**
+
+##### The medicine/law lexicon — the chapter's working vocabulary
+
+**Companion to the kitchen/theatre table in the obstetric section.** Medicine and law were the same profession's habits for centuries and share a vocabulary all the way down, which means **this chapter can be written entirely in words that mean two things at once and never reaches for a metaphor.**
+
+**The one fact that reframes the whole chapter:** mandatory reporting of intimate partner violence against **competent adults** is contested, and medical bodies have largely argued *against* it, because it strips the victim of control and increases danger. Child abuse is mandatory nearly everywhere; adult IPV usually is not. **So her silence may be the ethically correct position rather than a failure of nerve** — what she owes is documentation, referral, and the patient's own decision. Far better than *she was too frightened to report.* She is honouring the other duty, and it is still corrosive.
+
+**Top tier — these do structural work, not decoration:**
+
+| Word | Medicine | Law | What it does here |
+|---|---|---|---|
+| **Ward** | the hospital ward | **a ward of court** — a person who cannot protect themselves, placed under protection | Same word for a *place of treatment* and a *person under guardianship* — and it shares a root with **guard**, **warden**, **custody**, and Juvenal's ***custodes***. One cluster runs from the epigraph to Maddy's ch4 ward. |
+| **Register** | **the Medical Register** — the list of licensed practitioners | the register of anything | **Egghead is not yet on it.** Ch5 is titled *The Register*. The chapter about who counts and the chapter about a woman who cannot report because she is not licensed use the same institution. |
+| **Vitals** | pulse, respiration, temperature | **vital records / vital statistics** — the official registration of births, deaths and marriages | In a book about lists, *vitals* means both the patient's signs and the state's population register. |
+| **Complaint** | the **presenting complaint** — what the patient says is wrong | the pleading that opens a case | She charts complaints a dozen times a week. **The one she cannot chart is also a complaint.** |
+| **Instrument** | a blade | **a legal instrument** — a document | A document and a scalpel have the same name. |
+| **Forensic** | — | evidence *for the forum* (*forum*, the public place where cases were argued) | **She gathers nothing forensic because there is no forum**, and the word for that absence is Roman — Collie's register reaching into Egghead's chapter. |
+| **Contemporaneous note** | charted at the time | carries evidentiary weight; a later note carries almost none | **By writing nothing at the time, she protects the woman now and makes it permanently unprovable.** The exact price of a correct decision, in the language of evidence. |
+| **Trial** | a clinical trial; a **trial of labour** | a trial | Already in the kitchen/theatre table. Now three-way. |
+| **Battery** | — | unconsented touching — **and treating without consent *is* battery** | The one place the two professions are the same offence. |
+| **Prescription** | a script | **acquiring or losing a right through lapse of time**; limitation | A prescription that expires. |
+
+**Second tier — available, no argument attached:**
+
+| Word | The doubling |
+|---|---|
+| **Admission** | admitted to hospital / an admission of fact |
+| **Discharge** | from the ward / of a duty, of a debt |
+| **Capacity**, **competence** | the clinical test for consent and the legal test are the same test |
+| **Consent** | the central word in both, and the one the reporting question turns on |
+| **Unwitnessed** | the clinical term for an event with no observer — an unwitnessed fall, an unwitnessed arrest |
+| **Attend**, **unattended** | a doctor attends; an **unattended death triggers an inquest**; and Diana's leg is unattended |
+| **Remedy**, **relief** | what fixes the wrong / what eases the pain |
+| **Chain of custody** | evidence's provenance. Hers has no chain because there is no channel. |
+| **Charge** | a legal charge / the charge nurse / **charging a hose**, which ch3 already does |
+| **Sound** | of sound mind / to sound a chest / **ch2 ¶19's "make sure that the branch is sound"** — Nona taught them |
+| **Sanction** | to permit and to punish, the same word — ch5's *sanctioned* activation |
+| **Findings**, **opinion**, **material** | clinical findings / findings of fact; a **material** fact is one significant enough to matter |
+| **Case** | both professions organise all knowledge by case — caseload, case law, casebook |
+| **Practice**, **malpractice** | the same verb for both trades |
+| **Privilege** | doctor–patient privilege is a shield held by **the patient**, not the clinician |
+| ***Injuria*** | the Latin means a **legal wrong**, not a physical hurt — the two senses were one word before they split |
+| **Masterly inactivity** | a real older clinical phrase for deliberate non-intervention |
+| **Index of suspicion** | the technical name for what a clinician thinks and cannot prove |
+| **"The history doesn't match the injuries"** | not a metaphor — the actual charted phrase for suspected abuse |
+| ***Salus aegroti suprema lex*** | let the patient's welfare be the supreme law. Medicine's own Latin, and her justification |
+| ***Sigillum confessionis*** | the seal of confession — inviolable even to save a life. A **stronger** duty than medicine's, worth having in the room for comparison |
 
 ##### She never files it — Terrace, 2026-08-12
 
@@ -542,7 +624,17 @@ It is not *women rise when the order falls* — the opposite is the historical d
 
 **One discipline, or it tips into misery cataloguing.** Three women's suffering in one chapter is a great deal. The protection is that **Egghead is working, not witnessing** — a clinician's POV is triage and inventory, not grief. She also needs her own arc: ch2 gives us a woman who threw up in a truck bed and held her briefcase upright, proud and out of her depth. **By the end of a rotation she is competent and compromised.** The cases are her curriculum.
 
-**Title:** *Off-Label* and *Formulary* are banked. This material wants **_Notifiable_** — a notifiable condition is one you are legally compelled to report, and she has a case she is obliged to report and no body to report it to.
+**Title:** *Off-Label* and *Formulary* are banked. This material wants **_Notifiable_** — a notifiable condition is one you are legally compelled to report, and she has a case she is obliged to report and no body to report it to. **Terrace is leaning Juvenal:** *audio quid ueteres olim moneatis amici*, Satire VI ~346 — the **setup** line, so the reader supplies *quis custodiet ipsos custodes* unprompted and the chapter never says it. **Never quote the third line** (*cauta est et ab illis incipit uxor*) — Juvenal's punchline blames the wife. Whole hexameter, not a fragment; and check it against an OCT or Loeb before it ships, since the *quis custodiet* lines carry known textual complexity.
+
+##### Rosa — name candidate for Egghead. Terrace, 2026-08-12
+
+**From *sub rosa*, and it carries three things at once:**
+
+- ***Sub rosa*** — under the rose. Literally a rose hung above a table, meaning what is said here stays. The origin is **Harpocrates**, the god of silence, given a rose by Venus to keep her affairs quiet. **The emblem of confidentiality, on the woman whose chapter is a secret she will not write down.**
+- **Rosalind Franklin** — the corrective device, and a *scientist*: her data was used without her knowledge or credit, and she died before the prize. Exactly the register Elbakyan, Latimer and Tsien occupy, and the only one of them from the laboratory.
+- **And *Rosalind → Rosa* is the household's own naming mechanic** — a name that hardened into a nickname, the way *Coelia → Collie* did.
+
+**Which gives her three names and a decision about which one the prose uses.** *Rosalind* on the card, *Rosa* to colleagues, **"Egghead" is what a boy in a truck bed called her** and what the frats kept using. The book already runs a formal/shouted double register; she is the first character to have all three, and **whose name she is called by in her own POV chapter is the chapter's temperature.**
 
 #### If the frat violence is depicted — how not to make it a blunt instrument
 
@@ -642,15 +734,16 @@ Her register for the title is astronomical and horological: *Transit*, *Meridian
 | B+13 | 13 | **ch1 §E** — the clinic. Collie now Senior Lecturer and Doctor. |
 | B+13/14 | 13–14 | **ch1 §F** — Christmas to April. The flats open, the silver goes up three floors, the laminated cards. **Collapse onset.** |
 | B+16 | **16** | **ch2 — *Continuity Test*.** Maddy 14, Nadia 14, Diana ~16. Year ~3 of the collapse. |
-| B+18 | 18 | **ch3 — *Isolation*** (July). **ch4 — *Boil Water*** (November), Maddy 16 and in high school. **ch5 — the historian.** |
-| B+18 | 18 | **The wildfire.** Takes the watershed and the outpost in the same season as ch3. **Lacks comes down, 8**, in the improvised aftermath. |
+| B+16/17 | 16–17 | **ch3 — *Slush*.** Egghead's rotation, **winter**. Diana ~17, seen clinically. Maddy 14–15. |
+| B+18 | 18 | **ch4 — *Isolation*** (July). **ch5 — *Boil Water*** (November), Maddy 16 and in high school. **ch6 — the historian.** |
+| B+18 | 18 | **The wildfire.** Takes the watershed and the outpost in the same season as ch4. **Lacks comes down, 8**, in the improvised aftermath. |
 | B+19 | 19 | **The sanctioned salvage run** goes back up for the instruments, and brings down two bodies. **The state burial.** |
-| B+16→22 | 16→20 | **ch6 — Diana.** Spans years, overlapping most of the above. |
-| B+19/20 | 19–20 | **ch7 — Maia.** |
-| B+20 | 20 | **ch8 — the marriage.** Lewis in college. **The obstetric chapter**, Maddy 18. |
+| B+16→22 | 16→20 | **ch7 — Diana.** Spans years, overlapping most of the above. |
+| B+19/20 | 19–20 | **ch8 — Maia.** |
+| B+20 | 20 | **ch9 — the marriage.** Lewis in college. **The obstetric chapter**, Maddy 18. |
 | B+21/22 | 21–22 | **F2 arrives** via Lewis. Lacks is 10–11 — a fixture in the house before the baby, and old enough to be handed it. |
 
-**Two settings make the four constraints close, and neither is derivable — they are canon decisions.** The **Lewis–Maddy gap is 2 years** (a 3-year gap forces the obstetric chapter to depressurization + 4, breaking *"one or two"*), and **ch3 falls ~2 years after ch2**. Gap-2 checks clean against the prose: §C is Maddy 5 / Lewis 7 (*"a bit older"*), §D is Maddy 10 / Lewis 12 (seat too high). **Ch3's draft pins nothing** — no date, no Lewis, only *"twenty-years old"* maps — so the window is free.
+**Two settings make the four constraints close, and neither is derivable — they are canon decisions.** The **Lewis–Maddy gap is 2 years** (a 3-year gap forces the obstetric chapter to depressurization + 4, breaking *"one or two"*), and ***Isolation* falls ~2 years after ch2**. Gap-2 checks clean against the prose: §C is Maddy 5 / Lewis 7 (*"a bit older"*), §D is Maddy 10 / Lewis 12 (seat too high). ***Isolation*'s draft pins nothing** — no date, no Lewis, only *"twenty-years old"* maps — so the window is free. **That window is now where *Slush* lives.**
 
 #### The relocation moves after ch5, and becomes the first *sanctioned* activation
 
