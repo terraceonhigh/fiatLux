@@ -32,6 +32,14 @@ And his absence from the **¶143 homecoming ledger** stops being an oversight an
 
 ---
 
+**The tonal instruction for ch5.**
+
+> *An Invitation to Wine, crossed with an Austen tea party.*
+
+Two academics over mead in an office, mannered and oblique, until the drink turns the talk to centuries — one paragraph of it, unanswered, and then back to the small talk. Reasoning under *The historian is a Sovietologist* below.
+
+---
+
 **The shape of the obstetric chapter, in four.**
 
 > *Proof, a dough for the schoolteacher, a trial by fire for Maddy, and bread for the Swartz table.*
@@ -455,7 +463,55 @@ Research is in [`research/absorbing-armed-bands.md`](../research/absorbing-armed
 
 **The reversal this collects on:** ch1 ¶9 has the university making Collie *teach freshmen about colonialism without mentioning Said and economics without mentioning Friedman* — it censored its own humanities as ornament. Now it needs a classicist and a historian to work out how a polity survives its own armed young men. The department treated as decoration turns out to be the strategic studies faculty. Also: the governance body is a **Senate**, and a classicist advising a Senate about chartering armed bands is a pun that does not need pointing at.
 
-**A documentary chapter — the Senate minutes.** The meeting ch5 spends months preparing for, told entirely as record: minutes, tabled findings, citations. **Ch5 is the private argument; this is what survived into the record**, and the gap between them is the chapter. The reader has both and performs the subtraction.
+#### The historian is a Sovietologist, and that reshapes ch5
+
+**Terrace's decisions, 2026-08-11.**
+
+- **The historian is a USSR specialist, emeritus from before the fall** — meaning this collapse, not 1991.
+- **The scene is Collie and him in an office over drinks**, and it is **implied as one episode of many** such conversations across the faculty. **Collie has had several herself, in her own office and as a guest.**
+- **It happens before he — or perhaps *his* conversation partner — goes to represent the history department at the next Senate meeting.**
+- **The drink is mead, via Nona.** Something to eat alongside.
+- **Tone: *An Invitation to Wine* crossed with an Austen tea party.**
+
+**Nothing above supersedes the research.** Changing his *field* changed his *vocabulary*, not the findings. Plurality as the safety feature, the merger being the dangerous reasonable proposal, Sforza, the Janissary erosion, the student nations, the CCC — all still stand, and most of them are now **Collie's side of the argument.** She is the classicist; Rome is her register in the room. **The chapter got better because the two of them reason from different case libraries.**
+
+**His vocabulary, and why it changes his answer.** A Latin Americanist would warn her she is about to grant a **`fuero`** — a corporate jurisdiction she will then spend fifty years trying to abolish. A Sovietologist says the opposite, and it is better advice:
+
+- **Do not grant the body anything. Enroll the members.** `Komsomol` — a card, a hierarchy, tasks, and **the gate to a career**. You never negotiate with Epsilon; you own every brother's prospects. `nomenklatura` is the list of posts and of persons approved to hold them; `raspredelenie` is the assignment of graduates to their postings, which is Lewis and ch9.
+- **`krugovaya poruka`** — collective mutual liability. **You do not police them; you hold the chapter answerable and let them police each other.** Which is how real universities actually govern fraternities.
+- The register set, if the Cossack framing is wanted: **`reestr`**, the capped list of recognised armed men, everyone off it a bandit — **which is the document Bréal already forged his way onto.** Plus `streltsy`, the privileged corps inside the capital that had to be liquidated; `sluzhilye lyudi`, a society sorted by the service it owes; `druzhina`, the retinue fed at the table.
+- For ch3, retroactively: **`subbotnik`** — voluntary unpaid labour for the common good, voluntary in the sense that refusal is unthinkable. And **`pripiska`**, falsifying a figure upward in a report, which is the extra circle on the 0.
+- **`blat`** — the informal economy of pull and favours running beside the formal one. **That is the whole book.** Ch1 is blat; ch5 is blat being written down and still untraceable.
+
+**And his method is `Kremlinology`** — inferring what happened in a closed room from the document it emitted, from who was omitted and who stood where. **He is the reader's proxy inside the book**, which is exactly why the minutes chapter can go.
+
+**Free characterisation:** he spent a career on a state that dissolved, and then it happened to him. He was the only person on campus who was not surprised, and nobody asked him.
+
+**The movements — a proposed shape, assembled from agreed parts.** The bolded decisions are Terrace's; the connective tissue and the ordering are recommendations.
+
+1. **The office, the pour, the offering.** Host or guest is established in a line, because **the host controls the bottle**. *Recommend the food be bread, butter and honey* — honey and mead both from Nona's hives, so the hospitality is itself the favour economy, running under a conversation about formalising the favour economy. **Butter is already this book's index of the year** (ch2 ¶55 in from the fields; the November cull reaching campus *"only as less butter next spring"*), so how much is in the dish dates the scene without exposition. *The device is a recommendation; the ledger entries are canon.*
+2. **The small ask, answered with the large solution.** *Recommended engine:* she comes for one specific thing — a person protected, a line item — and he hands her the general instrument instead. She can see at once that it works, and that **it will be applied to everyone, including hers.** She wins and loses in the same sentence.
+3. **The Li Bai paragraph, after the second or third pour.** The enormous thing said once — centuries, empires, what falls and what it takes down — and **the other one does not pick it up.** Back to the small talk. *One paragraph, then dropped, which is how this book has handled everything.*
+4. **Her own argument comes back to her, mutated, from a third party.** *Recommended, and it is the cheapest possible proof that the network exists* — she hears her thinking loose in the building with her name off it, from a man who got it from someone who was not there when she said it.
+5. **The handoff.** He stands up and mentions who he is seeing on Thursday. *Recommend taking the third-remove option Terrace floated:* **it is his interlocutor who goes to Senate**, so nobody in the chapter has any authority at all and the frame is unmistakably a slice.
+
+**The Austen frame hands you ch9.** Austen's engine is marriage brokerage — connections, prospects, respectability, what an alliance would cost. **The vocabulary for absorbing an armed band and the vocabulary for settling a match are the same vocabulary**, so playing it straight makes ch5 funny, which the book needs after a water emergency and an epidemic. Then in ch9 Collie does it to an actual person and the reader has already heard her do it to an institution. (*Reading the title as Li Bai's 將進酒, the one that ends with the horse and the furs sold for wine.*)
+
+**Titles moved register with the historian.** The Latin candidates are banked rather than dead — ***Foedus*** is the best of them, one word meaning *the treaty*, and identical in form to the adjective meaning *foul*. Now leading: ***The Register***, which is the Cossack institution, the nomenklatura, and the thing Bréal forged, while being the most mundane word a university owns — registrar, registration, the register of students. ***Reestr*** for strangeness; ***Streltsy*** if the title should name the ending rather than the act.
+
+#### ~~A documentary chapter — the Senate minutes~~ — CUT
+
+**Terrace cut this on 2026-08-11: *"we can scratch the meeting minutes chapter. Just leave the frat thread as finished at the ending of Collie and the Historian."*** Body kept below, because the devices are still live and the pipeline warning applies to any documentary section wherever it lands.
+
+**Why the cut works rather than costs.** The emeritus's method *is* Kremlinology, so **the reader now performs the subtraction with no second document at all** — one overheard conversation out of a dozen, no record anywhere, and the policy has to be inferred. Harder, and truer: the whole thing is decided in a medium that produces no minutes, which is why nobody can ever be held to it.
+
+**Recommendation, unratified: keep the minutes as ch5's closing section** — bare `---`, then the record. The subtraction in one chapter instead of two.
+
+**It also renumbers the plan**, 7/8/9 → 6/7/8, which helps the plan's own stated worry: Diana moves a chapter closer to ch2.
+
+The original note follows.
+
+The meeting ch5 spends months preparing for, told entirely as record: minutes, tabled findings, citations. **Ch5 is the private argument; this is what survived into the record**, and the gap between them is the chapter. The reader has both and performs the subtraction.
 
 The register is already declared. The nobledark definition in use is *tragic choice not villainy, **recorded vote counts**, small technical heroism* — and ch1 is written in this voice throughout: a board taking up a departmental reply to a government RFP, a procurement choice up for debate at the next student council meeting, *"the next contract review proudly presented downward pressure on the UV disinfection budget."* The world ended in a contract review, so documents are the form the catastrophe took. `Bureaucracy` is already one of the work's AO3 tags.
 
@@ -558,6 +614,11 @@ Title register for the shop half is machinist — *Tolerance*, *Backlash*, *Runo
 - ~~**Whose POV carries the water chapter?**~~ Settled: Bréal and Maddy. The feared register collision with ch2 turned out overstated — hydraulics English (*Isolation*, *Head*, *Backflow*) reads nothing like electronics English.
 - ~~**Is the temporary pipe built quietly or approved?**~~ Moot once the farm became university land. No unaffiliated household, no precedent, no Collie.
 - ~~**Bréal's naming reference**~~ Settled 2026-08-11 — Terrace confirms **Michel Bréal**, *"marathon man"*. Recorded at `canon/pedigree.md:105`.
+- **Whose POV carries ch5?** The plan says Collie's, and ch1 already is. **We have never seen Collie from outside** — giving it to the emeritus makes her the guest, and every calculation has to be inferred from what she does with her glass. Safe answer is Collie; interesting answer is him.
+- **Does the minutes device survive as ch5's closing section?** Cut as a chapter; unratified as a coda.
+- **Who actually goes to the Senate?** Terrace floated the third remove — *his* interlocutor rather than him. Recommended, unconfirmed.
+- **Ch5's title.** *The Register* leads, *Reestr* and *Streltsy* in reserve, *Foedus* banked from the Latin pass.
+- **Does the emeritus need a name?** He becomes **the second man in the book with a voice**, which is worth deciding before drafting rather than after. Bréal has carried that alone (`canon/pedigree.md:120`).
 - **Where does the obstetric chapter go?** It has no slot. Strongest candidate is the **Egghead** slot below, since the godmother *is* the affiliation rule being broken rather than set up — but the sketch gives Collie the POV and Egghead a retractor, so taking that slot may mean Egghead never gets her own.
 - **Is the schoolteacher still affiliated?** Her posting had five months left at ch2 and this is two-plus years on. If she stayed with the carpenter she is a townswoman, and the theatre is a favour somebody spent standing on — which makes it **ch1's clinic scene for the third time**, after Nona and Diana's leg. The sharpest version, and the one that costs Collie something.
 - **Who is actually named godmother?** Maddy is the recommendation; the MD, Egghead and Collie are all live, and Collie is the most loaded, since the woman who signed for the board would then hold the child.
