@@ -32,6 +32,22 @@ Where it goes: some chapter after ch2, once the schoolteacher's five-month posti
 
 ---
 
+**The ask, in the marriage chapter — Collie to Maia, at the table.**
+
+> *Our son is a sparkie, you are raising an astronomer, you know better than I do what the family needs to secure itself.*
+
+Where it goes: the marriage chapter, **just the two of them**. See the section on it below.
+
+---
+
+**The occasion, not the arrangement — Collie to Lewis, in the marriage chapter.**
+
+> *Darling Lewis, if you can bring [her name] and the computers these sandwiches I just baked.*
+
+Her name first, then *"and the computers."* The singling out is disguised as courtesy, and the name goes into his mouth alongside food. `[her name]` is **Ada**.
+
+---
+
 **The sending off, ch2 — the father speaks, and Maia answers him.**
 
 > *Best bring back all your fingers, boy. They're for the saws to eat. If you lose one, though, the going rate is two pounds of sausage to a finger.*
@@ -403,9 +419,55 @@ Open and close in the classroom. Disaster holds the middle third only, so the re
 2. **What kind of document it is.** Strongest version is not pointed: **a physician writing a note writes a physician's note**, because the old conventions for a school absence are gone and nothing replaced them. What comes out is a duty log with *please excuse* at the top. Not making a point — just the only register they still have.
 3. **Whether anyone objects.** The receiver — a teacher — is the chance at the book's first actual dissent, as opposed to leakage: a person saying out loud that a fifteen-year-old should not be running a deficiency epidemic. Costs one exchange, and **nobody in the book has ever objected to anything.** If the school simply files it, that is the answer too, and the colder one: the institution agreeing she is staff now.
 
-#### The obstetric chapter — unnumbered
+#### *Spatchcock* — the obstetric chapter, unnumbered
 
-*Sketched 2026-08-11. No slot yet; see `## Open`. **Terrace decided** everything in this first list — the rest is marked.*
+*Sketched 2026-08-11, titled 2026-08-12. No slot yet; see `## Open`. **Terrace decided** everything in this first list — the rest is marked.*
+
+##### The title — *Spatchcock*. Terrace, 2026-08-12: *"just for the bird and the woman."*
+
+**Chosen for the parallel, over a three-way test it fails.** Terrace set the criteria — a title had to work as **(A)** something a bored teenager would say about a day at school, **(B)** something for the delivery room, and **(C)** something in a domestic kitchen — and then chose a word that satisfies only C, because **the bird split open beside the woman split open is worth more than three-way legibility.** That override is the decision; the test survives below for the runners-up.
+
+**What the word carries.**
+
+- **The etymology is the chapter.** *Spatchcock* is thought to come from *dispatch cock* — **a bird killed and split in haste for an unexpected arrival.** That is an emergency caesarean: an arrival nobody scheduled, done fast, with what is on hand.
+- **The action is the incision.** Splitting a body along the midline and flattening it open.
+- **And the verb means to interpolate something hastily and inappropriately into a text** — which is what this chapter *is*, unnumbered and unplaced in the sequence. Free, and nobody need point at it.
+
+**What it commits Terrace to** — the same shape as *Ruts* needing its amber:
+
+1. **The bird has to be on the page.** Without Collie actually spatchcocking one in the scene, the title has no referent.
+2. **The "how was school, sweetheart" register now lives entirely in the dialogue**, because the title carries none of it. No teenager says *spatchcock* about her day.
+3. **The comedy is in the word and a title is the book's voice, not the characters'.** Nonchalance is Maddy stabbing something on her plate; on the cover it can read as the book finding this funny, and it reduces the schoolteacher to poultry. **The schoolteacher's dignity has to be protected by how Maddy talks about her**, since the title will not do it.
+
+##### What cauterising smells like, and the free double
+
+**Searing** — meat hitting a dry hot pan. Surgical staff make the comparison unprompted, and a non-trivial number of them go off pork.
+
+**But the kitchen operation to use is *singeing a bird*** — passing a plucked chicken or goose over a flame to burn off remaining down and pin feathers. That is burnt **keratin**, and it is exactly the cautery note wherever hair or skin edge is involved: sharper and more acrid than the meat smell under it. **It is poultry prep, done at a stove, which the title now requires anyway.**
+
+**And it is not a metaphor being imposed — it is the same reaction.** Searing meat and cauterising tissue both run the **Maillard reaction**, amino acids and reducing sugars under heat. Surgical smoke and overheated cooking oil share **acrolein** specifically.
+
+**So: Collie singeing a bird at the stove while Maddy describes the theatre gives the reader the smell twice from one sentence, and nobody has to say so.** With the title chosen, this is the scene's load-bearing image rather than a nice option.
+
+**Separable layers if wanted:** muscle and fat read as searing; skin edge and hair as singeing; **blood on hot metal is metallic and faintly sweet**; **bone**, drilled or burned, is mineral and acrid — the smell dentists live in.
+
+***One craft caveat.*** Electrocautery needs power and a working unit, and a caesarean done with *"two sticks and a rock"* may not have one — in which case the smell is absent and the palette is blood, whatever serves as antisepsis, and bowel. **The degraded-version answer is hot-iron cautery**: an actual heated instrument, pre-electric, which has to be reheated between uses. Somebody has to count that time.
+
+##### Banked runners-up, and the three-way test
+
+*Kept because the test is reusable and these all passed it.*
+
+| Candidate | A — teenager on school | B — delivery room | C — kitchen |
+|---|---|---|---|
+| ***Score*** | **"What did you score?"** — the test | **the Apgar score**, the number a delivery room produces at one and five minutes | **you score a loaf** so it opens where you chose, instead of bursting where it wants — the caesarean's whole rationale |
+| ***Presentation*** | **"I had a presentation."** | fetal presentation — **transverse is the crux** | plating, how a dish presents |
+| ***Section*** | a class section | caesarean section | **you section a bird**, or a grapefruit |
+| ***Table*** | tables | **the operating table** | **the dinner table** |
+| ***Prep*** | prep, homework | surgical prep | mise en place |
+
+***Score* was the strongest of these** and would have given the chapter its tonal trick in two words of dialogue: somebody asks what she scored, and **she gives a number** — a teenager reporting a figure about her day, and the figure is a newborn's. It also carries a musical score (instructions performed by several people at once) and settling a score.
+
+**Failed the test:** ***Lie*** (transverse lie, and the omission in the telling — but nothing in A or C), ***Delivery*** (the truck's, the baby's, and Terrace's own word for the method — no A), ***Caul*** (birth membrane, lucky, **sailors carried them against drowning**; and butcher's caul fat — no A), ***Proof*** (maths proofs, proofing dough — no B), ***Term*** (**school term** and **at term**, both perfect — no C), ***Count*** (the swab count — A too weak).
 
 **Terrace's decisions.**
 
@@ -716,7 +778,17 @@ Her register for the title is trapping: *Trapline*, *Sprung*, *Runs*, *The Check
 
 **This also solves the father.** He is alive and needs somewhere to be. A man who takes things apart and shows a boy where the wire went loose is a natural fit for mounting and maintaining a transit instrument — which would make his absence from Lewis's daily life *geographic rather than mortal*, and would explain ch2 ¶11's habitual *"would say"* as quoting an absent man rather than a dead one. Worth considering, since it closes an open item in *To fix* rather than adding one.
 
-Her register for the title is astronomical and horological: *Transit*, *Meridian*, *Ephemeris*, *Sidereal*, **_Culmination_** (the moment a star crosses the meridian, at its highest), and **_Rate_** — the technical term for a clock's daily error, which cannot be known without observing something outside the clock.
+**Title settled 2026-08-12: *Skywave*** — Terrace, to prime the HAM radio arc.
+
+**The strongest reading is not the priming, though.** Skywave is HF refracted off the ionosphere and returned to earth far past the horizon. **The mechanism is intact — the F-layer still carries every night. What is missing is a transmitter.** So she can listen to a channel functioning exactly as designed and hear nothing on it: the port logic a third time (piers serviceable, goods stopped), the water logic again (water still there, disinfection traded away at a contract review). **A working channel with nothing coming through it** is this book's signature failure, in one word.
+
+**It also survives the register test, which was the one worry.** Skywave is radio-propagation vocabulary and Maia is an astronomer. But **the thing she has lost is the time signal**, and a distant time signal arrives *by skywave* — she is not doing radio engineering, she is **waiting for the ionosphere to cooperate**. And skywave varies by hour, season and solar cycle, so she is the person on campus who understands why the sky is or is not carrying tonight.
+
+**It makes an existing rhyme deliberate.** The ch4 water SCADA commits the setting to licensed VHF/UHF telemetry, noted here as *"the university's water talks by radio while the feds have gone radio silent. Opposite fates, same spectrum."*
+
+***Rate* is what it cost, and should survive inside the chapter** — as a section break or a line, not the cover. **A clock's rate is its daily error, and it cannot be known by looking at the clock; you need something outside it.** With the federal time signal gone, *rate* is the precise quantity that becomes undeterminable — losing the standard means losing the ability to know your own drift. That is the chapter's actual failure, and *Skywave* names the medium instead.
+
+Also banked from her register: *Transit* (a star crossing the meridian, and the instrument her husband mounts), *Meridian*, *Ephemeris* (literally the table of predicted positions — it *is* the almanac), *Sidereal*, **_Culmination_** (the moment a star crosses the meridian, at its highest — legible as climax, technical as astronomy, and the two readings do not fight), **_Mean Time_** (mean solar time, *and* "in the meantime," *and* mean as base — the standard you compute yourself when nobody broadcasts one), **_Dead Reckoning_** (position from heading, speed and elapsed time, **with no way to confirm it** — which matches the deadline warning below and points at the voyage south), **_Longitude_** (unsolvable without an accurate clock), and **_Escapement_** — the fish that get through to spawn, and the mechanism that releases the gear tooth by tooth.
 
 **One craft warning: an observatory chapter goes inert without a deadline.** An almanac is a publication — it must be finished *before* the period it covers. Give her a hard date and no way to check her own work.
 
@@ -853,7 +925,9 @@ Notes toward the objects, none of them load-bearing:
 
 ##### Maia knew them, and the Tsiens do the salvage
 
-**Settled 2026-08-12. The collision over Lewis's father resolves as (a), with a turn.** He is on campus when it burns — ch1 ¶75 has him arriving at Christmas and never leaving, ch2 ¶11–13 reads as present, and `pedigree.md:57` stands unrevised. **But both Tsiens go up on the salvage run.** He is a sparkie and she is an astronomer: he handles the delicate mechanical and electrical work, she knows which glass matters and which is only glass. A married pair of specialists, and the only two people qualified to decide what comes down.
+**Settled 2026-08-12. The collision over Lewis's father resolves as (a), with a turn.** He is on campus when it burns — ch1 ¶75 has him arriving at Christmas and never leaving, ch2 ¶11–13 reads as present, and `pedigree.md:57` stands unrevised. **But both Tsiens go up on the salvage run.** He is a sparkie and she is an astronomer: **Maia does the technical salvage of the dome and he does the electrical** *(Terrace, 2026-08-12, correcting an earlier note here that had the division the other way round)*. She knows which glass matters and which is only glass. A married pair of specialists, and the only two people qualified to decide what comes down.
+
+**This is also the record that Maia acts.** She is decisive *inside her expertise* and quiet outside it — which is one character, not a late awakening. Her part at the burial *"is not a skill"* because the burial is not her domain; the dome is. The same competence names a computer at a dinner table in ch9.
 
 **So Maia finds her friend on a road.** She went up for instruments.
 
@@ -953,6 +1027,116 @@ Also: do not let the father be a saint. He is the last first-generation maker an
 Title register for the shop half is machinist — *Tolerance*, *Backlash*, *Runout*, *Datum*, *True*. **_Rate_** still looks like the best single title for the whole chapter, since determining a rate needs her sky, his clock, and an outside reference, and it is exactly what the second generation has to establish rather than inherit.
 
 **Why this chapter has to exist:** Diana appears in exactly one chapter. That is thin ground on which to break a reader's heart, and the marriage plot will read as disposal rather than tragedy until she has more page time. Related craft note recorded during the same conversation: **the university girl is currently a device, not a person** — "slide-rule jockey" was the tell. Give her something Diana genuinely cannot give Lewis that he actually wants, and make her a steered protégé with no more say than he has, and there is no rival to root against and nobody to blame. Two people who like each other, used by the same machine, is much worse to read and much better to have written.
+
+#### The marriage chapter — the ask, and who the girl is. Terrace, 2026-08-12
+
+***That craft note above is now answered: she is a **computer**.*** Not a slide-rule jockey — **a person whose profession is computing**, in the original sense. The almanac in *Skywave* is an enormous computational artifact, positions for every day of a year worked out in advance, and **historically that labour was done by human computers** organised in rooms, splitting the calculation and checking each other in pairs. The Nautical Almanac Office ran on them. **She is the labour the almanac cannot exist without.**
+
+**Which means Collie is not buying a wife. She is buying the other half of a capability.** The Lacks girl observes, a computer reduces, and together they make an almanac; add Lewis on electrical and his father on the mechanical, and **the household ends up holding the whole navigation stack** — which is what a voyage south for rubber will need in twenty years.
+
+**The corrective device fits her exactly.** Human computers are *the* uncredited technical workforce — the Harvard Computers on twenty-five cents an hour, the segregated NASA computers. Name candidates from that pool: **Leavitt** (the period–luminosity law that made cosmic distance measurable; a computer on hourly wages, and deaf), **Cannon** (~350,000 stars classified, also deaf), **Fleming** (a maid Pickering hired), **Payne** (established what stars are made of and was pressured to disclaim her own conclusion), **Vaughan**, **Jackson**, **Mitchell**.
+
+**And the word does the cruelty for free.** *Computer* names a person by the machine-function she performs, so "Collie is importing a computer" reads as a woman and as a part, and the sentence never has to choose.
+
+**One irony already in this file.** The shop-half section has Lewis's father *"building the tide computers and the clocks from printouts of the old patterns."* **She marries into the household that is building the machine which will replace her.**
+
+##### Her name — **Ada Fleming**. Settled 2026-08-12
+
+**The knot is closed, and Terrace closed it against erasure.** The worry was that if the computer computes and the astronomer signs the almanac, the household reproduces on its own wife the exact injustice the Lacks name exists here to commemorate. **Terrace: it will not come to pass that she suffers the humiliation of obsolescence — she and her children with Lewis become instrumental in re-developing the mechanical computers and in designing the clockwork.**
+
+**The two halves of the name pull opposite ways on purpose.** ***Fleming*** records what it cost to get in the room: **Williamina Fleming** was a Scottish maid, abandoned while pregnant, hired as a computer because one man decided to, and rose to curator of photographs and discoverer of the Horsehead Nebula. **She is the counterfactual Diana** — the outsider who got in because somebody made an exception — which is a sharp thing to seat in the household that declined to sponsor Diana. ***Ada*** promises the opposite: **Ada Lovelace**, credited loudly, with a programming language and an annual day named for her.
+
+**So the given name predicts the arc Terrace just chose, and the surname remembers the dependency.**
+
+**And the Babbage closure is exact, which is why she is not made obsolete.** Babbage's motivation for the Difference Engine was that **hand-computed astronomical and navigational tables were riddled with errors and ships were being lost over them.** The machine existed to eliminate the human computer's error rate. **So Ada Fleming building it is not obsolescence — it is the only person who knows exactly how wrong hand computation goes, fixing her own problem.** She has made those errors personally. She is the right engineer for the machine *because she was the machine*. Lovelace's own contribution was seeing what such an engine could become, which is design work rather than computation — the name and the arc are one story.
+
+**One detail that needs no comment on the page.** Ada Lovelace was **Byron's daughter**, and her mother had her drilled in mathematics specifically to steer her away from her father's nature. **She was engineered by her mother into a particular kind of person** — which puts a **third steered daughter** in this book beside Maddy and Nadia, and she is the one steered by *somebody else's* mother before marrying into the household that steers everyone.
+
+**The household's technical lineage, assembled with sandwiches:** Lewis's father on mechanical and the maxim; Lewis on electrical; **Ada Fleming from computation into machine design**; their children on the clockwork; Lacks on observation and the almanac's data; Maia on rate. Three generations of a workshop.
+
+*She will want an entry in `pedigree.md` when that file's scope extends past ch2.*
+
+##### The mechanism is not arrangement — it is occasions. Terrace, 2026-08-12
+
+**Terrace: *"Not arranged arranged, more, shifts shuffled, invitations to tea had, 'Darling Lewis, if you can bring [her name] and the computers these sandwiches I just baked.'"*** *(Held verbatim up in Terrace's lines.)*
+
+**She arranges nothing.** She creates **occasions** — a shift shuffled, a tea, an errand — and lets proximity do the work. There is no moment to point at, nothing to resent, and nobody was ever asked. **The line does it in one breath: her name first, then "and the computers."** The girl is singled out and the singling is disguised as courtesy. Collie has put Ada's name in Lewis's mouth alongside food.
+
+**Which is the established pattern, not a new device.** ch2 ¶153: Collie brings cake batter to the bakery, layers it with **Diana's own jam**, and sends Lewis to give Bréal a slice. The bread in the obstetric chapter. Mead through Nona's hives in *Druzhina*. **Her statecraft runs on catering** — she has fed every negotiation in this book, including the one where she ate the jam of the girl she was going to displace.
+
+**So the dinner ask splits cleanly: Maia supplies the name, Collie supplies the proximity.** Neither of them proposes anything, and the marriage plot stops having a villain.
+
+##### Collie is a *Matron*, and the root is the register
+
+**Terrace, 2026-08-12.** Better than *dowager*, whose power derives from a dead man's estate — Collie's derives from her own post and the standing she spent at that clinic.
+
+***Matrona*** is the Roman term: a married woman of citizen standing, real authority, **no office**, working entirely through household and connection. **And *matron* in English is also an institutional post** — the hospital matron, the school matron: the woman who runs the place without holding its formal power. Collie is both at once.
+
+**And the etymology closes a loop already open in this file.** *Matron* is from *mater*; so is ***matrix***, which in Latin means **womb** and, by extension, **a register or roll**; from which ***matricula***, a little roll; from which ***matriculation***, the act of being entered on it. **Matron, matrix, matricula, matriculate — one word family.** Collie's title and Collie's instrument share a root, which is why *Matriculation* surfaced on the *Druzhina* shortlist.
+
+##### The scene — settled
+
+**Terrace chose the dinner table over another mead-and-an-academic scene, and *just the two of them*: Collie and Maia.** The line is held verbatim up in *Terrace's lines*.
+
+- **"Our son."** Collie says *our* about Maia's child — the mirror of ch2 ¶129's *"well, they are my sisters,"* one generation up. **The children claimed each other; now the mothers claim each other's children.** It is not sentiment, it is the ask: by saying *our*, she makes it Maia's problem before the question arrives.
+- **"You know better than I do" is the first time Collie asks instead of decides.** Nona into the clinic, Maddy into pharmacy, Nadia into agronomy — all hers. Here she names the domain and defers.
+- **Maia produces the answer, which changes the moral shape of the chapter.** Not an outsider engineering a match — **the mother selecting from her own faculty**, with a motive that is not the marriage: she needs a computer.
+- **The knot that cannot be untied and should not be.** Maia picks her own subordinate to marry her son. **The computer's supervisor becomes her mother-in-law.** She cannot leave the job without leaving the family, or the family without leaving the job. Nobody arranged that; it is what happens when the household and the department are the same people.
+- **Collie's arithmetic on the Lacks girl stays unspoken.** She priced a ten-year-old orphan, set her aside as unprofitable — no family, no dowry, no departmental connection, nothing but a talent a decade from maturing — and asked a question instead. **The rejection lives entirely in what she does not say at that table, across from the woman raising the girl.** Neither of them ever mentions it.
+- **Lewis is not there**, since it is just the two. So the subject is absent rather than present-and-unconsulted — which avoids simply repeating Maddy's *nobody has yet asked whether she wants it.*
+- **And it makes four.** The laminated cards over three pots of tea (ch1 ¶75), the caesarean over bread, the gonfalons over cloth, and now a wife over dinner. **The polity has no capacity of its own, so its business keeps happening at this table.**
+
+##### Why Collie could not solve it inside the household
+
+**She foreclosed it herself, with her own kindness.** Marrying Lewis to Maddy or Nadia was the cheapest possible solution — all three already affiliated, no import, no dowry, no outside family gaining leverage, and no consanguinity anywhere. Collie thinks in Roman patronage, where marriage inside the class was the norm; she would have no cultural brake.
+
+**But children raised in close proximity from early childhood develop reliable sexual aversion.** The Israeli kibbutzim produced almost no marriages among peers raised together from infancy; Taiwanese minor marriage — an infant girl adopted in to be raised beside the son and later marry him — produced markedly higher divorce, lower fertility and more infidelity than matches arranged between adults. **That is exactly the experiment, and it is documented to fail.** ch2 ¶129 is the evidence it already has: *"well, they are my sisters."*
+
+**So the bunk at twelve, the console living in her living room instead of a house where the lights went out after dinner, the three of them raised in one flat — every one of those made them kin, and being kin made them ineligible.** Her cheapest solution died of her having been a good aunt.
+
+***The open question about her:*** did she see it coming and do it anyway, because being a decent guardian outranked the plan? Or is this **the one time she did not think far enough ahead** — the engineer's single blind spot, in the only domain where she could not be cold? Both are good, and they are different women.
+
+**Two refinements.** **Maddy has a second bar** independent of any aversion: she is being built into a doctor, and spending her on continuity wastes an investment running since the apothecary. **Which makes Nadia the one the arithmetic would have pointed at** — Nona's daughter rather than Collie's, so a shade of kin distance, and agronomy a smaller sunk cost than medicine. **Nadia is the almost-used one, and she will never know it.**
+
+**And there may be a formal bar, not only an aversion.** Canon law prohibited marriage within degrees of **affinity** and **spiritual kinship** — godparents could not marry godchildren, co-godparents could not marry each other. **Compadrazgo created a real impediment.** If the covenant language here carries any normative weight in the town, then **every affiliation Collie creates removes a marriage option**: her instrument of inclusion is also an instrument of exclusion. Someone is about to be named godmother in the obstetric chapter.
+
+##### Title settled 2026-08-12: *Colt*
+
+**Terrace: *Cover*, or *Colt* — "if we also get Collie to scold Lewis about locking ammunition up in the Swartz house."**
+
+**The beat pays off a thread already in this file.** See *The rounds are the crime, not the copper*: the copper is theft the whole crew commits together and Bréal hands out the pliers, but the second pile in ch2 ¶57 — **rounds sorted into Lewis's own backpack** — is different in kind, because he is arming a woman the university does not recognise. **Collie telling him to lock it up is the first time anyone in the household touches that.** And she does not say *stop*; she says *lock it up*, which is a procedural instruction rather than a prohibition. She is not confiscating Diana's ammunition — **she is putting it under her roof and her key.** The matron's move.
+
+**Three senses, all firing:**
+
+- **A colt is a young male horse — kept entire or gelded.** In a chapter where the household decides his reproductive future, **the unspoken alternative is inside the word**: he could simply not be used. Nobody says it.
+- **A Colt is a firearm**, and the ammunition beat recruits that reading deliberately — so the competing referent does work instead of misleading, which is what the legibility test asks.
+- **And it rhymes ch9 against *Druzhina*.** That chapter absorbs **armed young men as a class**, by Senate. This one absorbs **one specific armed young man**, by household, over sandwiches. Same problem at two scales.
+
+***Cover* was the runner-up and lost on focus.** It is the better *mechanism* word — **a stallion covers a mare**, and **a cover is a place setting at table** — so it names the mating and the dinner in one syllable, and it is already in the book's vocabulary twice (the kitchen/theatre lexicon, and ch4's *"Nona requisitions canvas; cuts cover"*). But concealment, protection, lid, cost, insurance and covering fire crowd in behind it. **_Colt_ names the subject; *Cover* names the verb and then drifts.**
+
+##### The animal husbandry glossary — pulled 2026-08-12
+
+**One caveat that outlasted the naming.** Husbandry belongs to the **farm**, which is **Nadia's** domain. Collie's register is Latin. So this vocabulary is borrowed on a Collie-POV chapter — **unless ch9's POV is Nadia's**, which would give the register to its rightful owner, finally assign the only unplaced character, and put **a woman who breeds livestock for the university in the room while the university breeds her brother**, in the vocabulary she uses at work. She would name it correctly and have no standing to object. *The POV column for this chapter is still blank; this is the strongest argument for filling it with her.*
+
+**Naming Diana's status:** ***Papers*** — in livestock, *papers* are the documents that make a pedigree official, so **"an animal with no papers"**; plus identity papers; plus **the papers Collie grades in ch1 ¶3**, "of dubious provenance." Three senses, all already in the book. ***Grade*** — a **grade** animal is one **without registration**, regardless of quality; a grade horse can outwork a registered one and never be worth what it's worth.
+
+**The registry set:** ***Closed studbook*** — a registry that **admits no animals from outside, ever**, which is the university's rule in stockman's terms; an ***open studbook*** admits outsiders on inspection, and is what Diana would need. ***Foundation stock*** — echoes the **foundation seed** already in the crop-loss material. ***Pedigree***, probably too meta given the filename.
+
+**Collie's reasoning:** ***Inbreeding depression*** is the technical name for the household's problem and why she must import. ***Linebreeding*** is what she attempted with Maddy and Nadia and lost. ***Heterosis*** / ***hybrid vigour*** is what she is actually buying. ***Nick*** — when two lines *nick* they produce offspring better than either's merits predict, **a mating that beats the arithmetic**. ***Progeny test*** — judging a breeder by its offspring, so **the verdict on this match arrives a generation late**.
+
+**The children, coldly:** ***Produce*** — a dam's offspring are her **produce**, and produce is what a farm grows, **and Diana's whole position is that she produces without standing**. ***Get*** — a sire's offspring are his *get*. ***Conformation*** (judged against a standard, and conforming), ***Standard*** (breed standard, norm, **flag**, and **time standard** — four senses, too diffuse), ***Maiden***.
+
+**Also settled fourth sense for *Settlement*:** **a mare *settles* when she conceives.** So the legal marriage settlement, a settlement as a town, settling a matter, and settling as conceiving.
+
+**Banked for elsewhere:** ***Fostering*** is the husbandry term for **grafting an orphan lamb onto a ewe that will accept it**, sometimes by disguising its scent with the dead lamb's skin — **that is the Lacks girl**, and it belongs to *Skywave* or the obstetric chapter. ***Culling***, ***service*** and ***covering*** are already load-bearing in other lexicons.
+
+##### Runner-up titles, banked
+
+Leading before *Colt*: ***Conubium***, the Roman legal capacity to contract a valid marriage — a **status right, held by some and not others, granted or withheld.** Diana does not lack love or standing; **she lacks conubium**, and eligibility is a thing a state confers. Strong second: ***Connection*** — Austen's word for a useful relation, Lewis's word for a soldered joint, and **ch4's municipal connection, which the university cuts to save its own.** Same noun, same verb, one generation later, and the sentence is already in the manuscript.
+
+Also live: ***Settlement*** (the legal instrument that makes a match binding; also a town, also settling a matter, also settling *for*); ***Affinity*** (kinship by **marriage** as against **consanguinity** — legible in the ordinary sense, exact in the legal one, and it sits beside *by flesh or by covenant*); ***Outcross*** (breeding outside the line — **it names why the chapter has to exist**); ***Impediment*** (the canon-law bar that voids a marriage — stronger now that the bar may be spiritual kinship rather than biology); ***Banns*** (publication three times **so that objections may be raised**, and nobody stands up for Diana); ***Prospects***, ***Entail***, ***Alliance***, ~~***Reduction***~~ — the computer's own term for turning raw observation into result, plus a woman reduced to her function, plus a thing boiled down for the kitchen lexicon. **Struck 2026-08-12: Ada is not reduced.** The title would promise an erasure the chapter now refuses.
+
+**One etymological gift whatever wins:** *spouse*, *sponsor* and *sponsalia* all descend from *spondere*, to pledge. **The word for the person who vouches for you and the word for the person you marry are the same word.** Collie sponsored Nona into a clinic; here she sponsors a wife.
 
 ---
 
