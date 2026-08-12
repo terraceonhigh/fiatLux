@@ -499,6 +499,68 @@ Research is in [`research/absorbing-armed-bands.md`](../research/absorbing-armed
 
 **Titles moved register with the historian.** The Latin candidates are banked rather than dead — ***Foedus*** is the best of them, one word meaning *the treaty*, and identical in form to the adjective meaning *foul*. Now leading: ***The Register***, which is the Cossack institution, the nomenklatura, and the thing Bréal forged, while being the most mundane word a university owns — registrar, registration, the register of students. ***Reestr*** for strangeness; ***Streltsy*** if the title should name the ending rather than the act.
 
+#### Ch5's thesis on collapse and women — Terrace, 2026-08-12
+
+**State collapse *is* bad for women. The campus is comparatively better off precisely *because* the university has become a quasi-state.** That is the position, and it should be legible without being argued.
+
+It is not *women rise when the order falls* — the opposite is the historical default, and the coercive capacity that fills a vacuum is usually male and armed. **The frats are literally that.** What is different here is that the surviving thing is a **corporation** — Senate, register, clinic, charter — and institutional power is where these women already are. Roman matrons could not hold office and were formidable through patronage, brokerage and intercession; when the formal channels stop working, the channel they were confined to becomes the only channel. **The consolation prize turns out to be the whole game.**
+
+**And Diana is the control, already written.** A woman outside the institution with autonomy, production, a rifle — and a leg nobody will look at. She is not attacked. She is *unattended*. The book's claim is not that collapse favours women; it is that **inside a surviving institution, the people who knew how to work it are the ones who can.**
+
+#### Egghead's chapter — the town rotation. Terrace, 2026-08-12
+
+**Terrace's premise: an Egghead-focus chapter, with Diana, an abused woman by way of an Epsilon member, and various farming-community injuries and violence.** File stubbed at `manuscript/slug.md`, name pending.
+
+**It fills the gap the timeline opened.** Ch2 sits at B+16 and ch3 at B+18, and the two-year span exists because the ages will not close otherwise. Egghead arrives in the town in ch2 on what the prose says is a three-month rotation. **Put her chapter in that window and the gap stops being arithmetic and starts carrying weight.** Reading-order slot still undecided — inserting it at 3 renumbers everything after and renames a chapter mid-draft.
+
+**It resolves a contradiction the book has been sitting on since ch1.** The campus clinic will not treat Nona because she is unaffiliated (ch1 ¶59) — and the same university **posts a medical student into a town to treat everyone in it.** Those cannot both be about membership. **The difference is that the town has butter, leather and jam, and Nona had nothing.** Affiliation was never about belonging; it is about whether you sit inside a flow the institution needs. Egghead is the instrument of both rules at once, which is why this is the chapter where the rule is *broken* rather than set up.
+
+**Diana from outside, for the first time.** Every line we have on her is Lewis's — adoring, close, a woman who feeds him and lets him grease a hinge. **A clinical view is a different woman entirely**: a badly fitted prosthesis, a stump with pressure sores, no follow-up, and no prosthetist within reach. Costs nothing but a change of eyes.
+
+**And the honest answer is the cruel one.** Egghead examines it and says it needs a prosthetist there isn't one. **Ch6 then spans the years of what that answer cost — being seen and still unattended is worse than never being seen.** *This moves the leg out of ch6's beat list; ch6 keeps the consequence.*
+
+**The Epsilon case is the engine, and Egghead's position is extraordinary.** She is simultaneously the only person who can document it, an employee of the institution the perpetrator belongs to, too junior to act, and gone in three months. **She is the entire justice system and she is a student with a binder.**
+
+**There is no channel. The complaint has to ride home in the truck** — carried by the same boys, on the same convoy, because there is no other way for paper to travel. That is the image the chapter is built on, and **it is precisely what ch5 is later convened to fix.**
+
+**The farming injuries are the right camouflage.** Agriculture is genuinely among the most lethal occupations — entanglement, crush, livestock, falls — and pre-antibiotic a dirty wound is a slow death sentence. So the caseload is a crush injury, an infected hand, a fracture set late, and **one woman whose account does not match her injuries.** That is how it actually presents: nobody tells you, you notice a pattern that does not fit. **The violence hides inside the ledger.**
+
+##### She never files it — Terrace, 2026-08-12
+
+**She holds the complaint in her head, because she is not stupid.** There is no channel that does not run through the boys, and she can read the arithmetic. **So the chapter stops being "a complaint with no recipient" and becomes a woman deciding not to speak, correctly, and being deformed by the decision.** *(Terrace: "let me do some of that psychological horror stuff.")*
+
+**What the secret costs her, mechanically:**
+
+- **She has to keep the woman alive for the rest of the tour**, which means seeing her regularly, which means **manufacturing clinical reasons to keep checking on her.**
+- **And the pretexts go in the binder.** ch2 ¶45: the outgoing student hands over *"the binders for the village and which patient was on what for how long."* **Egghead's covering lies become permanent entries in a medical record she will hand to her successor.** She is not just keeping a secret — she is falsifying an institutional document, protectively, in her own handwriting.
+- **Which is *pripiska*** — the falsified figure already in ch5's Sovietologist vocabulary. **And the emeritus reads documents.** The binder is a record with a protective lie in it, and it outlives everybody who knew why.
+- **She has to be normal with all of them.** Ride the truck, share the fire, treat them when they present. **Including him.** She cannot look at one of them differently without telling everyone what she knows, so she has to be even-handed with a man she has to keep alive too.
+- **She has to be normal with the victim in front of others**, which means the two of them build a private register in public — and the woman now depends on a stranger who is leaving in weeks.
+- **And she leaves.** The tour ends. The horror is not the secret; it is that **the secret has an expiry date and the woman does not get to leave with her.**
+
+*Craft note: this is what makes her arc land. Ch2 gives us someone proud and out of her depth who held a briefcase upright in a truck bed. What comes back is someone competent, silent, and carrying a falsified binder — and nobody at the university will ever know why she is different.*
+
+**One discipline, or it tips into misery cataloguing.** Three women's suffering in one chapter is a great deal. The protection is that **Egghead is working, not witnessing** — a clinician's POV is triage and inventory, not grief. She also needs her own arc: ch2 gives us a woman who threw up in a truck bed and held her briefcase upright, proud and out of her depth. **By the end of a rotation she is competent and compromised.** The cases are her curriculum.
+
+**Title:** *Off-Label* and *Formulary* are banked. This material wants **_Notifiable_** — a notifiable condition is one you are legally compelled to report, and she has a case she is obliged to report and no body to report it to.
+
+#### If the frat violence is depicted — how not to make it a blunt instrument
+
+**Terrace, 2026-08-12: the frats already have a reputation about sexual assault**, which is an established institutional fact rather than an invention, and is therefore usable. **The discipline is that the cruelty in this book is procedural, and this must be too.** Tools, ranked by how much they complicate:
+
+1. **The university already had a machinery for this, and it was built to protect the institution.** Campus adjudication, informal resolution, the quiet transfer, the settlement. **The frats' reputation was *managed* for generations, never addressed — and the people who managed it are now the government.** Collie is negotiating with an institution that has professional competence at not seeing this. Nothing needs inventing; it is the pre-collapse practice carried forward intact.
+2. **Absorption creates jurisdiction, and routes every complaint into that machine.** Collie is right that jurisdiction beats no jurisdiction. The jurisdiction she creates is one with a documented record of burying exactly this. **She is not wrong and it is not enough**, which is the ratchet.
+3. **The frats are also the labour force and the emergency service.** They dug the valves, they will hold the fire line, they will go up the mountain. So every complaint carries a cost an administrator can count — the same *correct criteria, wrong axis* logic that lost the landrace. No villainy required.
+4. **Affiliation decides whether there is a case at all.** A student complains and a process exists. A woman in a town complains about a boy on a convoy run and there is no process, because she is not on the list. **That is the clinic scene again** — Nona could not be treated, Diana cannot be treated, and a town woman cannot be *heard*.
+5. **Bréal is the complication in person, and this is the strongest one.** He is decent on the page, takes a rifle to a sunroof for a convoy, teases Lewis and lets it drop — *and* he runs an organisation with this reputation and knows what his boys are. If he polices them himself, off the books and hard, then **it works, and it is exactly what a state cannot permit.** Ch5's absorption therefore *takes that power away from him* and replaces something functional with something procedural that has a worse record. **That is the real cost of the chapter's correct answer.**
+6. **No monster.** A thing that happened, a process that ran, a document at the end, and nobody to point at.
+
+**On method — do not depict the act.** The obstetric chapter's technique is the book's answer to the unbearable: **delivered in retrospect, across a table, by someone who was there.** What gets depicted is the aftermath and the paperwork — a caseload, a file, a transfer, a woman who stops coming to the dining hall.
+
+**The *errata* land medically, and the machinery already exists.** Contraception is a **clinic decision** in this world — copper IUDs off salvaged wire, because barrier methods die with the rubber and steroid synthesis is out of reach. So the aftermath is administered on a list, by an eighteen-year-old, and **who gets one is who is affiliated.** Same instrument as the crops, the treatment rule, and the funeral.
+
+**Delivery sites:** **ch4** is best and nearly free — Maddy does not witness, she *treats*, and the pattern tells her; her register is already counting. **Ch3** has the crowd already, and a mass that could turn and doesn't quite costs a paragraph. **Ch6** carries the outside, since Diana is the woman with no recourse. **Frat-derived violence elsewhere is cheapest as rumour** — other chapters, other campuses, third-hand over a CB — which is also how the emeritus would want it: a report he has to read like a document.
+
 #### ~~A documentary chapter — the Senate minutes~~ — CUT
 
 **Terrace cut this on 2026-08-11: *"we can scratch the meeting minutes chapter. Just leave the frat thread as finished at the ending of Collie and the Historian."*** Body kept below, because the devices are still live and the pipeline warning applies to any documentary section wherever it lands.
