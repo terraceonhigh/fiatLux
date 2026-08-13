@@ -60,12 +60,12 @@ So downtown is named, visible, adjacent and declined. It also earns a second job
 
 Two questions the continuity audit filed as open resolve the moment a node has to be placed:
 
-- **The water source.** Drawn gravity-fed from a protected upland watershed through a treatment works to a balancing reservoir — which is what supplies pressure, which is what ch4 races. Treatment sits *upstream* of the valve, so ch1 ¶13's UV budget line has a physical location, and cutting the municipal connection does not cut the university's treatment.
+- **The water source.** Drawn gravity-fed from a protected upland watershed through a treatment works to a balancing reservoir — which is what supplies pressure, which is what *Isolation* races. Treatment sits *upstream* of the valve, so ch1 ¶13's UV budget line has a physical location, and cutting the municipal connection does not cut the university's treatment.
 - **The campus power.** Still dashed. Whether the university has its own district energy, or hangs off the substation like everyone else, is undecided — and the dashed gold edge to the ring, labelled *the flashing signals?*, is the same question asked from the other end.
 
 ## The climate is pinned even though the place is not
 
-The blend leaves the jurisdiction unresolved; it does not leave the weather unresolved, because ch4 runs on the deficit.
+The blend leaves the jurisdiction unresolved; it does not leave the weather unresolved, because *Isolation* runs on the deficit.
 
 **Mediterranean-shaped year, rain-shadowed, roughly 640 mm annually** — concentrated October to May, with July and August near-desert at 15–25 mm. Choose the drier of the plausible coastal figures deliberately: it puts the setting **just above the threshold where dry farming remains a real practice rather than a comfortable default**, so an unirrigated season is survivable, argued about, and not free. The wetter figure would remove the argument.
 

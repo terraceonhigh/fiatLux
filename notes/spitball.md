@@ -4,21 +4,39 @@ Where the story might go, from the session the night chapter two posted. **Nothi
 
 ## Renumbering key — read this before trusting any `chN` in this file
 
-***Slush* was inserted at chapter 3 on 2026-08-12**, pushing everything after it down one. Entries in this file are dated, and **the numbers in them were correct when written.** They have deliberately *not* been rewritten — recasting a dated note in a numbering that did not exist yet would falsify the record. Convert as you read:
+**Chapter numbers have moved three times. Titles have not. Use titles.**
 
-| Written as | Now | Chapter |
+| # | Title | |
 |---|---|---|
-| `ch3` | **ch4** | *Isolation* |
-| `ch4` | **ch5** | *Boil Water* |
-| `ch5` | **ch6** | Collie and the historian |
-| `ch6` | **ch7** | Diana |
-| `ch7` | **ch8** | Maia |
-| `ch8` | **ch9** | the marriage |
-| `ch9` | **ch9** | the marriage — *do not shift these* |
+| 1 | *ante finem mundi* | posted |
+| 2 | *Continuity Test* | posted |
+| 3 | **untitled** | Nona's recipe — inserted 2026-08-12 |
+| 4 | *Slush* | inserted 2026-08-12 |
+| 5 | *Isolation* | drafting |
+| 6 | *Boil Water* | |
+| 7 | *Druzhina* | Collie and the historian |
+| 8 | *Ruts* | Diana |
+| 9 | *Skywave* | Maia |
+| 10 | *Colt* | the marriage |
+| — | *Spatchcock* | the obstetric chapter, unplaced |
 
-**Two traps.** `ch9` references (lines ~480, ~498) predate the **2026-08-11 minutes cut**, when the marriage was ch9; they were stale by one and are accidentally correct again — leave them. And any reference to the **cut minutes chapter's** number means the minutes, not Diana. `canon/setting-map.dot`'s `ch8` labels had the same accident and have been rewritten outright.
+**Entries in this file are dated, and the numbers in them were correct when written.** They have deliberately *not* been rewritten — recasting a dated note in a numbering that did not yet exist would falsify the record. **Two conversion layers, depending on when a note was written:**
 
-**Exactly two places in this file use the new numbering:** the **timeline table** (`#### The timeline`) and the ***Slush* section**, both of which say so at the top. **Everywhere else — above *and* below them — is pre-renumbering**, including sections dated 2026-08-12, because today's material was written around the older sections rather than after them. The dated sections were deliberately left alone; the table above is the conversion.
+| Written as | Pre-2026-08-12 notes | The two 2026-08-12 sections* | Chapter |
+|---|---|---|---|
+| `ch3` | **ch5** | **ch4** | *Isolation* / *Slush* respectively |
+| `ch4` | **ch6** | **ch5** | *Boil Water* / *Isolation* |
+| `ch5` | **ch7** | **ch6** | *Druzhina* / *Boil Water* |
+| `ch6` | **ch8** | **ch7** | *Ruts* / *Druzhina* |
+| `ch7` | **ch9** | **ch8** | *Skywave* / *Ruts* |
+| `ch8` | **ch10** | **ch9** | *Colt* / *Skywave* |
+| `ch9` | **ch10** | — | the marriage — *see the trap below* |
+
+*\* Exactly two places used the first new numbering: the **timeline table** (`#### The timeline`) and the ***Slush* section**, both of which say so at the top. **Everything else in this file — above and below them, including other sections dated 2026-08-12 — is pre-renumbering**, because that day's material was written around the older sections rather than after them.*
+
+**Two traps.** `ch9` references (lines ~480, ~498) predate the **2026-08-11 minutes cut**, when the marriage was ch9; they were stale by one, became accidentally correct on the first renumber, and are now stale by one again — they mean *Colt*, which is **ch10**. And any reference to the **cut minutes chapter's** number means the minutes, not Diana. `canon/` has been converted to titles outright and needs no key.
+
+**Going forward: name chapters by title in this file.** Sections written after 2026-08-12 do.
 
 ---
 
