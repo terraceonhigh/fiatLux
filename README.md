@@ -45,4 +45,4 @@ If a chapter file is renamed while an editor has it open, re-save from the edito
 ## Known gaps
 
 - **The working bible is not in the working tree, but it is in the history.** `canon/the-academy-brainstorm.md` — 310 lines, third edition, subtitled *"descent removed, project installed"* — was stripped in `7330333` along with 2,062 lines of research and the origin chat. Deliberate, not lost. Inventory and recovery paths in [`notes/stripped-canon.md`](notes/stripped-canon.md), which also flags a live contradiction between that bible's removal of descent and the current direction. **The 809th Vavilov Lecture** remains outside the repo entirely.
-- AO3 work-level tags are still chapter one's set: no relationship tag, no Diana, and `POV Multiple` now describes a work whose second chapter is a single close third.
+- **The AO3 work-level tags were rewritten on 2026-08-13** — 34 canonical tags, no longer chapter one's set. Still no relationship tag and no Diana, and `POV Multiple` survived a rewrite it now fits worse than ever, Ch3 being three in-world documents. The Fandoms field also carries `Climate Change - Fandom`, apparently an unintended disambiguation suffix.
