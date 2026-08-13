@@ -16,7 +16,7 @@ digraph pedigree {
     Nona        [label="Nona Elbakyan\ncharity work, knits, drives"];
     NadiaFather [label="placeholder_04\nNadia's father\nunwritten"];
     Maia        [label="Maia Tsien\nastronomer\nthe mountain observatory"];
-    Husband     [label="placeholder_01 Tsien\nLewis's father\nChinese\nrepairs, the soldering iron"];
+    Husband     [label="Alexander 'Alex' Tsien\nLewis's father\nChinese\nrepairs, the soldering iron"];
     DianaMother [label="placeholder_06\nDiana's mother\nnamed as Mother, ch2 ¶139"];
     DianaFather [label="placeholder_07\nDiana's father\nunwritten"];
 
