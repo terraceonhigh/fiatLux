@@ -1156,6 +1156,85 @@ Also live: ***Settlement*** (the legal instrument that makes a match binding; al
 
 **One etymological gift whatever wins:** *spouse*, *sponsor* and *sponsalia* all descend from *spondere*, to pledge. **The word for the person who vouches for you and the word for the person you marry are the same word.** Collie sponsored Nona into a clinic; here she sponsors a wife.
 
+#### The storeroom — a *cella penaria* on the third floor. Terrace, 2026-08-12
+
+***Chapters are named by title in this section, not number.***
+
+**Terrace's premise: a bedroom in the Swartz house converted to store preserved things — "what would a honey-producing *domus* have kept?"** Plus, provisionally, **"the Swartz household had just taken over the floor."**
+
+##### The room already has a Roman name, and gods
+
+A Roman house had a **cella penaria**, the larder. What it held was the ***penus*** — the household's stores. And the gods of that store were the **Penates**, worshipped at the shrine beside the Lares. **The gods of the cupboard.**
+
+So a classicist converting a bedroom into a food store is building a *cella penaria*, and **the room where the food is kept is, etymologically, the room where the household gods are.** Collie would know. Nobody has to say it.
+
+##### What a honey household has that no other household has
+
+**Honey is not just the sweetener — it is the preservative.** It does not spoil, it is hygroscopic, and it is antimicrobial. So this household preserves in a medium nobody else has:
+
+- **Fruit submerged in honey**, keeping for years — an ancient documented practice.
+- **Meat in honey.** Apicius on keeping meat fresh. Genuinely done.
+- ***Oxymel*** — honey and vinegar together, preserving *and* medicinal. **That is Maddy's register sitting in her mother's storeroom.**
+- **Candied ginger and roots** — and the ginger is Nadia's patch (ch2 ¶15).
+
+**So the room is not rows of pickle jars. It is things suspended in gold, and it is heavy.**
+
+##### The hive's byproducts are already load-bearing elsewhere
+
+| | Where it is already needed |
+|---|---|
+| **Beeswax** | Sealing jars, waterproofing, candles, **waxing cheese** — and the base for Maddy's ointments |
+| **Mead vinegar** (ullage, soured mead) | **The acid Collie's potash needs in *Fortification*.** It is already in the house. |
+| **Lees / spent yeast** | The food yeast for the fennel-potato casserole, straight off Nona's fermentation |
+| **Propolis** | Antimicrobial resin, a real medicinal |
+
+**One animal supplies the drink, the vinegar, the yeast, the wax and the preserving medium.** That is why the hive is the household's most productive asset and why the apiary closing ch2 is not decoration.
+
+##### Cheese yes, wine no
+
+**Cheese, emphatically.** Butter is established (ch2 ¶147, thirty kegs salted), so there is dairy — and **cheese is simply how you store milk** in a world without refrigeration. Hard, salted, pressed, **sealed with their own beeswax.**
+
+**Wine, no — mead.** Grapes are not on the page. The *cella vinaria* here is a mead store, which is better: **the household's alcohol is its own production rather than a purchase.**
+
+##### The inventory, from established production only
+
+Smoked salmon (ch2 ¶49) · salted butter in the keg · sausage and casing (ch2 ¶47) · deer, Diana's · huckleberry jam · dried mushrooms *if the botanists still have any* · sage in bundles · salt · **poppy in vials, which is currency** · and a **paocai crock** if it survives from the cut option — **whose water seal must be topped up, so the room requires a weekly visit from someone.**
+
+***Flagged, not recommended:*** a coastal household with salmon could make ***garum***. Real, Roman, and it would be the most pungent object in the building — but it is a months-long open fermentation of fish and salt and it would make a converted bedroom uninhabitable in a way nothing else here does.
+
+##### The floor math — seven people never fitted in one flat
+
+**Terrace's count: three women, three children, one man.** Collie · Maia · Nona · Mr Tsien · Lewis · Maddy · Nadia.
+
+**By standard occupancy that is five bedrooms:** the couple (1), Collie (1), Nona (1), Maddy and Nadia sharing (1), and Lewis alone because a boy past ten shares with nobody (1). **Five bedrooms is a house, not a university flat.**
+
+**And the original flat was two bedrooms holding two people.** ch1 ¶9 — *"the long-awaited flat, thankfully far below market rate for something this comfortable this close to her workplace"* — subsidised staff housing, waitlisted. ¶19 puts it on the third floor of a red brick building. **¶23's "proper bunk" for Lewis at twelve implies Maddy and Lewis sharing a room**, so: two bedrooms, roughly 70–90 m², Collie and Maddy, with a third staying over.
+
+**ch1 ¶75 already wrote the expansion, and it was never one flat:** *"Maia and her husband came to Collie's door for Christmas and did not leave until April, when the international students flew back home and never came back **and the flats were open.** The old house had finally been sold, and the silver took two people to bring **to the third floor.**"* They wintered with Collie and then took a flat **on the same floor.** So the reconvergence was households on a landing from the start, and **taking the floor is that finished, not begun.**
+
+**This also settles `setting-map.md`'s third open adjacency** — *is Collie's flat the third-floor red brick, or two residences?* If they hold the floor: both, now. **And it defuses the obstetric chapter's worry** that six at a table implies a fully reconverged single flat — a floor lets the household be one social unit across several doors.
+
+##### The number that decides what the storeroom means
+
+**Two units per floor or four.** A three-storey red brick runs either.
+
+| | Floor area | Per person | The storeroom is |
+|---|---|---|---|
+| 4 units × ~75 m² | ~300 m² | 43 m² | free — a spare room nobody wanted |
+| **2 units × ~75 m²** | **~150 m²** | **21 m²** | **a bed somebody gave up** |
+
+***Recommend two.*** A converted bedroom only costs something if rooms are scarce, and *we put the honey where somebody used to sleep* wants a name attached. **Whose room it was has a date and a departure in it** — the flat took Maia and her husband at ch1 ¶75, the children grew, Lewis leaves for college in *Colt*.
+
+**Reframe worth holding either way:** even the tight version is **21 m² a person**, which is roomier than Hong Kong manages now. **This household is spatially rich, and the reason is an allocation** — university housing, written down in an office. *They are not squatting an empty building; somebody put their name against a floor.* Which leaves one question that need never reach the page: **where did the neighbours go.**
+
+##### Two consequences nobody in the scene would count
+
+**The third floor is about to become the wrong floor.** Upper storeys lose water pressure first — that is just head. ***Isolation* is the depressurization.** So a third-floor household is marginal for water and will be carrying it up stairs, and whatever sits above them is already dry. **They chose height before height had a cost.**
+
+**And the load.** Honey runs ~1.4 kg/L, before the crocks, kegs and dolia. A *cella penaria* on the third floor of a building where **the silver already took two people to carry up** (ch1 ¶75) is weight on joists nobody has inspected since the collapse. **A sensible domestic decision with an engineering consequence underneath it, uncounted** — which is the shape of everything else in this book.
+
+*Counter-argument, so the choice stays deliberate:* in a fuel-scarce winter the rational move is to **consolidate**, not spread — heat two flats, not five. A household spreading across a floor is thermally expensive. **Unless the unheated room is the feature, which a *cella penaria* wants anyway.**
+
 ---
 
 ## To fix
