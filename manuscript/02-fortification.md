@@ -1,4 +1,4 @@
-## Standard Loaf,
+## Standard Loaf, version 2daeb1ae
 
 From: Department of Food Sciences, Dietitian Nona Elbakyan
 
