@@ -15,14 +15,23 @@ import html
 import re
 import sys
 
-# What AO3's "plain text with limited HTML" actually keeps. Deliberately
-# conservative: anything outside this is worth a human look before posting.
+# What AO3's "plain text with limited HTML" actually keeps: the `elements:`
+# array of Sanitize::Config::ARCHIVE, in the otwarchive source at
+# config/initializers/gem-plugin_config/sanitizer_config.rb. That file is
+# ground truth — anything outside it the Archive strips on save, silently.
+# Re-check against that file rather than the user-facing FAQ
+# (archiveofourown.org/faq/formatting-content-on-ao3-with-html): the FAQ is
+# prose about the sanitiser, the sanitiser is what runs, and the two can
+# drift. The point of the set is that a human looks before posting, so err
+# toward flagging: a tag wrongly listed here gets blessed and then eaten.
 ALLOWED = {
-    "p", "br", "hr", "em", "strong", "i", "b", "u", "s", "strike", "sub", "sup",
-    "a", "blockquote", "q", "cite", "code", "pre", "small", "big", "center",
-    "h1", "h2", "h3", "h4", "h5", "h6", "ol", "ul", "li", "dl", "dt", "dd",
-    "table", "thead", "tbody", "tfoot", "tr", "th", "td", "caption", "col",
-    "colgroup", "div", "span", "img", "details", "summary", "ruby", "rt", "rp",
+    "p", "br", "hr", "em", "strong", "i", "b", "u", "s", "strike", "del", "ins",
+    "sub", "sup", "a", "blockquote", "q", "cite", "code", "pre", "small", "big",
+    "center", "h1", "h2", "h3", "h4", "h5", "h6", "ol", "ul", "li", "dl", "dt",
+    "dd", "table", "thead", "tbody", "tfoot", "tr", "th", "td", "caption",
+    "col", "colgroup", "div", "span", "img", "details", "summary", "ruby",
+    "rt", "rp", "figure", "figcaption", "abbr", "acronym", "address", "dfn",
+    "kbd", "samp", "tt", "var",
 }
 
 
@@ -49,11 +58,18 @@ def md_words(text):
     Headings and pipe tables were added when the manuscript acquired a chapter
     that is a document rather than prose (the loaf formula). The table rule row
     must go before the pipes do, or its dashes survive as words.
+
+    Strikeout arrived with a sign that was amended rather than replaced. The
+    non-obvious part is on the other side: pandoc's HTML writer emits <del> for
+    `~~`, not the <s> you would guess, so ALLOWED above has to carry del. Only
+    the doubled marker is stripped — a lone `~` is prose and must survive on
+    both sides or it becomes a phantom mismatch of its own.
     """
     text = re.sub(r"^---\s*$", "", text, flags=re.M)     # scene break -> <hr>
     text = re.sub(r"^#{1,6}\s+", "", text, flags=re.M)   # heading     -> <hN>
     text = re.sub(r"^\|[\s|:-]+\|\s*$", "", text, flags=re.M)  # rule  -> (nothing)
     text = text.replace("|", " ")                        # cell edge   -> <td>
+    text = text.replace("~~", "")                        # strikeout   -> <del>
     text = text.replace("*", "")                         # emphasis    -> <em>
     return text.replace("`", "").split()                 # code span   -> <code>
 
@@ -97,6 +113,10 @@ def self_test():
     assert md_words("`waitlisted`") == ["waitlisted"], "code span must drop"
     assert md_words("*a*") == html_words("<p><em>a</em></p>"), "round trip"
     assert md_words("`a`") == html_words("<p><code>a</code></p>"), "code round trip"
+    assert md_words("~~him~~") == ["him"], "strikeout markers must drop"
+    assert md_words("~~him~~") == html_words("<p><del>him</del></p>"), "strikeout round trip"
+    assert md_words("~5 miles") == html_words("<p>~5 miles</p>"), "lone tilde is prose, not syntax"
+    assert bad_tags("<p><del>x</del></p>") == [], "pandoc's strikeout tag must be allowed"
     assert bad_tags("<p>x</p><script>y</script>") == ["script"], "allowlist must flag script"
     assert bad_tags("<p><em>x</em><hr /></p>") == [], "allowed tags must pass"
     print("verify-fidelity self-test: ok")
