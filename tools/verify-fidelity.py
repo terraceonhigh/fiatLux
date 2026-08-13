@@ -41,14 +41,21 @@ def md_words(text):
     """Visible words of the markdown, with syntax that becomes markup removed.
 
     Handles exactly the constructs the manuscript actually uses. That is
-    deliberate: if a new one appears — a link, a heading, a list — this will
-    mismatch and fail the build, which is the point. A blanket "strip all
-    punctuation that might be syntax" would silently normalise away a real
-    difference between source and output.
+    deliberate: if a new one appears — a link, a list — this will mismatch and
+    fail the build, which is the point. A blanket "strip all punctuation that
+    might be syntax" would silently normalise away a real difference between
+    source and output.
+
+    Headings and pipe tables were added when the manuscript acquired a chapter
+    that is a document rather than prose (the loaf formula). The table rule row
+    must go before the pipes do, or its dashes survive as words.
     """
-    text = re.sub(r"^---\s*$", "", text, flags=re.M)  # scene break -> <hr>
-    text = text.replace("*", "")                      # emphasis    -> <em>
-    return text.replace("`", "").split()              # code span   -> <code>
+    text = re.sub(r"^---\s*$", "", text, flags=re.M)     # scene break -> <hr>
+    text = re.sub(r"^#{1,6}\s+", "", text, flags=re.M)   # heading     -> <hN>
+    text = re.sub(r"^\|[\s|:-]+\|\s*$", "", text, flags=re.M)  # rule  -> (nothing)
+    text = text.replace("|", " ")                        # cell edge   -> <td>
+    text = text.replace("*", "")                         # emphasis    -> <em>
+    return text.replace("`", "").split()                 # code span   -> <code>
 
 
 def bad_tags(text):

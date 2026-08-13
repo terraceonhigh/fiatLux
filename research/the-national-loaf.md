@@ -70,6 +70,22 @@ Flour of 85 per cent extraction could be had two ways:
 
 **That is the whole thing, and it is now precise rather than gestural.** The healthier bread carries an antinutrient that binds calcium — from the bread *and from the rest of the diet* — so **the better loaf requires exactly twice the chalk, and half of that chalk does nothing except cancel out a harm the improvement introduced.**
 
+### Extrapolating the dose to wholemeal — for *Fortification*
+
+**The chapter's formula specifies wholemeal, not 85% extraction**, so the spec's 14 oz does not apply. Derived from the paper's own logic and its own phytate figures:
+
+| | Phytic-acid P, mg% | Increment over white | Corrective creta |
+|---|---|---|---|
+| White (73%) | 35 | — | base **7 oz** |
+| 85% extraction | 123 | +88 | +7 oz → **14 oz** |
+| **Wholemeal (100%)** | **246** | **+211** | **+16.8 oz → ~24 oz** |
+
+**~24 oz creta praeparata per 280 lb sack = 0.53% of flour weight**, rounded to **0.5%** in the formula. Cross-checks via the calcium route at 221 mg Ca per 100 g against white's 65.
+
+**Sanity check it passes:** the paper notes the trade was already adding acid calcium phosphate at 12 oz per sack, and up to 4½ lb per sack in some self-raising flours — so 24 oz is well inside what bakers were already putting in flour.
+
+*Two knock-ons of choosing wholemeal that the formula does not yet address: it drinks more water than 85% flour, so 66% hydration is on the low side; and it carries more germ, so it keeps worse than the spec's already-unmeasured 4–6 weeks.*
+
 The dosage was calculated from MRC tests on human subjects **who took about half their total calories as bread, with only small amounts of milk and very little cheese.** So the figure is calibrated to a diet where bread is half of everything — which is the diet this book's campus is heading toward.
 
 **And the trade objection was already dead.** Bakers had long added comparable amounts of 'improvers' — acid calcium phosphate at 12 oz per sack, and up to 4½ lb per sack in some self-raising flours then on the market. **Adding chalk to bread was not a novelty; it was a smaller intervention than the trade was already making.**
