@@ -40,7 +40,7 @@ Chapter two introduces **Diana** (ch2 ¶71) and, in three words, a mother. What 
 
 **Diana is the speaker of ch2 ¶139, and "Mother" is hers.** The added clause settles it — *"and to mind the trip home"* is advice to whoever is travelling, and that is Lewis — and the commit that added it (`797930c`) says so outright: the clause exists to put the line in Diana's mouth and give her a household, *"rather than leaving it to read as Maia knowing about the lodge."* **There is no Maia–Diana edge.**
 
-The parentage edge is therefore **solid** — Diana calls her Mother on the page, which states the relation — while the name stays open, exactly as Maia's surname does.
+The parentage edge is therefore **solid** — Diana calls her Mother on the page, which states the relation — while the name stays open.
 
 **Diana and Lewis are both around high school age.** Decided off-page and recorded here because nothing in the prose pins it: ch1 ¶29 has Lewis at twelve, and ch2 ¶3 only insists he is past being patted on the head.
 
@@ -74,7 +74,7 @@ Numbered so each unknown is tracked separately and greppable. Numbers are append
 
 | Token | Slot | Note |
 |---|---|---|
-| `[placeholder_00]` | Maia's surname | **Tsien if she took her husband's** — still open. She is not Chinese; he is |
+| ~~`[placeholder_00]`~~ | Maia's surname | **Settled 2026-08-13 — Tsien**, her husband's: *Fortification* bylines the dandelion noodle recipe to **Maia Tsien**. She is not Chinese; he is |
 | `[placeholder_01]` | The husband's **given** name | **Terrace wants this named (2026-08-12).** A *Chinese* given name. He takes the controller apart, puts a soldering iron to the loose motor wire, and the maxim about testing before you close the shell is his. Three directions: **(1) the light register** — *Ming*, *Kuang*, *Liang* (bright/light), which puts him in the title's register on an unremarkable name, and ch1 ¶29 already supplies the irony that *his* are the lights that go out after dinner; **(2) the corrective device again** — **An Wang**, who invented magnetic core memory and had the patent bought out from under him, an immigrant electrical engineer whose foundational work was absorbed, though *Tsien* may already be reference enough; **(3) a diaspora English given name**, realistic, and making him the one adult with no grand register at all. A workshop nickname is a separate slot — every adult here has a formal name and one a neighbour could shout |
 | ~~`[placeholder_02]`~~ | Lewis's surname | **Settled 2026-08-11 — Tsien**, through his father. **Not** *Latimer*: that reference supplies his *given* name — Lewis Latimer made the carbon filament practical and is credited for none of it |
 | `[placeholder_03]` | **Maddy's father**, entire name | Wholly unwritten. If he is ever named, *Swartz* is the likelier surname to be his than Collie's, given ¶29's *Mrs Swartz* — settling that also settles whether Coelia Swartz is a married name |
