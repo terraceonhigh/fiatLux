@@ -611,6 +611,8 @@ It is not *women rise when the order falls* — the opposite is the historical d
 
 #### *Slush* — ch3. Terrace, 2026-08-12
 
+> ***SPLIT INTO THREE, 2026-08-13 — Terrace's call. Read this section as the plan for a trilogy, not a chapter.*** **It was going to run 6,000–10,000 words** against a book whose chapters run 400–1,700, and **the tell was that it had banked three clinical titles for one slot.** The rotation is now **ch4 *Formulary*** (arrival, October — what she has and has not got; Diana's leg), **ch5 *Off-Label*** (November, the pattern assembles, the pretexts start, the binder begins lying), and **ch6 *Notifiable*** (the road closes, the decision is final, she leaves). **Everything below is still live reasoning** — the winter commitment, the medicine/law lexicon, the caseload, *she never files it* — it is just distributed across three chapters instead of crushed into one. **The back half of the book shifted +2.** *Numbers and file paths in this section are stale in both directions; `chapter-plan.md`'s table is authoritative.* **Titles are no longer banked — all three are spent.**
+
 **Terrace's premise: an Egghead-focus chapter, with Diana, an abused woman by way of an Epsilon member, and various farming-community injuries and violence.** **Titled *Slush* and slotted at chapter 3**, file at `manuscript/02-slush.md`. *This section and everything below it uses the post-renumbering sequence.*
 
 **It fills the gap the timeline opened.** Ch2 sits at B+16 and *Isolation* at B+18, and the two-year span exists because the ages will not close otherwise. Egghead arrives in the town in ch2 on what the prose says is a three-month rotation. **Put her chapter in that window and the gap stops being arithmetic and starts carrying weight.**
@@ -636,7 +638,11 @@ It is not *women rise when the order falls* — the opposite is the historical d
 
 **Diana from outside, for the first time.** Every line we have on her is Lewis's — adoring, close, a woman who feeds him and lets him grease a hinge. **A clinical view is a different woman entirely**: a badly fitted prosthesis, a stump with pressure sores, no follow-up, and no prosthetist within reach. Costs nothing but a change of eyes.
 
-**And the honest answer is the cruel one.** Egghead examines it and says it needs a prosthetist there isn't one. **Ch6 then spans the years of what that answer cost — being seen and still unattended is worse than never being seen.** *This moves the leg out of ch6's beat list; ch6 keeps the consequence.*
+**And the honest answer is the cruel one.** Egghead examines it and says it needs a prosthetist there isn't one. **Ch6 then spans the years of what that answer cost.** *This moves the leg out of ch6's beat list; ch6 keeps the consequence.*
+
+***Recalibrated 2026-08-13 — Terrace's call, no above-knee amputation, and the earlier phrasing was overwrought.*** The line here used to read *being seen and still unattended is worse than never being seen*. **It is not true of what the chapter now does.** The examination is a real intervention: **the skin damage is caught**, and the sock discipline, the drying, and the corrected use of the ointment are cheap, correct and cumulative. **She saves the leg and cannot touch the pain** — the neuroma is surgery and the socket needs a prosthetist annually, not once. **So: being seen once is not the same as being attended.** Diana ends *Slush* better off than she started and still losing slowly, which is a stable tone that needs no later escalation to stay interesting.
+
+**And this is the load-bearing reason the leg belongs in a chapter that also holds the Epsilon case. Pressure damage has no villain** — it is physics acting on a socket nobody remeasured, and there is no one to be angry at. Without it the chapter argues *some men are predators*; with it the chapter argues **the structure fails people even when nobody is a predator**, and the Epsilon case becomes an instance rather than the thesis. *Every person in Diana's chain is decent: Maddy formulated well to the indication she was given, Lewis lied out of love because he could not state the real one, Diana has independently arrived at volume management and offloading with no training and no follow-up, and Egghead examines her properly.* **The harm is the absence of a channel, not a failure of character in anybody**, which is the genre in one sentence. **A victim who has done nothing is misery; a woman who has done nearly everything right and is still losing is tragedy.**
 
 **The Epsilon case is the engine, and Egghead's position is extraordinary.** She is simultaneously the only person who can document it, an employee of the institution the perpetrator belongs to, too junior to act, and gone in three months. **She is the entire justice system and she is a student with a binder.**
 
@@ -708,7 +714,7 @@ It is not *women rise when the order falls* — the opposite is the historical d
 
 **One discipline, or it tips into misery cataloguing.** Three women's suffering in one chapter is a great deal. The protection is that **Egghead is working, not witnessing** — a clinician's POV is triage and inventory, not grief. She also needs her own arc: ch2 gives us a woman who threw up in a truck bed and held her briefcase upright, proud and out of her depth. **By the end of a rotation she is competent and compromised.** The cases are her curriculum.
 
-**Title:** *Off-Label* and *Formulary* are banked. This material wants **_Notifiable_** — a notifiable condition is one you are legally compelled to report, and she has a case she is obliged to report and no body to report it to. **Terrace is leaning Juvenal:** *audio quid ueteres olim moneatis amici*, Satire VI ~346 — the **setup** line, so the reader supplies *quis custodiet ipsos custodes* unprompted and the chapter never says it. **Never quote the third line** (*cauta est et ab illis incipit uxor*) — Juvenal's punchline blames the wife. Whole hexameter, not a fragment; and check it against an OCT or Loeb before it ships, since the *quis custodiet* lines carry known textual complexity.
+**Title — superseded by the split, 2026-08-13: all three are now chapters.** ***Formulary*** took the arrival, ***Off-Label*** the middle — *and it names Lewis's shoulder lie and Rosa's manufactured pretexts with the same phrase, which is why it belongs on the chapter where both operate* — and ***Notifiable*** the departure. **_Notifiable_** was already the one this material wanted — a notifiable condition is one you are legally compelled to report, and she has a case she is obliged to report and no body to report it to. **Terrace is leaning Juvenal:** *audio quid ueteres olim moneatis amici*, Satire VI ~346 — the **setup** line, so the reader supplies *quis custodiet ipsos custodes* unprompted and the chapter never says it. **Never quote the third line** (*cauta est et ab illis incipit uxor*) — Juvenal's punchline blames the wife. Whole hexameter, not a fragment; and check it against an OCT or Loeb before it ships, since the *quis custodiet* lines carry known textual complexity.
 
 ##### Rosa — name candidate for Egghead. Terrace, 2026-08-12
 
@@ -719,6 +725,81 @@ It is not *women rise when the order falls* — the opposite is the historical d
 - **And *Rosalind → Rosa* is the household's own naming mechanic** — a name that hardened into a nickname, the way *Coelia → Collie* did.
 
 **Which gives her three names and a decision about which one the prose uses.** *Rosalind* on the card, *Rosa* to colleagues, **"Egghead" is what a boy in a truck bed called her** and what the frats kept using. The book already runs a formal/shouted double register; she is the first character to have all three, and **whose name she is called by in her own POV chapter is the chapter's temperature.**
+
+##### The caseload and the workload — pulled 2026-08-13
+
+***The town is a dairy town.*** *Everything below is derived from that plus the climate note above — ~640 mm, rain-shadowed, wet-winter Mediterranean. **The dry-summer regime inverts the northern forage curve**: grass greens with the autumn rains, grows through winter, booms in spring, browns off by June. So the herd calves in **autumn** and milks through the wet months.* ***Slush* sits inside the milking season, not the dry period** — the busiest, wettest, least-slept stretch of the year, twice a day, no days off.
+
+**The finding that reorganises the chapter: there is no vet, so she is the vet.** She is the only person in the town with anatomy and a suture kit. **A medical student doing large-animal work is ch1's rule running backwards** — the clinic would not treat Nona for want of affiliation, and the same university lets an unlicensed student open a cow. Her licence only matters where the institution can see, and the institution cannot see a barn.
+
+**And the town calls her for a cow before a person.** Not callousness — arithmetic. **The cow is the household's whole year and the man's hand is not.** She learns the ranking in a fortnight and nobody explains it to her.
+
+###### The workload — what the town is doing
+
+**Running under both months, continuously:** milking twice daily; cows dried off in late summer coming back in; calves pulled and bucket-fed; surplus bull calves killed. **Fresh milk for the first time since summer**, so churning and soft cheese resume — *the hard cheese in the store is spring's, and that matters: the winter cheese was made in a month nobody was thinking about winter.*
+
+| | **October — the rains break, and everything races them** | **November — indoors, dark, cut off** |
+|---|---|---|
+| **Field** | Autumn sowing: winter wheat, barley, oats, rye ploughed and drilled into the first moisture — **this is the sowing season here, not spring.** Garlic and field beans. Potatoes lifted. Manure hauled while carts still cross a field. **Ditching and culverts cleared, or the field is lost in January.** | Mangels and turnips lifted last, clamped under straw and earth. Cabbage cut and salted down. **Threshing starts indoors and runs all winter.** |
+| **Yield** | Apples picked, cider pressed. Hazelnuts. **Mushrooms with the first rains** — a real harvest and a real poisoning risk when everybody forages. Aftermath grazing on stubble. | **Slaughter month.** Pigs fattened on whey and windfall, killed once it is reliably cold. Rendering, sausage, salting, smoking. **The offal cannot be kept, which is why there is a feast.** Cider racked. |
+| **Structure** | Roofs, gutters, barn doors, fences. Wood hauled and stacked — *split in the dry summer; October is carrying, not cutting.* Bedding straw laid in. | Beasts fully housed — **to protect the pasture from hooves, not the animals from cold.** Tool repair, harness, spinning. |
+| **Outside** | Deer; waterfowl arriving with the weather. If there is a stream worth the name, **the chum and coho run Oct–Nov** — short, intense, everybody drops everything. | Hens stop laying as the light goes; eggs limed or waterglassed, and then there are simply no eggs. |
+| **The channel** | | **Roads go. The last convoy before the gap is a November event** — after that it is six weeks, if the road holds. |
+
+*Note for the title: **neither month is slush.** Sea-level snow is occasional here, three falls a season — October and November are rain and mud, and the title event lands later in her rotation.*
+
+###### The human caseload
+
+**Every entry is an ordinary agricultural accident, which is the camouflage.**
+
+| Source | What arrives |
+|---|---|
+| Calving, milking, housed cattle | **Crush against a gate or wall**, kicks, being stepped on, a hand caught |
+| Slaughter month | Deep knife wounds to hand and thigh, scalds from the rendering pot |
+| Wood and roofs | Falls from height, axe wounds, a crushed foot |
+| Ploughing and haulage | Entanglement, a runaway cart, a hand in the machinery |
+| Wet and cold, everywhere | **Cellulitis**, an infected wound going bad slowly, chilblains, trench foot |
+| Mushroom season | Poisoning, and a family that all ate the same thing |
+| Months indoors together | Respiratory infection running the whole town — *and everything else confinement produces* |
+
+**The line that does the work: everyone in that town has genuinely been kicked by a cow.** Handling happens twice daily, in the dark, in mud, all winter. **"The cow kicked her" is ambient, true-sounding, and unfalsifiable on examination** — it covers bruising in strange distributions, cracked ribs, a fractured orbit. *Better than the harvest version, because the abuser invents nothing.* Her only purchase is the one already named — **the history doesn't match the injuries** — and here that thread is thinner, because the offered account is *plausible* rather than absurd. **She is not catching a lie. She is noticing a true-sounding story that arrives slightly too fast, too often, and slightly wrong about which side the cow was on.**
+
+**Second camouflage, free:** calf handlers get **ringworm on the forearms.** In a dairy town, **visible marks on people's arms are ordinary.** Everyone is a little scabbed.
+
+###### The bovine caseload
+
+Calving season is the whole of it.
+
+- **Dystocia** — malpresentation, ropes, the calving jack. When the calf is dead and stuck the answer is **embryotomy**, cutting it out in pieces to save the cow. **Farm caesareans are done standing, under local, in a barn.** She has never done one and will do one.
+- **Milk fever** — the down cow at freshening. **The cure is injected calcium and it is near-miraculous when you have it.** *Whether they have it is a procurement line, exactly like the chalk and exactly like cod liver oil* — **the third time the book runs that shape**, and the one where the answer arrives within the hour or not at all. **A calcium-mobilisation failure in the barn, beside the calcium failure in the ward.**
+- **Retained placenta** — manual removal, arm-deep. **The single highest-risk brucellosis exposure there is.**
+- **Prolapsed uterus** — enormous, urgent, brutal to reduce.
+- **Bloat** — trocar to the flank, gas out, minutes to decide.
+- **Mastitis** — stripping the quarter; pre-antibiotic you often lose it permanently.
+- **Downer cows, and the decision to kill.** Plus routine bloody work: castration, dehorning, foot trimming, none of it anaesthetised.
+
+**The supply runs the other way, and this is the detail worth taking.** In a collapse **the veterinary stock is frequently the more available stock** — large-animal lidocaine, penicillin, suture, needles, all made in bulk for animals worth money. So **she treats people out of bottles labelled for cattle, dosing by weight off a livestock chart.** She knows exactly how irregular it is, does it anyway, and has to decide what to write. ***The same falsification problem as the binder, in a second register.***
+
+###### Zoonoses — the caseload feeding itself
+
+**Everything she treats in the barn comes back through the door as a patient.**
+
+- **Brucellosis** — contracted at calving and from raw milk. Presents weeks later as **relapsing fever, sweats, joint pain, low mood**, and was historically dismissed as nerves or malingering, **disproportionately in women.** *An undiagnosable illness in a woman's chart, arriving on its own schedule.*
+- **Leptospirosis** — cattle and rat urine in saturated ground. **A wet-winter disease specifically**: fever, jaundice, sometimes meningitis. November is its season.
+- **Q fever** — aerosolised at calving; a whole barn breathes it at once.
+- **Anthrax**, if wanted. Sudden dead cow, and **the rule is that you do not open the carcass**, because opening it seeds the ground for decades. **A death she must refuse to investigate, in a town that wants to know why its animal died — and the correct action leaves no evidence.** *Her whole thesis rehearsed on livestock.*
+
+***Notifiable*, twice.** The banked title is defined as *a condition you are legally compelled to report, with no body to report it to.* **A dairy town supplies a second, literal one** — bovine TB and brucellosis are both classically notifiable, and **animal notification is the older, harsher regime: you report, and they kill the herd.** So the second time the word lands, **the penalty for honesty is not a difficult conversation, it is the town.** And confirming it condemns the very flow the university is paying for — *butter, leather and jam is why she was posted at all.* **Correct finding, unspeakable consequence, ward fills anyway.** The loaf's shape, arrived at from the animals.
+
+###### What it gives the engine
+
+**The cow is her alibi, and this is the useful one.** She has to manufacture clinical reasons to keep checking on the woman. **A sick animal is a better pretext than a sick person** — it needs revisiting daily, it is unremarkable, nobody asks, and **it puts her in the yard and the barn and eventually the house**, at odd hours, with a reason anyone accepts. *She can watch a household for weeks on the strength of a lame heifer.*
+
+**And it may not go in the binder at all.** Animal work is not a medical record. So either she writes it **somewhere that is not a patient chart — a place to put true things safely** — or she writes nothing, and **there is no contemporaneous note of any of it.** *The second is worse for the woman and better for the horror.*
+
+**Then the rhyme, for the chapter's worst page.** She can **end an animal's suffering, competently, with authority nobody questions, and be thanked for it.** On the same day, in the same yard, with the same hands, **she can do nothing at all for the woman standing next to it.**
+
+*Two flags, not fixes:* **the veterinary thread is an addition, not a correction** — the section above has farm injuries and Diana's leg and the Epsilon case, and no vet work in it. And **`README.md:39`'s register rule takes a second strain here**: the husbandry glossary at ch9 is reserved for **Nadia's** domain, and this hands a working livestock vocabulary to Egghead, whose register is clinical. *They may not collide — hers would be veterinary-clinical rather than stockman's — but the two lexicons now share a barn.*
 
 #### If the frat violence is depicted — how not to make it a blunt instrument
 
