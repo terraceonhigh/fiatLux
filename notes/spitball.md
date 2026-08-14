@@ -1092,6 +1092,8 @@ Notes toward the objects, none of them load-bearing:
 
 #### Nadia's chapter — perennial grain, and the seed argument. Terrace, 2026-08-13
 
+**Slotted at chapter 7 on 2026-08-13 and pulled back out the same evening**, along with *Ground*; see [`chapter-plan.md`](chapter-plan.md) under *The interleave question*. **The slot before *Notifiable* is still the best one available to it**, and taken over *Druzhina*, which has to follow *Isolation*. **The placement does work the chapter does not have to**: it lands where the road is about to close, so a title meaning *the seed that needs a winter first* arrives with winter. Waiting on how *Off-Label* is written — **if that chapter is scene rather than binder entries, this is the only interleave the rotation should take.**
+
 ***Title banked: **Vernalization**. Terrace's call.*** *A seed that will not flower unless it has first been through a winter.* **It fails the legibility test on its surface** — it reads as nothing to a non-gardener, where the book's model is plain words used technically — **and it is banked anyway because the meaning is the best in her register.** Still live beside it: ***Increase*** (the exact trade term for growing out a scarce line to bulk it up over successive years, plain on the surface, and what she does to the grain and eventually to her own succession); ***Provenance*** (seed provenance, and **ch1 ¶5's "a stack of essays of dubious provenance"** already plants the double); and the two already banked, ***Hardening Off*** — *a protected thing deliberately exposed so it can survive, which is every child in this book* — and ***Fallow***.
 
 **Terrace's premise: post-apocalyptic breeding, "something the shape of *Kernza*."** Kernza is the perennial grain bred from intermediate wheatgrass at The Land Institute — plant once, harvest for years, roots three times deeper than annual wheat.
@@ -1375,6 +1377,41 @@ Smoked salmon (ch2 ¶49) · salted butter in the keg · sausage and casing (ch2 
 **And the load.** Honey runs ~1.4 kg/L, before the crocks, kegs and dolia. A *cella penaria* on the third floor of a building where **the silver already took two people to carry up** (ch1 ¶75) is weight on joists nobody has inspected since the collapse. **A sensible domestic decision with an engineering consequence underneath it, uncounted** — which is the shape of everything else in this book.
 
 *Counter-argument, so the choice stays deliberate:* in a fuel-scarce winter the rational move is to **consolidate**, not spread — heat two flats, not five. A household spreading across a floor is thermally expensive. **Unless the unheated room is the feature, which a *cella penaria* wants anyway.**
+
+#### Alex's chapter — *Ground*. Terrace, 2026-08-13
+
+***Chapters are named by title in this section, not number.***
+
+**The problem:** Alex Tsien is written and present in ch1, he is the reason Lewis can hold a soldering iron, and he is the only adult in the household whose material circumstances are visibly failing — and he has one line of dialogue in the whole book. He has a name now (Alexander "Alex" Tsien, settled 2026-08-13 at `canon/pedigree.md:78`) and no chapter.
+
+**The shape Terrace described:** a Swartz quotidian — Alex doing upkeep, making shelves, generally keeping the physical household running. **Not a crisis chapter.** The point is that the man who holds the soldering iron also holds the hammer, and neither instrument gets a chapter until now.
+
+##### Three beats, settled by Terrace
+
+1. **Shelves for the *cella penaria*.** Breaking up old furniture for timber and building storage shelves in the converted bedroom. The storeroom is already discussed at length above — this is the labour that makes it usable. **The house's old furniture is the lumber supply**, which echoes the salvage ethic of ch2 (copper, rounds, jam) at a domestic scale.
+
+2. **The corridor enclosure.** Alex and Maia have taken the flat next to Collie's (ch1 ¶75, the international students' flat). **Terrace's refinement: walling off the segment of hallway that the two flats share, and moving the threshold to make the two condos seamless.** What used to be a piece of the public corridor is now just where the shoe rack is. **Not installing a door — laying brick and sealing off the hallway chunk**, then cutting a new internal doorway so the two units flow as one. The shoe rack is the beat: the most domestic possible object in what was institutional space. *The household claims the corridor the way it claims everything — by putting something ordinary in it.*
+
+3. **Pillow talk — the observatory relocation.** The final scene. Alex and Maia in bed, and **we first learn that the university is already breaking ground on a closer, more defensible observatory.** This is the event *Skywave* will deliver — Nadia's wish granted and billed to the world — but here it arrives as shop talk between two people who have been married long enough that the observatory is pillow conversation. **The move means his workshop comes down from the mountain**, which is good for his hands and bad for the optics. Neither of them says so.
+
+##### Why *Ground*
+
+**Title banked by Terrace.** Four senses, all load-bearing:
+
+- **Ground floor / ground level** — the chapter is about physical infrastructure, floors, walls, shelves.
+- **Grounding** — electrical: the connection to earth that keeps the system safe, which is Alex's trade alongside Lewis's.
+- **Groundwork** — the labour that precedes the visible achievement. He builds the shelves before the stores go in.
+- **Ground** as the earth the observatory sits on — which is about to change.
+
+**The chapter this book is missing is the one where a man does useful work in his own house and nobody needs him to be in crisis to justify the page time.** The Swartz household runs on women's statecraft and a son's dangerous errands; this is the chapter where the physical plant gets maintained by the person who has always maintained it, and whose only reward is that the shelves hold.
+
+##### Register and placement
+
+**Register:** trades / domestic — *Stud*, *Header*, *Plumb*, *Course* (a course of bricks), *Mortar*. Overlaps deliberately with the construction vocabulary of *Isolation* (which is infrastructure at municipal scale; this is infrastructure at household scale).
+
+**Placement:** somewhere in the years between the international students flying home (ch1 ¶75) and Lewis's chapter. The observatory relocation pillow talk must precede *Skywave*.
+
+**Slotted at chapter 5 on 2026-08-13 and pulled back out the same evening.** Reverted, no file. **The live candidate is chapter 8** — after *Notifiable*, before *Isolation* — which is what the paragraph above said before any of this, and which puts the trades register next to *Isolation*'s municipal one instead of six chapters from it. Waiting on how *Off-Label* is written; the full reasoning is at [`chapter-plan.md`](chapter-plan.md) under *The interleave question*. **Standing regardless of slot: beat 3 is rumour, not groundbreaking**, so *Ground* seeds *Druzhina* rather than contradicting it.
 
 ---
 
