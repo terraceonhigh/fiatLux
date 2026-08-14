@@ -1106,6 +1106,42 @@ Notes toward the objects, none of them load-bearing:
 
 *Placement:* **before *Colt*.** The standing proposal is that Nadia takes *Colt*'s POV because the husbandry glossary belongs to the farm. Give her this chapter first and **she owns that register by right rather than borrowing it**, so the marriage lands harder when the same woman watches it described in her own working vocabulary.
 
+##### The reversion already happened — Terrace, 2026-08-13
+
+**Correction to the section above, and it improves the chapter.** Saved F1 seed segregates in the second generation, so **by year two anyone still farming had been forced onto whatever open-pollinated stock existed**, and ch2 sits at year ~3. *Terrace: "by chapter 2, the supply chains already pretty much collapsed. So they were already working with reverted landraces."*
+
+**So Nadia is not starting a programme. She is characterising an accident.** Three years of desperate unrecorded seed-saving produced segregating populations, unknown crosses, lost labels — **and some genuinely valuable adaptation nobody meant to do.** The collapse ran the breeding trial under real conditions; her first job is finding the good accidents and writing down what they are.
+
+***Which is the same shape as Rosa reading Diana's stump***: the event already happened, the expert arrives afterward to describe it, and part of what she finds is that the patient did well alone.
+
+##### The chapter's shape — day job, then the hive. Terrace, 2026-08-13
+
+***Terrace's refinement: "Nadia's day job is breeding resilient strains, and then she goes home and has to work the Swartz bees."*** **Two movements, and the spine is that it is the same decision at two scales — and she will only live to see one of them resolve.** The grain answers in eighty years. **The hive answers this month.**
+
+**Because the central question of beekeeping is how much you take and how much you leave.** Take too much and the colony starves before spring. Every harvest is an explicit arithmetic of household appetite against colony survival — ***do we eat the seed* → *do we take the honey***. Vavilov's staff starving beside the collection, and Nadia counting frames in the back garden. **She is the only person in the book who makes that decision at both ends of the timescale, and the small one is the one she can finish.**
+
+**And requeening is breeding.** A queen lives a few years; the supply chain that sold queens is as dead as the one that sold F1 seed, so she raises her own or loses the stock — selecting for overwintering, disease resistance, temperament, and not swarming. *Same collapse, same forced self-sufficiency, smaller and faster and in her own hands.*
+
+**The cold arithmetic arrives at home via varroa.** With no industrial treatment the honest answer is Darwinian: **let susceptible colonies die and breed from the survivors.** So she is deliberately letting hives die — **in a household whose mead buys Lewis's passage past the gate (ch2 ¶5), whose wax is the base of Maddy's ointments, whose vinegar is in the carrot cake, and whose honey is 2% of the standard loaf.** She is not callous. She is right, being right is expensive to everyone she lives with, and she has to say so at dinner.
+
+**It is already family labour.** ch2 ¶155, the chapter's last line: *"He held his breath as he helped puff the sage smoke onto the apiary."* **Lewis already works that hive, holding his breath — his motif, inherited over his father's soldering iron** — and Nadia would be the one directing him. **The whole household has business at the apiary** (Nona's honey ch2 ¶139, Maddy's wax, Collie's mead, and after Alex's chapter the shelves the jars stand on), **so the chapter can assemble everyone without staging a dinner.**
+
+*Flag on pairing:* **this and Alex's quotidian chapter must be structurally different or they read as the same chapter twice.** The clean split is **Alex builds and Nadia culls** — his is construction (shelves, brick, a door, a threshold moved), hers is husbandry (what to take, what to leave, what to let die). *One man making the household's container, one woman deciding its contents.* Differentiated that far, they could sit adjacent on purpose.
+
+##### The cold arithmetic, and the forestry problem — pulled 2026-08-13
+
+***Terrace's register, and the example is his:*** *"enough of the city has died that we can farm these."* **Cold but not cruel.** It works because the speaker takes no pleasure, offers no justification, and **does not connect the two halves out loud.** The rule that generates more of it: **state the resource, state its origin, never join them.** *There's three hundred acres inside the old ring road now.* Everyone does the arithmetic and nobody says it. It stays uncruel because she is putting it to use — the dead are not being profited from, they are being farmed for the people still eating.
+
+**Two facts that make the dead city harder and better.** **Urban soil is poisoned** — lead from paint and petrol, hydrocarbons, arsenic — so you cannot simply plant a dead suburb. But **deep-rooted perennial grasses are a real phytoremediation crop**: grow for years, harvest nothing, let the roots pull the metals out. **So the first crop on the dead city is a crop nobody eats** — a decade of deliberate non-harvest, argued in front of hungry people. *That is the perennial-grain fight sharpened, since Nona can at least eventually eat the grain.*
+
+***Terrace's second idea: instructions to clear-cut in the farming towns for perennial ground, assessing which patch to clear and which to plant what, a century forward.*** **The constraints are what make it a scene** — flat ground, deep soil, near water, **not on a slope** (clearing slope in a wet-winter climate loses the topsoil in the first January), **and not in the watershed**, which is the thing that just poisoned the city.
+
+**And she is making forestry decisions in a book where forestry decisions killed people.** The fire's severity was set by a century of suppression *carried out by people who believed they were practising correct forestry*. Nadia now holds that pen, **clearing has a genuine fuel-load argument in its favour — which is the good version of the reasoning that produced the catastrophe — and she has no way to be certain she is not repeating it.** *That is the register at its best: not a woman untroubled by death, but one who knows her profession's last century of confident correctness ended in two coffins, and who has to file the recommendation anyway.*
+
+**The quiet line is the refusal to cut.** *This stand should not be cleared; it will be worth more in eighty years than the field would be.* **A sentence that assumes somebody is here in eighty years and never says so** — institutional faith disguised as a planting schedule, which may be the only register in which anyone in this book is permitted to hope.
+
+*Unratified, and mine:* **the three documents.** Nona wrote the loaf, Maia writes the almanac, Nadia writes the land-use plan — **bread, time, land**, one per woman, each the polity's founding instrument in its domain, all printed by University Press because there is nowhere else to print. If that set is real, **Nadia's chapter can carry the documentary device the way *Fortification* did**, and the reader recognises the format before the author.
+
 ### The shop half: second-generation men and second-generation machines
 
 Lewis's father helps dismantle and pack the mountain equipment, then works with another protégé — mechatronics department — building the tide computers and the clocks from printouts of the old patterns. An old maritime chronometer spun anew on a lathe itself spun from a pre-collapse machine. **Man and machine both second-generation.**
