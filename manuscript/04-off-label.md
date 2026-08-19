@@ -114,7 +114,7 @@ He was heavy, the way a sack of flour is heavy.
 
 *Do you remember what happened?*
 
-*A gate, i... kneel down for the lever, and Buttercup panicked. please don't put her down.*
+*a gate, i... kneel down for the lever, and Buttercup panicked. please don't put her down.*
 
 *I see, and I promise that won't happen.*
 
@@ -201,3 +201,76 @@ Rosa put the pannier back on her mare, and collected the university's stretcher 
 The Cassidys did not answer.
 
 On the way back to the clinic, she ripped a blank page from her planner, sprinkled mint like how the boy on the back of the truck did, and licked it at an angle that spilled a dash of the dried leaves. The matchbook was from an outfit along the river, and it was in the clinic, half-used, when she moved in.
+
+---
+
+[intermission]
+
+---
+
+There was a figure, sat on the porch of the clinic. The mare took a few more steps, and the figure resolved to the Schoolteacher. Rosa took off the pannier, and let a man lead her mare to the stable. The Schoolteacher's face resolved into a name.
+
+*Carmen.*
+
+*The kids call me Ms Warner these days. And I see that you've gotten your degree, VP...*
+
+*—Rosa, and no, not Doctor Rosa, not before the practicum is over.*
+
+*There's the girl that got us real bell peppers in the dining hall.* Carmen's old friend smelled of mint.
+
+*I still haven't figured out where to get vitamin C out here... how can I help today, Carmen?*
+
+*I am pregnant.*
+
+*Come in, I'll start a kettle.*
+
+*You're too kind.*
+
+---
+
+*How many weeks, by your reckoning?*
+
+*Well, must've been a convoy in the summer. Say July.*
+
+Second trimester, then.
+
+*When was your last period?*
+
+Rosa pulled out a notepad, and the cap came off her fountain pen.
+
+*I am sworn to privacy, if that assures.*
+
+*Well, it hasn't been consistent for a long while, so I don't really remember.*
+
+Neither was hers.
+
+*Thank you for trusting me with that. How did you find out?*
+
+*Oh, I had been sick for a while, the little bugger kicked me last week and that was when I figured.*
+
+Nineteen weeks.
+
+*How have you been?*
+
+Rosa scribbled something, then the pen slacked in her hand and she looked Carmen in the eyes.
+
+*Is the father in the picture?*
+
+*Yes, came on the same convoy as you on Monday. He works in the carpenters' shop now.*
+
+Good.
+
+*Morning sickness? I want to hear more about that.*
+
+*Oh, it doesn't get in the way of the day.*
+
+Rosa wrote and underlined something. A whistle went off.
+
+*Let's take your blood pressure. While I get the equipment, Carmen, would you mind putting the tea in the pot? Both are in the glass case.*
+
+*Which tea?*
+
+*Whichever you like, Cars.*
+
+Rosa wiped down the blood pressure cuff, first with a splash of water, and then something from the flask. Carmen chose something with a purplish hue. The listening horn was stored on a shelf that required stepping on a chair to reach.
+
