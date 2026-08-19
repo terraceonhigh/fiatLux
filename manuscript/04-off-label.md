@@ -160,13 +160,13 @@ Mrs Cassidy screamed, but not before burrowing herself into Mr Cassidy's chest.
 
 ---
 
-170/60, pulse, 44, pauses in breathing. Rosa tried her best to recall what it was you were supposed to say to the parents now. She asked Attis about the man who rode for her.
+170/60, pulse 44, pauses in breathing. Rosa tried her best to recall what it was you were supposed to say to the parents now. She asked Attis about the man who rode for her.
 
-She told Attis that it was okay to feel drowsy, and said that his uncle would be back any moment now, to bring him to the clinic, where she has the rest of her equipment. She signaled the parents to come and hold him steady. Mr Cassidy said something about how supper was still on the stove, son, with the good bread from the baker. Mrs Cassidy's thumb stroked her boy's chin. 
+She told Attis that it was okay to feel drowsy, and said that his uncle would be back any moment now, to bring him to the clinic, where she had the rest of her equipment. She signaled the parents to come and hold him steady. Mr Cassidy said something about how supper was still on the stove, son, with the good bread from the baker. Mrs Cassidy's thumb stroked her boy's chin.
 
 Agonal breathing arrived, and Rosa pulled out her stethoscope. His lungs sounded of bubbling stew, with a burnt bottom.
 
-His uncle came back, with the stretcher and the head immobolizer. He saw the new doctor performing chest compressions, and announced that he brought what she asked for.
+His uncle came back, with the stretcher and the head immobilizer. He saw the new doctor performing chest compressions, and announced that he brought what she asked for.
 
 ---
 
@@ -198,6 +198,6 @@ Rosa put the pannier back on her mare, and collected the university's stretcher 
 
 *right, and buttercup...*
 
-The Cassidy's did not answer.
+The Cassidys did not answer.
 
 On the way back to the clinic, she ripped a blank page from her planner, sprinkled mint like how the boy on the back of the truck did, and licked it at an angle that spilled a dash of the dried leaves. The matchbook was from an outfit along the river, and it was in the clinic, half-used, when she moved in.
