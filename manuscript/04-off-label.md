@@ -1,4 +1,4 @@
-Rosa spent the morning on horseback, the ranch had put her on a mare and help with driving the cattle in. There were several small expletives she would rather not repeat, and a curse to her past self for not paying attention during the four-credit riding course. Someone rode for her midday, she tossed her whip to the closest townsman and followed. The rider's horse did not so much as slow down in the u-turn.
+Rosa spent the morning on horseback, the ranch had put her on a mare to help with driving the cattle in. There were several small expletives she would rather not repeat, and a curse to her past self for not paying attention during the four-credit riding course. Someone rode for her midday, she tossed her whip to the closest townsman and followed. The rider's horse did not so much as slow down in the u-turn.
 
 *Sorry, what did you say? Can't hear anything over these hooves.*
 
@@ -16,13 +16,13 @@ Okay, head trauma, she trained for this.
 
 *Was he making sense when you left?* The other half of her mind was counting what was in her panniers.
 
-*Was moaning, didn't hear him say much.* 
+*Was moaning, didn't hear him say much.*
 
 *Where on the head?*
 
 *On the side. Was bleeding when I left.*
 
-Shit. Okay, breath in, four seconds, hold, four seconds, breath out, four seconds, hold.
+Shit. Okay, breathe in, four seconds, hold, four seconds, breathe out, four seconds, hold.
 
 *How much?*
 
@@ -40,7 +40,7 @@ Shit. Okay, breath in, four seconds, hold, four seconds, breath out, four second
 
 *Yes ma'am.*
 
-*Did he black out?* The alcohol was in a pouch on her right hip, 140 proof. It never stopped smelling like cinnamon when it was empty. 
+*Did he black out?* The alcohol was in a pouch on her right hip, 140 proof. It never stopped smelling like cinnamon when it was empty.
 
 *No.*
 
@@ -52,7 +52,7 @@ Okay, what's next, what's next. What did Doctor Franklin say in freshman year?
 
 *Fifteen.*
 
-*Laying down, how?* She slacked the reins more. 
+*Laying down, how?* She slacked the reins more.
 
 *On his back.*
 
@@ -60,7 +60,7 @@ Okay, what's next, what's next. What did Doctor Franklin say in freshman year?
 
 *Umm—*
 
-Rosa wondered what the rider was to young Mr. Cassidy.
+Rosa wondered what the rider was to young Mr Cassidy.
 
 *Yes or no. Now!*
 
@@ -122,7 +122,7 @@ Shit, uhh, *Don't worry, let's do... sword, tree, pillar.*
 
 *mmm.*
 
-*Now, I am going to take your wrist for the heart rate.* The watch was branded by a company that she thought no longer existed. The back cover was engraved with the university's seal and motto. T+0-60, fifty-four BPM. T+60-120, twelve breathes, irregular.
+*Now, I am going to take your wrist for the heart rate.* The watch was branded by a company that she thought no longer existed. The back cover was engraved with the university's seal and motto. T+0-60, fifty-four BPM. T+60-120, twelve breaths, irregular.
 
 Not good.
 
@@ -136,7 +136,7 @@ She pumped the leather bellows. The gauge read 148/72.
 
 Pupil constriction, right side slower than left, slightly. Don't show panic, if you panic everybody panics.
 
-*Mom and Dad, do you remember what happened?* She said as she shone her light in his ear. Something in the shape of tear tracts ran to the back of his head, duller than when it must have glistened before Rosa got here.
+*Mom and Dad, do you remember what happened?* She said as she shone her light in his ear. Something in the shape of tear tracks ran to the back of his head, duller than when it must have glistened before Rosa got here.
 
 *It was my fault! We were turning the cattle in, when, when I went to get the barn, and then—* Mr Cassidy put an arm around his wife.
 
