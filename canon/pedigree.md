@@ -89,6 +89,10 @@ Rendered bare in `pedigree.dot`'s node labels — Graphviz's own bracket syntax 
 
 The adults carry classical names that read as graduate-school nicknames which hardened — **Coelia** is a Roman *gens* name and the last Vestalis Maxima, **Maia** the eldest Pleiad and Greek for midwife, **Nona** the Parca who spins. The children split: **Medea** stays in that register (from *mēdomai*, to plan; the *med-* root of *medicine*; granddaughter of Helios), while **Nadia Elbakyan** and **Lewis** carry the corrective device — named for people the old world took from and did not credit.
 
+**Settled 2026-08-14: the corrective device governs everyone from outside the flat, and it is a system rather than a set of nods.** **Rosa** is Rosalind Franklin, whose data was used without her knowledge. **Lacks** is Henrietta Lacks, whose cells were taken without her consent. **Ada Fleming** is Ada Lovelace *and* Williamina Fleming — two computers, one credited a century late and one hired as a housemaid before she catalogued ten thousand stellar spectra. **Carmen Warner** is Carmenta, who was credited with inventing the Latin alphabet and was invoked by midwives at childbirth, over Sylvia Ashton-Warner, who taught in remote rural schools for decades and built her method out of the words the children already had.
+
+So there are **two women's registers**: the flat's generation is mythological and light-bearing, and everyone who arrives from outside is named for a real woman the record under-credited. Terrace's rule — *the corrective device exists to credit* — means the naming convention **is** the device, and it is already doing the work.
+
 **Diana** joins the classical register from outside the flat: Roman goddess of the hunt, and she hunts on the page (ch2 ¶101). She is also the moon, and that is where the pattern stops being decoration.
 
 | Name | Light |
@@ -138,9 +142,20 @@ Characters who are not kin, listed so the chart's completeness is auditable.
 **Chapter two:**
 
 - **Bréal** — male, named, no surname and no kin anywhere. Drives, tosses Lewis the pliers and takes a rifle to a sunroof for overwatch (ch2 ¶53), teases him about the sage and drops it (ch2 ¶141), and receives a slice of Swartz's cake. **The only man in either chapter with a voice**, which is a load he is currently carrying alone.
-- **"Egghead"** — the incoming medical student, female, unnamed. Takes over the village binders (ch2 ¶43). Diana wants her opinion on the leg.
+- **"Egghead" is Rosa** — the incoming medical student, and the POV of *Formulary* and *Off-Label*. Takes over the village binders (ch2 ¶43); Diana wants her opinion on the leg. **ch2 and *Formulary* are the same handover from two sides** — ch2 ¶45 has the outgoing student passing her the binders, *Formulary* ¶1 has her reading the note he left. **She refuses the title twice in *Formulary* and once from Carmen, and claims it once, to a dying boy.**
 - **The outgoing med student** — three months in the town, ch2 ¶43, unnamed.
-- **The schoolteacher and her beau** — ch2 ¶49, both unnamed. Five months left in her posting, and the only couple in the book who touch each other in front of everyone.
+- **The schoolteacher is Carmen Warner** — named 2026-08-14, and she has two names by design: **Ms Warner** to the children and the town, **Carmen** to Rosa, who is the only other university woman in the valley. ch2 ¶49 has five months left on her posting, which from early November is early April. She and Rosa knew each other at the university; Rosa held some office and got real bell peppers into the dining hall.
+- **Her beau is the carpenter** — ch2 ¶49 and ¶149, still unnamed. **He arrived on the same convoy as Rosa** and did not leave on it, so the last truck was short one beau and the town was up one carpenter. **Settled 2026-08-14: he stayed before she was certain.** She had been sick and suspected; she was not confirmed until the quickening, a week before *Off-Label*, by which time his ride home was five months gone. He committed on a maybe.
+- **Carmen's pregnancy** — her first. Conception around early July, so nineteen weeks at *Off-Label* and due about 31 March. Dated off the quickening rather than a last period, because her cycles have been unreliable for years, and so have Rosa's.
 - **The campus and caravan guards** — ch2 ¶41, four of them, unnamed.
 - **The hardware store manager** — ch2 ¶15, unnamed. Prices rubber gloves at two vials of poppy.
 - **The boys of Epsilon Rho Rho** — plural throughout, individually unnamed.
+
+**Chapter four:**
+
+- **Attis Cassidy** — fifteen, kicked in the head by a dairy cow at a sorting gate while the cattle were being housed for winter. Named for the Phrygian youth who dies and is mourned. **Pronounced dead at 1148 hours** on a Thursday in November, in the yard outside his family's barn, of a bleed inside the skull over the right temple. He asked Rosa not to have the cow put down and she promised. The cow is **Buttercup**.
+- **Mr and Mrs Cassidy** — unnamed. She reaches for the blame first; he shakes his head, says nothing, and flicks Rosa's Saturday visit away with the back of his hand. Neither of them answers about the cow.
+- **The uncle** — the rider who fetched Rosa, unnamed, and not identified as kin until he returns with the stretcher while she is doing compressions on his nephew. ch4 ¶63 asks what he is to the boy; ¶169 answers it.
+- **Rusina and Seia** — *Formulary* ¶1, from the last doctor's note. One is better at soups and one at pastries. Rusina teaches Rosa to milk; the cow is **Ginger**.
+- **Young Abe** — *Formulary* ¶209, a birthday and a tincture. His family pays in buttermilk.
+- **Doctor Franklin** — ch4 ¶49, remembered from Rosa's freshman year. **Note the collision**: Rosa is herself named for Rosalind Franklin, so a reader who catches the reference will stall here. Deliberate or not is undecided.

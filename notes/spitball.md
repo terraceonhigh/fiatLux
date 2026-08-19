@@ -1415,6 +1415,58 @@ Smoked salmon (ch2 ¶49) · salted butter in the keg · sausage and casing (ch2 
 
 ---
 
+
+#### *Off-Label* — the session of 2026-08-13/14
+
+***Written this session, and it is drafted through the Carmen consultation.*** ~1,700 words. What follows is what got decided, so it does not get re-derived.
+
+##### Attis
+
+**Terrace's call: the boy dies, on the scene, with the parents standing there.** The reason it is the right call is that it gives Rosa a **motive** the chapter did not have. She is not crusading when she starts inventing pretexts in November; she has one patient she could not save and is not going to have two. That is a bad reason wearing a good one.
+
+**What the death is doing structurally:**
+
+- **The kit arrives too late.** She sends the uncle for a stretcher and an immobilizer and he comes back with them while she is doing compressions.
+- ***Freeze!*** at ¶79 is reversed by ***Y'all can move him now*** at ¶179. The bookend was accidental and is now load-bearing.
+- **¶63 asks what the rider is to the boy. ¶169 answers it.** A hundred lines apart, and the answer lands mid-compression on his nephew.
+- **She lies three times in one farmyard and every lie is kind**: *I am a doctor* (¶87), *his uncle would be back to bring him to the clinic* (¶165, to a dying child), and *nothing could have saved him after the kick* (¶183, to his mother — true fact, false conclusion). The title fires three times before the woman with the bruises appears. **And nobody will ever catch the third one, which is what makes getting away with it corrosive.**
+- **The typography loses volume in three stages**: dialogue with clinical interjections to ¶159; reported narration from ¶163, the moment the patient stops being assessable; and every line of speech drops its capitals from ¶181, the moment the family refuses her. **The drop happens at their refusal, not at the death.**
+- **The Cassidys are the rehearsal for the woman.** Priest refused, Saturday visit flicked away with the back of a hand, cow unanswered — and Rosa leaves the door open anyway. A household that has declined her and a doctor intending to return with a clinical reason. Completely sympathetic here, which is what makes it dangerous later.
+- **The one thing that goes right**: the parents get to hold him while he dies, because Rosa stopped clearing them out of the way. That is the noble, and it is enough — the cow can stay unanswered.
+- **Still unwritten**: the stop of the compressions happens in white space at ¶171; GCS never appears anywhere; and the coroner's-case rule she abandons, the milk house, and the post-mortem she declines were all researched and are all absent, mostly foreclosed by the family taking the body back at ¶181.
+
+##### Carmen Warner
+
+Named this session; reasoning and the naming system at `canon/pedigree.md`. Nineteen weeks at *Off-Label*, first pregnancy, dated off the quickening because neither her cycles nor Rosa's have been reliable in years.
+
+- **Two names by design.** Ms Warner to the town forever; Carmen only from Rosa. **The first time Rosa says it out loud is the moment they stop being two representatives of an institution.** That beat is spent at ¶207.
+- **She is Rosa's precedent.** Same deployment programme, one rotation ahead, went out to a town and stayed. That is the visible outcome of being sent away, sitting on the clinic porch in Rosa's first week — and then Rosa spends November going native by a different route.
+- **Rosa volunteers confidentiality before the pen is uncapped**, and puts the pen *down* to ask whether the father is in the picture, which is how partner-safety screening is actually taught. **Both are plants**: the promise becomes the thing that stops her acting in *Notifiable*, and the technique is established as routine before it becomes the plot.
+- **She washes the cuff twice** and does not mention whose arm it was on that morning.
+
+##### The dates, fixed
+
+Last period around 24 June, so: **nineteen weeks at the visit; twenty-four weeks — survivable with heroics — on 9 December; thirty-two weeks on 3 February; term 10 March; due 31 March.** The December line is what the evacuation hangs on. Before it a loss is a miscarriage Rosa can manage; after it, it is a baby she cannot deliver anywhere with an incubator.
+
+**Baseline blood pressure 102/58**, and it matters *because it is low* — pressure bottoms out around twenty to twenty-four weeks. Textbook preeclampsia begins at 140/90, so **136/86 in February is normal by the book and a catastrophe against this baseline**, and the only reason she would know is that she wrote a number down on a Thursday when nothing was wrong. She is right months early and being right is worth nothing.
+
+##### The ethics, audited 2026-08-14
+
+Strong, and unusually so, because Rosa is drawn as scrupulous — so the failures read as pressure rather than sloppiness. The book is not doing *doctor behaves badly*; it is doing *doctor behaves correctly and the system has no slot for it*.
+
+Live problems, ranked, all of them still open:
+
+1. **The waitlist.** *Formulary*: she writes Diana into a university queue without a realistic timeframe and without mentioning that affiliation may govern access. Largest truth-telling gap in the book, disguised as an offer of help.
+2. **She is being paid for care that is meant to be free** — the sausage, the buttermilk, *you can take whatever you want*. Individually courtesies; collectively a fee schedule. **The consequence is invisible to her: if patients pay, the patients who cannot pay stop coming.**
+3. ***Is he on the convoy?*** — *Formulary*, and not clinically indicated. **The first off-label act in the book**, a chapter earlier than the plan places it, and currently so quiet no reader will register it.
+4. **She endorses an unknown compound** and makes obtaining the formula the throwaway item, because she liked her patient.
+5. **Carmen is a dual relationship with no exit.** Carmen cannot decline Rosa's advice cheaply — only doctor, old friend, and the person who will deliver her. Coercion by circumstance, and the scene currently plays it as warmth.
+6. **The structural risk: Rosa is too clean for the arc.** Across three consultations she does nearly everything right, and the whole evidence that she can bend is one unindicated question and a sausage.
+
+##### Research banked, unused
+
+**Silo gas** — nitrogen dioxide off fermenting silage, delayed pulmonary oedema twelve to forty-eight hours later, so the man is fine when he leaves her surgery. **Manure-pit hydrogen sulphide**, which kills the second person in after the first. **Trepanation** — plausible for her, landmark two fingerbreadths above and in front of the ear, local anaesthetic sufficient because the skull has no pain fibres, and a veterinary trephine exists in a dairy town because cattle get their sinuses trephined. Banked for a **roof fall**, where it will land harder on an adult whose family is not watching. **The improvised incubator** — a chick brooder rewired, since the first human incubator was copied off poultry incubators at the Paris zoo; the carpenter builds it; the real cost is not the box but the rota beside it, and **kangaroo care is the fallback that beats the machine.**
+
 ## To fix
 
 - **Lewis's father, ch2** — *has a fix now, see the sending-off exchange above.* He is alive, but the chapter as posted reads as though he is not. Two places: **¶11** — *"**Go get them, champ.** His father* ***would*** *say"* — habitual past reads elegiac; and **¶143**, the homecoming ledger, where Maia, Maddy and Swartz each get a line and he gets none, in a paragraph whose whole method is accounting for everyone. The second is the louder one.

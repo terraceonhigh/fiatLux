@@ -59,4 +59,22 @@ digraph pedigree {
     u_diana -> Diana [label="mother stated, father not"];
 
     Lewis -> Diana [dir=none, style=bold, constraint=false, label="ch2 ¶97, ¶139"];
+
+    // The schoolteacher's household. Declared last and kept off the rank=same
+    // above on purpose, so it hangs below the flat rather than joining its row —
+    // it descends from none of the three women and did not exist before ch2.
+    // The child is unborn as of ch2/ch4; the dotted edge is the pregnancy.
+    node [shape=box, style=rounded];
+    Carmen    [label="Carmen Warner\nMs Warner to the town\nschoolteacher, five months left"];
+    Carpenter [label="the carpenter\nunnamed\ncame on Rosa's convoy, did not leave"];
+
+    node [shape=point, width=0.02, label=""];
+    u_carmen;
+
+    node [shape=box, style=rounded];
+    Child [label="the child\nunborn at ch2 and ch4\ndue 31 March"];
+
+    Carmen -> u_carmen      [dir=none];
+    u_carmen -> Carpenter   [dir=none];
+    u_carmen -> Child       [style=dashed, label="quickened a week before ch4"];
 }
