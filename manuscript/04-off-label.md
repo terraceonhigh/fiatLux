@@ -1,4 +1,4 @@
-Rosa spent the morning on horseback, the ranch had put her on a mare to help with driving the cattle in. There were several small expletives she would rather not repeat, and a curse to her past self for not paying attention during the four-credit riding course. Someone rode for her midday, she tossed her whip to the closest townsman and followed. The rider's horse did not so much as slow down in the u-turn.
+Rosa spent the morning on horseback, the ranch had put her on a mare to help with driving the cattle in. There were several small expletives she would rather not repeat, and a curse to her past self for not paying attention during the four-credit riding course. Someone rode for her before noon, she tossed her whip to the closest townsman and followed. The rider's horse did not so much as slow down in the u-turn.
 
 *Sorry, what did you say? Can't hear anything over these hooves.*
 
@@ -88,13 +88,17 @@ Unmount, a stumble, she took off one side of the mare's pannier and washed her h
 
 Impact on temporal bone, major laceration, moderate bleeding.
 
-*uhh, i am... attis?* His right pupil was larger than his left.
+*uhh, i am... attis?* Dazed, he opened his lids. The right pupil was larger than his left.
 
 ...
 
 ...
 
-...No indication of blocked airway.
+Right.
+
+She put a finger into his mouth.
+
+No indication of blocked airway.
 
 *Okay, Attis, I am putting a piece of cotton on your head, can you hold onto it where I put it?* Patient's nails are pink, blanch returns slow. Matches cold ground.
 
@@ -144,4 +148,56 @@ Pupil constriction, right side slower than left, slightly. Don't show panic, if 
 
 Mr Cassidy shook his head.
 
-<incomplete>
+*Now, Attis, can you tell me the three words again?*
+
+*umm, sword, apple, ...paper?*
+
+Mrs Cassidy screamed, but not before burrowing herself into Mr Cassidy's chest.
+
+*I am going to take your vitals one more time, m'kay?*
+
+*mmkay.*
+
+---
+
+170/60, pulse, 44, pauses in breathing. Rosa tried her best to recall what it was you were supposed to say to the parents now. She asked Attis about the man who rode for her.
+
+She told Attis that it was okay to feel drowsy, and said that his uncle would be back any moment now, to bring him to the clinic, where she has the rest of her equipment. She signaled the parents to come and hold him steady. Mr Cassidy said something about how supper was still on the stove, son, with the good bread from the baker. Mrs Cassidy's thumb stroked her boy's chin. 
+
+Agonal breathing arrived, and Rosa pulled out her stethoscope. His lungs sounded of bubbling stew, with a burnt bottom.
+
+His uncle came back, with the stretcher and the head immobolizer. He saw the new doctor performing chest compressions, and announced that he brought what she asked for.
+
+---
+
+She looked at her watch, the one by the extinct company, and pronounced Mr Attis Cassidy dead at 1148 hours. She pulled his eyelids down, pushed his jaw back up, and logged the hour in her planner.
+
+He was rolled, back to supine.
+
+She removed the blood pressure cuff, wrapped bandage on the gauze on his temple, and clicked back into place the holster of her flashlight. She decanted her canteen entire, to wash away the blood on her hands.
+
+*Y'all can move him now. Would you like me to tell the priest on the way back to town?*
+
+they could handle it from here, thank you, doctor.
+
+*and, madam, the bleeding was inside his skull, nothing could have saved him after the kick. he wasn't in pain.*
+
+*...moving him would not have helped.*
+
+The uncle was saying a prayer.
+
+*i will be back, saturday, noon, at your home. does that sound alright?*
+
+Mr Cassidy flicked his wrist, back first.
+
+*...otherwise, i'll be at the clinic.*
+
+Rosa put the pannier back on her mare, and collected the university's stretcher and head immobilizer.
+
+*the keys, please.*
+
+*right, and buttercup...*
+
+The Cassidy's did not answer.
+
+On the way back to the clinic, she ripped a blank page from her planner, sprinkled mint like how the boy on the back of the truck did, and licked it at an angle that spilled a dash of the dried leaves. The matchbook was from an outfit along the river, and it was in the clinic, half-used, when she moved in.
