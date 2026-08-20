@@ -48,7 +48,7 @@ The tea was from Maddy's pouch, dried from whatever good leaves she found on the
 
 *I dreamt about her.*
 
-Collie open the iron's lid, and quenched the smoulder with a squeeze sports bottle. To bring the temperture down.
+Collie opened the iron's lid, and quenched the smoulder with a squeeze sports bottle. To bring the temperature down.
 
 *What about?*
 
