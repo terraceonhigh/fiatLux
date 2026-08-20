@@ -204,10 +204,6 @@ On the way back to the clinic, she ripped a blank page from her planner, sprinkl
 
 ---
 
-[intermission]
-
----
-
 There was a figure, sat on the porch of the clinic. The mare took a few more steps, and the figure resolved to the Schoolteacher. Rosa took off the pannier, and let a man lead her mare to the stable. The Schoolteacher's face resolved into a name.
 
 *Carmen.*
