@@ -159,12 +159,9 @@ Collie moved the mushrooms to one side of the pan, and did not look at her third
 *Richards, her name was Alice Richards, she was the smartest woman I have ever known, take out and mash the potatoes.* She set down the spatula, and grabbed the bowl of whisked eggs. Maddy took the pot off the stove and took out the potatoes. She was generous with the ramekin of butter.
 
 *Thank you.*
-
-*It's no problem.*
-
 Maddy set down a cloth where Collie then set down the pan. She gave Collie the nice bowl of potatoes she smoothed with the spoon, instead of the one she mashed in. Her bowl had the potato up to the edge on the left side and dug out on the right.
 
-*She told me to protect you, and, it was the only way to make sure that the university knew you were mine.*
+*She, she told me to protect you, and, it was the only way to make sure that the university knew you were mine.*
 
 Collie sprinkled some more salt on her eggs.
 
@@ -176,7 +173,7 @@ She cut the egg into bite-sized pieces, and then carried on cutting. The yolk po
 
 Maddy skewered three mushroom slices on her fork.
 
-*It's okay, mom.*
+*Don't worry about that, mom.*
 
 The mushroom was a bit undercooked.
 
@@ -210,7 +207,7 @@ Collie put hers on, while Maddy packed her lunch and notebooks and braided and t
 
 *Good, remember to keep your handkerchief on tight when you are in the sick ward.*
 
-*The doctor drilled that into me.* Maddy double-checked that she packed a spare.
+*The older nurses already drilled that into me.* Maddy double-checked that she packed a spare.
 
 *And, I am going to the chemists today anyway, so take these.*
 
