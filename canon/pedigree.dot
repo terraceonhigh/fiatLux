@@ -12,7 +12,8 @@ digraph pedigree {
     // layout: the two flatmate households whose children stayed in the flat,
     // then Lewis's, then Diana's — the outsider — at the far end, next to his.
     Collie      [label="Coelia 'Collie' Swartz\nclassical studies\nadjunct, then Senior Lecturer, then Doctor"];
-    MaddyFather [label="placeholder_03\nMaddy's father\nunwritten"];
+    Alice       [label="Alice Richards\nMaddy's mother\nwrote the water protocol\ndead before ch2"];
+    MaddyFather [label="placeholder_03\nMaddy's father\ndied before Alice\nburied in the city"];
     Nona        [label="Nona Elbakyan\ncharity work, knits, drives"];
     NadiaFather [label="placeholder_04\nNadia's father\nunwritten"];
     Maia        [label="Maia Tsien\nastronomer\nthe mountain observatory"];
@@ -25,13 +26,18 @@ digraph pedigree {
 
     // Membership only — dot orders this row by declaration order above, not by
     // the order listed here.
-    { rank=same; Collie; u_maddy; MaddyFather; Nona; u_nadia; NadiaFather; Maia; u_lewis; Husband; DianaMother; u_diana; DianaFather; }
+    { rank=same; Collie; Alice; u_maddy; MaddyFather; Nona; u_nadia; NadiaFather; Maia; u_lewis; Husband; DianaMother; u_diana; DianaFather; }
 
     Maia   -> u_lewis     [dir=none];
     u_lewis -> Husband    [dir=none];
 
-    Collie -> u_maddy     [dir=none, style=dashed];
+    Alice  -> u_maddy     [dir=none];
     u_maddy -> MaddyFather [dir=none, style=dashed];
+
+    // Not descent. Collie took Maddy when Alice died and put her on the
+    // university's rolls as a Swartz, which is why the edge is a bracket
+    // rather than a line: it is custody and paperwork, not parentage.
+    Collie -> Medea       [dir=none, style=dotted, constraint=false, label="took her in;\nrenamed her Swartz"];
 
     Nona   -> u_nadia     [dir=none, style=dashed];
     u_nadia -> NadiaFather [dir=none, style=dashed];
@@ -54,7 +60,7 @@ digraph pedigree {
     }
 
     u_lewis -> Lewis;
-    u_maddy -> Medea [style=dashed, label="never stated on the page"];
+    u_maddy -> Medea;
     u_nadia -> Nadia [style=dashed];
     u_diana -> Diana [label="mother stated, father not"];
 

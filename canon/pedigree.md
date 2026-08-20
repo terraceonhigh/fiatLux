@@ -24,9 +24,29 @@ Chapter two adds a **fourth household that was never in the flat** — Diana's, 
 
 ## The relation the line runs through
 
-**Collie is never identified as Maddy's mother.** ¶17 gives you *"Maddy's mom is someone who is very smart, and works at the university"* and, separately, *"Auntie Collie is a nice woman … she kisses them both."* The reader infers it; nobody says it.
+**Settled 2026-08-20 by *Boil Water*, and it reverses what this file used to say.** **Collie is not Maddy's biological mother.** Maddy's mother is **Alice Richards**, dead before ch2 — a university teacher who **wrote the water purification protocol** in the time she was not teaching, killed in a bad season by a treatable illness and a bad vial. Collie's account: *"She was the smarter one, if you'll believe me."*
 
-That is defensible and possibly better than saying it — a child holds *Maddy's mom* and *Auntie Collie* as two facts about one person, and the section is in Nadia's POV. But **the line the whole book runs through is its least-stated relation**, so it should be a choice rather than an oversight.
+**Which means ch1 ¶17 needed no reconciling and this file mis-inferred it.** *"Maddy's mom is someone who is very smart, and works at the university"* and *"Auntie Collie is a nice woman"* are **two different women in one child's POV** — Nadia naming Maddy's actual mother, and calling Collie an aunt because Collie is not hers. The earlier reading treated the pair as evidence the reader had to assemble into Collie-as-mother. It never was.
+
+**Alice Richards, what the prose gives her:**
+
+- University, and she taught. Alive at ch1, dead before ch2.
+- **The water purification protocol is hers.** *Isolation* is a water emergency and *Boil Water* is a public-health advisory, and the woman who wrote the valley's water document is dead before either.
+- Died on injectable medicine, syringes steam-sterilised at home by Maddy at about ten, with peppermint oil for her nose. **Cause never identified** — *"we lost a lot of good people that season."*
+- **The vial killed her.** *"They couldn't find a better vial for anyone in the city."* Collie privately knows the drug safety agency had been tendered out three summers earlier and does not say so.
+- Palliated with poppy. She went to sleep. She smiled through it, and did it most for Maddy.
+- **Buried in the city**, next to Maddy's father, who died first — so `[placeholder_03]` is dead and interred, and if Lewis's salvage runs go to the same city his route passes both graves.
+- **She co-named Maddy with Collie before the birth**, choosing *Medea* because *"she saw what was coming, and she wanted you to be strong."*
+- Her last instructions: stay healthy, bury me next to your dad, take care of Maddy.
+
+**Maddy was renamed, and the reason is institutional.** *"It was the only way to make sure that the university knew you were mine."* An orphan could not be covered unless she was a Swartz on a form — so the erasure of Alice Richards's surname is **affiliation paperwork**, not sentiment, which is why Collie would not look at her while saying it. **Collie offers to write it back and Maddy declines.**
+
+**Which builds the *Skywave* comparison in the right order.** The apprentice there, surname **Lacks**, keeps her own name. Two orphans absorbed by two of these women, and the difference is not the guardian — **Maddy was offered the choice and chose Swartz.**
+
+**Collie has three children and not one of them is hers biologically.** *Boil Water* calls Maddy **her thirdborn child**, so Collie counts Lewis, Nadia and Maddy in order and has for years. That answers the standing question in [`../notes/spitball.md`](../notes/spitball.md) about her case for calling Lewis her son and Nadia her daughter: there is no case, there is a count.
+
+**And Collie tells Maddy what Medea means, with the load-bearing half removed** — medicine, poison, *"she found a place with people she could trust, and lived happily ever after."* That is Medea in Athens, which is to say after the infanticide, delivered in a fairy-tale formula. The same withholding Rosa performs three times in one farmyard, done by a classicist to a child about her own name.
+
 
 ## Diana's household
 
