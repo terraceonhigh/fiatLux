@@ -54,17 +54,17 @@ The map on the table was printed the same day Oyá was born. The professor's scr
 
 *South Station, readback on gauge three-four-three.*
 
-*Right, uh, sorry, field team one reported 25.5 meters half an hour ago.*
+*Right, uh, sorry, field team one reported 25.5 metres half an hour ago.*
 
 *Radio them for another readout.*
 
 *Standby...*
 
-*24.8 meters, Grand Central.*
+*24.8 metres, Grand Central.*
 
 *Thank you, South Station.*
 
-0.7 meters over half an hour, that's 1.4 per hour, contamination starts at 14.3...
+0.7 metres over half an hour, that's 1.4 per hour, contamination starts at 14.3...
 
 The professor began using the red marker.
 

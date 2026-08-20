@@ -78,7 +78,7 @@ She let him in.
 
 The two drops that remained of the big bottle of mead sat on the steps to the blind.
 
-He had at last learned to grab his aluminium mug by the handle instead of the body when she poured from the thermos. It smelled like chicken noodle soup, more metallic, more fatty. Strong sweet notes from carrot and onion. Herbs too, not like the dry stuff that made it to the university.
+He had at last learned to grab his aluminum mug by the handle instead of the body when she poured from the thermos. It smelled like chicken noodle soup, more metallic, more fatty. Strong sweet notes from carrot and onion. Herbs too, not like the dry stuff that made it to the university.
 
 *Duck noodle soup.*
 

@@ -194,7 +194,7 @@ Diana's left hand combed her ponytail.
 
 *What kind of doctor puts the easiest thing last?*
 
-*Well, medical student, in my defense. Any questions?*
+*Well, medical student, in my defence. Any questions?*
 
 *Can't say so.*
 
