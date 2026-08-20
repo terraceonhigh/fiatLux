@@ -142,7 +142,7 @@ The mushrooms were thinly sliced, and they would go into the butter before the e
 
 Collie rinsed her hands, even though they were clean.
 
-*She saw what was coming, and she wanted you to be strong, very strong.*
+*Your mother saw what was coming, and she wanted you to be strong, very strong.*
 
 The mushroom dissolved its flavour into the oil.
 
