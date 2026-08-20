@@ -27,7 +27,14 @@ Builds every chapter whose markdown changed. Then, to get one onto the clipboard
 make copy CH=01-continuity-test
 ```
 
-Paste into the AO3 chapter editor **with the HTML tab selected**, not Rich Text. Bare `make copy` lists the available slugs. `make clean` removes `build/`.
+Paste into the AO3 chapter editor **with the HTML tab selected**, not Rich Text.
+
+**AO3 chapter numbers are not plan chapter numbers, and the gap is deliberate.** *Boil Water* is plan chapter 8 and AO3 chapter 7, because an unposted draft holds AO3 slot 6 for *Notifiable*. The mechanism, learned the hard way on 2026-08-20:
+
+- **A draft chapter holds a position and shifts everything after it.** That is how you publish out of plan order — put a placeholder draft in each slot you are skipping, then post into the slot beyond them.
+- **AO3 clamps a new chapter to the next real position.** Typing 8 when 7 is the highest existing slot silently gives you 7. The gap has to exist before you can post past it.
+- **A draft at position 1 renumbers the whole work.** One sat there briefly and the published work read as starting at Chapter 2, with no Chapter 1. Check `/works/89851861/navigate` after any reposition.
+- **Filenames are local.** The Archive never sees them, so renaming a chapter file — even a posted one — costs nothing upstream. Bare `make copy` lists the available slugs. `make clean` removes `build/`.
 
 **Do not run pandoc by hand.** Two flags in the `Makefile` are load-bearing rather than cosmetic: one stops apostrophes being silently rewritten, the other stops the macOS pasteboard corrupting accented characters when the HTML is pasted into the browser. Both are explained in place at the top of the `Makefile`, because both have bitten once already.
 
