@@ -24,14 +24,14 @@ Chapter two adds a **fourth household that was never in the flat** — Diana's, 
 
 ## The relation the line runs through
 
-**Settled 2026-08-20 by *Boil Water*, and it reverses what this file used to say.** **Collie is not Maddy's biological mother.** Maddy's mother is **Alice Richards**, dead before ch2 — a university teacher who **wrote the water purification protocol** in the time she was not teaching, killed in a bad season by a treatable illness and a bad vial. Collie's account: *"She was the smarter one, if you'll believe me."*
+**Settled 2026-08-20 by *Boil Water*, and it reverses what this file used to say.** **Collie is not Maddy's biological mother.** Maddy's mother is **Alice Richards**, dead before ch2 — a university teacher who **wrote the water standards** in the time she was not teaching, killed in a bad season by a treatable illness and a bad vial. Collie's account: *"She was the smarter one, if you'll believe me."*
 
 **Which means ch1 ¶17 needed no reconciling and this file mis-inferred it.** *"Maddy's mom is someone who is very smart, and works at the university"* and *"Auntie Collie is a nice woman"* are **two different women in one child's POV** — Nadia naming Maddy's actual mother, and calling Collie an aunt because Collie is not hers. The earlier reading treated the pair as evidence the reader had to assemble into Collie-as-mother. It never was.
 
 **Alice Richards, what the prose gives her:**
 
 - University, and she taught. Alive at ch1, dead before ch2.
-- **The water purification protocol is hers.** *Isolation* is a water emergency and *Boil Water* is a public-health advisory, and the woman who wrote the valley's water document is dead before either.
+- **The water standards are hers.** *Isolation* is a water emergency and *Boil Water* is a public-health advisory, and the woman who wrote the valley's water document is dead before either.
 - Died on injectable medicine, syringes steam-sterilised at home by Maddy at about ten, with peppermint oil for her nose. **Cause never identified** — *"we lost a lot of good people that season."*
 - **The vial killed her.** *"They couldn't find a better vial for anyone in the city."* Collie privately knows the drug safety agency had been tendered out three summers earlier and does not say so.
 - Palliated with poppy. She went to sleep. She smiled through it, and did it most for Maddy.
