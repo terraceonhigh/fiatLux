@@ -1,6 +1,6 @@
 # What the strip removed
 
-**Commit `7330333`, "Strip branch to the two-file second canon", deleted 2,062 lines across 17 files** — deliberately. Its body reads: *"Keep manuscript/00-ante-finem-mundi.md and manuscript/01-the-repair-shop.md, drop everything else, preserve dir structure with .gitkeep."* This branch is `terrace/second-canon`; the strip was a reset to the prose, not an accident.
+**Commit `7330333`, "Strip branch to the two-file second canon", deleted 2,062 lines across 17 files** — deliberately. Its body reads: *"Keep manuscript/00-ante-finem-mundi.md and manuscript/01-the-repair-shop.md, drop everything else, preserve dir structure with .gitkeep."* **The second path no longer exists** — that chapter is `manuscript/01-continuity-test.md` now, retitled after the strip. The quote is left verbatim because it is a commit body; only follow it with the rename in mind. This branch is `terrace/second-canon`; the strip was a reset to the prose, not an accident.
 
 Nothing here is being restored. This file exists because **work done after the strip has begun duplicating and in one case possibly contradicting what was removed**, and because three files still carry dangling references to it.
 
@@ -30,7 +30,7 @@ Everything is recoverable: `git show 7330333^:<path>`.
 
 ## Three collisions with work done tonight
 
-**1. `absorbing-the-houses.md` already covered chapter five's subject.** Its stated scope is *"the university takes the police station and the fraternities."* Tonight's `research/absorbing-armed-bands.md` was written from scratch without knowledge of it, and independently reached at least one of the same conclusions — the stripped file's *"the earliest indicator, and it is always a clerical convenience"* is the same finding as the new brief's Section VIII, that consolidation always arrives argued on grounds of convenience. Convergence is reassuring about correctness and means the new brief is partly redundant. **Worth diffing before ch5 is drafted.** The stripped file also has *"where they split — the shape of the vote,"* which the new brief does not cover and which matters for the minutes chapter.
+**1. `absorbing-the-houses.md` already covered chapter five's subject.** Its stated scope is *"the university takes the police station and the fraternities."* Tonight's `research/absorbing-armed-bands.md` was written from scratch without knowledge of it, and independently reached at least one of the same conclusions — the stripped file's *"the earliest indicator, and it is always a clerical convenience"* is the same finding as the new brief's Section VIII, that consolidation always arrives argued on grounds of convenience. Convergence is reassuring about correctness and means the new brief is partly redundant. ~~**Worth diffing before ch5 is drafted.**~~ **Redirected 2026-08-21: the chapter this matters for is *Druzhina*** (plan 9, stubbed, holding AO3 draft slot 8). What was "ch5" when this was written is now *Off-Label, Part I* and is posted; the frat thread finishes in *Druzhina* instead. **Worth diffing before *Druzhina* is drafted.** The stripped file also has *"where they split — the shape of the vote,"* which the new brief does not cover and which ~~matters for the minutes chapter~~ — **the minutes chapter is cut**, so the shape-of-the-vote material has nowhere to land unless the documentary device returns as *Druzhina*'s closing section, which is [`chapter-plan.md`](chapter-plan.md)'s ordering constraint 2. **That makes this the single most reusable thing in the inventory**, and *Druzhina* is the last chance to use it.
 
 **2. `the-two-lights.md` had already worked out the light motif.** It contains *"Fiat Lux — the two lights,"* *"The joke was not a joke,"* *"A light cannot be hidden,"* and *"The Vestals are prior art only — these people live and love and have children and die."* The celestial naming pattern presented as a find on 2026-08-10 — Coelia as sky and kept fire, Maia a Pleiad, Diana the moon, Medea granddaughter of Helios — is very likely rediscovery of documented ground, and the Vestal reading in `canon/pedigree.md`'s naming section was explicitly bounded there as *prior art only*.
 
@@ -46,9 +46,11 @@ There is no conflict to manage. **`main` got riddled with overwrought worldbuild
 
 Read the inventory as a source of *optional* prior art — `absorbing-the-houses.md`'s shape-of-the-vote material is worth a look before the minutes chapter — not as a standard to reconcile against.
 
-## The merge, planned for 2026-08-11
+## The merge, planned for 2026-08-11 — **still not done as of 2026-08-21**
 
 Tag `main`'s current commit as reference first, then merge `terrace/second-canon` into `main`. The tag is what makes the stripped material findable by name rather than by remembering a commit hash — after which everything in the inventory above is reachable from the tag instead of from `7330333^`.
+
+**Checked 2026-08-21 and neither half has happened.** `git tag -l` is empty, and `terrace/second-canon` is **96 commits ahead of `main` and 0 behind** — so ten days of work, the whole second canon, sits on the branch and `main` is still at *"Set chapter two's direction, and file the blind panel behind it."* Both remotes exist and are current with their branches, so nothing is at risk; it is simply undone. **Recorded, not executed — the tag name and whether to merge or keep the branch as the trunk are Terrace's calls, and a ten-day-old plan deserves re-deciding rather than replaying.** The one thing that has decayed in the meantime: the longer the branch runs, the less *"merge the branch into main"* describes what is actually wanted, which may now be closer to *make this branch the trunk*.
 
 ---
 

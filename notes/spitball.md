@@ -1378,11 +1378,37 @@ Smoked salmon (ch2 ¶49) · salted butter in the keg · sausage and casing (ch2 
 
 *Counter-argument, so the choice stays deliberate:* in a fuel-scarce winter the rational move is to **consolidate**, not spread — heat two flats, not five. A household spreading across a floor is thermally expensive. **Unless the unheated room is the feature, which a *cella penaria* wants anyway.**
 
+##### Settled 2026-08-21 by *Ground*, and the load argument won
+
+**The larder is not on the third floor.** The section above ends by noting the weight as *"a sensible domestic decision with an engineering consequence underneath it, **uncounted** — which is the shape of everything else in this book."* **The chapter counts it.** Alex sends Nadia to the archives for the building's blueprints, brings Collie the number, and the conversation goes straight to *"we would want the weight on the foundation."* The *cella penaria* goes **down to the ground-floor common room** — bricked windows, locks and keys, six men for two days, and Collie undertaking to convince the neighbours.
+
+**Three things that follow, none of them what this section expected:**
+
+- **The Roman name fits better, not worse.** A *cella penaria* in an actual *domus* was a ground-floor room off the atrium. Putting it on the third floor was the anomaly; the load argument moved it to where it always was. **Nobody in the scene notices, which is correct.**
+- **The cost changed shape.** This section priced the room as ~~*a bed somebody gave up*~~. It isn't. **It is the building's only shared room**, and the household is taking it from its neighbours behind a lock. That is a considerably darker purchase than a spare bedroom, and it arrives in a line and a half of Collie being competent — *"Oh, it shouldn't be too hard. I will try my best to convince the neighbours."* The chapter's title carries it: **ground floor, grounding, and enclosure of the ground.**
+- ***Where did the neighbours go* is answered, and the answer is that they didn't.** This section closed on that as the question that *"need never reach the page."* It reached the page immediately, from the other side: there are neighbours, they hold a claim on the commons, and Collie's standing is what dissolves it. The floor was an allocation; the common room is an appropriation.
+
+**Two predictions from this section that held.** *The third floor is about to become the wrong floor* — Alex runs the tap into a bucket before he sits down to his soda, which is post-*Isolation* behaviour and needs no explaining. And **the lumber supply changed**: ~~the household's own broken furniture~~ became **the fifth floor** (brick, foyer tiles, shelves out of apartments Lewis picks the locks on) **plus old pallets from the city**, which keeps the salvage ethic and moves it up a floor.
+
+##### The sleeping arrangement is decided in dialogue and not yet built
+
+**What *Ground* states, and it is less than a floor plan.** Collie asks Alex for **two rooms out of the second living room** and **the bunk bed turned into two beds** — Alex counters that building a fresh one is easier. Nona complains about sawdust in that room, so the work has started. Maddy and Nadia are still bunked together as of *Boil Water*, which is the same weekend, so **the subdivision is after that chapter, not concurrent with it.**
+
+**What is nowhere in the prose, and must not be treated as canon.** Discussed with Terrace on 2026-08-21 and left unwritten:
+
+- **Where Lewis sleeps.** The obvious move is the girls' vacated room, and it rhymes with ch1 ¶23's *proper bunk* — but no line puts him anywhere. The book has never given him a door.
+- **Whether Collie shares.** *Ground* says only *"Collie's room was on the west side of the apartment"* — singular, no second occupant, and it doubles as the room she takes meetings in. Nona is placed nowhere at all.
+- **Bed count in any room but the girls'.** Four bedrooms across two merged 2BRs is the arithmetic that fits seven people; five is available if a unit is a 3BR. Nothing on the page picks.
+
+**The structural reason to leave it open a while longer:** every room in the compound pairs off except Lewis's, which makes his solitude architectural rather than emotional — and that is precisely the argument Maia and Alex are having over the candle in the same chapter. Committing the floor plan settles the argument early.
+
 #### Alex's chapter — *Ground*. Terrace, 2026-08-13
 
 ***Chapters are named by title in this section, not number.***
 
-**The problem:** Alex Tsien is written and present in ch1, he is the reason Lewis can hold a soldering iron, and he is the only adult in the household whose material circumstances are visibly failing — and he has one line of dialogue in the whole book. He has a name now (Alexander "Alex" Tsien, settled 2026-08-13 at `canon/pedigree.md:78`) and no chapter.
+**The problem, as it stood:** Alex Tsien is written and present in ch1, he is the reason Lewis can hold a soldering iron, and he is the only adult in the household whose material circumstances are visibly failing — and ~~he has one line of dialogue in the whole book~~. He has a name now (Alexander "Alex" Tsien, settled 2026-08-13 at `canon/pedigree.md:78`) and ~~no chapter~~.
+
+**Solved 2026-08-21.** *Ground* is written and posted as AO3 chapter 9, it is his POV start to finish, and he carries roughly fifty lines including the book's longest two-hander. **What the writing added that this section did not specify — hold all of it:** an article-dropping second-language English (*"help me with wall"*, *"is a bit more willing to work on hot wires than I want him"*), **the old country as his standing comparison** for how a thing ought to be done, *xuanguan* offered and then translated for a son who needed it translated, a **wok bought from an Asian grocer three months off the plane** with mango sago for the train back to campus, and a trade with a **season** to it — *"the season has been quiet, so it is good to keep my hands busy."* He calls Collie *Doctor Swartz* at the door, gets corrected, and says *ma'am* anyway.
 
 **The shape Terrace described:** a Swartz quotidian — Alex doing upkeep, making shelves, generally keeping the physical household running. **Not a crisis chapter.** The point is that the man who holds the soldering iron also holds the hammer, and neither instrument gets a chapter until now.
 
@@ -1392,7 +1418,7 @@ Smoked salmon (ch2 ¶49) · salted butter in the keg · sausage and casing (ch2 
 
 2. **The corridor enclosure.** Alex and Maia have taken the flat next to Collie's (ch1 ¶75, the international students' flat). **Terrace's refinement: walling off the segment of hallway that the two flats share, and moving the threshold to make the two condos seamless.** What used to be a piece of the public corridor is now just where the shoe rack is. **Not installing a door — laying brick and sealing off the hallway chunk**, then cutting a new internal doorway so the two units flow as one. The shoe rack is the beat: the most domestic possible object in what was institutional space. *The household claims the corridor the way it claims everything — by putting something ordinary in it.*
 
-3. **Pillow talk — the observatory relocation.** The final scene. Alex and Maia in bed, and **we first learn that the university is already breaking ground on a closer, more defensible observatory.** This is the event *Skywave* will deliver — Nadia's wish granted and billed to the world — but here it arrives as shop talk between two people who have been married long enough that the observatory is pillow conversation. **The move means his workshop comes down from the mountain**, which is good for his hands and bad for the optics. Neither of them says so.
+3. **Pillow talk — the observatory relocation.** ~~The final scene.~~ **Delivered as beat 3 of five, 2026-08-21 — two more beats follow it.** Alex and Maia in bed, and ~~we first learn that the university is already breaking ground on a closer, more defensible observatory~~ — **demoted to rumour as planned**: what Maia has is *"the committee talked today"* and a recall to do the packing, dated only *after the dry season*. This is the event *Skywave* will deliver — Nadia's wish granted and billed to the world — but here it arrives as shop talk between two people who have been married long enough that the observatory is pillow conversation. ~~**The move means his workshop comes down from the mountain**, which is good for his hands and bad for the optics.~~ **That was the old error and it is dead** — the mountain posting is Maia's, never his (`canon/pedigree.md`, corrected 2026-08-20). The move takes *her* up to pack and he volunteers to go with her; **what the scene actually turns on is whether Lewis comes**, and Alex's answer is *"an electrician needs an assistant."*
 
 ##### Why *Ground*
 
@@ -1411,7 +1437,15 @@ Smoked salmon (ch2 ¶49) · salted butter in the keg · sausage and casing (ch2 
 
 **Placement:** somewhere in the years between the international students flying home (ch1 ¶75) and Lewis's chapter. The observatory relocation pillow talk must precede *Skywave*.
 
-**Slotted at chapter 5 on 2026-08-13 and pulled back out the same evening.** Reverted, no file. **The live candidate is chapter 8** — after *Notifiable*, before *Isolation* — which is what the paragraph above said before any of this, and which puts the trades register next to *Isolation*'s municipal one instead of six chapters from it. Waiting on how *Off-Label* is written; the full reasoning is at [`chapter-plan.md`](chapter-plan.md) under *The interleave question*. **Standing regardless of slot: beat 3 is rumour, not groundbreaking**, so *Ground* seeds *Druzhina* rather than contradicting it.
+**Slotted at chapter 5 on 2026-08-13 and pulled back out the same evening.** Reverted, no file. ~~**The live candidate is chapter 8** — after *Notifiable*, before *Isolation*~~ — which put the trades register next to *Isolation*'s municipal one instead of six chapters from it. **Closed 2026-08-21: it landed at plan 10, AO3 9.** The trades-register adjacency was traded away for the *Druzhina* ordering, and that was the right trade — the relocation has to be authorised before a couple can discuss it as settled. **Beat 3 stayed rumour rather than groundbreaking**, exactly as this note required, so *Ground* seeds *Druzhina* instead of contradicting it. Prior reasoning at [`chapter-plan.md`](chapter-plan.md) under *The interleave question*.
+
+##### The two beats the plan did not have
+
+*Ground* runs five beats, not three. **Beats 4 and 5 were not designed here and are worth reading back into the record:**
+
+**Beat 4 — the gate, and the dinner.** Lewis asks why the doorframe is only half as thick as the wall, and the answer is that Alex has been holding the gap for a proper security grille *"like how we had back in the old country. They knew their things."* Then the entrance gets toasted: casserole, dining-hall corn chowder in the wok, apple cider, tiles set under a temporary plank. **The wok's provenance is the chapter's one flashback and its only glimpse of his arrival.**
+
+**Beat 5 — the storeroom negotiation.** Alex in Collie's room with the blueprints, which is where the *cella penaria* leaves the third floor. See the dated block under *The storeroom* above; the short version is that **the load argument sends the larder to the ground-floor common room, and Collie takes the commons to get it.** The beat also cashes *Boil Water*'s *"Bréal and I had a chat"* — she undertakes to go and ask Epsilon for four men. **It ends on her pouring him a second drink he said he would not have**, which is the chapter's only soft landing and the reason the negotiation reads as domestic rather than administrative.
 
 ---
 

@@ -1,6 +1,8 @@
-# Pedigree — chapters one and two
+# Pedigree
 
-*Kin among the chapter one and two cast only. Authoritative for names and relations. The setting reference was `canon/the-academy-brainstorm.md`, stripped from the branch in `7330333` and recoverable with `git show 7330333^:canon/the-academy-brainstorm.md` — see [`../notes/stripped-canon.md`](../notes/stripped-canon.md).*
+*Kin across the whole written cast. **Scope corrected 2026-08-21** — the title and this line said "chapters one and two" long after the file had grown sections for chapter four, *Formulary*, *Boil Water* and the *Skywave* apprentice. Authoritative for names and relations. The setting reference was `canon/the-academy-brainstorm.md`, stripped from the branch in `7330333` and recoverable with `git show 7330333^:canon/the-academy-brainstorm.md` — see [`../notes/stripped-canon.md`](../notes/stripped-canon.md).*
+
+**The kin graph itself is still a chapter-one-and-two object**, because no chapter since has added a blood or marriage tie — everything later adds household, not descent. *Ground* is the clearest case: a whole chapter inside the Tsien marriage that changes no edge on the chart.
 
 The graph itself lives in [`pedigree.dot`](pedigree.dot) — open it with a Graphviz preview (e.g. the VS Code Graphviz extensions). Everything below still applies to reading it.
 
@@ -75,6 +77,18 @@ Her leg is also chapter one's clinic scene arriving one generation later. Nona c
 **One of the four is on the page and three are not**, and that asymmetry is currently doing work whether or not it was chosen.
 
 **Lewis's father is alive, he is Chinese, and he is Alexander "Alex" Tsien** — alive decided 2026-08-10, Chinese decided 2026-08-11 with the surname, given name settled 2026-08-13 (see `[placeholder_01]` below for the three derivations). Lewis is therefore mixed, and nothing in either posted chapter contradicts it or remarks on it. Chapter two does not yet reflect the *alive* half: ch2 ¶11's habitual *"His father would say"* and his absence from the ¶143 ledger both read as elegiac. **Corrected 2026-08-20 — the observatory posting is Maia's, not his.** Ch0 ¶19 is explicit: *"his mom Maia works at the observatory on the mountain, so he gets lonely sometimes,"* and ¶29's *"mom was home"* only reads right if she's usually not. Alex is the parent written present and staying — he fixes the controller, he watches the house fail, he is the one who does not leave. This file previously borrowed the observatory as a geographic excuse for *his* absence in ch2; that borrowing is wrong on its face once ch0 is read, since the posting was never his to have. *Ground*'s pillow-talk scene now dramatizes the correct version directly: Maia is the one called back up the mountain, and Alex volunteers to go **with** her, as an assistant, for this one move — which still gives ch2 a live geographic-not-mortal reading, but only for the trip in *Ground*, not as his standing situation. Whether ch2 falls inside that window is still open. **In chapter one he is written and present.** ¶25 has him take the controller apart and show Lewis where the wire to the motor had gone loose; ¶29 gives him a house where *"the lights would go out after dinner sometimes"*, and a wife who talks about selling it when they think the boy is asleep. He is the only adult male relative in the chapter, he is the reason Lewis can hold a soldering iron, and he is the one member of the household whose material circumstances are visibly failing. His marriage to Maia is stated outright in ¶75 — *"Maia and her husband"*.
+
+**Settled 2026-08-21 by *Ground*, which is his chapter.** He is the POV throughout, and the file's long-standing complaint that he had one line of dialogue is dead. What the prose now fixes about him:
+
+- **He is an electrician, and the trade has a season.** *"The season has been quiet, so it is good to keep my hands busy."* Collie needles him that *"electricians don't handle concrete if they can help it"* and he answers *"we make do."* He lays brick, mixes concrete, frames a doorway in 2x4s, reads the building's blueprints, and sends Nadia to the archives for them.
+- **He speaks English as a second language, and the register is consistent.** Articles drop under load — *"Come down and help me with wall"*, *"is a bit more willing to work on hot wires than I want him."* He offers ***xuanguan*** and then translates it for a son who needed it translated.
+- ***The old country* is his standing comparison** for how a thing ought to be done: he has been leaving the doorframe thin on purpose, holding the gap for a proper security grille, *"like how we had back in the old country. They knew their things."*
+- **He arrived as a student, and the object that dates it is a wok.** Bought from an Asian grocer *"three months after landing on this side of the planet"*, with something of mango and sago the same day, *"for the train back to campus."* **Inference, not statement:** the campus is the university's, which would put him inside the institution from arrival — the same building Collie and Maia were in — rather than meeting them later.
+- **He defers to titles and cannot stop.** He knocks and says *"Doctor Swartz?"*, is told *just Collie is fine*, explains himself with *"can never be too polite"*, and says *ma'am* to her anyway three minutes later. **Collie lets that slide**, which is the second time in two chapters that a Swartz declines to correct someone twice.
+- **He calls Maia *four-eyes*.** The book's only spousal nickname, and the only name anyone calls her that is not *Maia*.
+- **He was present when the elevator car came out**, which makes him the household's institutional memory for the building itself.
+
+**None of this touches the chart.** *Ground* adds no kin edge; it fills in the one adult the graph had as a node and a surname.
 
 **Maddy's father and Nadia's father are absent without comment.** No pronoun, no reference, no gap acknowledged. The nearest thing to evidence is ¶29 calling Collie **"Mrs Swartz"** in Lewis's POV — a child's politeness convention, but it does imply a marriage happened. For Nona there is nothing at all; Nadia carries Elbakyan and no man is attached to it.
 
@@ -181,3 +195,21 @@ Characters who are not kin, listed so the chart's completeness is auditable.
 - **Rusina and Seia** — *Formulary* ¶1, from the last doctor's note. One is better at soups and one at pastries. Rusina teaches Rosa to milk; the cow is **Ginger**.
 - **Young Abe** — *Formulary* ¶209, a birthday and a tincture. His family pays in buttermilk.
 - **Doctor Franklin** — ch4 ¶49, remembered from Rosa's freshman year. **Note the collision**: Rosa is herself named for Rosalind Franklin, so a reader who catches the reference will stall here. Deliberate or not is undecided.
+
+***Isolation*** *(drafted at `manuscript/06-isolation.md`, unposted — added 2026-08-21, which this file had been missing entirely):*
+
+- **Oyá** — POV, an engineering student in the university's water control room, which the radio traffic calls **Grand Central**. She reads the gauges, does the arithmetic that dates the contamination to about 1730, and is handed the handset with *"You know enough. Then it was a handshake"* — **the same handshake gesture that closes Collie's clinic negotiation in ch1 ¶71.** Her wristwatch disagrees with the wall clock by two minutes and the book notices.
+- **Her professor** — unnamed **and ungendered**, which is worth preserving deliberately rather than by accident. Drinks from a flask, reads something that is *"definitely not from the university library"*, keeps the red marker, and hands the phone to a student at the moment it matters. Perun calls them ***Prof***.
+- **Perun** — leads the field team at the city water works, 1215 Windsor Street. Named for the Slavic thunder god, which puts him in neither of the two established women's registers and alongside **Bréal** as a man named from a third pattern.
+- **The telephone operator** — unnamed. Connects every call; the landline has no number pad. **Structurally the same institution as the laminated card** — you reach people only through someone who agrees to connect you.
+- **The shift leader, and the two workers found at Windsor** — unnamed, municipal. One red phone nobody answers.
+- **The Rector** — named as an office, offstage. Bréal is calculating how to keep him away from the pledge records.
+- **Nona Elbakyan appears here in a junior register** — *"Ms Nona Elbakyan was instructed to help her professor enumerate and produce a list of the crops, in descending order of priority."* **Open, flagged not resolved:** *Fortification* bylines her as **Dietitian, Department of Food Sciences**, so either *"her professor"* is the faculty member she reports to as staff, or *Isolation* sits earlier in her career than its plan position implies. The prose supports the first reading and does not require the second.
+
+***Ground*** *(posted 2026-08-21, `manuscript/09-ground.md`):*
+
+- **It adds no named non-kin at all**, which is unusual for this book and is the chapter working as designed — a household chapter with no institution walking into it.
+- **The neighbours** — unnamed, collective, and **the first group in the book with a claim the Swartz household has to dissolve rather than acquire.** They hold the building's common room; Collie undertakes to *"try my best to convince"* them so it can become the larder, behind locks, with the windows bricked. **This is the answer to `../notes/spitball.md`'s parked question of where the neighbours went: they did not go.**
+- **The machinists** — a shop, offstage, holding the keys Lewis is sent for. The gate Alex wants comes from there.
+- **Four Epsilon men, unnamed and not yet asked** — Collie's *"I will visit Epsilon"* is the cash value of *Boil Water*'s *"Bréal and I had a chat, and that gave me an idea."*
+- **A woman on the hand crank** — unnamed, one clause, and the reason anything reaches the third floor at all.

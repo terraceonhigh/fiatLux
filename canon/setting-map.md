@@ -71,11 +71,31 @@ The blend leaves the jurisdiction unresolved; it does not leave the weather unre
 
 Consequence for the graph: **the campus farm is irrigation-dependent from May to September in every year, not only the bad ones.** The blue layer is therefore a food dependency as well as a drinking-water one, and cutting the municipal connection cuts both at once. No city is named and none needs to be.
 
+## The household building, added 2026-08-21 from *Ground*
+
+***Ground* is a chapter about a place and this map had no node for it.** Everything here is stated in `manuscript/09-ground.md` unless marked. **Not yet in [`setting-map.dot`](setting-map.dot)** — the graph still stops at the district scale, and whether the building earns its own subgraph or a single node with a note is a call left open.
+
+**The fabric.** Third floor of the red brick (ch1 ¶19), **at least five storeys**, with a lift shaft. The **car is gone** — Alex was there when they took it out — and what remains is a **winch to the top floor, a cargo basket rated 500 kg with *DO NOT EXCEED 100 KG* painted on it**, a garden gate across the opening so nobody falls in, and a hand crank at the bottom worked by whoever is free. Instructions are hollered down the well. **The building's motive power is therefore at ground level and human**, which makes the ground floor its engine room and every upper floor expensive to supply.
+
+**Three floors are doing three different jobs.**
+
+| Floor | What it is now |
+|---|---|
+| **Fifth** | **A stock being worked, like the copper site.** Brick, foyer tiles, shelves, and apartments Lewis picks the locks on. Stripping it also *removes dead load* from the frame, which the storeroom argument leans on |
+| **Third** | The household. **Two flats merging into one dwelling**: a waist-high brick wall encloses their chunk of the corridor into a *xuanguan* with the shoe racks in it, the threshold between units is coming out, and the new doorframe is deliberately half the wall's thickness to take a security grille from the machinists. The second living room is being subdivided — Nona is complaining about the sawdust |
+| **Ground** | **The larder, as of this chapter, and contested.** The **common room** is to be enclosed with its windows bricked and locks fitted, which needs six men for two days. Also on this floor: a **parking lot** and **abandoned stores**, the runner-up site because it would be harder to secure |
+
+**The neighbours are a jurisdiction and the map should treat them as one.** The common room is theirs as much as anyone's, and Collie's standing is what converts it. **The floor was an allocation written down in an office; the common room is an appropriation argued in a corridor.** That is a different colour of claim from anything else on this graph.
+
+**Water confirms the blue layer's worst prediction.** Alex runs the tap into a bucket before he sits down, and water stands on the shower floor. **Upper storeys lose pressure first — that is just head** — so a third-floor household stores opportunistically and carries the rest up. This is post-*Isolation* behaviour presented without explanation, which is the correct way round.
+
+**In errand range, all named in dialogue:** the greenhouses, the apiary, the dining hall, the bakery, the hospital, the machinists, the archives, the chemists, and **the river, which has a men's part** and is where the men wash after concrete.
+
 ## Open adjacencies
 
 1. Is the village (ch2 ¶43) the town (ch2 ¶41), or a smaller settlement on the same circuit?
 2. Is Diana's own town — the one she goes to on the alternating week — this town or another?
-3. Is Collie's flat (ch1 ¶9) the third-floor red brick (ch1 ¶19), or two residences?
+3. ~~Is Collie's flat (ch1 ¶9) the third-floor red brick (ch1 ¶19), or two residences?~~ **Closed 2026-08-21. Both, and then one.** ch1 ¶75 already had Maia and her husband take a *separate* flat on the same landing after wintering with Collie, so it was two residences on one floor; *Ground* is the chapter where the wall goes up and they stop being two. **Note the desync this resolves:** [`../notes/spitball.md`](../notes/spitball.md) claimed to settle this on 2026-08-12 under *The floor math* and this list was never updated, so the two files disagreed for nine days. **Where they disagree in future, the manuscript governs and this file is the place to write the answer down.**
 4. Where is the campus relative to suburbia — inside it, at its edge, or across water from it?
 5. Does the university generate, or only consume?
 

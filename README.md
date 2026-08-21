@@ -29,12 +29,16 @@ make copy CH=01-continuity-test
 
 Paste into the AO3 chapter editor **with the HTML tab selected**, not Rich Text.
 
-**AO3 chapter numbers are not plan chapter numbers, and the gap is deliberate.** *Boil Water* is plan chapter 8 and AO3 chapter 7, because an unposted draft holds AO3 slot 6 for *Notifiable*. The mechanism, learned the hard way on 2026-08-20:
+**AO3 chapter numbers are not plan chapter numbers, and the gap is deliberate.** *Boil Water* is plan chapter 8 and AO3 chapter 7, because an unposted draft holds AO3 slot 6 for *Notifiable*. ***Ground* is plan chapter 10 and AO3 chapter 9**, because a second draft was created to hold slot 8 for *Druzhina* before it was posted — which is the mechanism below used deliberately rather than discovered. The mechanism, learned the hard way on 2026-08-20:
 
 - **A draft chapter holds a position and shifts everything after it.** That is how you publish out of plan order — put a placeholder draft in each slot you are skipping, then post into the slot beyond them.
 - **AO3 clamps a new chapter to the next real position.** Typing 8 when 7 is the highest existing slot silently gives you 7. The gap has to exist before you can post past it.
 - **A draft at position 1 renumbers the whole work.** One sat there briefly and the published work read as starting at Chapter 2, with no Chapter 1. Check `/works/89851861/navigate` after any reposition.
 - **Filenames are local.** The Archive never sees them, so renaming a chapter file — even a posted one — costs nothing upstream. Bare `make copy` lists the available slugs. `make clean` removes `build/`.
+- **A placeholder draft is untitled, with one `<p>` of lorem ipsum, saved with `Save Draft`.** That is the established convention — slot 6 and slot 8 are both built that way. Titling one would put the chapter's name in the owner's chapter list before it exists.
+- **Two browser gotchas.** The chapter form's position field already defaults to the next real slot, so it needs no editing. And `element.focus()` does **not** receive a paste — the textarea has to be clicked for real before `cmd+V` lands, or the field stays silently empty.
+
+**Slot state, verified 2026-08-21 at `/works/89851861/chapters/manage`:** nine slots, seven posted. Drafts at **6** (*Notifiable*) and **8** (*Druzhina*). Readers see seven chapters at 9,787 words; drafts are invisible to them and hold their positions. Chapter titles match their file slugs in all seven cases.
 
 **Do not run pandoc by hand.** Two flags in the `Makefile` are load-bearing rather than cosmetic: one stops apostrophes being silently rewritten, the other stops the macOS pasteboard corrupting accented characters when the HTML is pasted into the browser. Both are explained in place at the top of the `Makefile`, because both have bitten once already.
 
@@ -52,4 +56,4 @@ If a chapter file is renamed while an editor has it open, re-save from the edito
 ## Known gaps
 
 - **The working bible is not in the working tree, but it is in the history.** `canon/the-academy-brainstorm.md` — 310 lines, third edition, subtitled *"descent removed, project installed"* — was stripped in `7330333` along with 2,062 lines of research and the origin chat. Deliberate, not lost. Inventory and recovery paths in [`notes/stripped-canon.md`](notes/stripped-canon.md), which also flags a live contradiction between that bible's removal of descent and the current direction. **The 809th Vavilov Lecture** remains outside the repo entirely.
-- **The AO3 work-level tags were rewritten on 2026-08-13** — 34 canonical tags, no longer chapter one's set. Still no relationship tag and no Diana, and `POV Multiple` survived a rewrite it now fits worse than ever, Ch3 being three in-world documents. The Fandoms field also carries `Climate Change - Fandom`, apparently an unintended disambiguation suffix.
+- **The AO3 work-level tags were rewritten on 2026-08-13** — 34 canonical tags, no longer chapter one's set. Still no relationship tag and no Diana, and `POV Multiple` survived a rewrite it now fits worse than ever, Ch3 being three in-world documents. The Fandoms field also carries `Climate Change - Fandom`, apparently an unintended disambiguation suffix. **Re-verified live 2026-08-21 and every clause above still holds**: 34 additional tags, Characters still only `Original Female Character(s)` / `Original Male Character(s)`, no Relationships field at all, `Climate Change - Fandom` still there. **One clause has aged the other way, though** — `POV Multiple` now fits *better* than when it was written, because *Ground* added Alex as a fifth POV. The complaint was really about Ch3 having no POV rather than about the work having one.
