@@ -875,7 +875,7 @@ Her register for the title is trapping: *Trapline*, *Sprung*, *Runs*, *The Check
 
 **"Worse but functioning" has real content.** Mountain sites are chosen for atmospheric seeing — above the inversion, drier, steadier. Moving to a lower coastal site costs seeing and costs cloud-free nights, which on this coast is the serious loss. But the collapse *gave* them one thing: **no light pollution**, so that penalty largely evaporates. A downgrade she is grateful for is the right register.
 
-**This also solves the father.** He is alive and needs somewhere to be. A man who takes things apart and shows a boy where the wire went loose is a natural fit for mounting and maintaining a transit instrument — which would make his absence from Lewis's daily life *geographic rather than mortal*, and would explain ch2 ¶11's habitual *"would say"* as quoting an absent man rather than a dead one. Worth considering, since it closes an open item in *To fix* rather than adding one.
+**Corrected 2026-08-20 — this does not solve the father, ch0 ¶19 already gave the posting to Maia.** *"His mom Maia works at the observatory on the mountain"* is on the page; the instrument-mounting job was never his to borrow. The elegiac reading of ch2 ¶11 and ¶143 is open again on its own terms. What *does* still work, now correctly attributed: *Ground*'s pillow-talk scene has Maia called back up for the relocation and Alex volunteering to go **with** her as an assistant for that trip alone — a real, one-time geographic absence, not a standing posting. If ch2 falls inside that trip's window, the *would say* and the missing ledger line still read as absent-not-dead; if it doesn't, the item is still open.
 
 **Title settled 2026-08-12: *Skywave*** — Terrace, to prime the HAM radio arc.
 
@@ -1470,7 +1470,7 @@ Live problems, ranked, all of them still open:
 
 ## To fix
 
-- **Lewis's father, ch2** — *has a fix now, see the sending-off exchange above.* He is alive, but the chapter as posted reads as though he is not. Two places: **¶11** — *"**Go get them, champ.** His father* ***would*** *say"* — habitual past reads elegiac; and **¶143**, the homecoming ledger, where Maia, Maddy and Swartz each get a line and he gets none, in a paragraph whose whole method is accounting for everyone. The second is the louder one.
+- **Lewis's father, ch2** — *the fix above was wrong and has been retracted (2026-08-20): the observatory posting is Maia's per ch0 ¶19, not his.* He is alive, but the chapter as posted reads as though he is not. Two places: **¶11** — *"**Go get them, champ.** His father* ***would*** *say"* — habitual past reads elegiac; and **¶143**, the homecoming ledger, where Maia, Maddy and Swartz each get a line and he gets none, in a paragraph whose whole method is accounting for everyone. The second is the louder one. Open again, unless it lands inside the one-off *Ground* trip (see above).
 - **Both `canon/pedigree.md` items above were closed in `0261df8`** — the father is recorded as alive, and the dangling setting reference now names the strip.
 - **AO3 work-level tags** are still chapter one's set: no relationship tag, no Diana, and `POV Multiple` now describes a work whose second chapter is a single close third.
 
