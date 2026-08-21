@@ -46,11 +46,24 @@ There is no conflict to manage. **`main` got riddled with overwrought worldbuild
 
 Read the inventory as a source of *optional* prior art — `absorbing-the-houses.md`'s shape-of-the-vote material is worth a look before the minutes chapter — not as a standard to reconcile against.
 
-## The merge, planned for 2026-08-11 — **still not done as of 2026-08-21**
+## The merge, planned for 2026-08-11 — **done 2026-08-21**
 
 Tag `main`'s current commit as reference first, then merge `terrace/second-canon` into `main`. The tag is what makes the stripped material findable by name rather than by remembering a commit hash — after which everything in the inventory above is reachable from the tag instead of from `7330333^`.
 
-**Checked 2026-08-21 and neither half has happened.** `git tag -l` is empty, and `terrace/second-canon` is **96 commits ahead of `main` and 0 behind** — so ten days of work, the whole second canon, sits on the branch and `main` is still at *"Set chapter two's direction, and file the blind panel behind it."* Both remotes exist and are current with their branches, so nothing is at risk; it is simply undone. **Recorded, not executed — the tag name and whether to merge or keep the branch as the trunk are Terrace's calls, and a ten-day-old plan deserves re-deciding rather than replaying.** The one thing that has decayed in the meantime: the longer the branch runs, the less *"merge the branch into main"* describes what is actually wanted, which may now be closer to *make this branch the trunk*.
+**Executed as written, ten days late, on Terrace's call.** `main` was still at *"Set chapter two's direction, and file the blind panel behind it"* (`4fdb541`), 0 behind and 97 commits behind the branch, so the merge was a **fast-forward** — no merge commit, no conflicts possible.
+
+- **The tag is `first-canon`**, annotated, on `4fdb541`. It marks the trunk *before* the second canon.
+- **`main` and `terrace/second-canon` now point at the same commit.** The branch was kept rather than deleted; whether it stays as the working branch or `main` becomes the trunk is still open, and nothing forces the choice.
+
+**The tag turned out to be load-bearing rather than a convenience.** The strip is inside the merged range, so bringing `main` forward *removed the bible from `main`'s tree* — `canon/the-academy-brainstorm.md`, `research/the-two-lights.md`, `four-beats.md`, `pragmatics.md`, `absorbing-the-houses.md`, `university-to-city-state.md`, `penicillin-city-state.md` and the origin chat all show as deletions in the merge diff. Without the tag, the only route back would have been remembering `7330333^`. With it:
+
+```
+git show first-canon:canon/the-academy-brainstorm.md        # 310 lines, verified
+git show first-canon:research/the-two-lights.md
+git show first-canon:research/absorbing-the-houses.md       # the shape-of-the-vote material
+```
+
+**Everything in the inventory above is now reachable from `first-canon` by name.** The `7330333^`-style paths still work and are no longer the only option.
 
 ---
 
