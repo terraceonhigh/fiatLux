@@ -29,7 +29,7 @@ make copy CH=01-continuity-test
 
 Paste into the AO3 chapter editor **with the HTML tab selected**, not Rich Text.
 
-**AO3 chapter numbers are not plan chapter numbers, and the gap is deliberate.** *Boil Water* is plan chapter 8 and AO3 chapter 7, because an unposted draft holds AO3 slot 6 for *Notifiable*. ***Ground* is plan chapter 10 and AO3 chapter 9**, because a second draft was created to hold slot 8 for *Druzhina* before it was posted — which is the mechanism below used deliberately rather than discovered. The mechanism, learned the hard way on 2026-08-20:
+**AO3 chapter numbers are not guaranteed to be plan chapter numbers, and any gap is deliberate.** As of 2026-08-21 they happen to agree: posting *Isolation* into AO3 slot 7 closed the offset that had *Boil Water* at AO3 7 for plan 8 and *Ground* at AO3 9 for plan 10, shifting each up one. Unposted drafts still hold slot 6 for *Notifiable* and slot 9 for *Druzhina*, and because a draft holds a real position the numbering stays aligned while they sit there. **Do not assume alignment** — *Off-Label, Part II* at plan 6 would reopen the offset for every chapter above it. The mechanism, learned the hard way on 2026-08-20:
 
 - **A draft chapter holds a position and shifts everything after it.** That is how you publish out of plan order — put a placeholder draft in each slot you are skipping, then post into the slot beyond them.
 - **AO3 clamps a new chapter to the next real position.** Typing 8 when 7 is the highest existing slot silently gives you 7. The gap has to exist before you can post past it.
