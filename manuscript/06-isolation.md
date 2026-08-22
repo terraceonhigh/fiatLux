@@ -175,3 +175,42 @@ BT
 
 ---
 
+There was a camp now, outside valve 342, six men to a tent meant for four, in twelve-hour shifts to lay the new permanent pipes.
+
+Bréal was in the office tent, where the engineering department had laid the pencil drafts on a folding table. Someone tried to knock on the canvas opening.
+
+*Enter.*
+
+*Good to see you, Bréal, how is the project going?*
+
+*Half the farm is brown, in the middle of the dry season, and, the agronomists said not to mind.* He pinched his nose bridge. *But all we are getting are pickles and biscuits from the country. Fifty blocks are on water trucks, and we are running low on gas. What brought you here, Madam Swartz?*
+
+*Well, first of all I am glad to hear that what needed to be saved was saved.*
+
+*Just, get to the point.*
+
+*I can get your men whatever fresh produce the Swartz family can get, in exchange, you restore water service to our district first, right after the hospital and school get it back.*
+
+*I don't believe that is up to regulation.*
+
+*We make do, Bréal, we all make do.*
+
+*And why should I do this?*
+
+*Because, Bréal, I have some jam of my own, and Maddy already brought your woman a sample. At the Epsilon house.*
+
+*Is that a threat against my property?*
+
+*Oh, nothing of the sort, but I had asked the girls to make something for the boys out in the camp. I could see how weary they were just coming in. Sewing crop covers just isn't as labour intensive as laying pipes, you know?*
+
+*How do we explain this?*
+
+*Oh, you won't have to, just recommend the engineers to recompute the district triage with slightly different weightings, the sandwiches are just here to relieve our working boys, yes?*
+
+*Okay. okay.*
+
+*And, just for my best foreman.* Collie produced a bottle that must have been tied to her calves.
+
+*Where did you find grapes*
+
+*I have my means.*
