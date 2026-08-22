@@ -175,7 +175,7 @@ BT
 
 ---
 
-There was a camp now, outside valve 342, six men to a tent meant for four, in twelve-hour shifts to lay the new permanent pipes.
+There was a camp now, outside valve E-4, six men to a tent meant for four, in twelve-hour shifts to lay the new permanent pipes.
 
 Bréal was in the office tent, where the engineering department had laid the pencil drafts on a folding table. Someone tried to knock on the canvas opening.
 
@@ -211,6 +211,6 @@ Bréal was in the office tent, where the engineering department had laid the pen
 
 *And, just for my best foreman.* Collie produced a bottle that must have been tied to her calves.
 
-*Where did you find grapes*
+*Where did you find grapes?*
 
 *I have my means.*
