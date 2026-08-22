@@ -1152,6 +1152,38 @@ Notes toward the objects, none of them load-bearing:
 
 *Unratified, and mine:* **the three documents.** Nona wrote the loaf, Maia writes the almanac, Nadia writes the land-use plan — **bread, time, land**, one per woman, each the polity's founding instrument in its domain, all printed by University Press because there is nowhere else to print. If that set is real, **Nadia's chapter can carry the documentary device the way *Fortification* did**, and the reader recognises the format before the author.
 
+##### She is an apprentice, and that governs everything above — Terrace, 2026-08-22
+
+***Terrace's call, resolving the seniority contradiction:*** *"let us make it consistent, with her just being an apprentice and doing the legwork. We see her as overhearing and executing the decisions."* **Ratified, and it is the restrictive reading**: no pen, no vote, no authorship. She carries samples, runs germination trials, counts what establishes, packs seed packets, and hears the decisions made over her head.
+
+**What it costs, stated plainly, because two of the best beats above assumed otherwise.** *The forestry problem* had her holding the pen and filing the clear-cut recommendation, and *the three documents* had her writing the polity's land-use plan. **An apprentice does neither.** Both survive, but only as things done in her hearing.
+
+**The forestry material is now overheard, and it improves.** The constraints get argued by seniors across a table she is in the room for — flat ground, deep soil, near water, not on a slope, not in the watershed — and she is the one who fetches what they need to argue with. **The professional dread stays and changes owner**: it is no longer her fear of repeating the century of confident correctness that produced the fire, it is her watching people she is supposed to trust carry that fear or fail to.
+
+**And it puts the book's one hopeful sentence in the right mouth.** *This stand should not be cleared; it will be worth more in eighty years than the field would be* is now **spoken over her head, not written by her** — the only line in the book that assumes somebody is here in eighty years reaches the reader through a girl with no power to have caused it. *Better than her saying it, because she has no standing to be optimistic from.*
+
+**The three documents need a decision, and the options are ranked.** (i) **She transcribes it** — hands on the land-use plan, collating and copying for a senior author, which keeps *Fortification*'s documentary device and the bread/time/land set intact while giving her no authorship. (ii) **Defer the plan** to a later, senior Nadia chapter and let the set complete off-page. (iii) **Drop her from the set** and let Nona's loaf and Maia's almanac stand as a pair. **(i) is the cheapest and loses nothing** — the reader recognises the format, and a document in a teenager's handwriting that she did not write is its own characterisation.
+
+**The Nona argument reshapes, and gets worse in the good way.** She cannot propose the programme her mother computes the cost of, because she proposes nothing. **So she defends a decision she had no part in, to the one person who has to feed people this winter** — believing in it, with nothing to trade, against a mother who is not wrong. *The "no channel" theme arriving at a kitchen table instead of an institution.*
+
+##### The apiary close-up, and the succession it stages — Terrace, 2026-08-22
+
+***Terrace, wanted explicitly tonight:*** a **close-up scene of her playing Bene Gesserit with the apiary**, staging her as **heiress-apparent to Collie's de-facto ladyship**, in competition with Maddy.
+
+**The scene is one hive and one afternoon.** She chooses which queen's line continues, lets the susceptible colonies die, and raises daughter queens off the survivors — deliberate multi-generational selection toward a goal she has picked, executed with her own hands, in the one domain where nobody outranks her.
+
+**Why it stages her, and this is the whole point: it is Collie's method, arrived at from the farm.** Collie thinks in lineages out of Roman patronage — *inbreeding depression*, *linebreeding*, *heterosis*, whether two lines *nick*. **Nadia gets to the same place through queen rearing**, and she is the only person in the book running that method successfully, at a scale that resolves, with results she can hold. *Collie attempted it on three children and lost. Nadia does it correctly, on bees, in the back garden, while the woman who failed at it is upstairs.* Neither of them ever says this.
+
+**The register is real beekeeping and carries the whole freight without help** — **breeder queen**, **daughter queens**, grafting, requeening, drone congregation area, culling for temperament and overwintering and not swarming. **Dune never surfaces**; she has no Dune. The vocabulary is already eugenic on its own terms, which is why it works.
+
+**The succession arithmetic, and the tension worth keeping.** Per [`../canon/pedigree.md`](../canon/pedigree.md), *Boil Water* calls Maddy Collie's **thirdborn**, so Collie's own order is **Lewis, Nadia, Maddy** — **Nadia has precedence and Maddy has the name.** Maddy was offered *Swartz* and chose it; Nadia is still an Elbakyan. **So strictly she is heiress *presumptive*, not apparent** — her claim rests on an order that a surname can overturn — and *the gap between how she carries herself at the hive and what she actually holds is the rivalry.* **The competition is not for the same thing on its face**, which is what makes it real: Maddy has the credential and a decade of medical investment behind her, Nadia has the birth order and the instinct for the house.
+
+***Open, and it is the load-bearing question:*** **was Nadia ever offered the Swartz name?** **Nona is alive**, which is the obvious answer and also the entire reason Maddy can outrank a girl who came before her. *Nadia is heir to two women at once* — Collie's ladyship and Nona's line — and cannot consolidate either while both are living. **That is also the grain argument's second floor**: her two inheritances disagreeing about a plot of land.
+
+**Payoff into *Colt*, and it is why this scene should come first.** Stage her at the hive and her taking *Colt*'s POV stops being a register convenience: **she watches Collie arrange her brother's marriage using precisely the reasoning she uses on queens**, in the vocabulary she works in, having already been passed over for the name. *The husbandry glossary is hers by right, and the marriage is described to her in it.*
+
+*Cheap to stage:* one hive, Lewis on the smoker holding his breath — ch2 ¶155's last line, with her directing him.
+
 ### The shop half: second-generation men and second-generation machines
 
 Lewis's father helps dismantle and pack the mountain equipment, then works with another protégé — mechatronics department — building the tide computers and the clocks from printouts of the old patterns. An old maritime chronometer spun anew on a lathe itself spun from a pre-collapse machine. **Man and machine both second-generation.**
