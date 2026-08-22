@@ -68,7 +68,7 @@ The map on the table was printed the same day Oyá was born. The professor's scr
 
 The professor began using the red marker.
 
-Check time, the wall said 1104, contamination begins at around 1730.
+Check time, the wall said 1104, contamination begins at around 1830.
 
 *South Station, prepare eight work parties at your location, details to follow. Phone the Douglas station and send a runner with the message "Isolate northern municipal ingress, begin filling trucks".*
 
@@ -116,7 +116,7 @@ The professor covered the microphone, and told Oyá to issue evacuation orders f
 
 *Yes, get those valves turning on their end, and take whatever maps they have that aren't twenty-years old. Bring the two workers back to the university.*
 
-*One sec... The shift leader said they already tried the valves. About three neighbourhoods are already bone-dry and the rest of the city will depressurize by 8pm.*
+*One sec... The shift leader said they already tried the valves. About three neighbourhoods are already bone-dry and the rest of the city will depressurize by 2000.*
 
 *You have a pin on the broken segment?*
 
@@ -136,5 +136,42 @@ Valve E-2 connected the municipal water mains to the university farm, and then e
 
 ---
 
-Ms Nona Elbakyan was instructed to help her professor enumerate and produce a list of the crops, in descending order of priority. 
+```
+FM  AGRONOMY DEPT
+TO  EPSILON RHO RHO FRMN BREAL
+INFO  MEDICINE/FOOD SCIENCES/FIRE SERVICES
+NR 013
+GR 91
+
+RESTORE WATER SUPPLY TO GREENHOUSES 1 AND 2 AND PLOTS 5 AND 8 AT BEST
+SPEED STOP WATER INLET LEFT OF EAST ENTRANCE STOP TRIAGE LIST TO FOLLOW
+
+USE FIRE HOSES FOR EMERGENCY PIPING DIETITIAN NONA ELBAKYAN WILL BE
+OUTSIDE GREENHOUSE 1 TO COORDINATE
+
+FULL WATER GREENHOUSE 1
+ATROPA BELLADONNA
+DIGITALIS PURPUREA
+PAPAVER SOMNIFERUM (PRIORITIZE FLOWERING PLANTS)
+SALIX ALBA
+VALERIANA OFFICINALIS
+
+SURVIVAL DRIP GREENHOUSE 2 AND PLOTS
+ALLIUM SATIVUM
+ARTEMISIA ABSINTHIUM
+CALENDULA OFFICINALIS
+LAVANDULA ANGUSTIFOLIA
+MENTHA PIPERITA
+ROSA CANINA
+SALVIA OFFICINALIS
+SYMPHYTUM OFFICINALE
+
+LEAST PRIORITY
+BORAGO OFFICINALIS
+MATRICARIA CHAMOMILLA
+TANACETUM PARTHENIUM
+BT
+```
+
+---
 
