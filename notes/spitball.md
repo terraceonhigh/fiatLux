@@ -1215,6 +1215,16 @@ Notes toward the objects, none of them load-bearing:
 
 **The book already has both precedents on the page**, which is the part to exploit: the *Skywave* apprentice surnamed **Lacks** keeps her own name, and **Maddy was offered the choice and chose Swartz**. Nadia is the third case, and the only one where the choice carries an institution's weight rather than a guardian's affection.
 
+##### The visual triumvirate — Terrace, 2026-08-22
+
+**Terrace's read of the Pinterest board, verbatim: *"it's giving like Roadside Picnic-Trailer Trash-Colonial America."*** Not three moods competing — one mood, three coats of paint, and it is the aesthetic the whole book should be checked against, prose included.
+
+- ***Roadside Picnic*** — the Zone. Soviet-era infrastructure going back to field and moss, the mundane made eerie, ruin that is quiet rather than dramatic. Flooded pillars, a classroom still full of desks, tunnel escalators, a block reclaimed by grass.
+- **Trailer trash** — American make-do poverty. Campers in the woods, laundry strung off a trailer porch, junk in the yard.
+- **Colonial America** — pre-industrial homestead craft. Root cellar, drying fish, the wood stove, everything put by for winter.
+
+**The through-line is subsistence realism, always documentary, never concept art.** This is *why* two AO3-Pinterest-board CGI architectural renders got pulled from *Works & Water* on sight — they failed all three poles at once, too clean for the Zone, too designed for trailer-trash, too futuristic for colonial. **Any reference image, and arguably any paragraph of prose, can be checked against this axis**: real photography and real wear over rendered or aspirational cleanliness, every time.
+
 ### The shop half: second-generation men and second-generation machines
 
 Lewis's father helps dismantle and pack the mountain equipment, then works with another protégé — mechatronics department — building the tide computers and the clocks from printouts of the old patterns. An old maritime chronometer spun anew on a lathe itself spun from a pre-collapse machine. **Man and machine both second-generation.**
