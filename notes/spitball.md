@@ -1184,6 +1184,37 @@ Notes toward the objects, none of them load-bearing:
 
 *Cheap to stage:* one hive, Lewis on the smoker holding his breath — ch2 ¶155's last line, with her directing him.
 
+##### If Nadia takes the ladyship, is it still the *Swartz* household? — Terrace's question, 2026-08-22
+
+**History's answer is lopsided: the house keeps its name and the heir changes hers.** The name is the asset being inherited, not a description of who holds it.
+
+**The mechanism is common enough to be named.** A **name-and-arms clause** — a testator with no heir of his surname leaves the estate to a nephew or a daughter's son *on condition that the heir assume the name and arms*. Most double-barrelled British surnames exist because somebody took that deal. Corroborating cases, and the direction is the same in all of them:
+
+- **Rome, which is Collie's own register.** The *domus* persisted by name through *adoptio*, and the naming direction is the point: Octavius was adopted by Caesar and became a Caesar, his origin demoted to a suffix — *Octavianus*, "formerly of the Octavii." The clientelae attached to the name.
+- **Japan.** The *ie* continues by adopting an heir, often an adult son-in-law (*mukoyōshi*), who takes the household name.
+- **Habsburg-Lorraine.** Maria Theresa inherited as a woman; the house absorbed her husband's name behind its own.
+- **The Romanovs**, genealogically Holstein-Gottorp after 1762 and calling themselves Romanov for another century and a half, because the name *was* the legitimacy.
+- **Mountbatten-Windsor**, the same argument run in the twentieth century and settled by declaration.
+
+**Note what every compromise above looks like: a hyphen.** When an heir of another name takes a house worth keeping, the typical historical output is not replacement but **both names, house name leading**. Renaming the house outright after its new holder is the rare case, and it reads as **founding or usurping rather than succeeding**.
+
+**But two facts in this book's own canon settle it harder than any precedent.**
+
+**One: the Swartz name is paperwork.** [`../canon/pedigree.md`](../canon/pedigree.md) has Collie's reason for renaming Maddy — *"It was the only way to make sure that the university knew you were mine."* An orphan could not be covered unless she was a Swartz on a form, so **the surname is an institutional credential that determines whether the university feeds and treats you.** A credential cannot be discarded by whoever inherits the household, because the files do not care who is in charge. **The household stays Swartz because the forms say Swartz.**
+
+**Which prices the succession.** If Nadia takes the name, **Maddy's bargain is retroactively vindicated as the realistic one** and Nadia's decades as an Elbakyan become a luxury she could not afford to keep. If she refuses it, she runs a household whose name she is not on, inside an institution that only recognises names on forms. *There is no free version.*
+
+**Two, and it may be load-bearing:** `pedigree.md:114` leaves open whether **Coelia Swartz is itself a married name**, given ¶29's *"Mrs Swartz."* If it is, **Collie is not a Swartz by blood either** — she holds a name that arrived with an absent husband. That guts any blood claim to the house before Nadia reaches it and converts *Swartz* from a lineage into something more useful: **an office, held serially by women who were not born to it.** Maddy took the name into herself, Collie may have married into it, and Nadia would be the third woman to hold a name that was never anyone's by birth. **Settling ¶29 therefore settles this question too** — the two are the same question.
+
+*Options, ranked, and unratified:*
+
+1. **She holds it as an Elbakyan and the household stays Swartz.** Attested wherever the house is a place or institution rather than a bloodline — you can run a college you are not named after. **Best for the book**: it keeps her a steward rather than an heir, which is exactly the *presumptive-not-apparent* gap, and it leaves the Maddy rivalry permanently unresolved instead of settling it.
+2. **Elbakyan-Swartz.** The most historically typical outcome by a wide margin, and it says both inheritances aloud — Collie's ladyship and Nona's line, which she already cannot consolidate while both women live.
+3. **She becomes a Swartz outright.** Cleanest institutionally, the Roman answer, and the cruellest — Maddy's bargain taken late, handing Maddy the high ground of having paid earlier.
+4. **The house becomes Elbakyan.** Reads as rupture, not succession. Only correct if the succession is meant to be one.
+
+**The book already has both precedents on the page**, which is the part to exploit: the *Skywave* apprentice surnamed **Lacks** keeps her own name, and **Maddy was offered the choice and chose Swartz**. Nadia is the third case, and the only one where the choice carries an institution's weight rather than a guardian's affection.
+
 ### The shop half: second-generation men and second-generation machines
 
 Lewis's father helps dismantle and pack the mountain equipment, then works with another protégé — mechatronics department — building the tide computers and the clocks from printouts of the old patterns. An old maritime chronometer spun anew on a lathe itself spun from a pre-collapse machine. **Man and machine both second-generation.**
