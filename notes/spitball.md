@@ -1225,6 +1225,46 @@ Notes toward the objects, none of them load-bearing:
 
 **The through-line is subsistence realism, always documentary, never concept art.** This is *why* two AO3-Pinterest-board CGI architectural renders got pulled from *Works & Water* on sight — they failed all three poles at once, too clean for the Zone, too designed for trailer-trash, too futuristic for colonial. **Any reference image, and arguably any paragraph of prose, can be checked against this axis**: real photography and real wear over rendered or aspirational cleanliness, every time.
 
+##### Ada's toolkit, the abacus, and how Nadia meets her — Terrace, 2026-08-23
+
+***Terrace's call:*** Nadia's crush is on **Ada Fleming**, and **Collie gets to play heel and face at once** by marrying Lewis to her. The arrangement is institutionally flawless — a computer the almanac cannot exist without, affiliated, no consanguinity, and arranged deniably per the *Colt* row (shifts shuffled, teas held, sandwiches carried to the computing room). It also costs one of her children something she never puts on the ledger. **Same act, both readings, no villain.**
+
+***Recommended, and it matches what is already on the page:*** **Collie knows and it does not register as relevant.** Not opposition, not malice — simply not a factor in the arithmetic, so it never enters the calculation. That is the *Colt* row's own mechanism — *"Diana loses because she was never eligible"* — turned inward on her own household. **In a house doing succession arithmetic, a same-sex attachment is not a moral problem but an accounting one.** Nobody disapproves; it does not compute, so it is not counted. Crueller than bigotry and far better suited to a register where everything is resource logic and nobody moralises.
+
+**And it upgrades a decision already banked.** *Colt*'s POV is listed as open with Nadia the strongest case, on the grounds that the husbandry glossary belongs to the farm and she would watch her brother brokered in the vocabulary she uses at work. **Currently that is an irony of register; with the crush it is personal** — the woman being matched is the one she wanted, narrated by her in the language of nicking two lines together. *Keep it unrequited, or at minimum unspoken: if Ada reciprocates it becomes a plot and eats* Vernalization.
+
+##### Why a human computer belongs on the farm, and what she carries
+
+**The historical precedent is exact: modern statistics was invented at an agricultural research station.** R. A. Fisher went to Rothamsted in 1919 to reduce decades of accumulated crop-trial data, and out of it came analysis of variance, randomised blocks, Latin squares and factorial design. Field trials are *why the discipline exists*, so a computer assigned to agriculture is where computers historically went.
+
+**The workload is already in Nadia's job description.** Her legwork is germination trials and the counting that tells the lab which ratio is establishing — and raw counts across treatments mean nothing until somebody reduces them and says whether a difference is real or noise. *She generates the numbers and is not the one who makes them mean anything.* Beyond that: heritability and selection differentials for characterising the accident; crop water requirement as reference evapotranspiration times a stage coefficient; nitrogen budgets across the legume rotation; mixing ratios for the phytoremediation cocktail; and the eighty-year forestry projections, which are compound growth.
+
+***Terrace, 2026-08-23: give her an abacus too.*** **Three tools, three operations, no overlap — which is why the set reads as competence rather than set dressing:**
+
+- **Slide rule** — multiplication, division, proportions, powers. Three significant figures, instant. **Cannot add.** Does the water and the mixing.
+- **Log tables** — precision, and compound growth. Does the eighty-year projections.
+- **Abacus** — **running sums**, which is what agricultural statistics is actually made of: sums of squares, tallies across replicate plots, counts accumulated off germination trays. **The one operation the other two cannot touch.**
+
+**The abacus is also the collapse-proof member of the set.** No gears, no manufacturing tolerances, nothing to degrade; beads and a frame, rebuildable by anyone who can carve. Where a mechanical calculator eventually fails and cannot be replaced, this is close to indestructible and trivially repairable — **the lathe-and-chronometer logic below, applied to arithmetic instead of timekeeping.** And it is genuinely fast in trained hands rather than a nostalgia prop; a skilled operator outrunning a mechanical calculator on addition is a documented mid-century result. **So the inferential bottleneck is a perfectly good reason for the mechanical computers Ada and her children later build to need to exist** — agricultural statistics is the pain that justifies the invention.
+
+*Unratified, and mine:* the form should be a **suanpan**, since Alex is Chinese and is the likeliest person to make or mend one.
+
+##### The scene in *Vernalization* — Terrace, 2026-08-23
+
+***Terrace's beat:*** **Nadia asks Alex — *dad*, as she calls him — to make an abacus for someone at the farm, because the last one got run over by a tractor.**
+
+**The obliqueness is the whole mechanism and must survive drafting.** She does not name Ada. *Someone at the farm* is deniable, unremarked, and means nothing on first read; it only lands in retrospect from *Colt*. **Nobody in the scene registers it as anything but a favour about a broken tool.**
+
+**It also solves the meeting problem without inventing infrastructure.** The almanac already carries sunrise, sunset, moon phase and solstices — *"the agricultural year, and therefore the horticultural spaces and the planting Nadia depends on"* — so Ada computes for a publication Nadia's own work depends on, and Nadia has legitimate reasons to be in the computing room carrying field dates or collecting corrections. **The connection was already built; the crush just uses it.** And it gives the attraction a real basis rather than proximity: she is looking at a woman who does the one thing her work requires and she cannot do herself, and an abacus in trained hands is a *physical performance* — which gives the beat an image instead of a description.
+
+*Available, not pushed:* the tractor that killed the abacus could be **the same tractor Lewis is out in the town fixing** (`chapter-plan.md`, Still unassigned). Cheap small-world texture, or too cute — Terrace's call.
+
+##### What Nadia calling him *dad* settles
+
+**It completes a three-way asymmetry, and every term is already anchored except hers.** Lewis says **Dad** (`09-ground.md:111`). Maddy says **Mr Tsien** (`07-boil-water.md:19`). Nadia now says **dad**.
+
+**And it maps exactly onto what each child is missing.** [`../canon/pedigree.md`](../canon/pedigree.md) records that **Maddy's father and Nadia's father are both absent without comment**. So Lewis names his own father; **Nadia fills a gap she has had from the start**; and **Maddy, who has no parent living at all, is the one who refuses to fill hers** — formal address to the only father in the house, from the child with the most reason to want one. *Two girls at the same table, one reaching and one declining, and neither of them ever remarks on it.* **That belongs on the list of things they do not joke about**, alongside the favourite-child bit whose trapdoor is the same bereavement.
+
 ### The shop half: second-generation men and second-generation machines
 
 Lewis's father helps dismantle and pack the mountain equipment, then works with another protégé — mechatronics department — building the tide computers and the clocks from printouts of the old patterns. An old maritime chronometer spun anew on a lathe itself spun from a pre-collapse machine. **Man and machine both second-generation.**
