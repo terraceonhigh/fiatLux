@@ -87,6 +87,8 @@ Tried on 2026-08-13 and reverted the same evening: *Ground* at 5 and *Vernalizat
 
 ## Still unassigned
 
+**Lewis has a floating beat with no chapter: out in the town, fixing a tractor.** Terrace, 2026-08-22. **Distinct from both his existing appearances** — *Continuity Test* is the dead-city salvage register (copper runs, the highway, Bréal's convoy), and *Colt* is college-era, the marriage-brokerage register. This is Lewis doing trades work *for the town itself*, a working machine kept alive rather than parts pulled from a dead one — which puts it closer to the shop half's second-generation-machines material (`spitball.md`) than to either of his slotted chapters. No title, no slot, no POV register decided. Worth asking whether it is a scene inside an existing chapter or wants one of its own.
+
 ~~**Egghead**~~ **is assigned as of 2026-08-12** — the rotation, which is exactly where the affiliation rule is *broken* rather than set up, because a med student posted to treat unaffiliated townspeople **is** the rule being violated by the institution that wrote it. She still holds a retractor in *Spatchcock*.
 
 ~~**Nona**~~ **is assigned as of 2026-08-12** — the recipe chapter is hers, and it is the right one: ch1 §B has her at a food bank funding meeting and in a video about the grain dole and what a government owes its people. **Twenty years later she writes the thing a Ministry of Food would have printed, except there is no ministry, so it is for one table.**
