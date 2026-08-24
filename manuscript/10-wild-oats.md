@@ -1,4 +1,4 @@
-Someone was leaning on a workbench and staring at Bréal when he saw that the newly spun part was blue on the surface.
+A secretary was leaning on a workbench and staring at Bréal, when the latter saw the newly spun part blue on its surface.
 
 *Sup, Vavasseur?*
 
@@ -10,11 +10,11 @@ Someone was leaning on a workbench and staring at Bréal when he saw that the ne
 
 *They're farmers, it is always about grass.*
 
-*That do be the case, and here's your pen, bossman. Pages one and four will want your signature, and all pages will want initials. But, before you sign, just want to let you know that a kid specifically asked for Lewis driving her.*
+*Here's your pen, bossman. Pages one and four will want your signature, and all pages will want initials. But, before you sign, just want to let you know that a kid specifically asked for Lewis driving her.*
 
 *We a valet company now?* Bréal looked closer. *Wait, that just me or does that say Medea Swartz on the third slot there. The one for Planting Assistant.*
 
-*That do be the case, boss. That's Lewis, Nadia, and Medea for truck 02.*
+*That do be the case. That's Lewis, Nadia, and Medea for truck 02.*
 
 *That's his sisters.*
 
@@ -44,16 +44,72 @@ Bréal grabbed a towel, the part was no longer blue. *Now, V, stand aside if you
 
 *Why you seem so pressed about them? Lewis is cool, if anything bit soft for a brother. The sisters are nothing if not growing into valuable university assets and bachelorettes.*
 
-*Well,* the bossman took off his safety glasses. *You ever seen them all together? Like, lined up, side to side.*
+*Well,* the bossman took off his safety glasses. *You ever seen them all together? Like, lined up, side to side. Or, like, heard Lewis talk about his moms and dad, singular?*
 
-*No, but I have a sense of where you are going with this.*
+*They do look very different, yes.*
 
-*Yeah, right? And he had our brothers brick up their building! You ever seen a man with three baby mamas in a hundred miles of here?*
+*The dad, he had me brick up a good chunk of the ground floor at his building.*
 
-*Well, to be frank, I cannot say I have ever met him in person. Madam Swartz, though...*
+*But it is the Madam that frequents us. What I do know of Mr Tsien Senior is that he is an electrician working for the university.*
 
-*Yeah, and she had me by the fucking balls when the big fix was going, remember Maddy bringing us sandwiches?*
+*And I used to be in a private school,* Bréal nailed the lid for the parts. *Get them the pemmican.*
 
-*Mhm, and I was the one making sure she took a bite before we did.*
+---
 
-*
+The seed launcher on the back of truck 02 would, twenty years ago, have been classified as a Destructive Device and bankrupted the university in tax stamps. It was electrically primed, from a pair of alligator clips attached to a lead-acid battery(itself next to the cooler). It made a satisfying *thunk* when a seed packet fell in and subsequently flew out in a beige confetti.
+
+*God, and to think you get to roll on these streets every other week, Lew!* Nadia shouted into the cab, a few minutes after rolling something herself. The herbs being from the garden on fifth floor.
+
+Thunk.
+
+*Yeah, and no workman's comp. Gimme that rollie and fuck off back to jizzing grass all over town.* Lewis steered around a pothole.
+
+*Hey, put that thing on the B-side first.* Nadia wheezed, having been jostled by the rim of the same pothole.
+
+Thunk.
+
+*Yeah yeah greenthumb, maybe this'll finally put some hair on your chest.* Lewis smoked with his left hand and flipped the cassette with his right. It took ten-ish seconds, but it was okay because the road was empty anyways.
+
+*You know, I can forgive a sparkie for that mouth, but betraying puff-puff-pass just marks you an asshole.* A third voice joined in.
+
+No thunk, there was instead a guitar solo. 
+
+*Where did you even learn that, Mads?* Lewis inquired, eyes still glued to the road.
+
+*Oh right, your problems don't puke cancer on you.* Maddy spat.
+
+*Sod off, at least you know you're dying if'n you fuck up.* Lewis the Junior Electrician parried.
+
+---
+
+Maddy had been taught what an accelerator is thirty minutes ago, and the brake, ten. It was Lewis and Nadia's turn on the mortar. The cab window was rolled down, in case Maddy needed reminders about which pedal was which. So far, though, she seemed quite alright and not inclined to converse. They were on one of Nona's cassettes, there were no vocals and a disconcerting amount of cello.
+
+Thunk.
+
+*What's the next stop again?*
+
+*The uhh...* Lewis unfolded his map. *...Calypso Diner, they're expecting us. The flag is in the toolbox, right?*
+
+*Yeah, I double-checked. What do they eat out here in the country anyways?*
+
+*Oh, I dunno, you know I run the other route.*
+
+*Well, it's not like Maddy would have a better idea.*
+
+Thunk.
+
+*So? Take a guess at what's our lunch?*
+
+*This is fish country, see if we warrant some fish and chips maybe.*
+
+Maddy's voice rang in, from the cab. *Remember, only eat the hot stuff.*
+
+*But it's so hoooooot* Nadia moaned.
+
+*I hate to say this, I truly do, but listen to the annoying baby sister who insisted she tagged along, Nadia.* Lewis grabbed another seed packet.
+
+*Ugh, we were like three months apart.* There was a growling that was not from the engine.
+
+*Awww, Lewis look at our little baby doing big girl things like having an opinion and learning to drive.*
+
+*Careful, one of these days I am going to be the family doctor.*
