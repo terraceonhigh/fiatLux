@@ -32,11 +32,11 @@ A secretary was leaning on a workbench and staring at Bréal, when the latter sa
 
 *Three-day circuit inside University country, radio check-ins every eight hours.*
 
-*Okay, that I can sign off on.* Bréal put it down in cursive. *And get truck 02 some extra firewood and uhh... whatever else you got lying around. We got pemmican?* 
+*Okay, that I can sign off on.* Bréal put it down in cursive. *And get truck 02 some extra firewood and uhh... whatever else you got lying around. We got pemmican?*
 
 *We got pemmican.* Vavasseur jotted something down.
 
-Bréal grabbed a towel, the part was no longer blue. *Now, V, stand aside if you don't want to risk a nasty blister.* The whatchamacallit cooled further on the now-complete tray, next to its brethren. 
+Bréal grabbed a towel, the part was no longer blue. *Now, V, stand aside if you don't want to risk a nasty blister.* The whatchamacallit cooled further on the now-complete tray, next to its brethren.
 
 *Now, boss, permission to speak freely?*
 
@@ -56,7 +56,7 @@ Bréal grabbed a towel, the part was no longer blue. *Now, V, stand aside if you
 
 ---
 
-The seed launcher on the back of truck 02 would, twenty years ago, have been classified as a Destructive Device and bankrupted the university in tax stamps. It was electrically primed, from a pair of alligator clips attached to a lead-acid battery(itself next to the cooler). It made a satisfying *thunk* when a seed packet fell in and subsequently flew out in a beige confetti.
+The seed launcher on the back of truck 02 would, twenty years ago, have been classified as a Destructive Device and bankrupted the university in tax stamps. It was electrically primed, from a pair of alligator clips attached to a lead-acid battery (itself next to the cooler). It made a satisfying *thunk* when a seed packet fell in and subsequently flew out in a beige confetti.
 
 *God, and to think you get to roll on these streets every other week, Lew!* Nadia shouted into the cab, a few minutes after rolling something herself. The herbs being from the garden on fifth floor.
 
@@ -72,7 +72,7 @@ Thunk.
 
 *You know, I can forgive a sparkie for that mouth, but betraying puff-puff-pass just marks you an asshole.* A third voice joined in.
 
-No thunk, there was instead a guitar solo. 
+No thunk, there was instead a guitar solo.
 
 *Where did you even learn that, Mads?* Lewis inquired, eyes still glued to the road.
 
@@ -134,7 +134,7 @@ They let them in, the handful of people on Main Street turned their heads.
 
 Nadia unfolded the leather wallet the department gave to her and produced her chit, along with a metal seal of the University. The mayor and his men took stock of their share of seeds and said the diner was expecting them.
 
-*Here, at the front for our university's officers. And, you are a doctor, right? Madam...* A woman in an apron welcomed them. 
+*Here, at the front for our university's officers. And, you are a doctor, right? Madam...* A woman in an apron welcomed them.
 
 *—Maddy, and just an Medical Assistant right now. No Madam.* The bar was full of fishwives, as were the tables further from the window.
 
@@ -154,11 +154,11 @@ The woman walked back into the kitchen.
 
 *Fuck off.* He said while unscrewing the cap on their disinfectant.
 
-It was not fish and chips, but rather fish and potatoes arranged together in another manner. 
+It was not fish and chips, but rather fish and potatoes arranged together in another manner.
 
 *Salmon chowder with biscuits, for our hardworking botanists.* The woman said as she unloaded her tray.
 
-Nadia blew her smoke away from the table, it was something milder than her morning one. *So, tell us about your girls, playboy.* 
+Nadia blew her smoke away from the table, it was something milder than her morning one. *So, tell us about your girls, playboy.*
 
 *How did you know anyways?*
 
@@ -182,7 +182,7 @@ Lewis sighed, and gestured for the cigarette.
 
 *Kids in high-pressure environments, yes. You, though, less so.* His sisters' voices began to blend into one another's.
 
-*Ugh.* A good sixth of the cig turned to ash in one breath. 
+*Ugh.* A good sixth of the cig turned to ash in one breath.
 
 *Hey, at least you love her, right?* Maddy's eyes had a sharpness to them.
 
@@ -200,7 +200,7 @@ Lewis sighed, and gestured for the cigarette.
 
 Maddy conducted her practice on the cleared diner table, with her kit from the truck. A man who had yanked out something sharp from his hand that morning brought in his boy. The finger was swollen since two days ago and the boy had slept a single digit of hours since. She disinfected her scalpel on the griddle. An earwax plug was flushed out next and the woman wanted to bring it home as a keepsake.
 
-Nadia instructed the mayor's men on how to spread the seeds over the polluted areas, and not to disturb the land for several years. It took some sweet-talking and leaflets to convince the farmers to plan the new landrace, which were far easier on the land than the old crop, for the price of yielding proportionally less.
+Nadia instructed the mayor's men on how to spread the seeds over the polluted areas, and not to disturb the land for several years. It took some sweet-talking and leaflets to convince the farmers to plant the new landrace, which was far easier on the land than the old crop, for the price of yielding proportionally less.
 
 She was authorized to assign four additional oxen for each town, and had before the trip thought it was a ridiculous number.
 
@@ -250,7 +250,7 @@ Maddy was on the precipice of emptying the skin.
 
 *Mmm.*
 
-Nadia took the waterskin, and screwed the cap back on
+Nadia took the waterskin, and screwed the cap back on.
 
 *Well, the wires will want inspection.*
 
