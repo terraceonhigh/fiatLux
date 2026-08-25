@@ -124,7 +124,7 @@ The horn on this truck was something more guttural than a toot.
 
 *Driver, roll to stop just after the crest. Turn off the engine.*
 
-Lewis waved his hand from the window, Maddy could see that the man in the tower had his own binoculars. She did another count of what they had on the truck.
+Lewis waved his hand from the window, Maddy could see that the man in the tower had his own binoculars. She did another count of what they had on the truck. And visualized the shotgun in the tool trunk.
 
 A voice came in on the radio. Lewis opened an envelope and mumbled something back into the microphone.
 
@@ -259,3 +259,10 @@ Nadia took the waterskin, and screwed the cap back on.
 *...Radio's still warm. I'll let them know. We leave tomorrow noon. You heard that, Maddy?*
 
 *Yessir.*
+
+---
+
+Maddy got to two more patients before supper, which the three took at the house of her last patient. It was grilled salmon with a side of sauerkraut. The patient's wife was the woman from the diner. She brought out the good bread, and gave Maddy another helping of the salmon.
+
+The couple had two children around the table, one was fifteen and one was ten. The younger one asked Lewis about what it was like in the university, and the older one asked about the new seeds they brought in. The woman said that the older one was always quite curious so do forgive him, did I tell you how he helped his father with shaking down the last boat? Maddy took from her satchel some herbal candies she and Collie made, and ate one first, at the dinner table. They were the green ones and not the white ones, Maddy made sure of that.
+
