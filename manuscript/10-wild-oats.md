@@ -278,7 +278,7 @@ Nadia went outside with a torch, to bring the truck closer, so that it would be 
 
 In the living room, Lewis did the laugh that Collie did. The one she used when she wanted something done and had to laugh with someone for it.
 
-*But, really, it is more than that to all of us. Really, thank you. Now, before we go back to the boys, let us just have a moment in my room, mm?*
+*But, really, it is more than that to all of us. Really, thank you. Now, before we go back to the boys, let me just get you to the guest room for you and Nadia, mm?*
 
 Maddy reached for her collar, and stopped short, to tug at her shirt around the third button down. That shifted the collar by half a degree.
 
@@ -286,3 +286,92 @@ Maddy reached for her collar, and stopped short, to tug at her shirt around the 
 
 ---
 
+The bed was plush, something with layers of wool above the hay. The pillow had a fabric tag on one end.
+
+*I want to talk with you about my boy.*
+
+*Hmm, yes. He seemed quite sharp to me, is there anything I should look at?*
+
+*Oh, no, nothing of the sort. He is perfectly healthy, I assure you.*
+
+*Then what would be the matter?*
+
+*Well, he is coming of age, and quite sharp in mathematics...*
+
+*Yes, he really is. Few people can keep up in conversation with my sister, you have reasons to be proud.*
+
+*Oh, thank you. You really are an angel.*
+
+*I can only say I was properly trained.*
+
+And so humble too, the woman thought.
+
+*In that case, Miss Swartz, can I ask you for a favour?*
+
+*How can I be of service?*
+
+She produced an envelope, as yet unsealed. There was a letter of recommendation inside, addressed to University Admissions. A few lines of handwriting each, from a skim, between navigators, shipwrights, and builders.  
+
+*I was wondering if you could add a line of yourself, or even just bring it back to the university.*
+
+*Why, I certainly can deliver it.*
+
+Maddy signed the letter, next to the other signatures, and put the envelope in her pocket.
+
+*Thank you, Madam Swartz, thank you.*
+
+*Just doing my duty, ma'am.* Maddy said to a woman twice her age.
+
+*And, if this is not too much to consider, there is this other letter I was writing, for your mom and dad.*
+
+*Oh.*
+
+*I was wondering, how should I address them?*
+
+*Um, my mother's name is Collie, and father is, uhh, Alex.*
+
+The woman scribbled something down, on the top of the letter that was otherwise written. *Okay, thank you. It's just, the boy really should be going to the university soon, and he would need someone there.*
+
+*Of course, of course.*
+
+*And, the townsfolk all agree, it already was wonderful having you help all of us.*
+
+*Oh, it's nothing, the next doctor will come soon anyways, and can help better than me.*
+
+*There has been a palpable difference, really. You have been so kind.*
+
+*I am flattered.*
+
+The woman sealed the envelope. *Just know that, whatever happens, a bed would be here for you, okay?*
+
+*Why, thank you. You are being such wonderful hosts.*
+
+Downstairs, Nadia hauled two briefcases from the truck cab to the foyer. Something warbled through the stairwell and communicated the general idea of Lewis-Luggage-Now. The two brought the briefcases and themselves up. Nadia was brought to the room Maddy sat in, and Lewis was being guided to the adjoining one.
+
+Maddy looked Nadia in the eyes.
+
+*Um, madam, actually, we would like to have Lewis in the same room? It's how we slept growing up.* Nadia answered.
+
+*Oh, but the other room—*
+
+*—really was wonderfully made, ma'am, but it seems my sisters want me close.*
+
+*Right, of course.*
+
+Not much was said afterwards, except that Lewis unlocked the briefcase with their personal effects, and took out the family shotgun. The action was freshly greased, and the two shells slid in without a sound. The floor was not cold, but his back grew sore from the hardwood as Nadia and Maddy slept, holding each other. The other bed was empty.
+
+Wind tousled the translucent blinds, and moonlight shone on the girls. Lewis felt with his thumb the part of the stock carved with the Tsien family name, in the script that he could hardly read. His eyes were half-closed and still locked onto the closed door.
+
+The bed creaked, and a figure haunted Lewis.
+
+Nadia set her foot down onto the floor with a light *thud*, and gestured about the gun. 
+
+*Go to sleep, Rambo.*
+
+He did, perpendicular to the empty bed. Nadia felt for the shells in their breech.
+
+She had the watch.
+
+---
+
+The trip ended up taking four and a half days.
