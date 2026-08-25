@@ -38,7 +38,9 @@ Paste into the AO3 chapter editor **with the HTML tab selected**, not Rich Text.
 - **A placeholder draft is untitled, with one `<p>` of lorem ipsum, saved with `Save Draft`.** That is the established convention — slot 6 and slot 8 are both built that way. Titling one would put the chapter's name in the owner's chapter list before it exists.
 - **Two browser gotchas.** The chapter form's position field already defaults to the next real slot, so it needs no editing. And `element.focus()` does **not** receive a paste — the textarea has to be clicked for real before `cmd+V` lands, or the field stays silently empty.
 
-**Slot state, verified 2026-08-21 at `/works/89851861/navigate`:** ten slots, eight posted. Drafts at **6** (*Notifiable*) and **9** (*Druzhina*). Readers see eight chapters; drafts are invisible to them and hold their positions. Chapter titles match their file slugs in all eight cases.
+**Slot state, last verified 2026-08-21 at `/works/89851861/navigate`:** ten slots, eight posted. Drafts at **6** (*Notifiable*) and **9** (*Druzhina*). Readers saw eight chapters; drafts are invisible to them and hold their positions.
+
+**Unverified since:** *Wild Oats* was posted 2026-08-25 by hand from the clipboard, which should make eleven slots and nine posted — **but nobody has re-read the navigate page, and `notes/chapter-plan.md` contradicts itself about whether *Ground* is AO3 9 or 10.** Re-verify before trusting any number above ten.
 
 **Do not run pandoc by hand.** Two flags in the `Makefile` are load-bearing rather than cosmetic: one stops apostrophes being silently rewritten, the other stops the macOS pasteboard corrupting accented characters when the HTML is pasted into the browser. Both are explained in place at the top of the `Makefile`, because both have bitten once already.
 

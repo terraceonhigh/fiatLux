@@ -1913,3 +1913,17 @@ Terrace's question was how to do this without ending up Actaeon or a peeping tom
 **Shared water means shared maintenance, and that is where politics live.** Acequia systems elect a *mayordomo* annually and hold **la limpia**, a compulsory clearing day where every household sends a body or pays a fine. A river with zoning implies an annual clearing, which implies a roster, which is a document.
 
 **Open:** whether the river zoning is administered by the university — posted, with a document and a name on it — or folk practice it merely tolerates.
+
+### Title settled 2026-08-25 — *Mulberry*
+
+**Terrace's, over *Minyeides* and *Nausicaa*.** File stubbed at `manuscript/11-mulberry.md`; slots cascaded, *Ruts* → 12, *Skywave* → 13, *Colt* → 14. Placed **after** *Wild Oats* because *Wild Oats* is posted and inserting ahead of a live chapter would renumber the Archive.
+
+**Why it beats the two classical candidates.** *Nausicaa* is almost literally the scene — a princess doing laundry at the river with her women — but the whole point of *Odyssey* 6 is that a naked man washes up, and this chapter has ruled no man, not even offstage. The title would promise the one thing withheld. *Minyeides* is closer to what the chapter *is* — women at handwork telling each other stories, which in Ovid frames the embedded tales — but they are driven mad and turned into bats, which foreshadows the fire.
+
+**And *Mulberry* reaches the Minyeides sideways.** **Pyramus and Thisbe is one of the tales they tell**, and it is the story that explains why the mulberry is stained dark. So the association arrives through the fruit rather than through the punishment.
+
+**Three more, each standing alone.** Mulberry leaves feed silkworms, so the tree is the root of the whole textile industry — named for a chapter about cloth and measuring. The fruit is proverbially the stain you cannot get out, in a laundry chapter, in a book where `00-ante-finem-mundi.md:3` has Collie with a tab open on getting soy sauce out of wool. And the colour is **the purple you get when you cannot afford purple** — near-imperial, off a street tree anyone can pick — which is first-generation nobility in one word. It is also the colour of a days-old bruise, on bodies being measured in their fifties.
+
+**Register note:** this is the book's first title that names a **mood** rather than a mechanism (*Isolation* names a valve and a woman; *Notifiable* names the failure she cannot file). Defensible precisely here, because this is the one chapter with no mechanism.
+
+**One condition: put a mulberry on the page.** Every other title in the book is physically present in its chapter — a tree on the bank, or a stain in the basket that nobody gets out.
