@@ -266,3 +266,23 @@ Maddy got to two more patients before supper, which the three took at the house 
 
 The couple had two children around the table, one was fifteen and one was ten. The younger one asked Lewis about what it was like in the university, and the older one asked about the new seeds they brought in. The woman said that the older one was always quite curious so do forgive him, did I tell you how he helped his father with shaking down the last boat? Maddy took from her satchel some herbal candies she and Collie made, and ate one first, at the dinner table. They were the green ones and not the white ones, Maddy made sure of that.
 
+After dinner, the woman had the kids go wash the dishes. Husband and wife uncorked a bottle of something that they said was nothing much, and toasted to good health. Maddy expressed an amused concern about him pulling his shoulder again.
+
+Nadia went outside with a torch, to bring the truck closer, so that it would be easier to haul the briefcases with them back inside. She recognized the front of the house by the fact that it was one of the bigger ones, and that the paint was smooth. The husband was entertaining Lewis with what the sailors brought back from their trips down the coast, when the wife intercepted a Maddy who had just brushed her teeth.
+
+*Madam.*
+
+*Miss Swartz, I would just like to give my heartfelt thanks regarding fixing my husband's arm, it had been bugging him in the shipyard ever since the last doctor left.*
+
+*Oh, it is no problem, just doing my job.*
+
+In the living room, Lewis did the laugh that Collie did. The one she used when she wanted something done and had to laugh with someone for it.
+
+*But, really, it is more than that to all of us. Really, thank you. Now, before we go back to the boys, let us just have a moment in my room, mm?*
+
+Maddy reached for her collar, and stopped short, to tug at her shirt around the third button down. That shifted the collar by half a degree.
+
+*Most certainly.* She walked upstairs, behind the woman from the diner.
+
+---
+
