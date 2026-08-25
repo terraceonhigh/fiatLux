@@ -47,6 +47,14 @@ Chapter two adds a **fourth household that was never in the flat** — Diana's, 
 
 **Collie has three children and not one of them is hers biologically.** *Boil Water* calls Maddy **her thirdborn child**, so Collie counts Lewis, Nadia and Maddy in order and has for years. That answers the standing question in [`../notes/spitball.md`](../notes/spitball.md) about her case for calling Lewis her son and Nadia her daughter: there is no case, there is a count.
 
+**Settled 2026-08-24 by *Wild Oats*, and it sharpens that count.** **Nadia is about three months older than Maddy.** Lewis calls Maddy *"the annoying baby sister who insisted she tagged along"* and Nadia protests *"we were like three months apart"* (*Wild Oats* ¶109–111, [`../manuscript/10-wild-oats.md`](../manuscript/10-wild-oats.md), unposted).
+
+**Which fixes the birth order as Lewis, Nadia, Maddy** — Lewis *"a bit older"* in ch1 ¶19, then Nadia, then Maddy three months behind her. ***Thirdborn* matches that order exactly**, so the word is doing birth-order work: Collie is not numbering the order they came to her, she is numbering them as though she had borne them.
+
+**Open: the order they actually entered the household is not recoverable and should not be inferred.** Maddy was co-named before her birth but raised by Alice — she was steam-sterilising Alice's syringes at about ten. Lewis got a bunk at twelve. Nona and Nadia have laminated cards delivered over three pots of tea at the collapse. Those are three different clocks and the text never converts between them.
+
+**And it puts the physical impossibility in the children's own mouths.** Two births three months apart cannot come from one woman, so the datum Bréal is reaching for — *"You ever seen them all together? Like, lined up, side to side"* — is on the page, delivered as a squabble about which of them is the baby, with nobody explaining it and no adult present.
+
 **And Collie tells Maddy what Medea means, with the load-bearing half removed** — medicine, poison, *"she found a place with people she could trust, and lived happily ever after."* That is Medea in Athens, which is to say after the infanticide, delivered in a fairy-tale formula. The same withholding Rosa performs three times in one farmyard, done by a classicist to a child about her own name.
 
 

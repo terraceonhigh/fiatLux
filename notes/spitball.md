@@ -1705,3 +1705,161 @@ Ch2 ¶127, *"Well, they are my sisters"* — the only place in either chapter wh
 Two things to watch. It is a **single point of failure** — the kind of subordinate clause a tightening pass removes, taking the covenant thesis out of the manuscript with it; it may eventually want one corroborating instance in a different register. And Bréal's *"lil bro"* (ch2 ¶61) is the same vocabulary in a frat-casual key twenty lines earlier; the two are far enough apart in tone to be fine, but if fictive-kin address spreads further, "sisters" starts to mean less.
 
 Diana calls Nona *"that woman"* in the exchange immediately following (ch2 ¶105). Against Lewis's *auntie*, she is outside the kin vocabulary and does not use it. If deliberate, one of the sharpest small things in the chapter.
+
+## The night at the fishing town — session notes, 2026-08-24
+
+Design discussion for the second half of *Wild Oats* (`manuscript/10-wild-oats.md`) and probably the whole of *Ruts* (`manuscript/11-ruts.md`). Nothing here is written yet. **Terrace's calls are marked; the rest is Claude's.**
+
+### The stop
+
+**Calypso Diner**, in fish country, inside University country. Named at `10-wild-oats.md:91`; *"they're expecting us"*, and the flag is in the toolbox. **Off Lewis's usual route** — *"you know I run the other route"* — which is also why nobody in the truck knows what the food is, and plausibly why the town is between medical postings. Ch1 establishes med students posted three months at a time with handover binders, so a town off the circuit is a town with a gap.
+
+**Ogygia is the point of the name.** Calypso held Odysseus seven years by being *hospitable* — no captor, a host, offering a home. And the release required an order from outside: Hermes arriving with instructions. The AO Bréal signed, with radio check-ins every eight hours, is the Hermes.
+
+### Why they stay — Terrace's call
+
+**Not drama.** No stranding, no dead battery, no missed check-in, no manoeuvring. They **radio in** that the town needed more technical assistance than the scheduled stop allowed, and Lewis, **as mission commander**, extends the mission **pursuant to the expeditionary arm's mandate to offer help where possible.** A genuine philanthropic extension.
+
+- Nothing in it is false. The town does need more help than the stop allowed; he really is the driver of record on a signed AO; the mandate really says that.
+- The girls don't especially want to be out — **they don't like sleeping in unfamiliar places** — but they want to help and consider it a duty.
+- **"Expeditionary arm" is a large new term.** Not fraternity language: a body with doctrine and a mandate, and *expeditionary* is a military word. **The vocabulary of the private army is in place before the force is raised**, which is the order Bréal does things in.
+- Consequence, quiet and unnoticed by him: **the extension is logged against Lewis's authority, not Bréal's.** He accepts liability without knowing he did.
+- Vavasseur probably takes the call and logs it. He is the one who flagged *"a kid specifically asked for Lewis driving her"*; he will clock it instantly. Whether he passes it up or logs it clean is a live choice.
+- **Register seam:** the mouth that produced *"fuck off back to jizzing grass all over town"* has to produce a sentence containing *pursuant*. Let him **overshoot** — a kid slightly too formal is more convincing than a kid fluent.
+
+### The anti-saviour mechanism — Terrace's constraint
+
+**They do *some* help in their specialised field. They do not become saints.** The working device: **there isn't time, so most of the help is instruction.** Which means the town only keeps what it retained, and **the three of them never find out how much of it landed.** Lossy help. Saints get to see the result.
+
+Per sibling, ranked, none of it heroic:
+
+**Maddy** (hospital apprentice, already in clinical training per `07-boil-water.md:210`)
+- **Drain an abscess.** Definitive cure, no drugs, no supply chain — blade, hot water, clean cloth. The one intervention the manuscript has pre-authorised: *"The older nurses already drilled that into me."*
+- **Reduce a dislocated shoulder.** Fishing town, recurrent anterior dislocations, scapular manipulation is technique not force — but **she needs Lewis's arms and her own knowledge**, which splits the job and makes him useful without making him competent.
+- **Leave a recipe, not a dose:** oral rehydration. Salt, sugar, water, correct ratio. Teachable in thirty seconds, keeps working after the truck leaves.
+- Minor: getting a hook out properly; correcting whatever folk remedy the town uses on burns.
+- **Her real asset is that she was taught recently.** The country is served by whoever came through three months ago and left binders. In a world where knowledge degrades at every handover, the sixteen-year-old is the newest copy in the room.
+
+**Lewis** (junior electrician)
+- The default ask of an able-bodied eighteen-year-old is labour, and ch1 already has Epsilon's boys raising a barn. **That's the trap** — it's what the room will assume and the least interesting thing he owns.
+- **Refrigeration is the highest-stakes thing available to anyone in the chapter.** Ice and cold storage *are* the economics of fish; a dead compressor is a rotting catch and a lost season.
+- **Stray current is the best of them.** Sacrificial zincs are consumables nobody is manufacturing any more, and a wiring fault leaking into the water eats a hull. A sparkie who knows that a bad ground is consuming somebody's boat is carrying knowledge worth a vessel.
+- **Radio is life safety but probably wants saving** — *Skywave* is banked at `manuscript/12-skywave.md`.
+- The edge underneath: on the copper run he was *tagging out junction boxes and flagging appliances*, harvesting circuits out of the dead world. Same hands, same toolbox, opposite direction, and nobody assigned it.
+
+**Nadia** (botanist; the requisition is hers)
+- **Phytoremediation on a working waterfront is the correct intervention, not a joke.** Boatyards are the most contaminated dirt in any harbour: copper and tin from antifouling, lead, diesel and waste oil at the fuel dock, creosote pilings. *"Something about grass"* has real ground under it.
+- **Which hands her a danger only she can see:** hyperaccumulators concentrate metal into the plant *by design*. Her crop is toxic, and a hungry town watching a girl plant things will eat it.
+- **Her recipe beats anything the mortar does: two waste streams.** Kelp wrack is free and potassium-rich; fish guts and frames are pure nitrogen and currently thrown away. Composted together instead of buried raw, that's complete fertiliser from garbage, on a coast with near-desert Augusts.
+- **Seed saving** compounds every season after she leaves — hybrids won't come true, biennials need a second year, isolation distances.
+- **Identification** is the sister-rhyme: cow parsnip and water hemlock are a real and lethal confusion on this coast.
+
+### What actually burdens a fishing town
+
+**The honest answer is hands, not diseases.** Shoulders, spines, arthritic fingers from hauling, hearing gone from decades of engine noise. Fishing is the most lethal civilian occupation there is and the survivors are worn out by forty. Post-collapse the salient fact is **no analgesia** — a whole adult population part-disabled and self-medicating with whatever grows, which is why a girl arriving with herbs is more interesting than a girl arriving with a stethoscope. Second baseline: **drowning**, which is demographic rather than medical. A fishing town is missing men and the women run it.
+
+Options considered, kept on the shelf:
+
+- **The best individual case: *Mycobacterium marinum*** — fish-handler's granuloma. Puncture from a spine or a crab, then painless nodules tracking slowly up the forearm. It *is* a mycobacterium, it's slow, and it needs rifampicin or clarithromycin for months, so **she still cannot treat it.** And it looks like leprosy. A trainee knows the word *leprosy* before she knows *marinum*, and *"doesn't hurt"* is not *"is numb"* — the exact conflation a kid working off a textbook makes. **Right that it's a mycobacterium, wrong about which one, and the wrong one carries two thousand years of exile.** The Tsien device performed on a body instead of a form, with a checkable error.
+- **The best community-scale case, and the most on-theme: paralytic shellfish poisoning.** Saxitoxin, red tide, no antidote. What makes it ours is that **the thing that vanished is the monitoring agency** — a state lab used to test and close beaches, and now there's a folk calendar and a guess. Same shape as the Destructive Device gag. Its cousin domoic acid leaves permanent anterograde amnesia.
+- **Cheap and acute:** erysipeloid — *Erysipelothrix*, straight off handling fish and crab, spreading purple cellulitis on the hand. Penicillin fixes it and they haven't got penicillin.
+- **The quiet one that closes the loop:** fish protein is abundant here, so the scarcity is **vegetables** — near-desert Julys, wet October to May. Winter deficiency, not starvation. If the town's real complaint is that nobody's eaten a green thing since March, the mortar is the most useful object in the chapter and Nadia thinks it's a toy.
+- Also available: fish tapeworm strips B12, and B12 deficiency causes neuropathy — a second, entirely different route to a numb limb, one dose of praziquantel away from cured.
+- **Avoid: TB** (banked for *Notifiable*, ch6) **and anything waterborne** (*Boil Water*).
+
+**Hard constraint if any of this is used: it must not produce treatment.** *Notifiable* is defined as *"a condition you are legally compelled to report, with no body to report to"*, Rosa never files it, and she is deformed by the decision. **Child-can't-report then adult-won't-report is an escalation; the reverse pre-refutes chapter 6.**
+
+### The marriage offer
+
+**Direction matters and there are two opposite offers.** *"Stay with us"* only works if the village thinks it can outbid the university, which it can't. **"Take one of ours" is the real one** — a fishing town's problem is that its young people leave, and these three are the highest-status people through this year. Vavasseur already said *"valuable university assets and bachelorettes"* at line 45. From the village side this is **exfiltration**, not retention: a family trying to hand a child upward.
+
+**Which is exactly what was done to Maddy** — renamed for affiliation paperwork so the university would know she was Collie's. She is the finished product of the transaction being proposed and the only person at the table who knows what it costs.
+
+- **The strongest target is Maddy, and not for romance.** A town with no posted medic that has just watched a girl drain an abscess is trying to **acquire a clinician** by marrying her in. Cold, sympathetic, entirely logical — and it closes the saviour problem, because **the reward for helping is being claimed.** Competence advertises.
+- **Nobody in the truck can accept.** Lewis holds a map, Nadia holds a letter that requisitions a driver and not a person, Maddy is slot three. But they arrived on a signed document with a truck and spare food, and **the village cannot tell a child with a letter from a person with standing** — which is Bréal's error running the opposite direction, in the same chapter.
+- **Keep it logistical, not romantic and not lewd.** It's a business proposal and should sound like one; the practicality is the horror.
+- **It routes to Collie.** The correct move for a fishwife is *tell your mother*, so the village opens a channel to the Swartz household without understanding what it has opened. **An offer of a person is the largest possible opening bid** — the favour too big to settle in one trade, i.e. the conversion point from alliance to patronage, arriving from a direction nobody was watching.
+- **Flag on the word *fishwife*** — it is the university's word for those women, not theirs for themselves. If it stands unmarked in the narration, the camera has taken a class position in a chapter about people misjudging each other by appearance. Fine if chosen.
+
+### The night — Terrace's calls
+
+**Nadia insists all three be put in one room.** The reason she gives is not the reason: propriety, optics, two girls in a village that just made an offer — all of it true, and none of it why. She is sixteen, in a strange building, and *one room* is how a kid asks for company without admitting she's asking. **The chapter's device run by its youngest person, on herself.** And it is the second time she gets exactly what she wants without knowing what it costs — first the truck, then the room.
+
+**Lewis doesn't sleep.** He sits with his back to his bed, gun in his hands, guarding his sisters. Nobody assigned it, no threat is named, University country is safe.
+
+- **It's the exact inverse of the truck scene** twelve hours earlier, and **nobody sees him do it.** The reader is the only witness, which is what makes it the kin proof — a brother who performed it would be worthless.
+- **Where he got it:** ch1 ¶55, Bréal unlocked the toolbox, tossed him the pliers, then took a hunting rifle and a shade for standing hours through a sunroof while Lewis tagged junction boxes. **He watched a man sit up armed over people doing work, and that is the shape responsibility has.** He hasn't copied the paperwork or the cursive. He copied the posture.
+- **So the private army comes from below, by imitation.** Bréal won't have to militarise Epsilon by design — he modelled it once on a copper run, said nothing about it, and will find it already happening in the boys.
+- **Rules:** don't explain the gun (no noise outside, no reason offered — the moment the text justifies it, it becomes suspense). Don't let him be noble: mostly tedium, cold, bored, needing to piss, smoking too much. Consider letting him **fail** — an eighteen-year-old who drove all day nods off.
+
+**Nadia jolts awake, finds Lewis on the verge of dozing off, gestures at the gun, says *gimme*. Lewis passes right out on the bed.**
+
+- ***Gimme* is already Lewis's word** — line 65, *"Gimme that rollie and fuck off back to jizzing grass all over town."* She hands his own vocabulary back to do the tenderest thing in the chapter, and neither of them acknowledges it. **The unguarded beat the sibling material was missing, with no warm word in it.**
+- **Him passing out instantly is what makes it true.** No argument, no half-line of performed reluctance. He doesn't hand over the duty; he loses consciousness the second it's taken off him — which tells you retroactively he'd have sat there failing until dawn.
+- **Third transmission of the same posture in one night:** Bréal on the sunroof, Lewis against the bed, Nadia on the floor. Nobody taught her. That afternoon she was firing seed packets out of a mortar for fun.
+- **She built every condition of this night** — the letter, the driver she named, the one room. Taking the gun is the first time she pays for something she requisitioned.
+- **Does she know how to use it?** Best answer: the same relationship Lewis has to it. Shown once, years ago, badly. Her competence is exactly as theatrical as his was and the gesture is real anyway.
+- **Maddy sleeps through it, and that's the point.** She is the one who got proposed to, she worked hardest, and **the two who weren't offered anything sat up over the one who was, and neither of them will ever mention it.** That is the reason for the room and the reason for the vigil, and nobody says a word of it.
+- **Don't add dawn.** No sunrise, nobody finding them, no morning shot of the girl holding the gun. End when he's out.
+
+### The gun — Terrace's call
+
+**Not the truck's standard issue. A hunting over/under, with the Tsien monogram carved into the stock by Alex himself, after the collapse, when he was bored and needed one to protect his wife and child.**
+
+- **An over/under is a shotgun**, which is better than a rifle here: two shots then a break-action reload, short range, no magazine. **Nearly useless for what Lewis thinks he's doing** — a posture, not a defence. Hulls are reloadable and shot can be cast (primers are the bottleneck), so it's genuinely more sustainable than centrefire: a sensible weapon in an absurd package.
+- **Not old money — the opposite.** The purest form of the Tsien device yet: **the misleading evidence was manufactured by the man it misleads people about, for no reason, with no intent.** Bréal sees a monogrammed stock and reads a house. There is no house. There's a bored electrician with a knife.
+- **And it's Bréal's own trick done accidentally.** He manufactures legitimacy on purpose, over years, out of cursive and initialling protocol. Alex did it in an afternoon with a pocket knife and got the better result, because a monogram just sits there being persuasive while an institution has to be maintained. **The man who wasn't claiming anything made the more convincing claim.**
+- **Keep *bored*.** Not frightened, not resolved. Boredom during a catastrophe is what people mostly experience and fiction almost never says.
+- ***Wife and child*, singular, dates it exactly:** Maia and Lewis, before Nadia was in the household, before Maddy, before Alice Richards died. **The gun predates the family it is now guarding, and Lewis is the child in that sentence.** Tonight he holds an object made to protect him, over two girls who weren't there yet, and nobody ever re-carved anything. Same problem as everything else in this book: the household grew past its own documentation, and the only record of what it used to be is a name cut into wood by a man killing an afternoon.
+- **Which is what makes *gimme* land.** Lewis is Alex's only blood child, so the monogram is his and nobody else's. **She takes the one object in that room that isn't hers, and he hands it over half-conscious without noticing.** The inheritance passes sideways, at three in the morning, to a girl who isn't blood, by accident.
+- **The carving can be bad** — crooked, too deep, ran out of room on the last letter, obviously done by a man who wires buildings rather than a stockmaker. **It's the act that's the class signal, not the quality.** Ordinary people don't put their names on their possessions, and Bréal reads a house because somebody bothered.
+- **Decide:** it has probably just become the truck gun. Sat in a closet fifteen years, now it goes out with whichever kid is on a run, and none of them think of it as their father's. Whether the truck's issued hunting rifle is *also* in the toolbox matters — if it is, **Lewis chose this one.**
+- **Nobody in the scene remarks on the monogram.** The stock is in the room; the reader does the arithmetic. The moment a character explains it, it stops being a fact about the family and becomes a reveal.
+
+### Open
+
+- **Word count.** `10-wild-oats.md` is at 902 words against a 1,377–1,741 posted range. Lunch + afternoon + offer + night + departure is two chapters. **`11-ruts.md` is sitting there already named** — a truck that can't get out of the ground it's parked in. If *Wild Oats* ends on the offer and the night is *Ruts*, both chapters have their title.
+- **Do they pay or collect?** If the stop is prepaid on the requisition they aren't customers, they're an entitlement arriving. Sets everyone's manners for the scene.
+- **What the flag in the toolbox is for** (`10-wild-oats.md:91`). Ch1 has Lewis *flagging appliances*, so a flag in a toolbox has precedent, but the reader can't tell what this one signals. Note that the flag and the gun live in the same locked box: **identification and force, on one truck, with a teenager holding the key.**
+- **Terrace's standing note:** *"will need to make Bréal turn Epsilon into his private army. Maybe bring in his pre-collapse moneyed instincts."* Constraint discovered while checking: **Bréal already has a woman at the Epsilon house** — `06-isolation.md:200`, *"Maddy already brought your woman a sample. At the Epsilon house."* Any marriage-alliance thread involving him has to account for her.
+- **Don't let the night go pastoral.** Calypso's island was lovely; that's what made it a trap. A warm evening with kind fishermen and someone playing something is the saviour scene run backwards with the village as reward. The pleasantness has to be the pressure.
+
+## Banked: a washing-up chapter — 2026-08-24
+
+**Terrace wants a chapter of just the adults, off-duty, to show Collie's human side.** Landed on **washing** — the flat's clothesline, or by the river. Deliberately not worked out further yet.
+
+Why washing and not a dinner: **it is the only labour in the book that produces nothing.** Everything else these people do generates something tradeable, requisitionable, or fileable. Maintenance can't be, so it is the one activity Collie cannot run a play inside — no crisis needed to get her out of her own competence.
+
+Already on the page and unspent: *"the men's part of the river"* (`09-ground.md:43`, so there is a women's part); the clothesline whose bearing squeaks above a creep and the hamper (`07-boil-water.md:17,47`, `09-ground.md:37,39`); *how to get soy sauce out of wool* on a laptop tab in `00-ante-finem-mundi.md:3`; and **Collie teaching the children soap bubbles from bacon grease and campfire ash** (`00:19`) — saponification as a party trick, now presumably the household's soap supply.
+
+**Placement: the same weekend as *Wild Oats*. Terrace, settled — that is why the kids are nowhere to be seen.** Which supersedes the earlier lean toward sitting it after *Skywave*; a same-weekend chapter cannot land three chapters later without the reader having moved on in time. It wants to be adjacent to `10-wild-oats.md`.
+
+**Season that makes both halves true: the end of the dry season, so late September or early October.** In a Mediterranean-shaped year the water minimum is not midsummer, it is the *end* of the drought, just before the rains return — so the river is at its lowest and the laundromat is rationing hardest at exactly the moment agronomy needs seed on the ground ahead of the returning rains. **You sow into the break of the dry season, not into August.** Both premises hold on one weekend and neither is a compromise.
+
+**Which hands *Wild Oats* a clock it currently lacks** — the seeding run is a race against the weather turning, which is also why a requisition for three trucks and three drivers went through at all.
+
+**And Maia is still down the mountain.** `09-ground.md:61` has the committee wanting her back *"after the dry season"*, so she has not gone yet. The washing afternoon sits shortly before she goes up. **Still don't foreshadow** — it will do its work retroactively without help.
+
+### Structure — Terrace, settled
+
+**Two movements. Cold open on Alex doing contractor work in one of the laundromats, then cut to the women at the river.**
+
+**The laundromats are a university collectivisation.** Domestic washers sit idle most of the week, and post-collapse what kills them is **the control board, not the mechanicals** — motors, drums, bearings, pumps and valves are repairable; the controller is a sealed proprietary module with no spares and no schematic. So the fleet gets pooled and rebuilt: **hacky breadboard control boards behind repurposed knobs, bent-form panels to standardise the fronts.** Any attendant can run any machine after ten minutes.
+
+**Which is the university's signature in sheet metal** — the identical act as the laminated cards, the initialling protocol, and *Standard Loaf, version 2daeb1ae*: making heterogeneous things it did not create into things it can process.
+
+**And it is already this family's trade.** Lewis has been *"tagging out junction boxes and flagging appliances"* on the copper run for years, and `00-ante-finem-mundi.md:25–27` is Alex teaching him to solder a loose motor wire on a game controller — *"always test before you put the shell back together."*
+
+**Season: the dry summer, and the rationing is correct.** Near-desert July–August per `canon/setting-map.md:70`, so **the laundromat prioritises institutional use — hospital, dining hall, dormitories — over civilian, and it is right to.** Nobody is being wronged. The gentry simply do not get machine time in August because the hospital does, and Collie's standing does not and should not move it. **That is why the women are at the river**, and it is a better reason than privacy: the institution she built her life inside is functioning exactly as it should, at her expense, and she has no complaint to make.
+
+Free irony, unspoken: **Alex maintains the machines his own household cannot use.**
+
+River is therefore at its lowest — slow, warm, shallow, worse water than March. Different act than a spring wash.
+
+### Cast and content — Terrace, settled
+
+**At the river: just the three women.** Collie, Maia, Nona. No children, **no Lacks girl.** Alex appears only in the cold open and does not cross over. And **nothing happens** — they wash and they yammer. No incident, nothing found in the pockets, no news delivered. Don't foreshadow the fire either way.
+
+Which means it carries on voice alone: three women who met in grad school, with nobody to be Madam Swartz for. **Nobody in that water outranks her and neither of them will defer to her** — the entire mechanism, and the only scene in the book where it is true.
+
+**Open:** whether this is the same summer as *Wild Oats* (a seeding run reads more like spring or autumn than high summer), and whether the river zoning is administered by the university — posted, with a document and a name on it — or folk practice it merely tolerates.

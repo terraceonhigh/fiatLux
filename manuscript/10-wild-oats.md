@@ -113,3 +113,47 @@ Maddy's voice rang in, from the cab. *Remember, only eat the hot stuff.*
 *Awww, Lewis look at our little baby doing big girl things like having an opinion and learning to drive.*
 
 *Careful, one of these days I am going to be the family doctor.*
+
+---
+
+The seed spreading stopped two crests before the fishing town, and the flag was raised one crest before that. Lewis was on the binoculars, and Nadia behind the wheel.
+
+*Visual, guard tower one o'clock. Driver, toot the horn twice.*
+
+The horn on this truck was something more guttural than a toot.
+
+*Driver, roll to stop just after the crest. Turn off the engine.*
+
+Lewis waved his hand from the window, Maddy could see that the man in the tower had his own binoculars. She did another count of what they had on the truck.
+
+A voice came in on the radio. Lewis opened an envelope and mumbled something back into the microphone.
+
+*Maddy, stand up on the bed and wave to them.*
+
+They let them in, the handful of people on Main Street turned their heads.
+
+Nadia unfolded the leather wallet the department gave to her and produced her chit, along with a metal seal of the University. The mayor and his men took stock of their share of seeds and said the diner was expecting them.
+
+*Here, at the front. And, you are a doctor, right? Officer...* A woman in an apron welcomed them. 
+
+*—Maddy, and just a Warrant Nurse right now.* The bar was full of fishwives, as were the tables further from the window.
+
+*Right, Nurse Maddy, a few of the townsfolk would like you to have a look. After your lunch, of course.*
+
+*...Okay, we only have two hours here, though.*
+
+The woman walked back into the kitchen.
+
+*...Officers?* Maddy said to no one in particular.
+
+*That's what's on the paper.* Nadia stated.
+
+*Damn, Nadia, you get a stripe just for shipping some seed. Pretty sure Bréal would lock us sparkies in the toolbox if it didn't damage us.*
+
+*Oh, as if you don't spread some seed of your own on your trips, Lew.*
+
+*Fuck off.*
+
+It was not fish and chips, but rather fish and potatoes arranged together in another manner. 
+
+*Salmon chowder, for our hardworking botanists.* The woman said as she unloaded her tray.
