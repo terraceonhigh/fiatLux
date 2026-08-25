@@ -1862,4 +1862,54 @@ River is therefore at its lowest — slow, warm, shallow, worse water than March
 
 Which means it carries on voice alone: three women who met in grad school, with nobody to be Madam Swartz for. **Nobody in that water outranks her and neither of them will defer to her** — the entire mechanism, and the only scene in the book where it is true.
 
-**Open:** whether this is the same summer as *Wild Oats* (a seeding run reads more like spring or autumn than high summer), and whether the river zoning is administered by the university — posted, with a document and a name on it — or folk practice it merely tolerates.
+### The spine — measuring, Terrace's own source
+
+**Terrace: draw it from changing rooms with mates, and from measuring them for clothes.** The measuring is the stronger half; let the changing-room register supply the tone.
+
+Why measuring works: **touch with a purpose is not erotic** — there is a number at the end of it. **The tape tells a truth a mirror won't** (*that is not where it was last year*). And measuring means you are going to *make* someone something, which is care expressed as labour.
+
+**Nona holds the tape.** `00-ante-finem-mundi.md:3` — *"Collie buttoned up the cardigan Nona knitted."* `09-ground.md:37` — Nona is the one who'd patch the knee if she weren't at the greenhouse. Fifteen years and a collapse later she is still the one making clothes, except now there is no shop.
+
+It also stages itself: two women close together with hands busy and eyes down, the third talking at them, roles rotating.
+
+**One translation step.** Terrace's source is peers their own age; these three are pushing fifty and have been through a collapse — a knee that's gone, a scar, what a pregnancy left, hands wrecked by work. **The register transfers exactly; the inventory needs updating.**
+
+### The seam brought in — Terrace's beat
+
+**Someone asks Nona to take a seam *in*.** Everybody got thinner, the new nobles included.
+
+It works because **it is a number rather than a sentiment** — "times are hard" is a theme, "bring this in" is a chore. And **the clothes are the only surviving calibration standard**: a pre-collapse garment was fitted to a body that ate a $25 poke bowl and thought the miso was worth extra. Same structure as `spitball.md:888` on *Skywave* — a clock's rate cannot be known from inside the clock; you need something outside it. Collie can't feel that she has shrunk. The dress can.
+
+**Put it on the good dress** (`07-boil-water.md:17`, the one she hangs inside her room and irons for the Emeritus) **and let Collie be the one who asks.** The instrument of her authority no longer fits the woman who wields it, and she has to ask a friend to fix it.
+
+**Rule: nobody says what it means.** The request is logistics, the answer is logistics. The instant someone observes *we've all got so thin* it becomes a Theme and dies.
+
+**Take the free half: the children's clothes need letting *out*.** Same basket, opposite direction — the old contracting and the young expanding, Nona doing both — which puts the three kids in a chapter they are absent from without anyone naming them.
+
+Better rather than worse: a seam taken in is *also* just middle age, illness, and fifteen years of physical work. Nobody in the scene has to decide which.
+
+### Writing bodies without the camera becoming a problem
+
+Terrace's question was how to do this without ending up Actaeon or a peeping tom. **First check which scene it is** — three women doing *laundry* are clothed and none of this applies. If they bathe:
+
+- **POV inside the group.** No outside camera, no question what it is doing there. House style anyway; every chapter runs one head.
+- **Bodies as working objects, not viewed ones.** Wrists that ache from wringing, a shoulder that won't go all the way up, where the lye stings, kneeling on stones. **Function forecloses the gaze.** Ch3 already solved this once — Rosa handling Diana's stump with total attention and zero charge, and **Diana rolling her eyes when Rosa turns to face the wall is the book saying it knows.**
+- **Unselfconsciousness is the actual defence.** The instant a character is aware of being looked at, the reader is invited to be the looker.
+- **Keep the subject on the talk.** Water is setting, not content. **The sin is duration, not mention** — lingering is what makes a passage voyeuristic.
+- **Not age — familiarity.** "Make them middle-aged and it's fine" is quietly contemptuous. The real defence is twenty-five years: nothing in that river is new information to anybody.
+- **Keep out:** inventory-of-parts sequences, any appraisal at all (*still beautiful*, *kept her figure* — appraisal **is** the gaze), water given caressing verbs, slow motion, and **no man anywhere, even offstage.** The men's part of the river stays real geography and stays empty.
+- **Free:** Collie is a classicist and would notice three women in a river and find it ridiculous — nymphs don't have lye soap and a bad knee. One thought and the Actaeon problem is dead, because the text has looked at the myth and declined it.
+
+### How real river use is organised
+
+**One law orders all of it: upstream to downstream by how much each use fouls the water.** Drawing point highest, then bathing, then laundry, then livestock, then food waste, then latrines far below. Fouling above the drawing point is a village-level offence, not a rudeness.
+
+**The lavoir is the closest model** — rural France, Italy, Iberia: a communal wash basin fed by a spring or diverted stream, roofed, with sloped stone slabs, often **two basins with an upper for rinsing and a lower for soaping** and the flow going one way. **Its documented social function was exactly the yammering** — the *lavandières* were a village's news institution. The scene is not inventing a pretext for women to talk; it is describing what the building was for.
+
+**Ghats** supply the other half: formally distinct zones, and **steps, because the water level moves through the year.**
+
+**Segregation is as often by time as by place** — women in the morning, men at evening, costs nothing to build. Canon has geography (*"the men's part of the river"*); real arrangements often run both, and the time rule is the one that gets broken and argued about.
+
+**Shared water means shared maintenance, and that is where politics live.** Acequia systems elect a *mayordomo* annually and hold **la limpia**, a compulsory clearing day where every household sends a body or pays a fine. A river with zoning implies an annual clearing, which implies a roster, which is a document.
+
+**Open:** whether the river zoning is administered by the university — posted, with a document and a name on it — or folk practice it merely tolerates.

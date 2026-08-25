@@ -162,7 +162,7 @@ Nadia blew her smoke away from the table, it was something milder than her morni
 
 *How did you know anyways?*
 
-*Oh, I told her.* Nadia interjected, while trying to snap off a chunk of biscuit. *Why is this so tough to crack anyways?*
+*Oh, I told her.* Maddy interjected, while trying to snap off a chunk of biscuit. *Why is this so tough to crack anyways?*
 
 *Huh?*
 
