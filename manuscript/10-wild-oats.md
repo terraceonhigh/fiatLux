@@ -140,7 +140,7 @@ Nadia unfolded the leather wallet the department gave to her and produced her ch
 
 *Right, Nurse Maddy, a few of the townsfolk would like you to have a look. After your lunch, of course.*
 
-*...Okay, we only have two hours here, though.*
+*...Okay, we only have three hours here, though.*
 
 The woman walked back into the kitchen.
 
@@ -158,7 +158,7 @@ It was not fish and chips, but rather fish and potatoes arranged together in ano
 
 *Salmon chowder with biscuits, for our hardworking botanists.* The woman said as she unloaded her tray.
 
-Nadia blew smoke at the hallway, it was something milder than her morning one. *So, tell us about your girls, playboy.* 
+Nadia blew her smoke away from the table, it was something milder than her morning one. *So, tell us about your girls, playboy.* 
 
 *How did you know anyways?*
 
@@ -178,7 +178,7 @@ Lewis sighed, and gestured for the cigarette.
 
 *I love how you either love her under the sky or in her mother's home.* Nadia muttered something about men.
 
-*By Jove, what is it with y'all and my romantic life. Can't a kid working in a high-pressure environment still be tender with his sweetheart and frolick pure-of-heart style?*
+*By Jove, what is it with y'all and my romantic life. Can't a kid working in a high-pressure environment still be tender with his sweetheart and frolic pure-of-heart style?*
 
 *Kids in high-pressure environments, yes. You, though, less so.* His sisters' voices began to blend into one another's.
 
@@ -188,4 +188,74 @@ Lewis sighed, and gestured for the cigarette.
 
 *Yeah, of course, absolutely. Where do you think the honey goes and where the jam comes from?*
 
-*'Figured, that'll do.*
+*Heh, figured, that'll do.*
+
+*Well, then, Nadia; what about who's getting you so giddy after the long days at the greenhouse then.*
+
+*Oh come on!*
+
+*What goes round, man, what goes round.*
+
+---
+
+Maddy conducted her practice on the cleared diner table, with her kit from the truck. A man who had yanked out something sharp from his hand that morning brought in his boy. The finger was swollen since two days ago and the boy had slept a single digit of hours since. She disinfected her scalpel on the griddle. An earwax plug was flushed out next and the woman wanted to bring it home as a keepsake.
+
+Nadia instructed the mayor's men on how to spread the seeds over the polluted areas, and not to disturb the land for several years. It took some sweet-talking and leaflets to convince the farmers to plan the new landrace, which were far easier on the land than the old crop, for the price of yielding proportionally less.
+
+She was authorized to assign four additional oxen for each town, and had before the trip thought it was a ridiculous number.
+
+Lewis hooked another generator into the town's power grid. Three fuses were taken from the truck.
+
+Nadia and Lewis leaned on the right side of the truck, and shared a waterskin. Maddy walked out of a house that was not a diner.
+
+*Lew, need you to work the radio.*
+
+*Who to?*
+
+*The hospital, need to call something in.*
+
+*M'kay.* Lewis said, when Nadia was already starting the engine.
+
+There was static at first, and then Maddy told the other two to walk to the street corner until she waved them back. Something about confidentiality.
+
+They could see that she adjusted her collar as she walked back to that house. The fishwife in that house could see the Sun behind Maddy's hair, or rather what still showed of her hair beneath the cap.
+
+*Took you long enough.* Nadia said.
+
+*Well, should be better once the next doctor rotates in. There is still a queue I need to go through before we leave.*
+
+*How many?* Lewis asked.
+
+*Five.*
+
+*Good god, we're supposed to be rolling in thirty.* Lewis sighed.
+
+*What do I even tell them?*
+
+*Have a swig first.* Nadia handed over the waterskin, and looked at Lewis. *You know how the paper makes us officers for the duration of the ride?*
+
+*Mmm.*
+
+*University officers are also supposed to render aid where possible.*
+
+*Are we now?*
+
+*Yes.*
+
+Maddy was on the precipice of emptying the skin.
+
+*We have enough play in the seeding window?*
+
+*They did the math, I saw it.*
+
+*Mmm.*
+
+Nadia took the waterskin, and screwed the cap back on
+
+*Well, the wires will want inspection.*
+
+*And the farmers will want to know more about the new irrigation schedule.*
+
+*...Radio's still warm. I'll let them know. We leave tomorrow noon. You heard that, Maddy?*
+
+*Yessir.*
