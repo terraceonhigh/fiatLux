@@ -82,7 +82,7 @@ No thunk, there was instead a guitar solo.
 
 ---
 
-Maddy had been taught what an accelerator is thirty minutes ago, and the brake, ten. It was Lewis and Nadia's turn on the mortar. The cab window was rolled down, in case Maddy needed reminders about which pedal was which. So far, though, she seemed quite alright and not inclined to converse. They were on one of Nona's cassettes, there were no vocals and a disconcerting amount of cello.
+Maddy had been taught what an accelerator is thirty minutes earlier, and the brake, ten. It was Lewis and Nadia's turn on the launcher. The cab window was rolled down, in case Maddy needed reminders about which pedal was which. So far, though, she seemed quite alright and not inclined to converse. They were on one of Nona's cassettes, there were no vocals and a disconcerting amount of cello.
 
 Thunk.
 
@@ -124,7 +124,7 @@ The horn on this truck was something more guttural than a toot.
 
 *Driver, roll to stop just after the crest. Turn off the engine.*
 
-Lewis waved his hand from the window, Maddy could see that the man in the tower had his own binoculars. She did another count of what they had on the truck. And visualized the shotgun in the tool trunk.
+Lewis waved his hand from the window, Maddy could see that the man in the tower had his own binoculars. She did another count of what they had on the truck. And visualized the shotgun in their briefcase.
 
 A voice came in on the radio. Lewis opened an envelope and mumbled something back into the microphone.
 
@@ -136,7 +136,7 @@ Nadia unfolded the leather wallet the department gave to her and produced her ch
 
 *Here, at the front for our university's officers. And, you are a doctor, right? Madam...* A woman in an apron welcomed them.
 
-*—Maddy, and just an Medical Assistant right now. No Madam.* The bar was full of fishwives, as were the tables further from the window.
+*—Maddy, and just a Medical Assistant right now. No Madam.* The bar was full of fishwives, as were the tables further from the window.
 
 *Right, Nurse Maddy, a few of the townsfolk would like you to have a look. After your lunch, of course.*
 
@@ -166,7 +166,7 @@ Nadia blew her smoke away from the table, it was something milder than her morni
 
 *Huh?*
 
-*You know doctors read people for a living, right?*
+*You know us doctors read people for a living, right?*
 
 *Is there no secrets under our roof?*
 
@@ -190,7 +190,7 @@ Lewis sighed, and gestured for the cigarette.
 
 *Heh, figured, that'll do.*
 
-*Well, then, Nadia; what about who's getting you so giddy after the long days at the greenhouse then.*
+*Well, then, Nadia. What about who's getting you so giddy after the long days at the greenhouse then.*
 
 *Oh come on!*
 
@@ -198,7 +198,7 @@ Lewis sighed, and gestured for the cigarette.
 
 ---
 
-Maddy conducted her practice on the cleared diner table, with her kit from the truck. A man who had yanked out something sharp from his hand that morning brought in his boy. The finger was swollen since two days ago and the boy had slept a single digit of hours since. She disinfected her scalpel on the griddle. An earwax plug was flushed out next and the woman wanted to bring it home as a keepsake.
+Maddy conducted her practice on the cleared diner table, with her kit from the truck. A man who had yanked out something sharp from his hand that morning brought in his boy. The finger had been swollen since two days ago and the boy had slept a single digit of hours since. She disinfected her scalpel on the griddle. An earwax plug was flushed out next and the woman wanted to bring it home as a keepsake.
 
 Nadia instructed the mayor's men on how to spread the seeds over the polluted areas, and not to disturb the land for several years. It took some sweet-talking and leaflets to convince the farmers to plant the new landrace, which was far easier on the land than the old crop, for the price of yielding proportionally less.
 
@@ -214,11 +214,11 @@ Nadia and Lewis leaned on the right side of the truck, and shared a waterskin. M
 
 *The hospital, need to call something in.*
 
-*M'kay.* Lewis said, when Nadia was already starting the engine.
+*M'kay.* Lewis said, as Nadia was already starting the engine.
 
 There was static at first, and then Maddy told the other two to walk to the street corner until she waved them back. Something about confidentiality.
 
-They could see that she adjusted her collar as she walked back to that house. The fishwife in that house could see the Sun behind Maddy's hair, or rather what still showed of her hair beneath the cap.
+They could see that she adjusted her collar as she walked back to that house. The fishwife in that house could see the sun behind Maddy's hair, or rather what still showed of her hair beneath the cap.
 
 *Took you long enough.* Nadia said.
 
@@ -310,7 +310,7 @@ And so humble too, the woman thought.
 
 *How can I be of service?*
 
-She produced an envelope, as yet unsealed. There was a letter of recommendation inside, addressed to University Admissions. A few lines of handwriting each, from a skim, between navigators, shipwrights, and builders.  
+She produced an envelope, as yet unsealed. There was a letter of recommendation inside, addressed to University Admissions. A few lines of handwriting each, from a skim, between navigators, shipwrights, and builders.
 
 *I was wondering if you could add a line of yourself, or even just bring it back to the university.*
 
@@ -354,7 +354,7 @@ Maddy looked Nadia in the eyes.
 
 *Oh, but the other room—*
 
-*—really was wonderfully made, ma'am, but it seems my sisters want me close.*
+*—really was wonderfully made, ma'am, but I can't begin to imagine what these two would do to me if I defied them.*
 
 *Right, of course.*
 
@@ -364,7 +364,7 @@ Wind tousled the translucent blinds, and moonlight shone on the girls. Lewis fel
 
 The bed creaked, and a figure haunted Lewis.
 
-Nadia set her foot down onto the floor with a light *thud*, and gestured about the gun. 
+Nadia set her foot down onto the floor with a light *thud*, and gestured about the gun.
 
 *Go to sleep, Rambo.*
 
