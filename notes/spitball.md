@@ -1708,7 +1708,7 @@ Diana calls Nona *"that woman"* in the exchange immediately following (ch2 ¶105
 
 ## The night at the fishing town — session notes, 2026-08-24
 
-Design discussion for the second half of *Wild Oats* (`manuscript/10-wild-oats.md`) and probably the whole of *Ruts* (`manuscript/11-ruts.md`). Nothing here is written yet. **Terrace's calls are marked; the rest is Claude's.**
+Design discussion for the second half of *Wild Oats* (`manuscript/10-wild-oats.md`). Nothing here is written yet. **Terrace's calls are marked; the rest is Claude's.**
 
 ### The stop
 
@@ -1818,7 +1818,7 @@ Options considered, kept on the shelf:
 
 ### Open
 
-- **Word count.** `10-wild-oats.md` is at 902 words against a 1,377–1,741 posted range. Lunch + afternoon + offer + night + departure is two chapters. **`11-ruts.md` is sitting there already named** — a truck that can't get out of the ground it's parked in. If *Wild Oats* ends on the offer and the night is *Ruts*, both chapters have their title.
+- **Word count. Terrace, settled: the whole road trip stays in *Wild Oats*.** Lunch, the two hours, whatever Maddy is asked to look at, the offer, the night and the ride out all land in one chapter, which will run past the 1,377–1,741 posted range. **Not *Ruts*** — that is Diana's chapter and has been since 2026-08-12 (see above). Hands off it.
 - **Do they pay or collect?** If the stop is prepaid on the requisition they aren't customers, they're an entitlement arriving. Sets everyone's manners for the scene.
 - **What the flag in the toolbox is for** (`10-wild-oats.md:91`). Ch1 has Lewis *flagging appliances*, so a flag in a toolbox has precedent, but the reader can't tell what this one signals. Note that the flag and the gun live in the same locked box: **identification and force, on one truck, with a teenager holding the key.**
 - **Terrace's standing note:** *"will need to make Bréal turn Epsilon into his private army. Maybe bring in his pre-collapse moneyed instincts."* Constraint discovered while checking: **Bréal already has a woman at the Epsilon house** — `06-isolation.md:200`, *"Maddy already brought your woman a sample. At the Epsilon house."* Any marriage-alliance thread involving him has to account for her.

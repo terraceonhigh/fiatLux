@@ -134,9 +134,9 @@ They let them in, the handful of people on Main Street turned their heads.
 
 Nadia unfolded the leather wallet the department gave to her and produced her chit, along with a metal seal of the University. The mayor and his men took stock of their share of seeds and said the diner was expecting them.
 
-*Here, at the front. And, you are a doctor, right? Officer...* A woman in an apron welcomed them. 
+*Here, at the front for our university's officers. And, you are a doctor, right? Madam...* A woman in an apron welcomed them. 
 
-*—Maddy, and just a Warrant Nurse right now.* The bar was full of fishwives, as were the tables further from the window.
+*—Maddy, and just an Medical Assistant right now. No Madam.* The bar was full of fishwives, as were the tables further from the window.
 
 *Right, Nurse Maddy, a few of the townsfolk would like you to have a look. After your lunch, of course.*
 
@@ -152,8 +152,40 @@ The woman walked back into the kitchen.
 
 *Oh, as if you don't spread some seed of your own on your trips, Lew.*
 
-*Fuck off.*
+*Fuck off.* He said while unscrewing the cap on their disinfectant.
 
 It was not fish and chips, but rather fish and potatoes arranged together in another manner. 
 
-*Salmon chowder, for our hardworking botanists.* The woman said as she unloaded her tray.
+*Salmon chowder with biscuits, for our hardworking botanists.* The woman said as she unloaded her tray.
+
+Nadia blew smoke at the hallway, it was something milder than her morning one. *So, tell us about your girls, playboy.* 
+
+*How did you know anyways?*
+
+*Oh, I told her.* Nadia interjected, while cracking for a chunk of biscuit. *Why is this so tough to crack anyways?*
+
+*Huh?*
+
+*You know doctors read people for a living, right?*
+
+*Is there no secrets under our roof?*
+
+*You live with, like, five women, Lew.*
+
+Lewis sighed, and gestured for the cigarette.
+
+*Well, uhh, she lives on the outskirts of town, real good trapper, lives with her mom. God, and the way she looks when she chuckles.*
+
+*I love how you either love her under the sky or in her mother's home.* Nadia muttered something about men.
+
+*By Jove, what is it with y'all and my romantic life. Can't a kid working in a high-pressure environment still be tender with his sweetheart and frolick pure-of-heart style?*
+
+*Kids in high-pressure environments, yes. You, though, less so.* His sisters' voices began to blend into one another's.
+
+*Ugh.* A good sixth of the cig turned to ash in one breath. 
+
+*Hey, at least you love her, right?* Maddy's eyes had a sharpness to them.
+
+*Yeah, of course, absolutely. Where do you think the honey goes and where the jam comes from?*
+
+*'Figured, that'll do.*
