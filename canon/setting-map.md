@@ -91,6 +91,14 @@ Consequence for the graph: **the campus farm is irrigation-dependent from May to
 
 **In errand range, all named in dialogue:** the greenhouses, the apiary, the dining hall, the bakery, the hospital, the machinists, the archives, the chemists, and **the river, which has a men's part** and is where the men wash after concrete.
 
+## University country — orthography ruled 2026-08-25
+
+**Written *University country*.** Capital U, lowercase c. Terrace's ruling; it is the standard and does not vary.
+
+**What it names:** the area the university administers, which is **polis-administered rather than polis** — Terrace's distinction. Not dangerous. Roads are safe enough to send three teenagers out on a three-day circuit, and safe *because* the trucks are armed and the towns have posted guards, not instead of it.
+
+**On the page once**, in Bréal's requisition check: *"Three-day circuit inside University country, radio check-ins every eight hours"* (`../manuscript/10-wild-oats.md:33`). The bare noun *the country* appears earlier and separately — `06-isolation.md:186`, *"pickles and biscuits from the country"* — so the capitalised term reads as a formalisation of something already in the characters' mouths rather than a new coinage.
+
 ## Open adjacencies
 
 1. Is the village (ch2 ¶43) the town (ch2 ¶41), or a smaller settlement on the same circuit?
