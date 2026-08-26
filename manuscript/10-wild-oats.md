@@ -366,12 +366,8 @@ The bed creaked, and a figure haunted Lewis.
 
 Nadia set her foot down onto the floor with a light *thud*, and gestured about the gun.
 
-*Go to sleep, Rambo.*
+*gimme*
 
-He did, perpendicular to the empty bed. Nadia felt for the shells in their breech.
+He did, and passed out diagonal on the empty bed. Nadia felt for the shells in their breech.
 
 She had the watch.
-
----
-
-The trip ended up taking four and a half days.

@@ -19,3 +19,6 @@ He washed the lead with vinegar on something that was once a tablecloth, rinsed 
 It took two extension cords to wire it back to the shop. On making a connection, the machine wanted to fill itself with water, and then began to jiggle in the way that it was supposed to.
 
 Alex wrote in his name and fix on the inside of the bent-sheet panel, and wheeled it back in. The next job wouldn't be for an hour, and he mulled what to do. Then, he remembered the cards in the break room, and ceased mulling.
+
+---
+
