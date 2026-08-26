@@ -1963,3 +1963,96 @@ Terrace's question was how to do this without ending up Actaeon or a peeping tom
 So: open in medias res. A grudge the reader has no access to. Two characters referred to as if you already know they died in an earlier instalment. A rival whose entire deal is assumed rather than introduced. **Number it as an instalment**, and **end on a cliffhanger that never resolves** — the reader gets exactly one page, same as whoever was reading it on shift during a water emergency never got the next issue.
 
 The form's own furniture does the rest: a lurid instalment title, adverb-heavy attribution, everything at maximum volume. Nothing in the piece should be aware it is funny.
+
+## *Druzhina*, Ada Fleming, and the love graph — 2026-08-25
+
+### Settled, Terrace
+
+**Ada Fleming is about twenty.** Five years above Nadia, a year or two above Lewis, and already working as a **computer** in the original sense — the labour the almanac cannot exist without (*Colt* row). Old enough that an offer involving Lewis is unremarkable, old enough that a sixteen-year-old admiring her is legible without anyone deciding what kind of admiration it is.
+
+**Nadia's greenhouse person is Ada Fleming — and both lines are already posted.** `10-wild-oats.md:193`, Lewis retaliating with *"what about who's getting you so giddy after the long days at the greenhouse"*, and `:249`, ***"They did the math, I saw it."*** The second one stops being a fact about the seeding window and becomes **Nadia telling her brother she was in the room while Ada worked** — deployed to win an argument about staying the night.
+
+**And Lewis knows**, because he is the one who raised it, thirty seconds after Nadia covered for him about Diana in the same exchange. So when *Colt* has Collie shuffling shifts and sending him to the computing room with sandwiches, **he will recognise the name**, and he will owe his sister from that conversation.
+
+**Collie almost certainly does not know**, which is consistent rather than convenient: she reads people as positions, she would know Ada as a computer at the right level in the right family, and **Nadia is the child nobody fusses over.**
+
+**The Emeritus is Dr Fleming, and Maia never found him.** Ch2 ¶3 — *"Maia wanted him in the electrical engineering department, but had to search for someone in the faculty to meet with him and see his projects."* **She searched and failed.** Lewis's place in Electrical Engineering is something **Collie negotiates during *Druzhina***, pursuant to Maia's wish, years later.
+
+**Which is the two women in a single fact: Maia asked, and Collie dealt.** One of them went looking for a favour and could not find anyone to grant it. The other got it over mead in one conversation, by having something to trade.
+
+**And it means Lewis's degree is purchased.** The EE place is part of the *Druzhina* transaction, so whatever else Collie gave up in that room is what her not-son's education cost — and he will never be told the price, or that there was one.
+
+**The surname is doing a great deal of work.** *Fleming* is **Williamina Fleming**, Edward Pickering's housemaid, hired into the Harvard Computers, who classified tens of thousands of stars and found the Horsehead Nebula and was credited for approximately none of it. *Ada* is Lovelace. **Two uncredited computers in one name** — squarely the corrective device the children carry (`canon/pedigree.md:124`).
+
+**Except it now belongs to a professor emeritus.** The name that honours a housemaid-turned-astronomer is a powerful old man's family name, and his kinswoman does hand-computation for Agronomy. **The name went up the ladder and the labour didn't.**
+
+**His motive is horizontal integration.** The three children sit in **Food** (Nadia, greenhouse and apiary, under Nona in Food Sciences), **Medicine** (Maddy, hospital), and **Engineering** (Lewis, the trade and the EE slot). A house with a hand in each of the three faculties that keep people alive.
+
+### The part worth protecting
+
+**Nobody arranged that.** Lewis went to the shop instead of the department. Nadia grows things because Nona does. Maddy became a medic steaming her dying mother's syringes at ten. **The house acquired horizontal integration by accident, out of three children following their own griefs, and Collie is merely the one who noticed.** She is an opportunist, not an architect, and the distinction is most of what keeps her sympathetic.
+
+**And the Emeritus is doing exactly what she does.** Emeritus means **authority with no operational base** — the precise inverse of Collie, who has the base and no office. He has reach and no hands; she has hands and no reach. He is a first-generation problem one generation later, viewed from the other side, and he knows it.
+
+### The argument in the room
+
+**Collie plays for the houses to be inducted wholesale. The Emeritus wants the armed young men atomised, and he is right.** A *druzhina* is loyal to a person, not a state, and the whole business of state formation is breaking the unit and attaching individuals directly to the sovereign — devşirme, Versailles, the abolition of the han. Federate a militia and you acquire a faction with its own officers.
+
+**Bréal is the stake and neither of them is thinking about him.** Wholesale induction makes him an officer of the university with men; atomisation leaves him a foreman with a machine shop and nobody. He is not in the room.
+
+**Collie wants wholesale because her power runs through houses** — she has Bréal, an arrangement, and fifteen years of jam. Atomisation dissolves the client and converts her patronage into nothing.
+
+### Open
+
+- **Is Ada the Emeritus's kin?** If she is, one line in *Druzhina* detonates in *Colt* and Diana never had a chance from the moment the mead came out. If she isn't, the recommendation and the marriage are two separate favours and the causality is looser.
+- **Who asks.** Him asking is crueller: a marriage runs the bond *downward* into his house, so he can refuse the wholesale induction *because* it would give her a power base and take the match *because* it gives him one. Same principle, opposite direction, and she loses the frat and a child in one conversation.
+- **Explicit commission versus ambient arrangement.** A deal struck in ch9 gives hard causality and a much darker Collie, but it kills the deniability that makes *Colt*'s current design frightening — right now she shuffles shifts and sends sandwiches and **might just be a mother.**
+- **And keep Nadia's feeling unresolved.** Crush, hero worship, or love; she is sixteen and may not know, and Lewis reading it as romantic is Lewis, not evidence.
+
+### The beat to chase
+
+**Lewis is not Collie's to give.** Maia and Alex are alive and in that flat. She counts him — *thirdborn* means she counts him first — and she has no standing whatsoever to broker him.
+
+**So the scene is not the office. It is going home afterwards and telling Maia what she was asked** — a woman about to be sent up a mountain, hearing over the washing-up that somebody wants her son, from a friend who has already decided it is an opportunity, because it is one.
+
+### The place took blat. The degree does not. — Terrace, 2026-08-25
+
+**Collie's deal buys Lewis a place in Electrical Engineering and nothing else.** He still has to sit it, pass it, and bust his ass for years. **Blat gets you the door, never the room** — that is what informal favour networks actually did: a place at the institute, a flat, a telephone line, and no help whatsoever once you were inside.
+
+**This is load-bearing for the whole book, not a detail.** If a degree could simply be bought, the university would be a sham and not worth capturing — and the book's entire tension depends on the institution being **real**. It genuinely treats people, feeds people, runs water. The corruption is in who gets to the door, and the thing behind the door is not fake.
+
+**What it costs him, specifically.** He is a tradesman among students. Years of hot work have made him better than any of his cohort at the physical craft, and **the shop teaches what works while the department teaches why** — so he arrives strong where they are weak and badly behind on the theory and the mathematics under it. Relearning from underneath, at nineteen, in public, is the humiliation.
+
+**Which makes the *Colt* arrangement deniable in a new way.** Ada Fleming is a **computer** — arithmetic is literally her profession. If Lewis is behind on maths, then Collie shuffling shifts and sending him to the computing room with sandwiches is **plausible tutoring**, genuinely useful, and impossible to prove is anything else. And it means **Nadia's crush is teaching Nadia's brother the mathematics he needs, at Collie's arrangement**, with nobody having said a word to anybody.
+
+**And it gives Lewis a stake he currently lacks: he can fail.** Or scrape it, or take six years. The place was spent on him whether or not he earns it.
+
+**One household cost worth remembering:** he has a job and brings copper home every Friday. Years of study are years of not contributing, and that falls on the household that bought the place.
+
+### Telling the Tsiens — the scene at the Swartz table
+
+**Terrace: "would not want to be at the Swartz table when Collie tells the Tsiens what she had arranged for their son."** It is **the Tsiens**, plural, and the two of them receive it completely differently.
+
+**The parents already disagree, on the page, and have for years.** Ch2 ¶3 — **Maia** wanted him in the electrical engineering department. `09-ground.md:207` — **Alex** is proud of him in the trade: *"he knows a lot already, brings himself back alive from the trucks. Just, is a bit more willing to work on hot wires than I want him."*
+
+So one announcement lands twice. **Maia gets the thing she wanted, from someone else, on terms she did not set, and now owes.** **Alex is told his son is leaving the trade**, and nobody asked him.
+
+**And he will not object**, which is the whole horror of the scene. `09-ground.md:131` has Collie needing to tell him to stop calling her *Doctor Swartz*; he answers *"...can never be too polite"* and calls her **ma'am** later in the same conversation. He will thank her and go back to his backlog. **Not an argument — a man being told what is happening to his son by a woman he defers to, while his wife is grateful.**
+
+**The layer underneath — Terrace, settled: Alex got his degree, and the experience, and then the world ended.** `09-ground.md:117` has him arriving as a student, the wok bought three months off the plane, *"for the train back to campus."* He finished. He worked. **He is not a man who lost his chance; he is a man whose credential stopped meaning anything**, which is worse and much more specific. The standard skilled-migration path, done correctly and in order, and then the certifying world evaporated.
+
+**Which makes his deference informed rather than humble.** He calls a classics lecturer *Doctor Swartz* and **ma'am** while himself holding a degree and years of professional practice. He is not deferring from below in qualification — **he is deferring because he understands, better than anyone in that room, that paper no longer confers standing and patronage does.** He has the paper. She has the standing.
+
+**Corrected 2026-08-25 — Terrace. Collie does not withhold position from him; she pampers him, and the deference is his own.** *Ground*'s office scene is the evidence, and it runs the other way from an earlier reading in this file. She dismantles the formality herself — *"By Jove, Alex! How long have we eaten from the same loaf, just Collie is fine."* She seats him, gives him tea and the intact chair, asks his **professional opinion by name** and takes the answer both times without argument, routes authority to him and to Lewis (*"does Lewis have an opinion?"*), works around his schedule, goes to Epsilon to fetch him six men, checks she is not taking too much of his time, asks after his son **in his own frame** — the trade, not the department — and then produces the twenty-four-proof and talks him into drinking with her. *"It was not just one."*
+
+**He is the one maintaining the distance.** *"...can never be too polite."* *"Yes, ma'am."* And `09-ground.md:195`: **"Collie let that slide."** She notices and chooses not to fight it that time.
+
+**So the accurate reading is not that she gives him no position — it is that she cannot.** There is no office to hand a fifty-year-old whose credential was voided by the disappearance of the body that issued it. What she can give is the chair, the wine, the respect, the work and her company, and she has given all of it generously for a decade.
+
+**Which makes the *Druzhina* news harder rather than easier.** She got his son a place in a department. **There is no equivalent gift available for Alex and there never will be.** He will be grateful, and she will know exactly what she could not do.
+
+**And he can do the mathematics himself.** If the degree is electrical engineering — which Maia wanting Lewis in *that* department implies the family knows — then **Lewis does not need Ada Fleming to tutor him.** Which does not weaken the *Colt* arrangement, it sharpens it: the tutoring is deniable to everybody except the one man in the household who could have done it, and he will notice, and he will say nothing.
+
+The Bell inversion without a word: named for history's most successful claimant, holding the qualification, credited with nothing, grateful.
+
+**Staging question worth deciding: is Lewis in the room?** One table, and ch10 has the whole household round it with cider. If he is there, he learns his own future from his not-mother in front of his parents. If she tells the adults first, the household knows before he does — which is the same household that has been keeping Diana from Maia for years.
