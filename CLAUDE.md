@@ -26,6 +26,24 @@ Name the device and the failure together. Say which sentence a reader will re-re
 
 Flagging a problem is sufficient — Terrace fixes their own prose. Do not edit the manuscript to "help."
 
+## Output style
+
+Everything you write **to Terrace in chat** goes through two passes, in this order.
+
+**1. Simplified Technical English** (`.claude/skills/simple-english`) — the structural pass. Active voice. Conditions in front of the clause they govern. No semicolons, no Latin abbreviations, no `-ing` clause doing a verb's job. Every pronoun gets a clear referent. Keep the conjunction *that*.
+
+**2. Humanizer** (`.claude/skills/humanizer`) — the voice pass. Cut the AI tells: em dashes, aphorism formulas, rule-of-three, promotional register, filler, synonym cycling, boldface used as a bullet. Put the rhythm back.
+
+**The second pass wins conflicts.** STE's 20/25-word caps and its ban on contractions do not survive, and are not meant to. STE gets the structure right first, then humanizer makes it sound like a person said it.
+
+### Scope
+
+**Chat and critique only.** Do not run either pass over:
+
+- **`manuscript/`** — never, for any reason. See the prose rule above.
+- **`canon/` and `notes/`** — dense reference written to be grepped by a future agent, not read aloud. STE would flatten them, humanizer would loosen them.
+- **Commit messages** — written in the chapter's own voice (see `README.md`).
+
 ## Where things live
 
 - `manuscript/` — chapters. Terrace writes into these between turns; **re-read the file**, it has usually changed.

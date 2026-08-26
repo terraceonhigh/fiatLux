@@ -2039,7 +2039,11 @@ So one announcement lands twice. **Maia gets the thing she wanted, from someone 
 
 **And he will not object**, which is the whole horror of the scene. `09-ground.md:131` has Collie needing to tell him to stop calling her *Doctor Swartz*; he answers *"...can never be too polite"* and calls her **ma'am** later in the same conversation. He will thank her and go back to his backlog. **Not an argument — a man being told what is happening to his son by a woman he defers to, while his wife is grateful.**
 
-**The layer underneath — Terrace, settled: Alex got his degree, and the experience, and then the world ended.** `09-ground.md:117` has him arriving as a student, the wok bought three months off the plane, *"for the train back to campus."* He finished. He worked. **He is not a man who lost his chance; he is a man whose credential stopped meaning anything**, which is worse and much more specific. The standard skilled-migration path, done correctly and in order, and then the certifying world evaporated.
+**The layer underneath — Terrace, settled: Alex got his degree, and the experience, and then the world ended.** `09-ground.md:117` has him arriving as a student, the wok bought three months off the plane, *"for the train back to campus."* He finished. He worked.
+
+**And the degree did not stop mattering — it is one of the few that got *more* valuable.** A collapse deletes finance, marketing, retail, most administration, and the humanities faculty. It does not touch electrical engineering; it makes it essential. **The voided credential in this household is Collie's** — a classics adjunct teaching colonialism without Said, in a world with no undergraduates left to teach.
+
+**So the inversion runs the other way and it is much better: he holds the live qualification and she holds all the standing.** The difference between them is not value, it is **conversion**. She took a dead credential and turned it into patronage, a household, a fraternity, and a seat opposite an emeritus. He took a live one and kept doing the work. **She converts; he executes.** Neither is a failure, and the household needs both.
 
 **Which makes his deference informed rather than humble.** He calls a classics lecturer *Doctor Swartz* and **ma'am** while himself holding a degree and years of professional practice. He is not deferring from below in qualification — **he is deferring because he understands, better than anyone in that room, that paper no longer confers standing and patronage does.** He has the paper. She has the standing.
 
@@ -2047,7 +2051,11 @@ So one announcement lands twice. **Maia gets the thing she wanted, from someone 
 
 **He is the one maintaining the distance.** *"...can never be too polite."* *"Yes, ma'am."* And `09-ground.md:195`: **"Collie let that slide."** She notices and chooses not to fight it that time.
 
-**So the accurate reading is not that she gives him no position — it is that she cannot.** There is no office to hand a fifty-year-old whose credential was voided by the disappearance of the body that issued it. What she can give is the chair, the wine, the respect, the work and her company, and she has given all of it generously for a decade.
+**So the accurate reading is not that she gives him no position — it is that there is no office left to give anyone.** The university has departments and the university has patronage, and what it no longer has is a route from *qualified* to *placed*. What she can give is the chair, the wine, the respect, the work and her company, and she has given all of it generously for a decade — **and she is giving it to a man who is, by any technical measure, as much a prize as she is.**
+
+**Which reframes the founding of the household.** Ch1 ¶75 — *"Maia and her husband came to Collie's door for Christmas and did not leave until April."* That is not shelter taken in. **It is a coalition of capability**: classics and standing, astronomy and computation, food science, electrical engineering — four university professionals pooling one flat, with Collie supplying the housing and the affiliation and the Tsiens supplying two of the most applicable skill sets on the continent. **And the three children inherited the four domains.**
+
+**One consequence for *Druzhina*: in a horizontal-integration frame, the Engineering hand is Alex, not Lewis.** Lewis is a trainee with a place he has not sat yet. Alex is a degree-holding, experienced, practising electrical engineer. If Dr Fleming is counting faculties, he is counting the father.
 
 **Which makes the *Druzhina* news harder rather than easier.** She got his son a place in a department. **There is no equivalent gift available for Alex and there never will be.** He will be grateful, and she will know exactly what she could not do.
 
