@@ -62,4 +62,4 @@ With every reach, Maia rummaged the hamper of dirty clothes longer than was nece
 
 *Hand me those pants and I will tell you.* Nona extended her arm to Maia.
 
-Some time after that, the women made Collie sing, just sing whatever. She began with something that was made with an 808 and an inordinate amount of autotune. The women joined in, one singing the lyrics the other had forgotten. By the time the hamper was two-thirds empty, they had ran out of songs from that era. Collie sang what she remembered of an English translation of the Odyssey, and filled the gaps with prose translated from Homeric Greek. The women hummed along. 
+Some time after that, the women made Collie sing, just sing whatever. She began with something that was made with an 808 and an inordinate amount of autotune. The women joined in, one singing the lyrics the other had forgotten. By the time the hamper was two-thirds empty, they had ran out of songs from that era. In their silence, a woman from another house sang something in Arabic, and the three hummed along. 
