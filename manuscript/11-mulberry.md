@@ -28,23 +28,23 @@ Maia moaned about how the hospital just had to take over the laundromats in the 
 
 Collie was weighed down on one side more than the other, by the washing board and their clothesline. The soap was a powder in a canvas pouch.
 
-The river seemed to flow okay. The men had already bathed in the morning and the women won't come for a few more hours. It was the best time of day to do laundry, as the other wives attested by their presence. Someone nodded and greeted the three with *Madams.*
+The river seemed to flow okay. The men had already bathed in the morning and the women wouldn't come for a few more hours. It was the best time of day to do laundry, as the other wives attested by their presence. Someone nodded and greeted the three with *Madams.*
 
 *Come on, let us set up the clothesline first. We won't want to after bending down for the wash.* Nona commanded.
 
-The clothesline was made, in part, from chunks of the fifth floor, after one side snapped from age some time ago. It had hinges to fold its legs in, should the family ever want to move it off the rooftop. Alex made it look so easy. They began with Nona setting a bucket into the river and pulling up water almost to the brim. The dirtiest pieces were to sit in there until the other pieces were done. The other two buckets were sprinkled with soap, she told the other two to start with the nice clothes.
+The clothesline was made, in part, from chunks of the fifth floor, after one side snapped from age some time ago. It had hinges to fold its legs in, should the family ever want to move it off the rooftop. Alex made it look so easy. They began with Nona setting a bucket into the river and pulling up water almost to the brim. The dirtiest pieces were to sit in there until the other pieces were done. The other two buckets were sprinkled with soap, she told the others to start with the nice clothes.
 
-Collie took out her nice dress, the wine-dark one she wore when she delivered gifts. Nona ran the line between the two poles of their clothesline, and tied with a knot that neither Maia nor Collie could name. The tub was built for stepping in, but Collie used her hands instead. Nona received the sopping dress with two hands, rinsed it in the river, and squeezed it dry not in fistfuls but a folded palm.
+Collie took out her nice dress, the wine-dark one she wore when she delivered gifts. Nona ran the line between the two poles of their clothesline, and tied with a knot that neither Maia nor Collie could name. The tub was built for stepping in, but Collie used her hands instead. Maia received the sopping dress with two hands, rinsed it in the river, and squeezed it dry not in fistfuls but a folded palm.
 
 Maia's and Nona's best clothes were back on the third floor, in a closet. What was here, though, was an abundance of graphic tees, jeans, and dress shirts, beyond every colour the children could imagine.
 
 With every reach, Maia rummaged the hamper of dirty clothes longer than was necessary for grabbing just the topmost one. *Now I am sure that Maddy packed my cropped hoodie for her trip out.*
 
-*I am literally rinsing a hoodie you stole off a guy you only dated for three months.* Nona said. The women had rearranged themselves relative to the river for better conversation.
+*I am literally washing a hoodie you stole off a guy you only dated for three months.* Nona said. The women had rearranged themselves relative to the river for better conversation.
 
 *It's her size now, isn't it? They grow up so fast.* Collie said to no one in particular.
 
-*I don't have the heart to tell her, but pairing that with the light jeans really should still call for capital punishment.* Maia drowned her pants further into the tub.
+*I don't have the heart to tell her, but pairing that with the light jeans really should still call for capital punishment.* Maia drowned a t-shirt further into the river.
 
 *I don't think Missus Hoodie-and-Leggings should have that strong a fashion opinion.* Collie had the home-field advantage.
 
@@ -56,10 +56,10 @@ With every reach, Maia rummaged the hamper of dirty clothes longer than was nece
 
 *Shame they wore out, though. Pajama pants just don't have the same feel.* Maia said.
 
-*Yeah... it was all spandex when we were their age, now everyone's all baggy all the time. Nobody shows off properly anymore.* Nona wrung the hoodie dry. There was half a logo left, of a band none of them listened to.
+*Yeah... it was all spandex when we were their age, now everyone's all baggy all the time. Nobody shows off properly anymore.* Nona wrung the soap free of the hoodie. There was half a logo left, of a band none of them listened to.
 
 *Are we becoming our parents?* Maia asked, but not really.
 
-*Hand me those pants and I will tell you.* Nona extended her arm to Maia.
+*Rinse this hoodie and I will tell you.* Nona extended her arm to Maia.
 
-Some time after that, the women made Collie sing, just sing whatever. She began with something that was made with an 808 and an inordinate amount of autotune. The women joined in, one singing the lyrics the other had forgotten. By the time the hamper was two-thirds empty, they had ran out of songs from that era. In their silence, a woman from another house sang something in Arabic, and the three hummed along. 
+Some time after that, the women made Collie sing, just sing whatever. She began with something that was made with an 808 and an inordinate amount of autotune. The women joined in, one singing the lyrics the others had forgotten. By the time the hamper was two-thirds empty, they had run out of songs from that era. In their silence, a woman from another house sang something in Arabic, and the three hummed along.
