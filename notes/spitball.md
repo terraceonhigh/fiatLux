@@ -1927,3 +1927,39 @@ Terrace's question was how to do this without ending up Actaeon or a peeping tom
 **Register note:** this is the book's first title that names a **mood** rather than a mechanism (*Isolation* names a valve and a woman; *Notifiable* names the failure she cannot file). Defensible precisely here, because this is the one chapter with no mechanism.
 
 **One condition: put a mulberry on the page.** Every other title in the book is physically present in its chapter — a tree on the bank, or a stain in the basket that nobody gets out.
+
+### Rationing and the machine question — settled 2026-08-25
+
+**No DIY washer in the chapter. Terrace's call.** The barrel-and-frame hand washer was worked through and dropped. Recorded because the reasoning is reusable: **a machine the household owns dissolves the chapter's engine.** *Mulberry* runs on Collie having no move available, and a contraption her husband built is a move. Secondary objections, if it ever comes back: turning up at a common washing place with a private machine is a status display she manages carefully, Alex's hours are the household's most tradeable asset, and a 30-gallon drum is wanted for water, brining and fermentation before it is wanted for laundry.
+
+**Where the design does belong, if ever: the country.** A town with no laundromat and no medical rotation has none of those objections, and a barrel washer is exactly the low-tech capital transfer an expeditionary arm operating under *render aid where possible* would hand out, on a truck a Tsien boy is already driving.
+
+**Instead: the drought ran extra dry this year.** That is why **even the Swartzes** cannot get laundromat time — the rationing bites a tier further up than usual, and Collie's standing genuinely does not reach. Nobody is being wronged and there is nothing to appeal. It also tightens *Wild Oats* from the other end: a worse drought makes agronomy more anxious to get seed down before the break, which is why three trucks went out.
+
+**And they complain, and agree to pester Lewis about it when he gets back.** Not Alex — **Lewis**, which is the better instrument and the truer one:
+
+- It is the only lever three women actually have over that boy. He is Maia's son, Collie's ward since twelve, and Nona's nothing-in-particular; all three have a claim and none has authority, so nagging is the whole mechanism.
+- It routes around the economics. You do not pay a nephew, and it costs Alex no billable hours.
+- **It shows the household's real power structure** — no requisition, no chit, no negotiation, three women over a washboard deciding a teenager is going to get talked at until something happens.
+
+**Free and unspoken:** they plan this while Lewis is, at that hour, sitting on the floor of a stranger's house with the family shotgun. The reader knows and they do not. Same weekend, both ends — do not point at it.
+
+### *Pulp* — stubbed 2026-08-25, sits after *Skywave*
+
+**Terrace: a fizzy palette cleanser against an Ishiguro apocalypse.** Ozzie petro-barbarians, big rigs, bigger guitars. **Camp, and never explained** — the book never says whether it is true or fiction inside the story.
+
+**The venue is already on the page and does not need building.** `06-isolation.md:3` has Oyá's professor reading *"something that was definitely not from the university library"*, and `:17` has her folding a page out of **the extracurricular publication** — on shift, during a water emergency. Somebody on that campus reads trash.
+
+**Precedent for a chapter that is an artifact rather than a scene:** *Fortification* is a recipe sheet with no POV, printed by University Press, **503 words**. So: no frame, no character reading it aloud, no introduction. Print the thing and let the register tell the reader what it is.
+
+**Why unexplained is load-bearing rather than coy.** The book has been scrupulous — real evaporation rates, real Hall sensors, real triage. Petro-barbarians asserted as fact mean every later chapter has to coexist with war rigs. Left undecided, the cost is zero and the unease is free. **Do not resolve it later.**
+
+**Three craft calls.** Keep it **short** — a palette cleanser at 1,700 words is a chapter; at 600 it is a joke that lands. Place it **immediately after** *Skywave* burns the observatory and puts two bodies in a truck, because that is where the whiplash pays. And play it **dead straight** — no winking, no authorial elbow; the comedy is that a careful book suddenly isn't, and it dies the instant the prose signals it knows.
+
+**Title taken from Terrace's own italics.** *Pulp* also lands in the book's usual register by accident — paper pulp, fruit pulp, the genre — and it is next door to *Mulberry*, whose bark is a papermaking fibre. Renaming is one `git mv`; the Archive never sees filenames.
+
+**It should read like chapter seven of something.** *(Terrace, 2026-08-25.)* That is the whole trick, and it is what separates an artifact from a bit — **a parody written *for* this book announces itself; a fragment of a serial that plainly had eleven chapters before it does not have to.**
+
+So: open in medias res. A grudge the reader has no access to. Two characters referred to as if you already know they died in an earlier instalment. A rival whose entire deal is assumed rather than introduced. **Number it as an instalment**, and **end on a cliffhanger that never resolves** — the reader gets exactly one page, same as whoever was reading it on shift during a water emergency never got the next issue.
+
+The form's own furniture does the rest: a lurid instalment title, adverb-heavy attribution, everything at maximum volume. Nothing in the piece should be aware it is funny.
