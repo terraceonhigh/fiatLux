@@ -2064,3 +2064,24 @@ So one announcement lands twice. **Maia gets the thing she wanted, from someone 
 The Bell inversion without a word: named for history's most successful claimant, holding the qualification, credited with nothing, grateful.
 
 **Staging question worth deciding: is Lewis in the room?** One table, and ch10 has the whole household round it with cider. If he is there, he learns his own future from his not-mother in front of his parents. If she tells the adults first, the household knows before he does — which is the same household that has been keeping Diana from Maia for years.
+
+### Weighting: garment technology gets the screen time — Terrace, 2026-08-25
+
+**The spotting stays.** It is good plot. But it is not what the chapter is about, and it should not take the most room. **A mother finding evidence of her daughter's puberty in the wash exists in a thousand novels. What does not exist anywhere is a 2020s wardrobe outliving the elastane while the people who loved it are still alive.** That is the chapter's real subject and it deserves the majority of the page.
+
+**The load-bearing material fact: knitting is the only stretch left.** Ribbing grips through loop geometry rather than fibre chemistry, so it survives the death of elastane intact. Hand-knit cuffs, waistbands, socks. **Which makes Nona the household's source of elasticity**, not merely its mender, and `01-continuity-test.md:3` already has Collie in a cardigan she knitted. It also makes gripping garments expensive in handwork, so **socks that stay up are a status marker** and the Swartz children have good ones without knowing why.
+
+**The taste question, which is the better half.** The children rebuild **2020s shapes out of 1890s technique**. Not pastiche, not a return to anything. They want a high waist and a fitted line because that is what a fitted line looks like to them, and they get it the way people got it for four centuries before elastic: lacing, wrap ties, darts, princess seams, bias cut for drape. Which is exactly what a tape measure is for.
+
+**And closure becomes visible.** Fast fashion hid its fastenings inside the stretch. Without stretch, every ankle tie and waist lace and belt sits on the outside doing visible work, and a generation raised on that reads it as ornament rather than compromise.
+
+**Evidence already on the page for which way the kids lean:** Maddy took Maia's cropped hoodie. She reached past everything in that flat for the pre-collapse fitted thing.
+
+### Beats available, ranked
+
+1. **The tape measure.** Still unspent, and it is where the garment thread and the seam-taken-in beat meet.
+2. **Every wash costs colour.** Natural dye reaches earths and one good blue. Synthetic dye reached everything, so the pre-collapse clothes are the only bright things left, and they fade a little with each washing. **The activity of the chapter is slow consumption of an unreplaceable stock**, and nobody in it has to say so.
+3. **The dead-elastic repair.** Unpick a perished waistband casing, thread a drawstring. Maintenance on the surface, a decision about how the garment will look from now on underneath. Nona's work.
+4. **Sorting by fibre is sorting by fate.** Wool gets cold water and no agitation or it felts permanently. Cotton takes beating. Synthetics do not absorb and dry fast. A competence display that doubles as an inventory of what survived.
+5. **The kids' alterations arriving in the hamper.** Something cropped, taken in, re-hemmed, or given ties. Culture discovered by laundry, and it feeds the fitted-versus-baggy argument already written.
+6. **Visible versus invisible mending.** Whether a repair is meant to be seen is a taste decision, and the two generations would not agree about it.
