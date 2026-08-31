@@ -348,13 +348,13 @@ The woman sealed the envelope. *Just know that, whatever happens, a bed would be
 
 Downstairs, Nadia hauled two briefcases from the truck cab to the foyer. Something warbled through the stairwell and communicated the general idea of Lewis-Luggage-Now. The two brought the briefcases and themselves up. Nadia was brought to the room Maddy sat in, and Lewis was being guided to the adjoining one.
 
-Maddy looked Nadia in the eyes.
+Maddy looked Nadia in the eyes. Nadia's head nodded half a degree.
 
-*Um, madam, actually, we would like to have Lewis in the same room? It's how we slept growing up.* Nadia answered.
+*Um, madam, actually, we would like to have Lewis in the same room? It's how we slept growing up.* Nadia lied.
 
 *Oh, but the other room—*
 
-*—really was wonderfully made, ma'am, but I can't begin to imagine what these two would do to me if I defied them.*
+*—really was wonderfully made, ma'am, but I can't begin to imagine what these two would do to me if I defied them.* Lewis said truthfully.
 
 *Right, of course.*
 
@@ -366,8 +366,12 @@ The bed creaked, and a figure haunted Lewis.
 
 Nadia set her foot down onto the floor with a light *thud*, and gestured about the gun.
 
-*gimme*
+*Go to sleep, Rambo.*
 
-He did, and passed out diagonal on the empty bed. Nadia felt for the shells in their breech.
+He did, perpendicular to the empty bed. Nadia felt for the shells in their breech.
 
 She had the watch.
+
+---
+
+The trip ended up taking four and a half days.
