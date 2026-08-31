@@ -94,7 +94,7 @@ Maddy nursed her cup. Collie put the iron down, poured more of the tea, and went
 
 *Who was she to you, mom?*
 
-*She was the smarter one, if you'll believe me. She wrote the water standards when she was not teaching.*
+*She was the smarter one, if you'll believe me. She wrote the book on hydrology when she was not teaching.*
 
 *And they couldn't find a better vial for her.*
 
@@ -146,19 +146,20 @@ Collie rinsed her hands, even though they were clean.
 
 The mushroom dissolved its flavour into the oil.
 
-*What was her last name?*
+*What was her name?*
 
 Collie deglazed with a spoonful of water. The tap was slow.
 
-*What matters is that you are a Swartz now.*
+*What matters is that you are mine now.*
 
 *I want to know.*
 
 Collie moved the mushrooms to one side of the pan, and did not look at her thirdborn child.
 
-*Richards, her name was Alice Richards, she was the smartest woman I have ever known, take out and mash the potatoes.* She set down the spatula, and grabbed the bowl of whisked eggs. Maddy took the pot off the stove and took out the potatoes. She was generous with the ramekin of butter.
+*Alice, her name was Alice Swartz, she was the smartest woman I have ever known, take out and mash the potatoes.* She set down the spatula, and grabbed the bowl of whisked eggs. Maddy took the pot off the stove and took out the potatoes. She was generous with the ramekin of butter.
 
 *Thank you.*
+
 Maddy set down a cloth where Collie then set down the pan. She gave Collie the nice bowl of potatoes she smoothed with the spoon, instead of the one she mashed in. Her bowl had the potato up to the edge on the left side and dug out on the right.
 
 *She, she told me to protect you, and, it was the only way to make sure that the university knew you were mine.*

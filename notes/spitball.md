@@ -2085,3 +2085,287 @@ The Bell inversion without a word: named for history's most successful claimant,
 4. **Sorting by fibre is sorting by fate.** Wool gets cold water and no agitation or it felts permanently. Cotton takes beating. Synthetics do not absorb and dry fast. A competence display that doubles as an inventory of what survived.
 5. **The kids' alterations arriving in the hamper.** Something cropped, taken in, re-hemmed, or given ties. Culture discovered by laundry, and it feeds the fitted-versus-baggy argument already written.
 6. **Visible versus invisible mending.** Whether a repair is meant to be seen is a taste decision, and the two generations would not agree about it.
+
+## *Druzhina*'s actual shape — session of 2026-08-30
+
+Design work for the *Druzhina* chapter and its consequences, assembled across a long conversation. Terrace's calls are marked; the rest is Claude's.
+
+### It is one day, not weeks apart — Terrace, correcting an earlier draft of this reasoning
+
+**`09-ground.md:37` is the anchor: "Collie put her good dress back in the wardrobe and washed off her makeup before the sweat did it for her."** That is the same dress she was ironing at dawn in `07-boil-water.md`, and the same makeup she put on in that scene thirty lines before handing Maddy the compacts. **So *Ground*'s afternoon is *Boil Water*'s day.**
+
+The sequence: before dawn, Maddy comes down the ladder with a nightmare, Alice Richards is named for the first time, and Collie irons the good dress for *"a meeting with the Emeritus today"* (`07-boil-water.md:31`). Midday, *Druzhina* — the office, the mead, the trade. Afternoon, she comes home to Alex and Lewis walling the hallway, and the dress goes back in the wardrobe. That night, `09-ground.md:53`, Maia to Alex: **"The committee talked today."** Collie spends the evening in the flat with the deal already struck and says nothing.
+
+### Why Fleming, and why atomisation is correct — recap, still standing
+
+A *druzhina* is loyal to a person, not a state. State formation is the business of breaking the unit and attaching individuals directly to the sovereign — devşirme, Versailles, the abolition of the han. Federate a militia and you acquire a faction with its own officers. Collie plays for the houses to be inducted wholesale, because her power runs through houses. Fleming wants the armed young men enrolled as individuals, and he is right, and Bréal is the stake neither of them is thinking about.
+
+### Maia's posting was not the ask — it was the sweetener, and it is not enough
+
+**Maia was never Fleming's request.** He needed the relocation done and needed the person who could judge which instruments and logbooks travel. Collie came in for the small thing — the EE place for Lewis, pursuant to Maia's own old, failed search (ch2 ¶3: *"Maia wanted him in the electrical engineering department, but had to search for someone in the faculty to meet with him and see his projects"* — she searched and did not find one) — and **offered Maia's expertise as part of what she could supply**, the way she has offered people before (six men from Epsilon for the wall; Maddy carrying a jam sample into Bréal's household mid-negotiation). Maia's posting was also going to happen regardless: she is the one who rotates, the Lacks parents live up there permanently and cannot be sent anywhere, and she has a husband and son at the bottom who ensure she comes back rather than stays.
+
+**Terrace's correction: the trade as first drafted was too cheap for what Collie received.** A permanent place in one of the few live technical faculties, which Maia could not buy by asking, cannot be paid for with a few months of somebody else's labour thrown in as a makeweight. **The price has to be Collie's own, and it has to be things that do not cost her that afternoon:**
+
+- **Surety on herself, in Fleming's own vocabulary.** She asks for Epsilon to be recognised as a body; he refuses, and instead makes *her* personally answerable for the brothers' conduct — *krugovaya poruka* applied to one woman, all the liability of a house with none of the standing.
+- **An unbounded medical claim.** He is old. The claim has no end date because nobody knows how badly or how long. This is not hers to give — it is Maddy's future, spent in a room Maddy is not in.
+- **She delivers the atomisation herself, in person, to Bréal.** Not conceded in an office — enacted. Fifteen years of jam and cake and mead spent persuading his own men to enroll individually and dissolve the thing she built with them. He would know exactly who did it to him. **Do not price this on the page** — the chapter is two academics and a bottle; the bill arrives later. The instrument is already written: ch2 ends with cake baked with huckleberry jam, sent to Bréal via Lewis. **The cake stops.**
+
+### Marriage: Nadia and Lewis's idea, not Fleming's — Terrace, settled (option B over option A)
+
+**Rejected: Fleming betrothing Ada to Lewis as a treaty clause.** Colder, more decisive, forces a real scene (Lewis is not Collie's to give — she would have to go home and tell two living parents), but flattens Nadia into a casualty of a room she was not in, and repeats the dynastic-marriage-as-clause move too straightforwardly.
+
+**Taken: Nadia proposes it, with Lewis, for her own reasons dressed as a household reason.** She cannot marry Ada. Lewis can. Proposing the match is how she gets Ada into the building by the only door that exists. **Lewis knows exactly what she is doing** — he is the one who raised the greenhouse fondness himself in `10-wild-oats.md:193`, thirty seconds after Nadia covered for him about Diana in the same exchange, and he owes her from that trade. Whether he takes it, refuses it, or lets it happen without a word is the engine, and it needs no matriarch in the room. **Diana loses to a plan made by her boyfriend's little sister, not to institutional logic** — worse, and truer.
+
+**Sequencing matters: a trade-school boy is not a match for an emeritus's kinswoman; a credentialed engineer is.** So the EE place has to be bought first, in *Druzhina*, and the marriage only becomes proposable a year or two later **because of** what Collie paid for. The degree turns out to have purchased something nobody was shopping for.
+
+**The stated reason is real and is not the reason: a chronometer.** House Swartz would hold, across its own people, every piece needed to keep time without the federal signal *Skywave* takes away — Alex and Lewis (and Epsilon's shop, already spinning small turned parts in `10-wild-oats.md:1`) for the mechanism, Maia for rating it off stellar transits, Ada for the almanac and the arithmetic. **Nadia can defend this argument to Lewis, to Collie, and to herself, and may genuinely not be able to tell which motive is doing the work.** The book's own device — a plausible institutional case laid over a private want — run by a sixteen-year-old on her own head, with nobody outside her checking the seams.
+
+**Fleming accepts for a mirrored, equally undisclosed reason: his kinswoman's work becomes the polis's timekeeping authority one generation down**, exactly as moving the observatory did in *Skywave* (see below). Same play from both sides, neither says it, and both are correct.
+
+### Poisons to hemp — Fleming's demotion, and Nadia's own calculus on top of it — Terrace, settled
+
+**Fleming reassigns Nadia away from the pharmacopoeia.** `06-isolation.md`'s telegram already puts greenhouse 1 on full water for *Atropa belladonna, Digitalis purpurea, Papaver somniferum* among others — three of five lethal, and poppy is already a currency (ch2's rubber gloves cost two vials of it; it is what eased Alice Richards's death). A house that holds a hand on the analgesic supply, on food, and on a hospital apprentice can decide who suffers, and Collie has already twice traded medical access for favour. Any competent institutionalist breaks that concentration up. **This is a real demotion and it costs them a genuine asset**, not a kindness.
+
+**He hands her hemp instead, as an administrative reassignment, not a calculated gift.** Fibre and food crops read as the safe, boring lane to put a demoted grower in.
+
+**Terrace, settled: Fleming does not know what hemp brings. Nadia works it out herself and goes and gets the billet on purpose.** She is the one who does the calculus — cordage, netting, sailcloth (canvas is named for cannabis), oakum for caulking, seed oil for lamps and varnish — one crop underwriting a whole fleet, and pairs it with what Lewis and Ada could build and what a shipyard already exists in the fishing town from *Wild Oats*. **The demotion and the naval pivot are two different people's ideas, landing in the same crop by coincidence Nadia is quick enough to use.**
+
+**Structural joke underneath, unspoken: a crew at sea is the one body Fleming's doctrine cannot reach.** Attaching individuals directly to the centre requires the centre to have hold of them. He dissolves a fraternity on shore and licenses, by accident, the one kind of body his instrument has no purchase on at all.
+
+**Open:** where the household's few retained herbs live — `10-wild-oats.md:61` says *"the garden on fifth floor"*, `11-mulberry.md:35` says the clothesline (and by implication other household infrastructure) is on the rooftop. Worth settling which holds the herb patch, since the text currently implies two garden sites.
+
+### On scale — Terrace's own check, worth keeping in view
+
+**House Swartz is very minor**, and "house" is not their own word for it — Bréal says *princesses*, Vavasseur says *"valuable university assets and bachelorettes."* One flat, a walled corner of a common room, a greenhouse patch and some hives, no land, no capital, and Collie holds no office at all. The whole nobility is roughly fifteen years old and everyone in it is improvising a form half-remembered from books, including Fleming. Nobody keeps a register of precedence. **Keep this in front of every scene above** — the stakes are enormous to the people inside them and genuinely small in absolute terms, which is the register the book has run in from the start.
+
+## Banked for morning: Alice Richards becomes Alice Swartz — 2026-08-30, not yet executed
+
+**Terrace's call, queued, nothing written yet.** Alice Richards is retconned into **Alice Swartz** — Collie's sister, making Maddy Collie's **biological niece** rather than an unrelated child absorbed by affiliation.
+
+**Terrace's own framing: "the first act of Collie's claiming being erasing her brother-in-law."** Read against the existing text, this means Richards was the *father's* married name — Alice, born a Swartz, took her husband's name; Maddy was born Maddy Richards through him. Collie's renaming her to Swartz is therefore not inventing a name from nothing. It is **erasing the father's line and restoring the child to the blood name she and Alice already share.** Erasure and restoration in the same act.
+
+**Checked before banking, no collision found:**
+- No sibling for Collie is established or precluded anywhere in ch1 or elsewhere. The field is open.
+- Two sisters holding two different married surnames (Alice Richards, Coelia Swartz) is unremarkable and needs no further explanation.
+- `07-boil-water.md:137`, Collie and Alice naming Maddy together *"when she was carrying you"* — already reads as two women extremely close during the pregnancy; a sister reads at least as well as a friend, arguably better.
+- `07-boil-water.md:129`, *"bury her next to your dad"* — the father is dead and unnamed (`canon/pedigree.md:122`, wholly unwritten), which is untouched by this and still open to fill in later.
+- `07-boil-water.md:216`, the compacts *"used to be grandma's"* — works either way (Collie's own grandmother or a mother shared with Alice) and needs no resolution.
+- **Does not touch** the *Skywave* comparison at `canon/pedigree.md:46` (Maddy chose Swartz; the Lacks apprentice refuses a rename) — that contrast survives intact, since Maddy is still choosing to keep a name that was, in this reading, always partly hers by blood as well as by Collie's claim.
+
+**Still to decide when this is executed:** whether *Boil Water*'s "What was her last name?" scene needs rewriting given the new relation, whether "aunt" language anywhere in the book (Nadia calling her *Auntie Collie*, ch1 ¶17) now needs to be checked for accidental literal truth versus the found-family usage it currently carries, and whether Collie ever calls Alice "sister" on the page or the relation stays implicit. **Do not touch manuscript or canon until Terrace returns to this.**
+
+### Addendum, same night: Fleming's mistaken chivalry
+
+**Terrace: Fleming mistakenly refers to Maddy as Collie's one blood daughter, and says he will not stoop so low as to damage *her* prospects.** Only works once Alice is Collie's sister — before that retcon this is a plain error with nothing under it; after it, **Fleming has caught a real blood trace in the paperwork and misjudged the degree by one generation** (niece, not daughter).
+
+**This mirrors Bréal's error in *Wild Oats* from the opposite direction.** Bréal reads three mismatched bodies standing together and infers *no* real kinship where blood in fact runs through the household in more than one place. Fleming reads documents and infers kinship *closer* than what is actually there. Same failure — correct method, competent inference, wrong conclusion — run by the two men in the book who each think they have a working theory of this family, using opposite tools (Bréal's eyes, Fleming's paper).
+
+**Consequence: it sorts the three children by an axis nobody has used yet.** Lewis and Nadia have zero blood tie to Collie. Maddy, under the retcon, has one, one generation further out than Fleming believes. His scruple protects the one child with *any* blood claim on Collie, for the wrong reason, and does nothing for the other two — so if Nadia is the one being demoted off the pharmacopoeia in the same negotiation, she is the one with the weakest paper claim and the one who pays.
+
+**Still queued with the rest of the retcon. Nothing written to manuscript or canon.**
+
+### Continued, 2026-08-30: Lewis's one act of agency, and what he spends it on
+
+**Not Fleming betrothing Ada as a treaty clause. A private negotiation between Lewis and Nadia**, where each holds something the other needs. His leverage is simply that the whole plan requires his consent — nobody can marry him to Ada without him agreeing to it, which is the one lever in this entire arc that is genuinely his. **First time in the book he bargains for himself rather than being placed, bought, or floated at.**
+
+**What Nadia offers, concretely, using established capability rather than invented power:**
+- **Paperwork.** She writes him onto a legitimate, recurring institutional route through or near Diana's town — agronomy business, seed distribution, phytoremediation follow-up — the exact mechanism already built in *Wild Oats*: a true institutional reason laid over a private want, nothing on the record false. Only she can supply this; it is her established skill (the chit, the seal, *"that's what's on the paper"*).
+- **Active, ongoing complicity re: Maia**, not passive silence. She already half-knows — *"as if you don't spread some seed of your own on your trips, Lew"* (`10-wild-oats.md:153`) is the first hint of this exact leverage, delivered as a joke months before it becomes a term.
+- **The structural fact that marriage gets him out from under direct oversight** — a married man with his own place has more room than a son still living where three women can see everything. She doesn't provide this; she just says it out loud as part of the pitch.
+
+**Lewis and Ada become the household's watchmakers, as a matter of actual livelihood** — Alex, Lewis and Epsilon's shop (already spinning small turned parts, `10-wild-oats.md:1`) build the mechanism; Maia rates it off stellar transits; Ada computes the almanac. Confirmed image, not just a chronometer as leverage in one negotiation but their trade going forward.
+
+### Lewis's demand: Diana affiliated and off her feet — and it closes a loop the book already flagged as owed
+
+**This is not new invention. `canon/pedigree.md:81` already names it as unpaid:** *"Her leg is also chapter one's clinic scene arriving one generation later. Nona could not be treated because she was unaffiliated... and Collie had to spend her own standing to fix that. Diana wants to know whether a doctor posted to the town for three months at a time can look at a stump. **Nobody has spent anything on her behalf yet**, and the woman who knows how to do that spending is the one quietly eating her jam."* Collie has had the means to fix this since ch1 and has not. Lewis's demand cashes a debt the text already itemised.
+
+**Word choice: *affiliated*, not *citizen*** — the book's own term, from ch0's founding clinic scene (*"she is neither student nor staff, to treat her would mean treating the rest of the city"*). Citizen belongs to a different register than this book's carding system.
+
+**The sit-down job is already prescribed on the page.** Rosa's own clinical advice to Diana in `03-formulary.md`: *"try and stay in the blind more, get me more sit-down time in the day."* Diana is already self-treating this way, informally, at real cost to her trapping income. A real job institutionalises a fix she's already improvising badly. **Concrete role: hide and leather intake and grading for the university's convoy trade**, using her established trapping expertise, off the leg that is slowly deteriorating (the neuroma from `03-formulary.md`, no surgeon available).
+
+**The mechanism, and this is the sharper version: Nadia does not affiliate Diana with paperwork alone. She spends the political capital she has just earned.** Having delivered Fleming's kinswoman into the family, she goes to **Collie** and calls in the specific debt `pedigree.md:81` already names as owed — makes her aunt finally spend standing she has been sitting on for years while benefiting from that family's jam. Political, not administrative, and it uses a resource only Nadia would now have.
+
+**Which makes the one scene do three things at once.** Lewis gets his single act of agency and spends it on someone else. Nadia gets Ada, and demonstrates the exact skill the earlier "who's the next matriarch" conversation bet on her for — moving her own mother-figure, not just managing paperwork. And Diana gets an actual fix rather than symbolic dignity, which honours the reason *Lacks* was declined for her at `pedigree.md:159–161`: *"putting Henrietta Lacks's name on a character built to be institutionally abused is digging her up for another round of it."* Leaving her permanently unaffiliated would have made that concern true regardless of the name. This closes it instead.
+
+**Terrace: Collie's reaction to being called out by Nadia should be pride, not guilt.** Consistent with everything established — she respects good brokering even when aimed at her own inertia (letting Alex's *ma'am* slide, losing the storeroom argument to him gracefully). Watching her own heir-apparent build leverage and spend it to correct a thing Collie herself left unfixed for years is not a rebuke to her. It is evidence the training took.
+
+### Banked from the same session, informal origin, load-bearing anyway: who lashes out at Collie, and who inherits
+
+**Three candidates for a "you just wanted to play house" accusation, each a genuinely different register of scene rather than competing versions of one:**
+- **Maddy — grief breaking through composure that has never broken before.** Strongest textual grounding (Collie is provably not her mother; the retcon, if executed, makes it worse — family duty performed as heroism rather than named as duty). Best trigger: the unbounded medical claim to Fleming materialising as an actual assignment, so the mechanism that failed her own mother is now running through her hands, on the other side of it.
+- **Lewis — pride, not grief.** Discovering his EE place was purchased, not earned, at the exact moment he is already insecure about being behind his cohort on theory. *"You didn't want a son who made it, you wanted proof your patronage works."*
+- **Nadia — either self-recognition (she just did the identical move to Lewis and cannot unsee it in Collie) or cold documentary precision (she is the one who reads paperwork, per *Wild Oats*, and could reconstruct the whole trade from receipts rather than raw feeling — colder and worse than shouting).**
+
+**And, separately, shot the shit on succession: money's on Nadia over Maddy for the next Swartz matriarch.** Maddy is the designed heir — the Medea briefing, the makeup lesson, the compacts, operational trust already extended. But the actual job Collie does is brokering and patronage, not medicine, and Nadia already does that job: reads a requisition, talked a mayor's men into a worse crop for the greater good, holds the chit and the seal rather than the medical kit, and just ran an actual play on her own brother's marriage. **Likely split: Nadia runs the house, Maddy is the reason the house survives** — the same division Collie and Nona already have, one generation down. Lewis is structurally excluded from the title by definition, which the Ada-Diana negotiation above turns into something better than exclusion: he is the placed asset who, once, gets to place someone else.
+
+### Craft guardrail, 2026-08-30: the heir-pressure material must not become a love triangle
+
+**Terrace's own catch: avoid "torn between two loves" — Lewis pining for Diana while pressured to produce an heir with Ada reads as soap opera the moment it centers his feelings.** The fix is where the camera points, not the plot facts already banked above.
+
+- **Point the pressure at Ada, not at Lewis's guilt.** She is the one with an actual body being asked to prove an alliance, by two old men's dynastic anxiety, in a marriage nobody has asked her about. Same shape as Nona's affiliation crisis and Diana's leg — an institution deciding what a woman's body owes it. That is this book's register. Whether Lewis "really" loves her is not the dramatic question and should not be answered on the page.
+- **Precedent already in the book for the correct tone: Carmen's pregnancy consultation, `04-off-label-part-i.md`.** Total clinical restraint — weeks along, last period, whether the father is in the picture, one line about how they met. The only personal note in the whole scene is Rosa's aside about her own cycle, *"neither was hers"* — one clause, no follow-up. Match this register exactly.
+- **Diana needs a clean exit, not an ongoing entanglement.** The whole point of Lewis's one act of agency was getting her *out* — affiliated, employed, no longer needing him. Continuing to check in on stolen visits turns an unselfish move into cover for staying involved and undoes it. If any feeling survives on the page, it is one object doing the work — a jar, the way honey and jam already carry everything unspoken between him and Diana — never a scene.
+- **Nadia's version of the pain is regret, not jealousy of a claim she never had.** She is sixteen; this is an adult marriage. Treating Ada as something taken from her reads as possessive in a way that does not fit her age or her actual position — she built this, she does not own it. What she gets to feel is watching her own plan succeed and cost her something, privately, once, unexamined.
+- **Show the Lewis/Ada marriage as labour, matching how Alex and Maia's is shown** — soda, concrete, a storeroom argument, one line about candlelit lips that never becomes a scene. Nobody in this book announces love; they work next to each other and the reader infers the rest.
+
+## Nadia marries the shipwright's son, not Maddy — 2026-08-30, late
+
+**Terrace's catch: the fishing-town marriage offer in `10-wild-oats.md` should land on Nadia, not Maddy, and the naval pivot is Nadia's own idea against Collie's landsman instincts.**
+
+**Completes a technology stack nobody noticed was unfinished.** Hemp gives rigging, sailcloth, oakum (`10-wild-oats.md`-era demotion + Nadia's own calculus, banked above). Lewis and Ada supply the chronometer as their actual trade. Maia rates the clock off stellar transits. **What was missing was a hull.** A shipwright husband closes the stack completely — the household would hold every piece needed to build and sail a ship, which no other house in the polis would.
+
+**Why Collie would never have arranged this: it is outside her register, not beneath it.** Twelve years inside a campus, per earlier tonight's discussion, and her whole alliance model runs on faculties, degrees, emeritus kinswomen — legible, campus-bound value. A fishing-town shipbuilding family reads to her as lateral at best. **Nadia sees it because she is the one who worked out the hemp-to-fleet arithmetic herself, unprompted**, and a shipwright is a term Collie's model has no slot for. Same device as everything else this session: the register being wrong about someone, competently, by correct procedure — except here it is Collie's own register missing her own daughter's better plan.
+
+**Mechanism — lean toward logistics, not intervention, per the love-triangle guardrail just banked above.** Maddy's unbounded medical claim on Fleming (from *Druzhina*, banked earlier tonight) already makes her institutionally unavailable — a true, clean, non-dramatic reason requiring no scene. Nadia is the one with an actual ongoing reason to return to that town, running the seeding program; Maddy was two hours and gone. A relationship growing out of repeated visits over real institutional business, rather than Nadia deliberately redirecting the family's interest, keeps the mechanism in the book's own register — logistics doing the work, nobody engineering anything on the page.
+
+**Better succession image than anything banked previously.** Nadia running the house does not have to mean running it from the flat Collie never left. Married into a coastal shipbuilding family, heading a maritime branch of the operation, she becomes the one node in the whole household Fleming's centralising doctrine genuinely cannot reach — the exact structural joke already flagged in the hemp-demotion material (*"a crew at sea is the one body his doctrine cannot reach"*). She would be living inside the loophole rather than just having spotted it.
+
+**Open task: the diner family has no names.** Mother, father, both sons — all unnamed in `10-wild-oats.md`. Needs fixing before this gets closer to drafted. **Textual candidate for the husband: the elder son**, fifteen at the time of *Wild Oats*, tied to *"helped his father with shaking down the last boat"* — almost certainly also the boy the recommendation letter was written for. Puts him a few years ahead of Nadia, a tighter gap than Lewis and Ada's.
+
+## *Mulberry*'s closing beat: the radio errand, and "which mom?" — 2026-08-31
+
+**Terrace: end *Mulberry* on a radio check-in with the kids, cross-referencing *Wild Oats*.** Nona's grocery request (liver and blood sausage, from the iron/menstruation material banked earlier) gets relayed to Lewis by an operator who describes it only as *"from your mom."* Lewis answers *"Which mom?"*
+
+**Correct reading, load-bearing: this is not Lewis being genuinely unsure who his mother is.** The household's naming convention — one *Mom*, two *Aunties*, precise and earned per the whole "under what environment would they call all three mom" discussion — means he knows exactly who his mother is. **The ambiguity is the operator's, not his.** Whoever relayed the message flattened three specific women into one undifferentiated *mom*, and Lewis, hearing content that doesn't fit the label he'd expect — a grocery request in Nona's dietary register, not something his actual mother (an astronomer, up a mountain) would plausibly send — asks the operator to check. He is exposing the relay chain's flattening, not revealing confusion of his own.
+
+**This is the third instance in one day's material of the identical pattern**, and it should stay unremarked rather than be pointed at: Vavasseur defaulting to *Mr Swartz Senior* for Alex (banked above, same session); the "chorus" belief that Alex fathered all three children; and now an anonymous radio operator collapsing three specific women into one label because the household's internal precision doesn't register from outside. Three different outsiders, three different methods of arriving at the same flattening, none of them aware they're doing it.
+
+**Does not violate *Mulberry*'s "nothing happens" rule, because that rule already flexed once** — the spotting discovery was kept over the original "nothing found in the pockets" on the grounds that it's good plot. The rule that survives is *no external crisis, no news delivered from outside forces*, not that literally nothing occurs. A radio errand ending on an unanswered question is a formal button connecting the chapter outward to *Wild Oats*, not an incident.
+
+**Mechanism, not yet solved but likely:** routes through Epsilon, since Vavasseur is established as the one who logs radio traffic (per the *"render aid"* extension call in *Wild Oats*). Nona relaying a request to a truck in the field would plausibly go through the same channel.
+
+## A day-labourer chapter: *Gleaning* — 2026-08-31
+
+**Terrace: a week-in-the-life-of chapter for one of the setting's day-labourers, contrasted against the Swartzes' relative abundance.** Title settled: **Gleaning**.
+
+### The survey that prompted it
+
+**Swartz household material conditions, confirmed across the manuscript:** genuinely abundant food for a scarcity economy — potato samosas, a casserole with butter and pickles, corn chowder from the dining hall, apple cider, two eggs insisted on for breakfast, a generous ramekin of butter (elsewhere scarce enough that *"half the farm is brown... all we are getting are pickles and biscuits from the country,"* `06-isolation.md:186`), salt unremarked in the kitchen (elsewhere costing two vials of poppy, `01-continuity-test.md:17`), their own honey and herb patches. Housing: a private third-floor flat, an elevator shaft converted to a hand-winch basket, a newly walled private storeroom built with four hired men from Epsilon, silverware, a good chair, surviving pre-collapse effects (a wok, a console, grandmother's compacts). **Every adult and near-adult holds a named, recognised position** — Lewis has paydays, Alex has a paying backlog, Nadia carries a chit and university seal, Maddy is a hospital apprentice, Collie holds an academic post.
+
+**The wider economy, confirmed:** cash is dead — the only dollar figures anywhere are pre-collapse, in ch0. Everything after runs on vials of mead and poppy, kegs, crates, requisitioned trucks, favours traded for triage weightings, and standing spent like currency. And *"workman's comp"* gets used as a joke in `10-wild-oats.md:65` — which only works if the concept still exists as a real benefit elsewhere, meaning formal protected employment and precarious unprotected labour already coexist in this world.
+
+**Day-labour is not just compatible with this, it is implied by agriculture already on the page.** `10-wild-oats.md:205` has Nadia *"authorized to assign four additional oxen for each town"* — draft-animal farming, far more labour-intensive than anything mechanised, which historically produces exactly the seasonal labour spikes at planting and harvest that day-laborers fill. **Epsilon's own labour is already split into two tiers that map onto this cleanly**: brothers bound by oath, paid in standing and goods (barn-raising, convoy work), versus Bréal's shop — batch production, real throughput, spun parts *"next to its brethren"* (`10-wild-oats.md:1`) — which is exactly the kind of operation that needs occasional unskilled extra hands, hired by the day, with no pledge required.
+
+**The contrast: chit versus no chit.** Every Swartz kid has paper saying what they are. A day-labourer has none — no card, no seal, nobody vouching for them, paid out at day's end and forgotten till the next one's needed. Same axis Diana already stands on, generalised into a visible underclass rather than one woman's situation. **Nothing currently on the page shows this class directly** — it is fully supported by everything around it, but would be new ground.
+
+### The title
+
+**Gleaning** — the historical, legally recognised right of the landless poor to gather what a harvest left behind. Chosen over two strong alternatives, kept as a menu in case the pick is revisited:
+
+- **Scrip** — a slip redeemable only at a company store, the historical instrument of the "truck system": workers paid in tokens good for nothing but the employer's own shop. Doubles as *a slip of paper* (this book's chit-and-seal obsession) and *a fake currency* (what a day-labourer would actually be paid in). Colder and more indicting than *Gleaning*; a close second.
+- **Tally** — a stick or ledger counting a labourer's day, reset every morning. Sets up the contrast in four words: the Swartz kids get cards, this one gets a tally.
+- **Banked, not taken: *Statute*** — the Statute of Labourers, 1351, enacted after the Black Death when a population collapse should have handed survivors wage leverage, and the law froze wages and restricted movement instead. A precise historical parallel to how this book's affiliation system suppresses exactly the leverage a labour shortage should create — richer thematically than any of the above, but too abstract and legal-sounding as a chapter title on its own. Worth keeping if the chapter ever wants to argue this point explicitly rather than dramatise it.
+
+**Why *Gleaning* won:** concrete and sensory, matching titles like *Ground* and *Boil Water*; a real agricultural-labour term rather than an invented one; and it folds directly into the book's existing thesis — subsisting on what the main register doesn't cover, rather than being on a card at all. **Note: it is the first gerund-form title in the book** (every other title is a noun or an imperative) — a deliberate departure, in the same register as *Mulberry* being the first mood-title rather than a mechanism-title. Worth being a choice rather than an accident.
+
+**Open, not yet worked:** whose POV, where it sits in the plan/slot sequence, whether this labourer connects to Bréal's shop or a farm at harvest, and whether they cross paths with any named character already on the page.
+
+## The Gleaning protagonist is a marooned foreign national — 2026-08-31
+
+**Terrace: the day-labourer of *Gleaning* is a stranded international — someone stuck here by the same collapse that pulled Collie's flashback partner home early, except this one had no government left to do the pulling.**
+
+**Doubly excluded, which is the sharpest version of "off the register" in the book so far.** Not locally affiliated — never a local student or staff member with a claim on the university's own paperwork. And no home government to appeal to either, if that government is one of the ones that failed before or during the collapse rather than one of the ones that ran a NEO. Everyone else who falls through the cracks in this book — Diana, chiefly — still has some theoretical channel back to standing. This person doesn't.
+
+**Turns the flashback detail into a pattern rather than a one-off.** Three outcomes from the same starting condition (international student/resident caught by the collapse): Collie's partner, pulled out early and safely by a government that held; Alex, stayed and found a household (Collie's) to fall into; this person, stayed or was stuck, and never found one. None of the three need to know about each other — **Alex becomes a quiet "road not taken" for the day-labourer without their ever crossing paths**, the same structure as Bréal's and Fleming's independent, convergent errors.
+
+**Gives the week-in-the-life format real variety for free.** Real day-labour is patchwork — a morning at Bréal's shop, an afternoon on a farm at harvest, whatever's going — which both suits a marooned outsider with no steady position and naturally varies the seven days rather than repeating one task.
+
+**Connective option, light-touch: one glancing job done for the Swartz household somewhere in the week** — hauling, a fix Alex didn't get to. Not a meeting, not a plot collision. One outside look at the abundance already surveyed above, from someone who will never be inside its patronage network regardless of how good the work is.
+
+**Open, deliberately: nationality/culture, and the one specific object or practice they keep out of habit.** Doesn't need deciding yet. The particular choice matters less than the specificity will, matching how every other character in this book is built from one exact detail rather than a description.
+
+## The checkpoint incident, the war, and Epsilon's fate — 2026-08-31
+
+A single continuous arc, from a throwaway detail in ch2 to the eventual dissolution and rebirth of Epsilon. Terrace's calls are marked; the rest is Claude's, offered as options where the choice was left open.
+
+### Origin: an unexploded detail from chapter two
+
+**`01-continuity-test.md:17`: "Which the manager said now cost two vials of poppy. The trucks will be going elsewhere next month."** A supplier the university's convoys depended on, dropped once a better deal appeared, mentioned in the same breath as buying gloves — exactly the subordinate-clause method this book runs on. Never paid off until now.
+
+### Rejected shape: the wronged-hardware-store ambush
+
+First pitch was straightforward retaliation — the abandoned supplier ambushing a convoy years later. **Terrace redirected this**, correctly: a delayed-revenge plot risks feeling coincidental (why now, not years ago), and doesn't extend the book's actual thesis as cleanly as what replaced it.
+
+### Settled shape: a hungry police checkpoint, a failed negotiation, and an accidental first conquest — Terrace's call
+
+**A surviving, autonomous police remnant — a "dukedom" — has stood up its own checkpoints**, extracting tolls from passing traffic because there's no tax base or paycheck left to fund it any other way. Real, well-documented pattern: local security forces in collapsed states routinely keep their weapons, vehicles, and structure while switching their revenue model to extraction once the state that paid them is gone.
+
+**A convoy fails to talk its way past.** Not a plotted ambush — an ordinary negotiation (a toll, a bribe, an assertion of paperwork/authority) that goes wrong, and spirals. **This becomes the first time the university conquers a neighbouring polity, and nobody decided to do it on purpose.** That's the important part: conquest as an accident of procedure, not a policy — the Tsien device running at institutional scale instead of familial scale. Competent people, correct-seeming steps, catastrophic and unintended outcome.
+
+**Why this is a better engine than the ambush: it's Fleming's doctrine getting its first real-world test.** *"Enroll the members, don't grant the body anything"* was theory over mead in *Druzhina*. This is that theory landing on a road, at gunpoint, whether its author is present or not — the failed checkpoint's men get absorbed as individuals rather than the checkpoint's authority being recognised as a body.
+
+### Craft execution
+
+**Terrace: write the gunfight directly, using the military vocabulary built this session.** Overrides the earlier recommendation to keep it entirely oblique. **But split the register**: render the fight itself directly and precisely; keep the actual *conquest* — cards issued, a checkpoint's codes reassigned, names added to a roster — in the book's established paperwork-aftermath mode. Gives the combat scene without making the institutional payoff (what conquest actually consists of here) suddenly a different kind of book.
+
+**Real vocabulary and mechanisms available, not yet assigned to specific text:**
+- **Escalation of force (EOF)** — real doctrinal term: shout, show, shove, shoot, the graduated steps before firing on an approaching vehicle. **The flag in the toolbox from `10-wild-oats.md:91` is already the "show" step** — a checkpoint scene could turn on that exact signal being given, misread, or faked.
+- **Green-on-blue** — the real term for attacks by supposedly vetted, allied local forces on the people who trusted them. Sharpest available parallel if the compromised checkpoint is one of Epsilon's own rather than an external post — violence that works specifically because a register said this person was safe.
+- **The sealed envelope from `10-wild-oats.md:129`** ("Lewis opened an envelope and mumbled something back into the microphone") is already a challenge-response authentication system, whether intended as one or not. If the hostile checkpoint obtained an old one, they could give the *correct* answer and still be a catastrophe — code right, situation wrong, the Tsien device exactly.
+- **Avoid: anything in the IED/VBIED register.** Wrong scale of war for what this book has built. Rifles, a compromised guard, a bad radio exchange is the right size.
+
+**Casting for the failed negotiation: Bréal is the strongest candidate, and his failure would be precise rather than arbitrary.** His whole competence is bureaucratic — cursive, initialing, procedure. Against starving, armed men who answer to no state any more, that exact competence might be useless or actively provocative. His best tool failing him at the one moment it can't help anyone.
+
+### Lewis is hurt — Terrace's call
+
+**Not the negotiator's own error — he pays for someone else's.** Extends his established pattern (his degree bought in a room he wasn't in, his marriage floated by his sister's plan) one register further: now his body pays for Bréal's miscalculation rather than his future. **Maddy should be the one who treats him** — the obvious, unforced payoff of her established clinical competence (the diner clinic in *Wild Oats*), personal and professional colliding with nobody announcing it's happening. Composed because composed is the only thing she has left to offer, terrified underneath, never shown.
+
+### The political aftermath: a second round of the Druzhina fight
+
+**Terrace: this becomes fuel for House Swartz pushing the Senate's first declaration of war.** Recommend framing Collie's motive as her established character rather than a swerve into simple vengeance: her fear for Lewis is completely real, *and* she is simultaneously the one person who can see a declared war as an institutional event generating precedent, credit, and new offices — the same conversion instinct she's run the whole book, on a bigger stage, with real grief under it this time.
+
+**This reopens the argument she already lost in *Druzhina* — recognised bodies versus atomised individuals — with real stakes instead of hypothetical ones.** She has every reason to argue a fighting force works better as a cohesive, recognised unit (unit cohesion, an existing chain of command like Epsilon already has). Fleming has every reason to hold the atomisation line specifically *because* yielding to a crisis is, to him, exactly the wrong lesson a state can learn. **Historical pattern worth knowing: wars are reliably when states centralise fastest** — crisis is the standard pretext every government has used to formalise control over informal local power that peacetime politics would have left alone. **She may have handed Fleming the exact justification he needed to win permanently, rather than the crisis she needed to reverse her loss.**
+
+**Note on the earlier investment: it did not "never pay out."** Nona's affiliation, the triage-weighting adjustment, six men for the storeroom wall, firewood and consideration on convoys — all already cashed, over fifteen years, repeatedly. What's actually at risk is the *newer, bigger* bet — reversing the Druzhina loss via this war — not the whole patronage history.
+
+### Resolution: Epsilon survives, demilitarised, chartered — Terrace's proposal, endorsed
+
+**Epsilon becomes a labour and logistics company holding a university charter, stripped of its military function.** Smaller leap than it looks — convoys, the shop, hauling, Bréal's small-parts production have always been the organisation's real content; the military layer (rifles, overwatch, the *druzhina* vocabulary) was always somewhat secondary.
+
+**Gives both sides of the Druzhina argument a genuine partial win rather than a clean loser.** Fleming gets no independent armed body outside direct university control — the actual risk his doctrine exists to prevent, gone. Collie gets Epsilon surviving, chartered, with a head she has real standing to negotiate with — the specific leverage changes from military favour to labour and hauling contracts, but the organisation and the relationship both survive.
+
+**Lets the war stay a discrete event rather than a permanent genre change.** One conflict, one institutional aftermath, then the book returns to its actual register — paperwork, patronage, labour, domestic life — rather than staying militarised going forward.
+
+**The charter itself is a natural document-chapter** — no POV, in the mode of *Fortification* or the requisition letter in *Wild Oats*. What it forbids, what it guarantees, whose signature is on it, could carry the resolution without a single dramatised scene.
+
+### Casting the aftermath — Terrace's call, corrected once in the room
+
+**Bréal becomes an NCO of the university's new formal armed forces. Not a demotion — the exact institutional reward his kind of self-made competence was always going to earn.** Non-commissioned officers are, definitionally, built out of demonstrated competence in the ranks rather than pedigree or formal commissioning — *"officers command, NCOs lead"* is a real military truism, and it has been Bréal's whole shape from the start: no surname, no kin (`canon/pedigree.md`), authority built entirely out of procedure and personal competence. **This is Fleming's doctrine completing in its cleanest form: the individual is genuinely elevated, and the body he built still does not survive.** Sharper implementation, not yet confirmed: he likely does not get to keep commanding his own former brothers — atomisation would defeat its own purpose if he did — more probably he trains or leads a mixed, rostered unit assembled by the state: some scattered former Epsilon men, some absorbed from the police checkpoint, some new recruits. He keeps the skill and the rank. He loses the specific men he built that authority alongside. **Sergeant Major** floated as a fitting specific rank, matching his established seniority — the senior enlisted keeper of standards and discipline, not tied to one unit.
+
+**Vavasseur becomes the new head of the demilitarised, chartered Epsilon.** Not an inheritance so much as the title finally catching up to the labour — he has been the actual administrator the whole book (flagging nuances, confirming signatures, running the clerical work Bréal's signature only formalised) while Bréal was always the performance. A civilian hauling and labour company needs precisely his competence and none of Bréal's charisma. **Each man ends up in the role his actual temperament suits**, rather than the founder simply being replaced by his clerk.
+
+**Open, worth deciding later:** whether Collie's fifteen years of investment in Bréal specifically transfers to a working relationship with Vavasseur, or has to be rebuilt from nothing. Leaning toward the more interesting reading — Vavasseur has processed every one of her requisitions and watched every jar of jam arrive for years, so he already knows the whole playbook without ever having been the one it was played on, which could make him easier to deal with than starting cold.
+
+### Adjacent craft note: nobody in this book yells, and it should probably stay that way but for one exception
+
+**Observed pattern, not yet challenged anywhere in eleven chapters:** even the highest-pressure dialogue in the book stays composed — Rosa's clipped emergency commands, Bréal's rousing but non-enraged CB speech, the siblings' dry banter in *Wild Oats*. Nobody loses their own voice. **Traced to two causes:** almost every named character survives on professional composure specifically (a broker who shouts has lost the negotiation, a clinician who panics is useless), and the book's whole method is subordinate clauses carrying weight rather than direct declaration — loud emotional volume is structurally incompatible with that method. **Every emotional beat banked this session was steered toward the quiet version on instinct before this pattern was named explicitly** (Nadia's cold recitation over shouting; Rosa's clinical restraint as the model for the Ada material; "which mom" as puzzlement, not anguish). **Risk if held with zero exception:** a discipline this consistent for an entire novel can start reading as inability rather than choice. **Recommendation: hold the restraint as the dominant mode, but let the Maddy-breaks-once idea (banked earlier this session) be the one deliberate exception** — the character established as never once losing composure gets to be the only one who does, precisely once, precisely because nobody else in the book ever has.
+
+### Reference: real-world models for absorbing an armed group, gathered for whenever this gets drafted
+
+- **Break the unit, keep the people (Fleming's actual method).** Rome posted conquered peoples' auxiliary units far from their home territory specifically to sever personal/ethnic loyalty from local control. The Ottoman *devşirme* is the extreme version — individually converted and retrained from childhood, no surviving tie to birth community. **Modern formal version: DDR — Disarmament, Demobilization, Reintegration**, the real UN/peacebuilding framework (Sierra Leone, Liberia, Colombia's FARC process) — collect weapons, formally dissolve the old command, process former combatants individually into a new structure.
+- **Keep the unit, replace the officers.** The British Indian Army model — local manpower and terrain knowledge retained, command held by trusted outsiders. **Soviet political commissars** — a parallel officer shadowing an actual commander, reporting on loyalty, doubling the command structure rather than replacing it. Fits Bréal-as-commissar if a lighter-touch option is ever wanted instead of full NCO absorption.
+- **Keep the unit and its officers intact under new higher command.** Medieval fealty-swearing, retinue retained. Riskier — Vichy France is the failure case, existing structures never fully securing their loyalty to the new authority.
+- **Best single real case study: South Africa, 1994.** Integrating apartheid-era SADF, the ANC's uMkhonto we Sizwe, the PAC's APLA, and several homeland armies into one SANDF — used formal **vetting boards** and **rank equivalency tables**, took years, produced real and lasting resentment over rank downgrades.
+- **Concrete mechanisms worth stealing regardless of which model:** a loyalty oath at the point of surrender (ancient, universal, gives a clean dramatic beat when someone refuses); rank equivalency tables (paperwork-heavy, exactly this book's register, and a real source of friction); officers specifically dispersed even when rank and file are kept together, since officers carry the personal loyalty networks that pose the actual rebellion risk.
+
+## Texture: the fashion magazine, and Collie's tattoo — 2026-08-31
+
+**Terrace: just the two girls, Maddy and Nadia, find an old fashion magazine (not a personal photo album) and mock the dresses, shoes, and bodies in it — "why are her lips all swollen like that?"**
+
+**Magazine over album, deliberately.** A personal album makes the joke about their own mothers specifically — small, familial. A commercial fashion magazine makes it about an entire vanished culture's beauty standards, mocked with the same anthropological bewilderment as foot-binding or powdered wigs. Bigger joke, no adult needs to be in the room, and it stays entirely in the girls' own register.
+
+**"Why are her lips all swollen like that?" is Maddy's clinical vocabulary being the only lens she has.** She has no framework for "swelling, done on purpose, for beauty" — a nurse's training gives exactly one way to read an unusual body, and it isn't aesthetic. Nadia's register should stay distinct from hers throughout: physical and incredulous rather than diagnostic.
+
+**Pays off the cosmetics material from `07-boil-water.md` without stating it.** Collie's taught technique is five-thousand-year-old and survived — beeswax, charcoal, purified rust, applied to a real face. Pre-collapse beauty culture ran on injectables and retouching, and became completely unachievable and unintelligible within one generation. The "primitive" technique outlived the "advanced" one.
+
+**Further image options for the same register, not yet assigned:** contouring reading as illness or hollowness rather than sculpture, since nobody they know fakes a bone structure that isn't there; retouched, textureless skin reading as uncanny or mask-like, since everyone they actually know carries visible marks of real work; printed magazine colour reading as impossibly saturated, tying back to the hamper scene in *Mulberry*.
+
+### Collie's tattoo — permanent cosmetic work, discovered rather than confessed
+
+**Terrace corrected the mechanism: no adult is present, so any reveal has to be something the girls observe and infer entirely on their own**, not a spoken admission.
+
+**Settled on permanent cosmetic tattooing — microbladed eyebrows or a tattooed lip line.** The only category that satisfies every constraint: genuinely permanent (unlike filler or Botox, both of which fully metabolize out of the body within months to a year and would have long since faded with no access to reapplication); sits on the face, so the girls have looked at it every day of their lives without cause to question it; and is the kind of procedure advertised by name with recognisable before-and-afters, so an old magazine hands them the exact vocabulary needed to recognise what they're looking at.
+
+**Mechanism is familiarity, not concealment — sharper than a confession.** You don't question something you've seen your whole life. Her eyebrows have never smudged, never needed drawing on, never looked different in any weather or after any cry — that's simply what her face looks like, until an article about microblading supplies the missing word.
+
+**Stays on Collie, and stays unresolved — the girls never ask her.** Sharpest possible version of the irony: the woman who now teaches ancient, natural cosmetic technique with real historical reverence has, underneath all of it, a permanent trace of the exact modern, medical, pre-collapse beauty industry she's implicitly teaching her daughter to do without. Consistent with the household's whole pattern of not confronting things directly — becomes private knowledge the two girls now carry about their mother, that she has no idea they have.
