@@ -2,7 +2,7 @@ Lewis had a job now, at the old repair workshop that fixed Collie's phone back d
 
 He got really good at holding his breath, even though the rig in the shop had a proper hose and fan to the outside. Every Friday, he put his copper wires back into his backpack to put at home. Madam Swartz had grown a habit of patting him on the head on paydays, even though he definitely wasn't that age anymore.
 
-Every other weekend, though, Bréal and the boys from Epsilon Rho Rho would toot the horn outside the building to tell him they were there, and then they would all drive out to the city to find old parts. Auntie Nona always made him bring two vials of mead on the way out. The small one for the guards at the gate, the bigger one for the boys around the fire. And she will want new rubber gloves and a few bundles of sage by next Monday.
+Every other weekend, though, Bréal and the boys from Epsilon Rho Rho would toot the horn outside the building to tell him they were there, and then they would all drive out to the city to find old parts. Madam Nona always made him bring two vials of mead on the way out. The small one for the guards at the gate, the bigger one for the boys around the fire. And she will want new rubber gloves and a few bundles of sage by next Monday.
 
 Maia always hugged him tight before they headed out, he couldn't bear to tell her that it was a bit embarrassing.
 
@@ -78,7 +78,7 @@ She let him in.
 
 The two drops that remained of the big bottle of mead sat on the steps to the blind.
 
-He had at last learned to grab his aluminum mug by the handle instead of the body when she poured from the thermos. It smelled like chicken noodle soup, more metallic, more fatty. Strong sweet notes from carrot and onion. Herbs too, not like the dry stuff that made it to the university.
+He had at last learned to grab his aluminium mug by the handle instead of the body when she poured from the thermos. It smelled like chicken noodle soup, more metallic, more fatty. Strong sweet notes from carrot and onion. Herbs too, not like the dry stuff that made it to the university.
 
 *Duck noodle soup.*
 
