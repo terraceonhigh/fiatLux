@@ -2369,3 +2369,13 @@ First pitch was straightforward retaliation — the abandoned supplier ambushing
 **Mechanism is familiarity, not concealment — sharper than a confession.** You don't question something you've seen your whole life. Her eyebrows have never smudged, never needed drawing on, never looked different in any weather or after any cry — that's simply what her face looks like, until an article about microblading supplies the missing word.
 
 **Stays on Collie, and stays unresolved — the girls never ask her.** Sharpest possible version of the irony: the woman who now teaches ancient, natural cosmetic technique with real historical reverence has, underneath all of it, a permanent trace of the exact modern, medical, pre-collapse beauty industry she's implicitly teaching her daughter to do without. Consistent with the household's whole pattern of not confronting things directly — becomes private knowledge the two girls now carry about their mother, that she has no idea they have.
+
+### Resolved: the spotting stays unstated — Terrace, 2026-08-31
+
+**As drafted in `11-mulberry.md`, the discovery is never described.** Nona finds the garment, the name *MADDY* sewed on the tailbone facing outward, pockets it rather than adding it to the wash pile, and notes to soak it separately overnight. Nothing states what she saw.
+
+**Terrace's reasoning: the novel is already bodily, and describing the bodily functions of an underage character would be gratuitous.** The handling does everything the stated version would have — cold water, overnight, kept apart from the rest — without the description.
+
+**Why it also works better on the chapter's own terms:** *Mulberry*'s subject is garment technology and maintenance, so the beat arrives as Nona *reading an object* — provenance, the lye soak, the cord she sewed in when the elastic rotted, the name — and adjusting tomorrow's plan. Same register as everything else she does with cloth, which keeps it from becoming A Moment. Consistent with the book's established handling of bodies elsewhere: Diana's stump and Carmen's pregnancy get clinical attention because a clinician is professionally examining them. Nobody in this scene is working, so nobody would look that closely.
+
+**Supersedes the earlier banked material that treated the spotting as a beat still to be written.**

@@ -64,13 +64,13 @@ With every reach, Maia rummaged the hamper of dirty clothes longer than was nece
 
 Some time after that, the women made Collie sing, just sing whatever. She began with something that was made with an 808 and an inordinate amount of autotune. The women joined in, one singing the lyrics the others had forgotten. By the time the hamper was two-thirds empty, they had run out of songs from that era. In their silence, a woman from another house sang something in Arabic, and the three hummed along.
 
-Around the bottom of a hamper was an item of underwear. Nona had bought it from a seller who somehow found a full case of the things and broke the bulk in the university's bazaar. It was soaked in lye for half a day before anyone wore it, and she took out the elastic when it rotted and sewn in a cord to tie instead.
+Around the bottom of a hamper was an item of underwear. Nona had bought it from a seller who somehow found a full case of the things and broke the bulk in the university's bazaar. It was soaked in lye for half a day before anyone wore it, and she took out the elastic when it rotted and sewed in a cord to tie instead.
 
 The name *MADDY* had been sewed in on the tailbone, facing outward. Nona put it in her bag, and made a mental note to run a small bucket and soak it overnight. Something to work on for tomorrow.
 
-The bedding was the hardest to wash, large and unwieldy as it was. Collie and Nona did the wringing. Collie had to be swapped out to Maia about halfway, the former complained of a sore wrist and the latter almost twisted her back. They washed the clothes on their backs next, the pieces they hung up first had already begun to billow slightly in the wind.
+The bedding was the hardest to wash, large and unwieldy as it was. Collie and Nona did the wringing. Collie had to be swapped out to Maia about halfway. Collie complained of a sore wrist and Maia almost twisted her back. They washed the clothes on their backs last, the pieces they hung up first had already begun to billow slightly in the wind.
 
-The T-shirts they were wearing squished dried somewhere around the tail-end of the clothesline, where they still had room after the bedding at most of the rest. Maia coaxed the block of soap in her hands first, before massaging the liquid into Nona's hair, Collie could be seen sinking most of herself into the river.
+The T-shirts they were wearing hung somewhere around the tail-end of the clothesline, where they still had room after the bedding ate most of the rest. Maia coaxed the block of soap in her hands first, before massaging the liquid into Nona's hair, Collie could be seen sinking most of herself into the river.
 
 *Nona, babe, can I ask you a favour?*
 
