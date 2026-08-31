@@ -12,8 +12,8 @@ digraph pedigree {
     // layout: the two flatmate households whose children stayed in the flat,
     // then Lewis's, then Diana's — the outsider — at the far end, next to his.
     Collie      [label="Coelia 'Collie' Swartz\nclassical studies\nadjunct, then Senior Lecturer, then Doctor"];
-    Alice       [label="Alice Richards\nMaddy's mother\nwrote the water protocol\ndead before ch2"];
-    MaddyFather [label="placeholder_03\nMaddy's father\ndied before Alice\nburied in the city"];
+    Alice       [label="Alice Swartz\nCollie's sister\nMaddy's mother\nwrote the book on hydrology\ndead before ch2"];
+    MaddyFather [label="placeholder_03 Richards\nMaddy's father\nhis surname was the one erased\ndied before Alice\nburied in the city"];
     Nona        [label="Nona Elbakyan\ncharity work, knits, drives"];
     NadiaFather [label="placeholder_04\nNadia's father\nunwritten"];
     Maia        [label="Maia Tsien\nastronomer\nthe mountain observatory"];
@@ -34,10 +34,17 @@ digraph pedigree {
     Alice  -> u_maddy     [dir=none];
     u_maddy -> MaddyFather [dir=none, style=dashed];
 
-    // Not descent. Collie took Maddy when Alice died and put her on the
-    // university's rolls as a Swartz, which is why the edge is a bracket
-    // rather than a line: it is custody and paperwork, not parentage.
-    Collie -> Medea       [dir=none, style=dotted, constraint=false, label="took her in;\nrenamed her Swartz"];
+    // Alice is Collie's sister (retcon 2026-08-30), so Maddy is Collie's
+    // biological niece. Siblings, not descent -- the edge below is the
+    // sister tie the whole line runs through.
+    Collie -> Alice       [dir=none, style=bold, constraint=false, label="sisters"];
+
+    // Still not descent. Collie took Maddy when Alice died and put her on
+    // the university's rolls as a Swartz, which is why the edge is a
+    // bracket rather than a line: it is custody and paperwork over an
+    // existing blood tie -- and the name it erased was the father's, not
+    // Alice's.
+    Collie -> Medea       [dir=none, style=dotted, constraint=false, label="took her in;\nrestored the Swartz name"];
 
     Nona   -> u_nadia     [dir=none, style=dashed];
     u_nadia -> NadiaFather [dir=none, style=dashed];

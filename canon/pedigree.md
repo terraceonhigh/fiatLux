@@ -26,14 +26,22 @@ Chapter two adds a **fourth household that was never in the flat** — Diana's, 
 
 ## The relation the line runs through
 
-**Settled 2026-08-20 by *Boil Water*, and it reverses what this file used to say.** **Collie is not Maddy's biological mother.** Maddy's mother is **Alice Richards**, dead before ch2 — a university teacher who **wrote the water standards** in the time she was not teaching, killed in a bad season by a treatable illness and a bad vial. Collie's account: *"She was the smarter one, if you'll believe me."*
+**Settled 2026-08-30, superseding the 2026-08-20 entry below: Alice is Collie's sister, and Maddy is Collie's biological niece.** Terrace's call, executed in `07-boil-water.md` (commit `b52e701`, *"Made Maddy Collie's niece"*) and pushed to the Archive 2026-08-31.
+
+**Maddy's mother is Alice Swartz** — Collie's sister, dead before ch2, a university teacher who **wrote the book on hydrology** in the time she was not teaching, killed in a bad season by a treatable illness and a bad vial. Collie's account: *"She was the smarter one, if you'll believe me."*
+
+**Richards was the father's name, not Alice's.** Alice was born a Swartz and took her husband's surname; Maddy was born Maddy Richards through him. So Collie renaming her to Swartz is **not inventing a name from nothing — it is erasing the father's line and restoring the child to the blood name she and Alice already shared.** Erasure and restoration in the same act, which is why Collie will not look at her while saying it.
+
+**What the prose now says, changed in the same pass:** *"What was her name?"* (was *"her last name"*), *"What matters is that you are mine now"* (was *"you are a Swartz now"* — dead once Alice is a Swartz too), and *"Alice, her name was Alice Swartz."*
+
+**Superseded, kept for the reasoning trail:** the 2026-08-20 entry that follows had Alice as an unrelated friend named **Alice Richards**, with the surname erasure reading as pure affiliation paperwork over a stranger's child. That reading is no longer canon, but the paperwork logic still holds — it is just now doing two things at once.
 
 **Which means ch1 ¶17 needed no reconciling and this file mis-inferred it.** *"Maddy's mom is someone who is very smart, and works at the university"* and *"Auntie Collie is a nice woman"* are **two different women in one child's POV** — Nadia naming Maddy's actual mother, and calling Collie an aunt because Collie is not hers. The earlier reading treated the pair as evidence the reader had to assemble into Collie-as-mother. It never was.
 
-**Alice Richards, what the prose gives her:**
+**Alice Swartz, what the prose gives her:**
 
 - University, and she taught. Alive at ch1, dead before ch2.
-- **The water standards are hers.** *Isolation* is a water emergency and *Boil Water* is a public-health advisory, and the woman who wrote the valley's water document is dead before either.
+- **The hydrology is hers.** *Isolation* is a water emergency and *Boil Water* is a public-health advisory, and the woman who wrote the valley's water book is dead before either. (Was *"the water standards"* until 2026-08-30.)
 - Died on injectable medicine, syringes steam-sterilised at home by Maddy at about ten, with peppermint oil for her nose. **Cause never identified** — *"we lost a lot of good people that season."*
 - **The vial killed her.** *"They couldn't find a better vial for anyone in the city."* Collie privately knows the drug safety agency had been tendered out three summers earlier and does not say so.
 - Palliated with poppy. She went to sleep. She smiled through it, and did it most for Maddy.
@@ -41,11 +49,11 @@ Chapter two adds a **fourth household that was never in the flat** — Diana's, 
 - **She co-named Maddy with Collie before the birth**, choosing *Medea* because *"she saw what was coming, and she wanted you to be strong."*
 - Her last instructions: stay healthy, bury me next to your dad, take care of Maddy.
 
-**Maddy was renamed, and the reason is institutional.** *"It was the only way to make sure that the university knew you were mine."* An orphan could not be covered unless she was a Swartz on a form — so the erasure of Alice Richards's surname is **affiliation paperwork**, not sentiment, which is why Collie would not look at her while saying it. **Collie offers to write it back and Maddy declines.**
+**Maddy was renamed, and the reason is institutional.** *"It was the only way to make sure that the university knew you were mine."* A niece could not be covered unless she was a Swartz on a form — so the erasure of the **father's** surname is **affiliation paperwork**, not sentiment, which is why Collie would not look at her while saying it. **Collie offers to write it back and Maddy declines.**
 
-**Which builds the *Skywave* comparison in the right order.** The apprentice there, surname **Lacks**, keeps her own name. Two orphans absorbed by two of these women, and the difference is not the guardian — **Maddy was offered the choice and chose Swartz.**
+**The *Skywave* comparison survives the retcon, but its terms have changed — check this before drafting that chapter.** The apprentice there, surname **Lacks**, keeps her own name. Two orphans absorbed by two of these women, and **Maddy was still offered the choice and still chose Swartz.** What changed is what she was choosing: not a stranger's name over her mother's, but **her mother's own blood name over her father's.** The Lacks contrast is therefore weaker than it was — Lacks refuses an erasure, Maddy accepted one that was also a restoration. **Open: whether that still carries enough contrast to build the *Skywave* material on.**
 
-**Collie has three children and not one of them is hers biologically.** *Boil Water* calls Maddy **her thirdborn child**, so Collie counts Lewis, Nadia and Maddy in order and has for years. That answers the standing question in [`../notes/spitball.md`](../notes/spitball.md) about her case for calling Lewis her son and Nadia her daughter: there is no case, there is a count.
+**Collie has three children and not one of them is hers by birth.** **Corrected 2026-08-30: Maddy is now blood kin — her niece — so the flat statement that no blood runs between Collie and the children is no longer true.** What remains true, and is the permanent constraint (Terrace, 2026-08-30): **Collie must never have biological children of her own.** *Boil Water* calls Maddy **her thirdborn child**, so Collie counts Lewis, Nadia and Maddy in order and has for years. That answers the standing question in [`../notes/spitball.md`](../notes/spitball.md) about her case for calling Lewis her son and Nadia her daughter: there is no case, there is a count.
 
 **Settled 2026-08-24 by *Wild Oats*, and it sharpens that count.** **Nadia is about three months older than Maddy.** Lewis calls Maddy *"the annoying baby sister who insisted she tagged along"* and Nadia protests *"we were like three months apart"* (*Wild Oats* ¶109–111, [`../manuscript/10-wild-oats.md`](../manuscript/10-wild-oats.md), unposted).
 
@@ -221,3 +229,15 @@ Characters who are not kin, listed so the chart's completeness is auditable.
 - **The machinists** — a shop, offstage, holding the keys Lewis is sent for. The gate Alex wants comes from there.
 - **Four Epsilon men, unnamed and not yet asked** — Collie's *"I will visit Epsilon"* is the cash value of *Boil Water*'s *"Bréal and I had a chat, and that gave me an idea."*
 - **A woman on the hand crank** — unnamed, one clause, and the reason anything reaches the third floor at all.
+
+## The *aunt* vocabulary after the 2026-08-30 retcon
+
+**Checked, and nothing breaks.** The retcon makes Collie **Maddy's literal aunt**, which raises the question of whether the book's fictive-kin *Auntie* usage now reads as accidentally literal.
+
+- **Nadia calls her *Auntie Collie*** (ch1 ¶17, ¶19). Nona is Nadia's mother, so for Nadia this is still fictive kin and still correct.
+- **Maddy calls her *Mom*** (`07-boil-water.md:5`, ¶73, ¶176) and never *Auntie*, anywhere. So the one child for whom *aunt* would be literally true is the one child who never says it.
+- **Lewis's *auntie* is Nona**, not Collie (ch2 ¶41, ¶61, ¶105) — untouched by this.
+
+**Which sharpens rather than muddles:** Maddy calls Collie *Mom* while being, in fact, her niece — and the word she does not use is the accurate one. Nobody in the book has occasion to point that out.
+
+**One inconsistency introduced elsewhere in the same pass, unrelated to the retcon:** `01-continuity-test.md:5` now reads **Madam Nona** in Lewis's narration (merged from the Archive 2026-08-31), while his *dialogue* still says *auntie* and *auntie Nona* at ¶41, ¶61 and ¶105. Defensible as narration voice against a boy's own speech, and worth a decision either way rather than leaving it as drift. **Open.**
