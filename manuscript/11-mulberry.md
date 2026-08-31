@@ -86,7 +86,7 @@ The T-shirts they were wearing squished dried somewhere around the tail-end of t
 
 *I already have an idea. Nona, you can grow us dye, right?* Collie bubbled from barely above the surface.
 
-*See if you can chat up the chemistry department, they'll know better.* Then Nona told Maia to be stronger with her fingers.
+*See if you can chat up the chemistry department, they'll know better.* Then she told Maia to be stronger with her fingers.
 
 *I think Nadia would look better in the Egyptian style.*
 
@@ -94,6 +94,32 @@ The T-shirts they were wearing squished dried somewhere around the tail-end of t
 
 *It's literally just two yards of rectangle.*
 
-*And it would not embarrass the girls?*
+*And it would not embarrass the girls?* Maia raised, between two attempts at untangling Nona's hair.
 
 *Helen of Troy launched more ships with less.*
+
+*And, Collie. I know I won't remember it, but just bring me yourself and the dress when we're at home.* Nona accepted the favour.
+
+*Cheers.*
+
+---
+
+The big radio needed the engine running, and the engine was noisy, so Lewis wired it to the CB handset and took the call in the cab. The girls were unloading the rest of the gear into this town's pub, the room upstairs.
+
+*University Station, This is Truck 02, coming in for our evening check-in. Over.*
+
+*Truck 02, University Station receives, status report. Over*
+
+*Making good progress, preliminary data from the Mission Specialist indicates a higher variance and greater recovery effect than previous models predicted. Joker on fuel, settlements cooperative. Expect to RTB tomorrow afternoon. Over*
+
+*University Station Receives. And, one message from your mom, Lewis. Over.*
+
+*Huh? Over.*
+
+*hang on let me just... Truck 02, message is as follows: Lewis, hope trip is well, need grocery, find butcher to get liver or blood sausage, Love, Nona. Message concludes, over.*
+
+*Thank you, University Station. Over.*
+
+*Good luck with your groceries, Truck 02. Check-in complete, see you at 0600.*
+
+*Maaan, fuck you, Vavasseur. Over and out.*
