@@ -60,7 +60,7 @@ Maddy held her mug with both hands, Collie worked on the sleeves.
 
 *She smiled through it.*
 
-*She did. And she did it most to you.* 
+*She did. And she did it most to you.*
 
 The collar was stubborn, someone had put too much starch in the washing. Maddy delivered a new lump of coal by way of tongs.
 
@@ -72,7 +72,7 @@ The collar was stubborn, someone had put too much starch in the washing. Maddy d
 
 *And you made her the peppermint oil for the nose.*
 
-There were two tabs open on Collie's computer the day before they made their first vial: One was about children needing some amount of agency when encountering stressful situations, on the left. The other was a website on homemade smelling salts for nausea, on the right. 
+There were two tabs open on Collie's computer the day before they made their first vial: one was about children needing some amount of agency when encountering stressful situations, on the left. The other was a website on homemade smelling salts for nausea, on the right.
 
 *And mom is still dead. Buried in a grave in the city.*
 
@@ -84,7 +84,7 @@ Maddy didn't.
 
 It didn't, the syringes were properly disinfected and stored, and it drew excellently that day.
 
-*We, found some poppy. She just went to sleep.* 
+*We, found some poppy. She just went to sleep.*
 
 Maddy nursed her cup. Collie put the iron down, poured more of the tea, and went back and worked on the chest.
 
@@ -122,7 +122,7 @@ They were quiet for a while.
 
 *Then you are having two eggs with your breakfast. Come on, what do you want to eat?*
 
-Maddy considered the onions, and rejected on the grounds of chemical crying leading to emotional crying. She then rejected the cheese, because the grease won't sit well by lunch. She looked at the sausage, and decided that Collie already had enough trouble for one morning.
+Maddy considered the onions, and rejected them on the grounds of chemical crying leading to emotional crying. She then rejected the cheese, because the grease won't sit well by lunch. She looked at the sausage, and decided that Collie already had enough trouble for one morning.
 
 *Mushroom, the ones Nadia put on the counter Tuesday.*
 
