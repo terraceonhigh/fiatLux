@@ -16,7 +16,7 @@ A secretary was leaning on a workbench and staring at Bréal, when the latter sa
 
 *That do be the case. That's Lewis, Nadia, and Medea for truck 02.*
 
-*That's his sisters.*
+*Huh.*
 
 *That's why I said the But, boss.*
 
@@ -24,7 +24,7 @@ A secretary was leaning on a workbench and staring at Bréal, when the latter sa
 
 *Something about grass, I figure.*
 
-*Now you did get signatures for everybody?*
+*You did get signatures for everybody?*
 
 *Yessir.*
 
@@ -38,9 +38,9 @@ A secretary was leaning on a workbench and staring at Bréal, when the latter sa
 
 Bréal grabbed a towel, the part was no longer blue. *Now, V, stand aside if you don't want to risk a nasty blister.* The whatchamacallit cooled further on the now-complete tray, next to its brethren.
 
-*Now, boss, permission to speak freely?*
+*Boss, permission to speak freely?*
 
-*Wallahi bro, this ain't the navy. Spit.*
+*Spit.*
 
 *Why you seem so pressed about them? Lewis is cool, if anything bit soft for a brother. The sisters are nothing if not growing into valuable university assets and bachelorettes.*
 

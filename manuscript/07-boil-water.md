@@ -32,7 +32,7 @@ The tea was from Maddy's pouch, dried from whatever good leaves she found on the
 
 *What about?*
 
-*Oh, Bréal and I had a chat, and that gave me an idea. And why are you up so early?*
+*Bréal and I had a chat, and that gave me an idea. And why are you up so early?*
 
 *mmm.*
 
@@ -60,7 +60,9 @@ Maddy held her mug with both hands, Collie worked on the sleeves.
 
 *She smiled through it.*
 
-*She did. And she did it most to you.*
+*She did. And she did it most to you.* 
+
+The collar was stubborn, someone had put too much starch in the washing. Maddy delivered a new lump of coal by way of tongs.
 
 *Why did it happen?*
 
@@ -70,15 +72,19 @@ Maddy held her mug with both hands, Collie worked on the sleeves.
 
 *And you made her the peppermint oil for the nose.*
 
+There were two tabs open on Collie's computer the day before they made their first vial: One was about children needing some amount of agency when encountering stressful situations, on the left. The other was a website on homemade smelling salts for nausea, on the right. 
+
 *And mom is still dead. Buried in a grave in the city.*
 
-*...yes, and we did our best, Maddy. We all did. Do some deep breaths for me, baby.*
+*...yes, and we did our best, Maddy. We all did. Do some deep breaths for me, baby.* She didn't tell Maddy that the drug safety agency was tendered out three summers before that.
 
 Maddy didn't.
 
 *Did it hurt? When mom died?*
 
-*We found some poppy, she just went to sleep.* She didn't tell Maddy that the drug safety agency was tendered out three summers before that.
+It didn't, the syringes were properly disinfected and stored, and it drew excellently that day.
+
+*We, found some poppy. She just went to sleep.* 
 
 Maddy nursed her cup. Collie put the iron down, poured more of the tea, and went back and worked on the chest.
 
@@ -92,13 +98,15 @@ Maddy nursed her cup. Collie put the iron down, poured more of the tea, and went
 
 *Yes, it is.*
 
+Collie squeezed the bottle too hard. There was a plume of steam.
+
 *Who was she to you, mom?*
 
-*She was the smarter one, if you'll believe me. She wrote the book on hydrology when she was not teaching.*
+*She was the bookworm, if you'll believe me. The one who gave me her textbooks with the year-old notes and the one who got winded from chasing the bus.*
 
 *And they couldn't find a better vial for her.*
 
-*They couldn't find a better vial for anyone in the city.*
+*They couldn't find a better vial for anyone in the city. Grandpa and grandma did everything they could.*
 
 *That doesn't make it any better.*
 
@@ -114,13 +122,15 @@ They were quiet for a while.
 
 *Then you are having two eggs with your breakfast. Come on, what do you want to eat?*
 
+Maddy considered the onions, and rejected on the grounds of chemical crying leading to emotional crying. She then rejected the cheese, because the grease won't sit well by lunch. She looked at the sausage, and decided that Collie already had enough trouble for one morning.
+
 *Mushroom, the ones Nadia put on the counter Tuesday.*
 
 *We can do that, with the garlic powder too.*
 
 *I can tell you are trying to cheer me up.*
 
-*I never meant to hide.*
+*I always was a bad liar.*
 
 They put potatoes in the boiling water. Maddy was cutting the mushrooms and Collie whisked the still-warm eggs.
 
@@ -146,7 +156,7 @@ Collie rinsed her hands, even though they were clean.
 
 The mushroom dissolved its flavour into the oil.
 
-*What was her name?*
+*What were their names?*
 
 Collie deglazed with a spoonful of water. The tap was slow.
 
@@ -154,25 +164,29 @@ Collie deglazed with a spoonful of water. The tap was slow.
 
 *I want to know.*
 
+*You have a photo of them both framed on your desk.*
+
+*I want to hear it.*
+
 Collie moved the mushrooms to one side of the pan, and did not look at her thirdborn child.
 
-*Alice, her name was Alice Swartz, she was the smartest woman I have ever known, take out and mash the potatoes.* She set down the spatula, and grabbed the bowl of whisked eggs. Maddy took the pot off the stove and took out the potatoes. She was generous with the ramekin of butter.
+*Alice, her name was Alice Swartz and she was my sister. I was there when you were born and I was there with you when we buried her, take out and mash the potatoes.* She set down the spatula, and grabbed the bowl of whisked eggs. Maddy took the pot off the stove and took out the potatoes. She was generous with the ramekin of butter. *Your father, Richards, he, God.*
 
-*Thank you.*
+*That is all, thank you.*
 
 Maddy set down a cloth where Collie then set down the pan. She gave Collie the nice bowl of potatoes she smoothed with the spoon, instead of the one she mashed in. Her bowl had the potato up to the edge on the left side and dug out on the right.
 
-*She, she told me to protect you, and, it was the only way to make sure that the university knew you were mine.*
+*She, she told me to protect you, and, changing you to a Swartz was the only way, to make sure that the university knew you were mine.*
 
 Collie sprinkled some more salt on her eggs.
 
-*I am sorry, Maddy.*
+*I am sorry, Maddy. I am sorry I never told you why.*
 
 She cut the egg into bite-sized pieces, and then carried on cutting. The yolk pooled like a thin moat around the potato.
 
-*I can write it back, now that things are better.*
+*I can write it all back, now that things are better.*
 
-Maddy skewered three mushroom slices on her fork.
+Maddy skewered two mushroom slices on her fork, and stabbed a third unblinking.
 
 *Don't worry about that, mom.*
 
@@ -180,17 +194,15 @@ The mushroom was a bit undercooked.
 
 Collie did the dishes, and Maddy dried them with a towel before setting them back in the cupboards.
 
-*I have to do my makeup before I go, you go and get some shuteye.*
+*I have to do my makeup before I go, you go and get some sleep.*
 
-*Can I watch?*
-
-*Of course.*
+*I want to watch.*
 
 There was a black paste and a rust-red one.
 
 *This one is called eyeliner, used to be that it came as a pen, like a fountain pen. I made it with an Egyptian recipe, with our beeswax and oil and crushed charcoal. Close your eyes so I can put some on you.*
 
-The brush was from a younger Collie's attempts at watercolour.
+The brush was from a younger Collie's attempts at watercolour, the old house was filled with oil paintings signed *A. Swartz*.
 
 *This one is blush, it is the same base, but with purified rust. Women began making these in Persia five thousand years ago. Purse your lips like you are about to kiss someone.*
 
@@ -200,20 +212,22 @@ Collie's fingertips were warm. She did another two dabs on Maddy's cheeks.
 
 Maddy looked into the mirror, a different woman looked back.
 
+*She always liked that upward flick.* Collie said.
+
 Collie put hers on, while Maddy packed her lunch and notebooks and braided and tied her hair up.
 
 *So what does the day hold for you?* Collie asked.
 
-*Oh, probably just checking in on the diarrhea cases and the worksite injuries from the emergency repairs last week. Looking to discharge a few.*
+*Oh, probably just checking in on the diarrhea cases. Looking to discharge a few.*
 
 *Good, remember to keep your handkerchief on tight when you are in the sick ward.*
 
-*The older nurses already drilled that into me.* Maddy double-checked that she packed a spare.
+*The nurses already drilled that into me.* Maddy double-checked that she packed a spare.
 
-*And, I am going to the chemists today anyway, so take these.*
+*And, take these.*
 
 Collie held out the two compacts and the brush.
 
-*Just bring them back in one piece, they used to be grandma's.*
+*Just, keep them in one piece, they used to be grandma's.*
 
 *mmm.*
