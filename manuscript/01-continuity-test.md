@@ -18,13 +18,13 @@ The medical student threw up from the fumes about the time when they lost sight 
 
 *First time, egghead?* Lewis snatched the mint.
 
-*Yeah.* the egghead wiped her lips with a stretched collar.
+*Yeah.* the egghead wiped her lips with a stretched sleeve.
 
 *First time in a truck or first time in a truck bed?*
 
 A lick on the edge of the paper.
 
-*Well, the busses, and then we had cargo bikes. We never drove growing up.*
+*Well, the buses, and then we had cargo bikes. We never drove growing up.*
 
 *That'll do it, try and keep your eyes on the road.*
 
@@ -132,7 +132,7 @@ She moved the empty bottle, sat down, and pulled off her metal leg.
 
 *Must you always bring up other women?* She grunted as he massaged the stump.
 
-*We can talk about other things.*
+*What, you scared of my sister? We can talk about other things.*
 
 *Tell me how good that Egghead character is, and if she can help with the leg.*
 

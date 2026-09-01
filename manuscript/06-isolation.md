@@ -191,11 +191,7 @@ Bréal was in the office tent, where the engineering department had laid the pen
 
 *I can get your men whatever fresh produce the Swartz family can get, in exchange, you restore water service to our district first, right after the hospital and school get it back.*
 
-*I don't believe that is up to regulation.*
-
-*We make do, Bréal, we all make do.*
-
-*And why should I do this?*
+*I don't believe that is up to regulation. And, why should I do this?*
 
 *Because, Bréal, I have some jam of my own, and Maddy already brought your woman a sample. At the Epsilon house.*
 
@@ -205,11 +201,11 @@ Bréal was in the office tent, where the engineering department had laid the pen
 
 *How do we explain this?*
 
-*Oh, you won't have to, just recommend the engineers to recompute the district triage with slightly different weightings, the sandwiches are just here to relieve our working boys, yes?*
+*Oh, you won't have to. Just... recommend the engineers to recompute the district triage with slightly different weightings. The sandwiches are just here to relieve our working boys, yes?*
 
 *Okay. okay.*
 
-*And, just for my best foreman.* Collie produced a bottle that must have been tied to her calves.
+*And, just for my best foreman.* Collie produced a bottle that must have been tied to her calves. *A gift, from Château Swartz.*
 
 *Where did you find grapes?*
 

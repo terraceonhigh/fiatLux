@@ -200,7 +200,7 @@ Collie let that slide.
 
 *I hope I am not taking too much of your time. I know electricians don't handle concrete if they can help it.*
 
-*We make do, Collie. Anyways, the season has been quiet, so it is good to keep my hands busy.*
+*The season has been quiet, so it is good to keep my hands busy. And less dangerous work too.*
 
 *And how is Lewis? Picking up the trade well?*
 
