@@ -24,7 +24,7 @@ The medical student threw up from the fumes about the time when they lost sight 
 
 A lick on the edge of the paper.
 
-*We never drove growing up.*
+*Well, the busses, and then we had cargo bikes. We never drove growing up.*
 
 *That'll do it, try and keep your eyes on the road.*
 
