@@ -1,6 +1,4 @@
-Lewis had a job now, at the old repair workshop that fixed Collie's phone back during grad school. He hated laptops and got handy with a microscope. Sometimes, new frames were printed instead of bought, because Fixer was reliable with bringing in liquor and spotty with chips and they were going to wait anyways. Maia wanted him in the electrical engineering department, but had to search for someone in the faculty to meet with him and see his projects.
-
-He got really good at holding his breath, even though the rig in the shop had a proper hose and fan to the outside. Every Friday, he put his copper wires back into his backpack to put at home. Madam Swartz had grown a habit of patting him on the head on paydays, even though he definitely wasn't that age anymore.
+Lewis had a job now, at the old repair workshop that fixed Collie's phone back during grad school. He hated laptops and got handy with a microscope. Sometimes, new frames were printed instead of bought, because Fixer was reliable with bringing in liquor and spotty with chips and they were going to wait anyways. Maia wanted him in the electrical engineering department, but had to search for someone in the faculty to meet with him and see his projects. Fridays were paydays, when he would put his copper wires back into his backpack to put at home. Madam Swartz had grown a habit of patting him on the head on those, even though he definitely wasn't that age anymore.
 
 Every other weekend, though, Bréal and the boys from Epsilon Rho Rho would toot the horn outside the building to tell him they were there, and then they would all drive out to the city to find old parts. Madam Nona always made him bring two vials of mead on the way out. The small one for the guards at the gate, the bigger one for the boys around the fire. And she will want new rubber gloves and a few bundles of sage by next Monday.
 
@@ -8,9 +6,9 @@ Maia always hugged him tight before they headed out, he couldn't bear to tell he
 
 At her behest, he double-checked his backpack: one large electrician's toolkit (packed last night), two pairs of insulating gloves, one hardhat, one tourniquet and first aid kit. One large vial of mead, one medium vial of mead, and one small vial of grease and ointment each.
 
-*Best bring back all your fingers, boy. They're for the saws to eat. If you lose one, though, the going rate is two pounds of sausage to a finger.*
+*Best bring back all your fingers. They're for the saws to eat. If you lose one, though, the going rate is two pounds of sausage to a finger.*
 
-*No it ain't, heed not your driveling father beyond the first sentence.*
+*No it isn't, don't listen to your father except the bringing back fingers thing.*
 
 The truck bed smelled of french fries as it rolled down the highway towards the city. The governor was set at sixty kilometers an hour, with a screw that his father made sure he knew how to turn before his first outing. The biscuits had a taste of ginger from Nadia's patch, and covered the slight rancid smoke from the exhaust.
 
@@ -20,7 +18,7 @@ The medical student threw up from the fumes about the time when they lost sight 
 
 *First time, egghead?* Lewis snatched the mint.
 
-*Yeah.*
+*Yeah.* the egghead wiped her lips with a stretched collar.
 
 *First time in a truck or first time in a truck bed?*
 
@@ -30,15 +28,15 @@ A lick on the edge of the paper.
 
 *That'll do it, try and keep your eyes on the road.*
 
-Lewis took out his flint and knife and told the egghead to lean in. She kept one hand holding her briefcase straight up.
+Lewis took out his flint and knife and told the egghead to lean in. She held the cigarette with the hand she wiped her lips with, and held her briefcase with the other.
 
 *...what about you?*
 
 *Must be in the dozens of trips now.*
 
-*All this... rancid?*
+*All smelling like... something died and someone fried it?*
 
-*It ain't so bad once you get used to it. Right, and you oughta try these biscuits from my auntie.*
+*It ain't so bad once you get used to it. Right, you oughta try these biscuits from my auntie.*
 
 They got to the town before sundown. Bréal dapped up the two campus guards who said something about can't wait to eat at the dining hall again after a month out in the country, before they got to briefing the two guards from the caravan who would be their replacement.
 
@@ -46,9 +44,13 @@ The other med student had been here for three months, and handed over to Egghead
 
 He caught the general store just before it closed, and got himself a link of sausage and a yard of casing for the return trip.
 
-The rest could wait, for tonight, they just had to sit around the town fire and share the soup the folks had made. Lewis took from the truck five jars of honey from the campus and a dozen of the smoked salmon from another run by another crew to another town.
+The rest could wait, for tonight, they just had to sit around the town fire and share the soup the folks had made. Five jars of honey clinked in his backpack, next to a dozen of the smoked salmon from another run by another crew to another town.
 
-The schoolteacher hugged her beau, who rode the truck behind Lewis and Egghead. Around the fire Lewis could see them holding each other and exchanging stories. By the book, she still had five more months with this class before she would come back to the university.
+The schoolteacher hugged her beau, the carpenter who rode the truck behind Lewis and Egghead. By the book, she still had five more months with this class before she would come back to the university.
+
+The fire seemed to be the only thing in the world, a gyrating ember presence that compounded the sloshing mead. Lewis passed the bottle toward the carpenter, and the schoolteacher in his lap grabbed it instead. A chorus sang *Ayy* when she decanted from the bottle into his open mouth.
+
+Lewis fell back-first into the truck bed, and did not feel the falling stop even after he snugged himself in his sleeping bag.
 
 ---
 
@@ -78,7 +80,7 @@ She let him in.
 
 The two drops that remained of the big bottle of mead sat on the steps to the blind.
 
-He had at last learned to grab his aluminium mug by the handle instead of the body when she poured from the thermos. It smelled like chicken noodle soup, more metallic, more fatty. Strong sweet notes from carrot and onion. Herbs too, not like the dry stuff that made it to the university.
+He had at last learned to grab his aluminum mug by the handle instead of the body when she poured from the thermos. It smelled like chicken noodle soup, more metallic, more fatty. Strong sweet notes from carrot and onion. Herbs too, not like the dry stuff that made it to the university.
 
 *Duck noodle soup.*
 
@@ -94,15 +96,19 @@ They waited for the soup to cool some more.
 
 *Yes, ma'am.*
 
-*And, it is good to see you.*
+*And, it is good to see you.* Diana said as she rose and put on her gear.
 
 *And I love seeing you too.*
 
-The hinge had grime on it, most likely from the last fire from inland. Lewis grabbed a brush from his backpack and got to work. The sky cleared and said 2 p.m., and she was gone getting his sage for him. He was brushing dried leaves off the roof when a gunshot cracked from the other side of the hill. He grabbed an armful of the leaves to start a fire.
+*Sage, right?*
+
+*Stay safe out there.*
+
+The hinge had grime on it, most likely from the last fire from inland. Lewis grabbed a brush from his backpack and got to work. He was brushing dried leaves off the roof when a gunshot cracked from the other side of the hill. He grabbed an armful of the leaves to start a fire.
 
 She brought back a rabbit just as the fire took.
 
-*Y'know, my auntie Nona always said that eating nothing but rabbits is how you starve.*
+*Y'know, my auntie always said that eating nothing but rabbits is how you starve.*
 
 *That so? That woman teach you anything that would be useful out here?*
 
@@ -120,17 +126,17 @@ She handed him his sage.
 
 A nod.
 
-She moved the bottle of mead, sat down, and pulled off her metal leg.
+She moved the empty bottle, sat down, and pulled off her metal leg.
 
 *Maddy was the one that made this cream, I told her I had a sore shoulder and she said she added peppermint to help with it.*
 
 *Must you always bring up other women?* She grunted as he massaged the stump.
 
-*Well, they are my sisters, but if you want we can talk about other things.*
+*We can talk about other things.*
 
 *Tell me how good that Egghead character is, and if she can help with the leg.*
 
-*Didn't you say no women?*
+*Didn't you just say no women?*
 
 *It's different when they're a doctor.*
 
