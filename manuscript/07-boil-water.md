@@ -162,11 +162,11 @@ Collie deglazed with a spoonful of water. The tap was slow.
 
 *What matters is that you are mine now.*
 
-*I want to know.*
+Maddy held a shallow breath, for half a second. *I want to know.*
 
 *You have a photo of them both framed on your desk.*
 
-*I want to hear it.*
+*I want to hear it. And I want to hear it from you.*
 
 Collie moved the mushrooms to one side of the pan, and did not look at her thirdborn child.
 
