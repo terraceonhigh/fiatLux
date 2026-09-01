@@ -42,7 +42,7 @@ Bréal grabbed a towel, the part was no longer blue. *Now, V, stand aside if you
 
 *Spit.*
 
-*Why you seem so pressed about them? Lewis is cool, if anything bit soft for a brother. The sisters are nothing if not growing into valuable university assets and bachelorettes.*
+*Why you seem so pressed about them? Lewis is cool, if anything bit soft for a brother. And the girls capable bachelorettes.*
 
 *Well,* the bossman took off his safety glasses. *You ever seen them all together? Like, lined up, side to side. Or, like, heard Lewis talk about his moms and dad, singular?*
 
@@ -50,7 +50,7 @@ Bréal grabbed a towel, the part was no longer blue. *Now, V, stand aside if you
 
 *The dad, he had me brick up a good chunk of the ground floor at his building.*
 
-*But it is the Madam that frequents us. What I do know of Mr Tsien Senior is that he is an electrician working for the university.*
+*But it is the Madam that frequents us. What I do know of Mr Swartz is that he is an electrician working for the university.*
 
 *And I used to be in a private school,* Bréal nailed the lid for the parts. *Get them the pemmican.*
 
@@ -371,7 +371,3 @@ Nadia set her foot down onto the floor with a light *thud*, and gestured about t
 He did, perpendicular to the empty bed. Nadia felt for the shells in their breech.
 
 She had the watch.
-
----
-
-The trip ended up taking four and a half days.

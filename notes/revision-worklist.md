@@ -15,11 +15,6 @@ Unchecked. Terrace has made no calls on any of these.
       `:9` "Rusina had her kneel"). Rosa is facing the wall; the eye-roll is not
       available to her.
 
-- [ ] **`10-wild-oats.md:221`** — "The fishwife in that house could see the sun
-      behind Maddy's hair, or rather what still showed of her hair beneath the cap."
-      Sentence before is "They could see..." (Lewis and Nadia, in the truck). One
-      sentence inside a stranger and back out.
-
 - [ ] **`11-mulberry.md:73`** — "...massaging the liquid into Nona's hair, Collie
       could be seen sinking most of herself into the river."
       Two faults in one clause: a passive positing an observer the ensemble camera
@@ -34,17 +29,19 @@ Unchecked. Terrace has made no calls on any of these.
       Subject mutates mid-sentence; "which" has no antecedent that can sob. The most
       tangled sentence in the draft.
 
-- [ ] **`01-continuity-test.md:149`** — "One high-school aged child with a letter
-      from the schoolteacher..." / "The schoolteacher hugged her beau, who rode the
-      truck behind him and Egghead."
-      "him" has no clean antecedent; the beau is already the subject of "rode".
+- [ ] **`01-continuity-test.md:51`** — "The schoolteacher hugged her beau, who rode
+      the truck behind him and Egghead."
+      "him" is meant to be Lewis, who is not named until the NEXT sentence. The
+      nearest male noun is the beau, who is already the subject of "rode", so the
+      first available reading has him riding behind himself. Cataphora across a
+      sentence boundary with a competing antecedent in between.
+      (Line reference was wrongly recorded as `:149` until 2026-08-31; `:149` is
+      "The convoy was short one beau, and the town was up one carpenter", which is
+      sound and is the payoff this sentence plants.)
 
 ## Your call
 
-- [ ] **`10-wild-oats.md:307`** — "And so humble too, the woman thought."
-      A hop, but the irony earns something: the reader knows Maddy is performing
-      modesty and the host is buying it. Keep or cut on whether the joke pays for
-      leaving the sibling POV for one line.
+(none outstanding)
 
 ## Explicitly NOT on this list
 
@@ -58,3 +55,15 @@ purpose, recorded here so they do not get "fixed" by a later pass:
   Free indirect discourse carrying the manager's tense.
 - `09-ground.md:181` — "Alex did something with his right hand". Collie's POV,
   Collie not parsing the gesture. Correct limited perception.
+- `10-wild-oats.md:221` and `:307` — the two dips into the fishwife. Withdrawn
+  from the fault list 2026-08-31 on Terrace's push-back, and the evidence backs
+  it. `:221` is the **only** time-of-day marker in the chapter's 3,055 words
+  (grep: sun/dusk/evening/afternoon/dark/light/shade returns this line alone), so
+  cutting it leaves the overnight sequence with no chronology. The sun behind her
+  hair is a halo that pays off literally at `:303`, "You really are an angel",
+  spoken by the same woman. And the narration enters that woman exactly twice,
+  `:221` and `:307`, both to register her assessment of Maddy, both feeding the
+  letter she writes at `:325`. Two accesses to one consciousness on one subject
+  is a pattern, not a slip. Kimi's finding was mechanically correct and
+  functionally wrong. Note also that these two were originally split across
+  take-straight and your-call, which was an error — they are one device.

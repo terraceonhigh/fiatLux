@@ -170,7 +170,7 @@ Collie deglazed with a spoonful of water. The tap was slow.
 
 Collie moved the mushrooms to one side of the pan, and did not look at her thirdborn child.
 
-*Alice, her name was Alice Swartz and she was my sister. I was there when you were born and I was there with you when we buried her, take out and mash the potatoes.* She set down the spatula, and grabbed the bowl of whisked eggs. Maddy took the pot off the stove and took out the potatoes. She was generous with the ramekin of butter. *Your father, Richards, he, God.*
+*Alice, her name was Alice Swartz and she was my sister. I was there when you were born and I was there with you when we buried her. Take out and mash the potatoes.* She set down the spatula, and grabbed the bowl of whisked eggs. Maddy took the pot off the stove and took out the potatoes. She was generous with the ramekin of butter. *Your father, Richards, he, God.*
 
 *That is all, thank you.*
 
@@ -228,6 +228,6 @@ Collie put hers on, while Maddy packed her lunch and notebooks and braided and t
 
 Collie held out the two compacts and the brush.
 
-*Just, keep them in one piece, they used to be grandma's.*
+*Just, keep them in one piece. They used to be grandma's.*
 
 *mmm.*

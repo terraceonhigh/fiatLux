@@ -1,6 +1,6 @@
 Something was wrong with washer #17 in the university laundromat on the corner of Agronomy Road and Campus Parkway. The unit was on the end of the first row in, on the right, next to the machines with the German badges. Alex took off the bent-sheet control panel on its front and looked at the wiring. The original warning labels had faded to a translucence, and there was some text in Korean under that. On the back of the university's panel was a label, with the name of the student who rewired the machine and the professor who signed off on it.
 
-The load in the other machines were pure white.
+The loads in the other machines were pure white.
 
 Alex made a connection manually, and watched it sputter and attempt to spin. It jiggled back and forth instead.
 
@@ -70,7 +70,7 @@ The name *MADDY* had been sewed in on the tailbone, facing outward. Nona put it 
 
 The bedding was the hardest to wash, large and unwieldy as it was. Collie and Nona did the wringing. Collie had to be swapped out to Maia about halfway. Collie complained of a sore wrist and Maia almost twisted her back. They washed the clothes on their backs last, the pieces they hung up first had already begun to billow slightly in the wind.
 
-The T-shirts they were wearing hung somewhere around the tail-end of the clothesline, where they still had room after the bedding ate most of the rest. Maia coaxed the block of soap in her hands first, before massaging the liquid into Nona's hair, Collie could be seen sinking most of herself into the river.
+The T-shirts they were wearing hung somewhere around the tail-end of the clothesline, where they still had room after the bedding ate most of the rest. Maia coaxed the block of soap in her hands first, before massaging the liquid into Nona's hair, Collie sank most of herself into the river.
 
 *Nona, babe, can I ask you a favour?*
 

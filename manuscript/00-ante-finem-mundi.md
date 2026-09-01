@@ -20,7 +20,7 @@ She likes Auntie Collie's house too. It is on the third floor of a red brick bui
 
 ---
 
-Collie got Lewis a proper bunk when he was twelve, and spent as much time as he did at her apartment as he did at Maia's place, which Maia did sob and thank her a few times through the handset. Lewis, for his part, never did find a proper three-player game, the teams never were balanced. One time, over the lip of a patched pothole he slid off his bicycle with the console in his backpack, and—thankfully—one of the controllers took the hit. It still worked when he got to Mrs Swartz's place, the scratched plastic just dug into his hands a little.
+Collie got Lewis a proper bunk when he was twelve and spent as much time at her apartment as he did at Maia's place. Maia did sob and thank Collie through the handset when informed of the matter. Lewis, for his part, never did find a proper three-player game, the teams never were balanced. One time, over the lip of a patched pothole he slid off his bicycle with the console in his backpack, and—thankfully—one of the controllers took the hit. It still worked when he got to Mrs Swartz's place, the scratched plastic just dug into his hands a little.
 
 Nadia crashed her cart into his, and the controller didn't rumble. He noticed it, just a little bit. When he rode back in the morning, his father took the thing apart, and showed him where the wire to the motor had gone loose. Lewis opened the window and held his breath as dad put a soldering iron to it and made it work again.
 

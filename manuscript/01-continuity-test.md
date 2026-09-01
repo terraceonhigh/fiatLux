@@ -48,7 +48,7 @@ He caught the general store just before it closed, and got himself a link of sau
 
 The rest could wait, for tonight, they just had to sit around the town fire and share the soup the folks had made. Lewis took from the truck five jars of honey from the campus and a dozen of the smoked salmon from another run by another crew to another town.
 
-The schoolteacher hugged her beau, who rode the truck behind him and Egghead. Around the fire Lewis could see them holding each other and exchanging stories. By the book, she still had five more months with this class before she would come back to the university.
+The schoolteacher hugged her beau, who rode the truck behind Lewis and Egghead. Around the fire Lewis could see them holding each other and exchanging stories. By the book, she still had five more months with this class before she would come back to the university.
 
 ---
 

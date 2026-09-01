@@ -173,9 +173,11 @@ judgement call, one is Kimi misreading correct POV discipline as vagueness.
   rolled her eyes." Chapter is Rosa-locked (`:3` "Egghead flipped the note",
   `:5` "her office", `:9` "Rusina had her kneel"). Rosa is facing the wall and
   cannot see the eye-roll.
-- `10-wild-oats.md:221` — "The fishwife in that house could see the sun behind
-  Maddy's hair". The sentence immediately before is "They could see..." (Lewis
-  and Nadia in the truck). One sentence into a stranger and back out.
+- ~~`10-wild-oats.md:221`~~ — WITHDRAWN 2026-08-31. Mechanically a hop, but it
+  is the chapter's only time-of-day marker, the halo pays off at `:303` ("You
+  really are an angel", same speaker), and the narration enters that woman twice
+  (`:221`, `:307`) both times to register her read of Maddy, both feeding her
+  letter at `:325`. A pattern, not a lapse. See `notes/revision-worklist.md`.
 - `11-mulberry.md:73` — "Collie could be seen sinking most of herself into the
   river." Passive positing an observer the ensemble camera does not have. Also a
   comma splice: "...massaging the liquid into Nona's hair, Collie could be seen...".
