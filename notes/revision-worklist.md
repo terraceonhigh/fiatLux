@@ -43,6 +43,63 @@ Unchecked. Terrace has made no calls on any of these.
 
 (none outstanding)
 
+## Pending — Terrace's call, 2026-09-01
+
+- [ ] **`10-wild-oats.md:73`** — swap Maddy's line for `*puff puff pass, asshole.*`
+      Current: *"You know, I can forgive a sparkie for that mouth, but betraying
+      puff-puff-pass just marks you an asshole."* Terrace's call, noted at end of
+      session for the morning.
+
+      Why it helps: 20 words to 4. Sonnet 5 named this exact scene as the worst
+      case of the italics-no-quotes convention failing at three-plus speakers
+      ("four lines, and I have to stop and count backward to figure out who's
+      needling whom"). Less to parse. It also pulls Maddy out of the arch
+      register — *"betraying X just marks you an asshole"* is a constructed
+      formal shape, and blunt is not, which serves the same differentiation pass
+      that took `We make do` off Alex and Bréal.
+
+      What it costs: *"I can forgive a sparkie for that mouth"* goes, and with it
+      Maddy commenting on Lewis's language.
+
+      Two things to decide with it:
+      - The tag `A third voice joined in` becomes longer than the line it tags.
+        Check the rhythm on the page.
+      - Hyphenation. The manuscript has *puff-puff-pass*; Terrace wrote it
+        unhyphenated. Pick one.
+
+      Note the following line still works either way: Lewis's *"Where did you
+      even learn that, Mads?"* points at the slang rather than the construction,
+      and arguably lands better against the short version.
+
+- [ ] **`07-boil-water.md:183`** — break the apology's anaphora with a sniffle.
+      Terrace's call, 2026-09-01, to write next session. Current line is
+      *"I am sorry, Maddy. I am sorry I never told you why."* Put the sniffle
+      BETWEEN the two limbs so the second arrives as a restart, not a parallel.
+
+      Intended effect (Terrace's): Maddy ends up managing Collie. The sniffle is
+      the first crack of Collie's that is AUDIBLE — every other one (`:101` the
+      bottle squeezed too hard, `:153` rinsing clean hands, `:181` the salt) is
+      visible to the reader only, and Maddy cannot necessarily read them. A sound
+      in the room is the first thing Collie gives her daughter without choosing
+      to. It re-tunes `:191` *"Don't worry about that, mom"* from declining an
+      offer into the daughter taking over.
+
+      **The setup already exists and does not need adding.** `:125` has Maddy
+      rejecting the sausage because *"Collie already had enough trouble for one
+      morning"* — she has been managing Collie's emotional state since breakfast,
+      and she learned it from Collie, who has done nothing else all chapter
+      (`:15` the kettle, `:39` a fan, `:43` Nona, `:47` tea, `:79` deep breaths,
+      `:119` breakfast). The sniffle does not introduce the reversal, it makes an
+      inheritance already on the page legible.
+
+      Two conditions: keep it small, a sniffle and not a sob, so it stays
+      involuntary rather than expressive. And keep it the only one in the
+      chapter, or it becomes a mode instead of a crack.
+
+      Known cost: every other physical beat here is a task, so feeling is
+      displaced into labour. A sniffle is undisplaced and crying-coded. Accepted
+      deliberately, because audibility is the whole point.
+
 ## Explicitly NOT on this list
 
 Four items the models filed as errors that are deliberate effects. Left alone on

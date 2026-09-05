@@ -143,6 +143,18 @@ The adults carry classical names that read as graduate-school nicknames which ha
 
 So there are **two women's registers**: the flat's generation is mythological and light-bearing, and everyone who arrives from outside is named for a real woman the record under-credited. Terrace's rule — *the corrective device exists to credit* — means the naming convention **is** the device, and it is already doing the work.
 
+### The Fleming family — a dynasty of the same device, confirmed in draft 2026-09-04
+
+**The draft of `08-druzhina.md` settles the genealogy.** Dr Fleming (Emeritus, Sovietologist) → daughter **Klara** → Klara's daughters **Ada** and **Cecilia** (sisters). Klara is Fleming's daughter, not his wife; she is described in the draft as *"quite lethargic these days,"* cause unstated.
+
+**Klara and Cecilia carry the same corrective device as Ada, extending it three generations deep in one family:**
+- **Klara** — Klara Dán von Neumann, who wrote real working code for one of the earliest electronic computers and went essentially uncredited beside her husband's name.
+- **Cecilia** — Cecilia Payne-Gaposchkin, who correctly determined that stars are made mostly of hydrogen and helium and was told by her supervisor not to publish it; he republished the same finding years later and took the credit. The draft has her *"out building... up the coast, fixing mountain passes"* — an engineer, away from home, an echo of Maia's absence from Lewis.
+
+**So Ada is not a lone reference. She is one generation of a family that is itself the device**, one erased computer or scientist per generation, all now carrying the surname of the man who holds the institutional chair above them.
+
+**Also confirmed in draft: Fleming was Collie's thesis advisor.** *"Don't just take it, Coelia. Ask for something more"* is *"the same sentence, or almost, to what he said before her thesis defense... It was not beneficial then."* *Druzhina* is not a negotiation between two institutionalists meeting cold — it is a former student and her old advisor, still running the same lesson, with her having been burned by following it once before. This recasts the whole chapter and should be read as load-bearing for Fleming's warmth toward her throughout.
+
 **Diana** joins the classical register from outside the flat: Roman goddess of the hunt, and she hunts on the page (ch2 ¶101). She is also the moon, and that is where the pattern stops being decoration.
 
 | Name | Light |
