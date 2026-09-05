@@ -86,7 +86,7 @@ Collie perked up, but caught it in time to turn it to a piqued.
 
 *I should call her soon, then. She would be pleased.* Collie said in an even tone.
 
-*I am not sure I am not the kind of guest to ask my host to defang himself, in kind.* She slathered one more slice of toast, with jam and parmesan *But, You vote in support of the entreaty with Epsilon and Iota.*
+*I am not sure I am not the kind of guest to ask my host to defang himself, in kind.* She slathered one more slice of toast, with jam and parmesan *But, you vote in support of the entreaty with Epsilon and Iota.*
 
 Another person came back with more tea, along with a few strips of bacon and eggs for the two, nothing too absurd to get in the way of the afternoon.
 
@@ -114,7 +114,7 @@ He rang a bell, and whispered into his servant's ear. *He sits, like anyone else
 
 *Of course.* Collie gripped on her knife a little too hard, and the muscle was seen straining.
 
-*he will be behind, and would be for two years.*
+*He will be behind, and would be for two years.*
 
 *You always were steadfast about academic integrity.*
 
@@ -156,7 +156,7 @@ They had something fluffy and light after that. Topped with whipped cream.
 
 *But why would I do that?*
 
-*Because I want to give the Elbakyans the apiary they have been taking care of, because she is a Fleming, and because despite what you think. Your family does not have a monopoly on the use of force.*
+*Because I want to give the Elbakyans the apiary they have been taking care of, because she is a Fleming, and because, despite what you think, your family does not have a monopoly on the use of force.*
 
 *Proving by demonstration, then, the reason why we should back you.*
 
