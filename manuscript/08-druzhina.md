@@ -82,21 +82,11 @@ Collie perked up, but caught it in time to turn it to a piqued.
 
 *She is already quite comfortable in the greenhouses, I think.*
 
-*—and a less backbreaking post for... what's her name, Nona, yes? I have thought about supporting the appropriation bill that would give her the apiary. I am sure you would love it.*
+*—and a less backbreaking post for... what's her name, Nona, yes? I am sure you would love it.*
 
 *I should call her soon, then. She would be pleased.* Collie said in an even tone.
 
-*Well, don't just take it, Coelia. Ask for something more.* It was the same sentence, or almost, to what he said before her thesis defense. She had a tendency to bank responses until after a question had been deployed, and half-forgotten, to take someone off guard. It was not beneficial then.
-
-*I am not sure I am not the kind of guest to ask my host to defang himself, in kind.* She slathered one more slice of toast, with jam and parmesan *But, we have been looking for a slot for Lewis in the electrical engineering department.*
-
-*Of course. What else?*
-
-*You vote in support of the entreaty with Epsilon and Iota.*
-
-*Allow me to call my servant for Lewis' matter first.* Fleming rang a bell, then whispered in a man's ear. *He sits like anyone else, and he will get the degree on his own merit.*
-
-*I would never ask for anything more.*
+*I am not sure I am not the kind of guest to ask my host to defang himself, in kind.* She slathered one more slice of toast, with jam and parmesan *But, You vote in support of the entreaty with Epsilon and Iota.*
 
 Another person came back with more tea, along with a few strips of bacon and eggs for the two, nothing too absurd to get in the way of the afternoon.
 
@@ -110,59 +100,51 @@ Another person came back with more tea, along with a few strips of bacon and egg
 
 *It was less reliable east of the Balkans.* He let the bacon's heat melt the pepper butter, onto a slice of toast. There was rosemary in the loaf Coelia brought.
 
-*Do you not have your own lieutenants in Iota?*
-
-*Yes, but no one I—and I would hazard, you—should put above mere mercenaries.*
-
-*They helped fix the water leak.*
-
-*Their own gardens drink from the same tap, they would have done so anyways.*
-
 Collie helped herself to another cup.
 
 *Coelia, think of this less as foederati, but as the legions.*
 
-*And you wrote the book on how the oligarchs got filthy rich, after the Soviets fell.* Collie opened a jar of liver paste, which made a *pop* as the button gave under it. *You could be the biggest winner.*
+*And you wrote the book on how the oligarchs got filthy rich, after the Soviets fell.* Collie opened a jar of liver paste, which made a *pop* as the button gave under it. *You could be the biggest winner. Nobody quite remembers who took over Doctor's Sausage.* Collie folded her legs, under her wine-dark dress. The same one she wore for the first week of every semester.
 
-*Or we could both be dead next year.*
+*My bloc won't flip, I suggest you ask me to help you finding a place for Bréal instead of scheming about a private army.*
 
-*That is no excuse to paralyze under.* Collie folded her legs, under her wine-dark dress. The same one she wore for the first week of every semester.
+*That won't be necessary. Though, I would appreciate a slot for Lewis in Electrical Engineering.*
 
-*It is happening, Coelia, just ask me to help you finding a place for Bréal.*
+He rang a bell, and whispered into his servant's ear. *He sits, like anyone else.* Dr Fleming wiped what was left of the yolk with a piece of toast.
 
-*That won't be necessary. Though, I would appreciate Nadia having her choice in where to go after next season.*
+*Of course.* Collie gripped on her knife a little too hard, and the muscle was seen straining.
 
-*As many as I can allow.*
+*he will be behind, and would be for two years.*
 
-*And we hold our own men, legally. Like how they already don't care that you do.*
-
-*I can't sell you the inevitable.*
+*You always were steadfast about academic integrity.*
 
 Collie sighed, and rose to follow Dr Fleming's walk through the glass-covered garden.
 
 *I am an old man, Coelia, quite old.*
 
-*And evidently still quite sharp.*
+*And, evidently, still quite sharp.*
 
-*I will want a doctor soon. And I would trust your Maddy best should I fall ill.*
+*I will want a doctor soon, not a poisoner. I want to meet your Maddy again before I put her on retainer the moment she graduates.*
 
 *And I will tell Bréal myself first, and the rest of the brothers.*
 
 *Just Bréal.*
 
-*Very well, Doctor.*
+*And what if he tells.*
+
+*He won't, because you will be escorted by Campus Security into the Epsilon building, to convince them to hand over their guns.*
 
 There was a shower above the university then, and the catchment from the roof flowed upon the glass to water the covered gardens.
 
-*I am sorry about the poisons, I am sure you understand.*
+*It is sausage that fills stomachs, Coelia. You yourself should know panem et circenses.*
 
-*I graded too many essays to not know why.*
+*I specialized between Athens and Sparta.*
 
-*Hah, yes, and it all seems so trivial now, doesn't it?* Dr Fleming inspected a branch as he chuckled. *And lord knows where that essay came from, huh?*
+*Hobbes wrote in Latin.*
 
-Collie smiled.
+They had something fluffy and light after that. Topped with whipped cream.
 
-*And, just for your peace of mind going forward, I promise never to interfere in Maddy's life.* He plucked several leaves off, and tossed them aside. *I could never do it to the begotten one. In exchange, I want you to cover something for my Ada when I am gone.*
+*In exchange for Lewis, I want you to cover something for my Ada when I am gone.*
 
 *What will she need?*
 
@@ -170,15 +152,37 @@ Collie smiled.
 
 *A computer.*
 
-*Yes, crunching numbers in the greenhouses. Klara is in no condition to sign.* Collie helped Dr Fleming sit back down. *And Nadia will have months. All I object to is your family controlling the pharmacy.*
+*Yes, crunching numbers in the greenhouses. Klara is in no condition to sign.* Collie helped Dr Fleming sit back down.
 
-*Anything for my dear advisor, then.*
+*But why would I do that?*
 
-*I am glad that we remain parsimonious.*
+*Because I want to give the Elbakyans the apiary they have been taking care of, because she is a Fleming, and because despite what you think. Your family does not have a monopoly on the use of force.*
 
-*No reason for strife.*
+*Proving by demonstration, then, the reason why we should back you.*
 
-They had a toast with another helping of mead. Soon after that Dr Fleming uncorked a bottle of cider.
+*University politics was somehow very transferrable to our current Circumstances.*
+
+They had another helping of mead.
+
+*Right, I don't think I ever got back to you on how that internship went.* She said.
+
+*Well, how did it go?*
+
+*That department had the budget slashed midway, there was no return offer.*
+
+*Would have been a sinking ship anyway.* Host and guest emptied their second pot. *I just want you to know. When I wrote in that letter that you would have thrived anywhere, I really did mean it.*
+
+*One must focus on what they can control.* Collie set cup and plate back on the table.
+
+*...and still as disconcertingly amicable as always. I maintain the opinion on your capability I put on that letter.*
+
+*I am flattered.*
+
+*Take care on the way home, Lady Swartz. And, congratulations on the new apiary.* Fleming did the above-the-waist part of a courtly bow. With the twisting of the outreached hand as flourish.
+
+*Deliver my greetings to the family, Sir Flemiovich.* Collie did a curtsy.
+
+Fleming considered which flowers to put on the family Coat of Arms, and settled on wheat.
 
 ---
 
@@ -190,9 +194,11 @@ The oven was fifteen degrees warmer than it was supposed to be at this hour. The
 
 *The samosas just finished baking. We have potato and we have peas.*
 
-*Two, please. And a sausage roll.*
+*Two. And a sausage roll.*
 
-*Can I have your container?*
+*Madam, you look green, is everything okay?*
+
+*Just the pastries, please.*
 
 Collie had a metal one for takeouts — and in the earlier days, gruel — its lid held with a spring-loaded mechanism that she was never quite able to describe in words.
 
@@ -204,4 +210,4 @@ It clicked down, sharp. *Here you go, madam.*
 
 Collie opened her leather wallet, and gave him two tens and a five. On the Obverse were three reproduced signatures, one by the University President, one by the Dean of Economics, and one by the Director of Food Services. The centered seal had a Dogwood flower wrapped in a Mahonia wreath.  
 
-She went to the market after, to see what fruits were in season.
+She went to the market after, to distract herself.
