@@ -134,7 +134,7 @@ Collie sighed, and rose to follow Dr Fleming's walk through the glass-covered ga
 
 *He won't, because you will be escorted by Campus Security into the Epsilon building, to convince them to hand over their guns.* Fleming fed a caged bird with nectar.
 
-*I ask because Epsilon and I both trust you, Coelia.* Fleming continued. There was a shower above the university then, and the catchment from the roof flowed upon the glass to water the covered gardens. *It is sausage that fills stomachs. You yourself should know panem et circenses.*
+*I ask because Epsilon and I both trust you to do it right.* Fleming continued. There was a shower above the university then, and the catchment from the roof flowed upon the glass to water the covered gardens. *It is sausage that fills stomachs. You yourself should know panem et circenses.*
 
 *I specialized between Athens and Sparta.*
 
