@@ -1,14 +1,14 @@
-The Emeritus' property was built after the Swartzes, something done in concrete and stone, with windows that was covered with planks instead of glass as one in every four. Collie relaxed the fingers gripping the straps to her tote, and presented the doorman with her card.
+The Emeritus' property was built after the Swartzes, something done in concrete and stone, with windows that were covered with planks instead of glass as one in every four. Collie relaxed the fingers gripping the straps to her tote, and presented the doorman with her card.
 
 *And the purpose of your visit, Madam Swartz?*
 
 *Socializing.*
 
-She was lead in by a guard taller than her, and was patted down once the two turned a corner. The guard apologized for the measures, and Collie was gracious in understanding due caution. She was delivered to him, in the garden, where hydrangea and lavenders were in bloom.
+She was led in by a guard taller than her, and was patted down once the two turned a corner. The guard apologized for the measures, and Collie was gracious in understanding due caution. She was delivered to him, in the garden, where hydrangea and lavenders were in bloom.
 
 She walked past a bronze sculpture of Demeter. 
 
-*Coelia.* On his knees, he clipped a weak branch. before turning to face her.
+*Coelia.* On his knees, he clipped a weak branch, before turning to face her.
 
 *Dr Fleming.* Collie's smile reached her mouth first, and her eyes a millisecond later.
 
@@ -64,7 +64,7 @@ The servant brought them the bottle and the sliced bread, with three butters, ja
 
 *And her mother?*
 
-*Less so, Klara's quite lethargic these days, doctors says nothing to worry about, though.*
+*Less so, Klara's quite lethargic these days, doctors say nothing to worry about, though.*
 
 Collie topped her toast with pepper and gouda, Fleming had his with cinnamon and jam.
 
@@ -82,13 +82,13 @@ Collie perked up, but caught it in time to turn it to a piqued.
 
 *She is already quite comfortable in the greenhouses, I think.*
 
-*—and a less backbreaking post for... what's her name, Nona, yes? I have thought about supporting the appropriation bill that would give her the apiary.I am sure you would love it.*
+*—and a less backbreaking post for... what's her name, Nona, yes? I have thought about supporting the appropriation bill that would give her the apiary. I am sure you would love it.*
 
 *I should call her soon, then. She would be pleased.* Collie said in an even tone.
 
 *Well, don't just take it, Coelia. Ask for something more.* It was the same sentence, or almost, to what he said before her thesis defense. She had a tendency to bank responses until after a question had been deployed, and half-forgotten, to take someone off guard. It was not beneficial then.
 
-*I am not sure I am not the kind of guest to ask my host defang himself, in kind.* She slathered one more slice of toast, with jam and parmesan *But, we have been looking for a slot for Lewis in the electrical engineering department.*
+*I am not sure I am not the kind of guest to ask my host to defang himself, in kind.* She slathered one more slice of toast, with jam and parmesan *But, we have been looking for a slot for Lewis in the electrical engineering department.*
 
 *Of course. What else?*
 
@@ -120,7 +120,7 @@ Another person came back with more tea, along with a few strips of bacon and egg
 
 Collie helped herself to another cup.
 
-*Coelia, think of this less as foedarati, but as the legions.*
+*Coelia, think of this less as foederati, but as the legions.*
 
 *And you wrote the book on how the oligarchs got filthy rich, after the Soviets fell.* Collie opened a jar of liver paste, which made a *pop* as the button gave under it. *You could be the biggest winner.*
 
@@ -162,7 +162,7 @@ There was a shower above the university then, and the catchment from the roof fl
 
 Collie smiled.
 
-*And, just for your peace of mind going forward, I promise never to interfere in Maddy's life.* He plucked several leafs off, and tossed them aside. *I could never do it to the begotten one. In exchange, I want you to cover something for my Ada when I am gone.*
+*And, just for your peace of mind going forward, I promise never to interfere in Maddy's life.* He plucked several leaves off, and tossed them aside. *I could never do it to the begotten one. In exchange, I want you to cover something for my Ada when I am gone.*
 
 *What will she need?*
 
