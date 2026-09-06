@@ -124,3 +124,28 @@ purpose, recorded here so they do not get "fixed" by a later pass:
   is a pattern, not a slip. Kimi's finding was mechanically correct and
   functionally wrong. Note also that these two were originally split across
   take-straight and your-call, which was an error — they are one device.
+
+## Publishing — AO3 drift, opened 2026-09-06
+
+Two **posted** chapters were edited locally on 2026-09-06 and now differ from
+what readers see. `make publish` (added the same day, `tools/ao3-publish.py`)
+does this headlessly; it needs Terrace's AO3 cookie in `.ao3-cookie` or
+`$AO3_COOKIE`, which Claude does not handle.
+
+- [ ] **`02-fortification.md:33`** — AO3 chapter 3. "Printed by Arbutus
+      University Press" (was "University Press"). Commit `f526fc2`.
+      `make publish CH=02-fortification` to dry-run, then `POST=1`.
+
+- [ ] **`04-off-label-part-i.md:87`** — AO3 chapter 5. The gauze is now
+      "stamped with a seal of Arbutus University" (was "had the university's
+      logo on it"). Commit `8b309ef`.
+      `make publish CH=04-off-label-part-i` to dry-run, then `POST=1`.
+
+**Do these two first**, in that order — they are one-line changes on live
+chapters, so they double as the first real test of `make publish`, and any
+wrong form assumption shows up somewhere harmless. The dry run prints the
+field list; check it before adding `POST=1`.
+
+Not urgent: **`08-druzhina.md`** was edited too (commits `c57a805`, `3662b39`)
+but is still an unposted draft holding AO3 slot 9, so readers see nothing.
+It syncs whenever that chapter goes up.
