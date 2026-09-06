@@ -2524,6 +2524,30 @@ Confirmed factually — induced lactation is real and ancient. The mechanism is 
 
 **Still open:** which town she is from. Not Aldermere (that is Lewis's route and Diana's town) — Bréal "runs the other route" (`10-wild-oats.md:95`). A town on his route, named or not, Terrace's call.
 
+### The mutual version — what each woman supplies — 2026-09-06
+
+**The aid runs both directions, and the exchange is asymmetric in kind rather than in value.** The town woman holds **craft** — knowledge carried in the hands, learned by watching, never written. Maddy holds **institutional knowledge and access** — things in a binder, and things only standing can obtain. Neither is the senior partner. Writing it as competence flowing one way makes Maddy a benefactor and the wife a case, which is both condescending and less interesting than the truth.
+
+**What the town woman knows that a university girl does not:**
+- **Elimination communication** — reading the infant's timing and holding it out. A household with laundry infrastructure never had to learn this; a town woman does it by default.
+- **Moss and packing** — sphagnum is absorbent and mildly antiseptic. Field craft, not medicine.
+- **Swaddling and settling** — pure hand skill, acquired by watching other women, absent from every text.
+- **Preparing the folk antiscorbutics so a child will actually take them.** Maddy knows *Rosa canina* sits on the greenhouse priority list (`06-isolation.md`). The wife knows how to make rose hip or conifer-needle tea taste of something.
+- **Her own body.** She has been pregnant and has given birth. Maddy has attended births; she has not had one.
+
+**What Maddy supplies:**
+- **The scale.** Objective evidence of weight gain — the single most reassuring object you can put in front of a frightened mother, and the early-warning system for failure to thrive.
+- **The feeding fixes** — latch correction, cracked nipples, mastitis, engorgement. The clinical repairs for the things that make nursing fail, which is what actually kills the arrangement.
+- **Sterile discipline**, the syringe lineage out of `07-boil-water.md`, and cup-and-spoon over bottles, since a teat cannot be scrubbed.
+- **Access** — the Swartz network, a wet nurse, supplies, standing. The family's real currency.
+- **Hands and shifts.** The plain thing, and the one she actually came for.
+
+**The beat that keeps the mutuality from going sentimental: honey.** The traditional sugar-tit is cloth knotted around something sweet, and in this household the sweet thing is honey — and **honey is contraindicated under twelve months** (infant botulism; an adult gut handles the spores, an infant's does not). So the folk tradition is better than the binder at almost everything and **lethally wrong about one thing**, and only the institutional knowledge catches it. That single correction stops the scene from becoming "both ways of knowing are equally valid" mush. Sometimes the grandmother is wrong and it matters. It also lands on the Swartzes' own signature good: the family's honey is the thing that must not be given.
+
+**Where it goes afterwards:** Maddy carries the craft out. A clinician in this world builds a practice exactly this way, and the material belongs in the binder that `04-off-label-part-i.md` has already started filling with entries no university put there.
+
+**And it is the cleanest available difference between Collie's method and Maddy's.** Collie gives in order to bind, and reciprocity has no place in that — nothing comes back up the wire, which is why her love has only the three verbs. **Maddy gives, binds, *and* receives.** Whether that is a softening of the family method or a more effective version of the same trap is exactly the thing the book should decline to settle.
+
 ---
 
 ### Timeline pinned — Terrace, session of 2026-09-02
