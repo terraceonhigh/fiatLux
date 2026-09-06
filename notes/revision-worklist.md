@@ -141,6 +141,11 @@ does this headlessly; it needs Terrace's AO3 cookie in `.ao3-cookie` or
       logo on it"). Commit `8b309ef`.
       `make publish CH=04-off-label-part-i` to dry-run, then `POST=1`.
 
+- [ ] **`10-wild-oats.md:165`** — AO3 chapter 11. "Nadia raised her eyebrow"
+      (was "rose"). Commit `8cf1a6e`. This one drifted *after* the 2026-09-06
+      republish, so the live chapter is one word stale.
+      `make publish CH=10-wild-oats` to dry-run, then `POST=1`.
+
 **Do these two first**, in that order — they are one-line changes on live
 chapters, so they double as the first real test of `make publish`, and any
 wrong form assumption shows up somewhere harmless. The dry run prints the
