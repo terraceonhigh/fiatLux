@@ -162,7 +162,7 @@ Nadia blew her smoke away from the table, it was something milder than her morni
 
 *Is there no secrets under our roof?*
 
-*No, not really. Except that magazine you keep under your pillow.* Maddy said. Nadia rose her eyebrow.
+*No, not really. Except that magazine you keep under your pillow.* Maddy said. Nadia raised her eyebrow.
 
 Lewis groaned, and gestured for the cigarette.
 
