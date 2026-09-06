@@ -65,18 +65,19 @@ digraph setting {
         HomeDepot [label="HOME DEPOT (type)\nstandalone, own lot\nSTAFFED + PRICED, ch2 P15\nsalt, painkillers, gloves", fillcolor=grey90];
     }
 
-    Campus [label="THE UNIVERSITY\nwaterfront\ngate, perimeter, parking lot\nshop, clinic, dining hall,\nbakery, apiary", fillcolor=white, shape=box3d];
+    Campus [label="ARBUTUS UNIVERSITY\n(nobody says it — 'the university')\nwaterfront\ngate, perimeter, parking lot\nshop, clinic, dining hall,\nbakery, apiary", fillcolor=white, shape=box3d];
     CampusPower [label="campus district energy?\nUNRESOLVED — audit D-02", fillcolor=white, style="rounded,filled,dashed"];
 
     // ---------- out past the ring ----------
-    Town [label="THE TOWN\nSaanich-shaped: sprawl,\nno core, farmland threaded\nthrough the housing", fillcolor=grey90];
+    Town [label="ALDERMERE\nFleming's town, dairy, EAST\nSaanich-shaped: sprawl, no core,\nfarmland threaded through housing\nch1 convoy destination", fillcolor=grey90];
+    Weirwick [label="WEIRWICK\nSwartz's town, coastal, fishing\nguard tower, mayor, diner,\nSHIPYARD, fishwives\nWILD OATS (ch10)", fillcolor=grey90];
     Fields [label="the fields\nbutter, leather, jam\ninterleaved, not separate", fillcolor=grey90];
     Farm [label="THE UNIVERSITY FARM\nElbakyan patch within it\nglass + open field\nCAMPUS land, beyond the valve\n(ISOLATION)", fillcolor=white];
     Village [label="the village\nsame as the town?\nOPEN", fillcolor=grey90, style="rounded,filled,dashed"];
-    OtherTown [label="another town\nch2 P47 — a NETWORK,\nnot one settlement", fillcolor=grey90, style="rounded,filled,dashed"];
+    OtherTown [label="another town\nch1 P47 — a NETWORK,\nnot one settlement\n(Weirwick is one named instance)", fillcolor=grey90, style="rounded,filled,dashed"];
 
     subgraph cluster_south {
-        label="south of the town"; style=dashed; color=darkgreen;
+        label="south of Aldermere"; style=dashed; color=darkgreen;
         CopperSite [label="the copper site\ncut chain, re-entered\nSTOCK: salvage", fillcolor=yellow];
         Lodge [label="THE LODGE\nthicket, blind, littlest path\nDiana", fillcolor=pink];
     }
@@ -92,6 +93,7 @@ digraph setting {
     CopperSite -> Lodge [label="the dirt road"];
     Town -> OtherTown [style=dashed, label="another crew"];
     Town -> Village [style=dashed];
+    Campus -> Weirwick [label="3-day seed circuit\n(WILD OATS)"];
 
     Downtown -> BestBuy [dir=none, style=dotted, constraint=false, label="adjacent,\ndeclined"];
 
@@ -118,6 +120,8 @@ digraph setting {
     Fields -> Town [style=dashed, color=grey40, constraint=false];
     Town -> Campus [style=dashed, color=grey40, constraint=false, label="butter, leather, jam"];
     Campus -> Town [style=dashed, color=grey40, constraint=false, label="honey, salmon"];
+    Weirwick -> Campus [style=dashed, color=grey40, constraint=false, label="salmon, students,\nletters to Admissions"];
+    Campus -> Weirwick [style=dashed, color=grey40, constraint=false, label="seed, doctors,\ngenerators"];
     Lodge -> Campus [style=dashed, color=grey40, constraint=false, label="jam, deer"];
     Mountain -> Campus [style=dashed, color=grey40, constraint=false, label="instruments + two bodies\n(salvage run, after DRUZHINA)"];
 
