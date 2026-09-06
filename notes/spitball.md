@@ -2752,3 +2752,21 @@ Neither requires anyone to give birth. **The only thing that ever wanted a womb 
 - **Night soil collector.** With no synthetic nitrogen, human waste is fertiliser; in Japan and China it was bought and sold. **The other half of the fertility problem the crop-loss material opens with legumes.**
 - **Knacker.** Dead animals rendered to tallow, glue, bone meal and hide. Nothing wasted, and somebody does it.
 - **Resurrectionist.** A medical faculty needs cadavers and historically that was a trade. **In a polity that sorts people by affiliation, the question of *whose* bodies is answered by the roll.** Darkest item on the list and the most native to this book. Handle or leave, but do not use casually.
+
+## The rooftop planters — what Fleming did not take — 2026-09-05
+
+**Terrace: the Swartzes keep planters on their own rooftop, for their own poisons.** Not yet on the page. Wanted.
+
+**Already established around it:** the rooftop exists and has purpose-built furniture on it (`11-mulberry.md:35` — the clothesline with hinges "should the family ever want to move it off the rooftop"); the household already grows outside institutional space (`10-wild-oats.md:61`, "the herbs being from the garden on fifth floor"); the apiary is a *separate, institutional* site, not domestic (`09-ground.md:157`, and *Druzhina* has Fleming granting it to the Elbakyans); and the family patch sits **inside the university greenhouse** (`07-boil-water.md`), which is precisely what Fleming pulls Nadia off.
+
+**So the roof is the third site, and the only one outside anyone's books.**
+
+**The consequence, and it is large: Fleming's reassignment does not disarm them.** His stated objection in `08-druzhina.md` is *"your family controlling the pharmacy"* — greenhouse 1, an institutional asset worked by a university apprentice, on the university's inventory. He removes Nadia from that. He cannot remove flowerpots from a residential roof, and it would not occur to him to try. **This is the blind spot already banked above** (the *Fleming is trained to see coercive assets and not trained to see mead* note): planters are the same category as jam, cake and mead — invisible because they are not on a form.
+
+**The split is precise, and it is what makes it work: the institution keeps the volume, the family keeps the potency.** Analgesia at hospital scale needs poppy by the plot — acreage, drying space, a supply chain, an apprentice. A lethal dose needs four plants in pots. *Atropa belladonna* and *Digitalis purpurea* are compact and a few of each is an arsenal. **So Fleming took the pharmacy and left the weapon, because the weapon is four flowerpots and a watering can.**
+
+**And it re-answers the cooked-versus-good-deal question one more time, in her favour.** The green candies and the white ones in Maddy's satchel (`10-wild-oats.md:267`) never needed greenhouse 1. They come from home.
+
+**Natural cap on scale, already motivated by the text:** `09-ground.md`'s whole storeroom argument is a load problem — honey too heavy for the upper floors, the larder driven down to the ground-floor common room. Planters full of wet soil are heavy for the same reason. So the roof supports a scatter of pots and not a garden, which caps the operation at exactly the size that keeps it beneath notice. **The building's own structural weakness is why the poisons stay deniable.**
+
+**Register note:** never let anyone call it an arsenal, a stock, or a supply. It is pots on a roof, tended between the laundry and the clothesline, and nobody in the household remarks on it any more than they remark on the washing.

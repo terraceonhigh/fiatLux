@@ -110,3 +110,31 @@ Consequence for the graph: **the campus farm is irrigation-dependent from May to
 ## What this is for
 
 It is the input to a collapse-sequencing pass: given these nodes, these dependencies and these jurisdictions, **what fails when.** The layers are separated precisely so that question can be answered per-layer rather than as one undifferentiated slide into darkness.
+
+## Proper names — settled 2026-09-05
+
+**Three names fixed by Terrace in the session of 2026-09-05.** The note above that "the setting is a blend and is not pinned" still holds: these are invented names in the region's real morphology, not claims on real municipalities.
+
+### The university — **Arbutus University**
+
+*Arbutus menziesii*, the madrona, which grows in the coastal strip around the Salish Sea and almost nowhere else. Chosen over the alternatives on one principle: **a tree carries no biography.** Every person-name candidate dragged a referent that had to be managed — Lougheed brings an Alberta premier and a Burnaby shopping centre, Astor is Manhattan, Mackenzie brings two Prime Ministers, Hecate brings a goddess who knows far too much about this particular family. Malaspina was the strongest rival (a real Salish Sea institution name, retired in 2008 when Malaspina University-College became Vancouver Island University) but reads Spanish against a book whose manners are Commonwealth.
+
+*Arbutus* is also the **northern** name for the tree — Washington says madrona, Oregon says madrone — which tilts the composite toward the UBC/UVic end. That agrees with the register already on the page: **"Senior Lecturer"** in `00-ante-finem-mundi.md` is a Commonwealth rank, and the book runs on *Madam*, *Doctor* as address, a curtsy and a courtly bow.
+
+It harmonises with the seal already established on the currency in `08-druzhina.md`: **a Dogwood flower wrapped in a Mahonia wreath** — BC's floral emblem inside Oregon's. With Arbutus the naming system is three regional plants and no dead jurisdiction.
+
+**Nobody says it.** Everyone in the book says *the university*. The proper name's job is to sit on a seal, a banknote, a laminated card, and an envelope addressed to Admissions.
+
+### Fleming's town — **Aldermere**
+
+Inland, **east** of the water, per `08-druzhina.md`: *"Same town as you, most likely, the one to the east."* Dairy country, in the real pattern of the Fraser Valley and the Whatcom lowlands. *Alder* is a genuine PNW tree, *mere* is lowland standing water. Soft, liquid consonants; sounds like a meadow.
+
+### The Swartz town — **Weirwick**
+
+The coastal town of `10-wild-oats.md` — guard tower, mayor, diner, **shipyard**, fishwives, and the household that wrote to Collie and Alex unprompted.
+
+A **weir** is a tidal fish trap, genuine historical practice on this coast, so the name reads as *the inlet with the fish traps* — substantively what the town is, in a word nobody parses. ***-wick*** is the Norse-derived suffix for an inlet or trading place (Berwick, Lerwick), which fits the region's real Scandinavian settlement at Poulsbo and Sointula.
+
+**Chosen partly on sound, against Aldermere.** Aldermere is all liquids; Weirwick is hard and ends on a *k*. **Fleming's town sounds like a meadow and the Swartz town sounds like work**, which does quiet characterisation every time either name appears.
+
+**Naming rule observed throughout:** invented names recombine **settler-English and Scandinavian morphology only.** Saanich, Chemainus, Nooksack, Sechelt and Quilcene derive from living languages; manufacturing plausible-sounding fakes would be inventing words that belong to actual peoples. Any Indigenous place name in this setting should be a real one, used deliberately.
