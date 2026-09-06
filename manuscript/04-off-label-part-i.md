@@ -84,7 +84,7 @@ Unmount, a stumble, she took off one side of the mare's pannier and washed her h
 
 *Please, you have to save him. Please, you can take whatever you want, please.*
 
-*Hey, my name is Rosa, I am a doctor and I am here to help you. What is your name?* The gauze she unwrapped was packed in wax paper, and had the university's logo on it.
+*Hey, my name is Rosa, I am a doctor and I am here to help you. What is your name?* The gauze she unwrapped was packed in wax paper, and was stamped with a seal of Arbutus University.
 
 Impact on temporal bone, major laceration, moderate bleeding.
 
