@@ -2494,6 +2494,19 @@ Confirmed factually — induced lactation is real and ancient. The mechanism is 
 
 **Terrace named the thread: Doula Diplomacy.** Endorsed as a working title for the notes; flagged that the manuscript's own naming register runs cooler (*Ground*, *Mulberry*, *Formulary*) than an alliterative pun, so the eventual chapter title may want to sit closer to that. Noted, available whether stated on the page or not: *doula* is Greek for female slave — not a coincidence worth wasting, given the same session's servants-and-retainers material. A woman using her own body's labor to bind a family to hers, under a word whose root is bondage, in a book where Collie teaches the classics that word comes from.
 
+### The split — early seed, late payoff — settled 2026-09-06
+
+**Terrace's call: at the early Bréal visit, Maddy is just a nurse. The milk-kinship move is held for the late chapter.** The deciding constraint is the one already stated above — induced lactation needs an adult doctor acting on her own initiative, and the recruitment visit is the early beat (winter aid into a spring billet) when Maddy is still an apprentice. Running the milk here would either age her wrong or spend the sharpest card on a mid-value target, leaving nothing to escalate to. **Milk-kinship is the last rung; do not step on it to land one foreman.**
+
+**What the early visit does instead, and why plain nursing is the strong choice, not the safe one:**
+
+- **Ordinary competent postpartum care is already the favour that binds.** A drowning wife handed free, recurring, skilled help makes her an advocate inside her own house — the same instrument as Nona's affiliation, the jam, the camp sandwiches (`06-isolation.md`). Kindness on its face, obligation underneath, fully deniable. The body is not needed to make the ask land.
+- **The age-appropriate milk lever is brokering, not giving.** Maddy arranging *access* to a wet nurse (per the timeline note above) hands her standing and entry to a network without her own body and without the age problem.
+- **The early visit plants the late move without paying for it.** Maddy established in that house, trusted, the household's milk logistics already routed through her — that is the runway that stops her arriving cold at the eventual doula-diplomacy chapter. The modest version now is what makes the devastating version later land.
+- **Free payoff, unspoken:** the last time Maddy concocted something at a kitchen table to save a mother it was Alice, and it failed (`07-boil-water.md`). Plain, successful care for a stranger is that wound closing with no word said over it.
+
+**So the device is now two scenes, not one:** plain nursing / milk-brokering at the early Bréal visit (seed), and induced milk-kinship in the late chapter (payoff). The two open decisions above — whether Maddy needs her own child, and whether the payoff lands back on the Bréal household or a fresh subject — stay open.
+
 ---
 
 ### Timeline pinned — Terrace, session of 2026-09-02
