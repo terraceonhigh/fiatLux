@@ -2507,6 +2507,23 @@ Confirmed factually — induced lactation is real and ancient. The mechanism is 
 
 **So the device is now two scenes, not one:** plain nursing / milk-brokering at the early Bréal visit (seed), and induced milk-kinship in the late chapter (payoff). The two open decisions above — whether Maddy needs her own child, and whether the payoff lands back on the Bréal household or a fresh subject — stay open.
 
+### Bréal's wife — married in from the convoy — settled 2026-09-06
+
+**Terrace's call: she is not local. Bréal picked her up during the Epsilon convoy days**, from a town on his route. This settles the paucity-of-hands question the scene needs, and it settles it without killing anyone: **her kin are alive and a town away**, three days by governed truck, unreachable with a newborn. She is isolated by distance, not by death.
+
+**It is the book's own marriage-machine, third instance.** The convoy already produces couples on the page — the schoolteacher and the carpenter (`01-continuity-test.md:49`, `:155`, the convoy "short one beau" and the town "up one carpenter"), and Lewis and Diana. The variant here is the *direction*: the schoolteacher's man left with the convoy, Diana stays in her town, but **Bréal's wife was the one uprooted** — pulled out of her town and into his institution. She crossed; they didn't.
+
+**Why the paucity of hands, fully explained and none of it invented:**
+- **Bréal's network is the wrong denomination.** The frat is young unmarried men — muscle, a machine shop, standing. It cannot supply postpartum care. He can command twenty brothers and not one grandmother. That is Fleming's atomization doctrine biting the man it was applied to.
+- **The women already in the frat house are dependents, not peers.** `06-isolation.md:131`, Bréal rallies the brothers "for your mama huddled in our house, and that chick you are so fond of" — mothers sheltered, girlfriends felt fondly about, neither a woman with standing to give three weeks of night shifts. Proximity is not kinship.
+- **And now: her own kin are a town away.** Married in from outside, she has a husband, a house, and no one who has ever done this.
+
+**The trap, flagged hard: do NOT make her helpless or stupid.** A convoy town produces competence, not naivety — a town woman likely knows the older methods (elimination communication, moss-packing, the folk antiscorbutics) better than a university girl does. She is not overwhelmed because she is ignorant. She is overwhelmed because she is **alone**, sleepless, and possibly recovering from a hard birth with no second pair of hands. What Maddy supplies is **hands and rest, not knowledge** — sometimes the town woman is teaching Maddy. That inversion is truer, less condescending, and makes the bond mutual rather than charitable.
+
+**Thematic payoff, free:** Bréal's marriage is the atomization doctrine applied to a wife. Where the Swartz naval pivot *builds* maintained networks (cordage, pilotage, kin by marriage into Weirwick), Bréal did the opposite — he extracted a single individual from her kin web and left the web behind. He atomized even his own household. So the man who runs on Fleming's doctrine is, without noticing, lonely by its logic, and House Swartz is about to supply the kinship he cannot make — and bill him for it.
+
+**Still open:** which town she is from. Not Aldermere (that is Lewis's route and Diana's town) — Bréal "runs the other route" (`10-wild-oats.md:95`). A town on his route, named or not, Terrace's call.
+
 ---
 
 ### Timeline pinned — Terrace, session of 2026-09-02
