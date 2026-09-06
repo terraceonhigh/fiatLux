@@ -70,7 +70,7 @@ digraph setting {
 
     // ---------- out past the ring ----------
     Town [label="ALDERMERE\nFleming's town, dairy, EAST\nSaanich-shaped: sprawl, no core,\nfarmland threaded through housing\nch1 convoy destination", fillcolor=grey90];
-    Weirwick [label="WEIRWICK\nSwartz's town, coastal, fishing\nguard tower, mayor, diner,\nSHIPYARD, fishwives\nWILD OATS (ch10)", fillcolor=grey90];
+    Weirwick [label="WEIRWICK\nSwartz's town, coastal, fishing\nguard tower, mayor, SHIPYARD, fishwives\nCalypso Diner (in Weirwick)\nWILD OATS (ch10)", fillcolor=grey90];
     Fields [label="the fields\nbutter, leather, jam\ninterleaved, not separate", fillcolor=grey90];
     Farm [label="THE UNIVERSITY FARM\nElbakyan patch within it\nglass + open field\nCAMPUS land, beyond the valve\n(ISOLATION)", fillcolor=white];
     Village [label="the village\nsame as the town?\nOPEN", fillcolor=grey90, style="rounded,filled,dashed"];
