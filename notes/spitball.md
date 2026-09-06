@@ -2775,7 +2775,7 @@ Neither requires anyone to give birth. **The only thing that ever wanted a womb 
 
 ## Long-distance goods flow, from the Palaeolithic model — 2026-09-05
 
-**Source:** Golovanova, Doronichev, Doronicheva, Sapega & Shackley 2021, *Long-distance contacts and social networks of the Upper Palaeolithic humans in the North-Western Caucasus (Mezmaiskaya Cave)*, J. Archaeol. Sci.: Reports 39:103118. A study of how foragers 40–24 ka moved obsidian, azurite, mammoth-tusk ornaments and Black Sea shells across hundreds of km. Terrace brought it for goods flow in the setting. Each finding below is anchored to a manuscript line; do not stack them.
+**Source:** Golovanova, Doronichev, Doronicheva, Sapega & Shackley 2021, *Long-distance contacts and social networks of the Upper Palaeolithic humans in the North-Western Caucasus (Mezmaiskaya Cave)*, J. Archaeol. Sci.: Reports 39:103118. In-repo at [`../research/sources/golovanova-2021-palaeolithic-long-distance-exchange.pdf`](../research/sources/golovanova-2021-palaeolithic-long-distance-exchange.pdf). A study of how foragers 40–24 ka moved obsidian, azurite, mammoth-tusk ornaments and Black Sea shells across hundreds of km. Terrace brought it for goods flow in the setting. Each finding below is anchored to a manuscript line; do not stack them.
 
 **The paper's mechanism, in six moves:**
 
