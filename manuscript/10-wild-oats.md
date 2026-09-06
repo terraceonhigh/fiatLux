@@ -62,15 +62,15 @@ The seed launcher on the back of truck 02 would, twenty years ago, have been cla
 
 Thunk.
 
-*Yeah, and no workman's comp. Gimme that rollie and fuck off back to jizzing grass all over town.* Lewis steered around a pothole.
+*Yeah, and no workman's comp. Gimme that rollie and keep busy.* Lewis steered around a pothole.
 
-*Hey, put that thing on the B-side first.* Nadia wheezed, having been jostled by the rim of the same pothole.
+*Put that thing on the B-side first.* Nadia wheezed, having been jostled by the rim of the same pothole.
 
 Thunk.
 
-*Yeah yeah greenthumb, maybe this'll finally put some hair on your chest.* Lewis smoked with his left hand and flipped the cassette with his right. It took ten-ish seconds, but it was okay because the road was empty anyways.
+*Maybe this'll finally put some hair on your chest.* Lewis smoked with his left hand and flipped the cassette with his right. It took ten-ish seconds, but it was okay because the road was empty anyways.
 
-*You know, I can forgive a sparkie for that mouth, but betraying puff-puff-pass just marks you an asshole.* A third voice joined in.
+*Puff, puff, pass. Man.* A third voice joined in alongside a hand making the gesture of a gimme.
 
 No thunk, there was instead a guitar solo.
 
@@ -88,7 +88,7 @@ Thunk.
 
 *What's the next stop again?*
 
-*The uhh...* Lewis unfolded his map. *...Calypso Diner, they're expecting us. The flag is in the toolbox, right?*
+*The uhh...* Lewis unfolded his map. *...Calypso Diner, at Weirwick, they're expecting us. The flag is in the toolbox, right?*
 
 *Yeah, I double-checked. What do they eat out here in the country anyways?*
 
@@ -106,13 +106,9 @@ Maddy's voice rang in, from the cab. *Remember, only eat the hot stuff.*
 
 *But it's so hoooooot* Nadia moaned.
 
-*I hate to say this, I truly do, but listen to the annoying baby sister who insisted she tagged along, Nadia.* Lewis grabbed another seed packet.
+*Okay, this advice I can actually get behind. The rest of that child's antics notwithstanding.* Lewis grabbed another seed packet.
 
-*Ugh, we were like three months apart.* There was a growling that was not from the engine.
-
-*Awww, Lewis look at our little baby doing big girl things like having an opinion and learning to drive.*
-
-*Careful, one of these days I am going to be the family doctor.*
+*Ugh, we were like three months apart.* There was a growling that was not from the engine. *One of these days I am going to be the family doctor, and then you'll be sorry.*
 
 ---
 
@@ -132,7 +128,7 @@ A voice came in on the radio. Lewis opened an envelope and mumbled something bac
 
 They let them in, the handful of people on Main Street turned their heads.
 
-Nadia unfolded the leather wallet the department gave to her and produced her chit, along with a metal seal of the University. The mayor and his men took stock of their share of seeds and said the diner was expecting them.
+Nadia unfolded the leather wallet the department gave to her and produced her chit, along with a metal seal of Arbutus University. The mayor and his men took stock of their share of seeds and said the diner was expecting them.
 
 *Here, at the front for our university's officers. And, you are a doctor, right? Madam...* A woman in an apron welcomed them.
 
@@ -148,9 +144,9 @@ The woman walked back into the kitchen.
 
 *That's what's on the paper.* Nadia stated.
 
-*Damn, Nadia, you get a stripe just for shipping some seed. Pretty sure Bréal would lock us sparkies in the toolbox if it didn't damage us.*
+*All fancy schmancy now, aren't ya?*
 
-*Oh, as if you don't spread some seed of your own on your trips, Lew.*
+*Oh, as if you don't enjoy yourself on your trips, Lew.*
 
 *Fuck off.* He said while unscrewing the cap on their disinfectant.
 
@@ -162,39 +158,29 @@ Nadia blew her smoke away from the table, it was something milder than her morni
 
 *How did you know anyways?*
 
-*Oh, I told her.* Maddy interjected, while trying to snap off a chunk of biscuit. *Why is this so tough to crack anyways?*
-
-*Huh?*
-
-*You know us doctors read people for a living, right?*
+*Oh, I told her.* Maddy interjected, while trying to snap off a chunk of biscuit. *Why is this so tough to crack?*
 
 *Is there no secrets under our roof?*
 
-*You live with, like, five women, Lew.*
+*No, not really. Except that magazine you keep under your pillow.* Maddy said. Nadia rose her eyebrow.
 
-Lewis sighed, and gestured for the cigarette.
+Lewis groaned, and gestured for the cigarette.
 
-*Well, uhh, she lives on the outskirts of town, real good trapper, lives with her mom. God, and the way she looks when she chuckles.*
+*Well, uhh, name's Diana, lives on the outskirts of town, real good trapper, lives with her mom. God, and the way her eyes look when she's angry.*
 
-*I love how you either love her under the sky or in her mother's home.* Nadia muttered something about men.
+*And you either love her under the sky or in her mother's home.* Nadia muttered something about men.
 
-*By Jove, what is it with y'all and my romantic life. Can't a kid working in a high-pressure environment still be tender with his sweetheart and frolic pure-of-heart style?*
+*What is it with y'all and my romantic life.*
 
-*Kids in high-pressure environments, yes. You, though, less so.* His sisters' voices began to blend into one another's.
-
-*Ugh.* A good sixth of the cig turned to ash in one breath.
-
-*Hey, at least you love her, right?* Maddy's eyes had a sharpness to them.
+*We only want to make sure that you love her, yes?* Maddy's eyes had a sharpness to them.
 
 *Yeah, of course, absolutely. Where do you think the honey goes and where the jam comes from?*
 
-*Heh, figured, that'll do.*
+*That'll do.* Nadia dipped her biscuit into her soup.
 
-*Well, then, Nadia. What about who's getting you so giddy after the long days at the greenhouse then.*
+*Well, then, Nadia. What about who's getting you so giddy after the long days at the greenhouse?* Maddy pivoted, before taking a sip of the tea she asked for.
 
 *Oh come on!*
-
-*What goes round, man, what goes round.*
 
 ---
 
@@ -222,7 +208,7 @@ They could see that she adjusted her collar as she walked back to that house. Th
 
 *Took you long enough.* Nadia said.
 
-*Well, should be better once the next doctor rotates in. There is still a queue I need to go through before we leave.*
+*There is still a queue I need to go through before we leave.*
 
 *How many?* Lewis asked.
 
@@ -236,7 +222,7 @@ They could see that she adjusted her collar as she walked back to that house. Th
 
 *Mmm.*
 
-*University officers are also supposed to render aid where possible.*
+*University officers are also supposed to render aid to our townships where possible.*
 
 *Are we now?*
 
@@ -254,7 +240,7 @@ Nadia took the waterskin, and screwed the cap back on.
 
 *Well, the wires will want inspection.*
 
-*And the farmers will want to know more about the new irrigation schedule.*
+*Yes, and the farmers will want to know more about the new irrigation schedule.*
 
 *...Radio's still warm. I'll let them know. We leave tomorrow noon. You heard that, Maddy?*
 
@@ -338,7 +324,7 @@ The woman scribbled something down, on the top of the letter that was otherwise 
 
 *Oh, it's nothing, the next doctor will come soon anyways, and can help better than me.*
 
-*There has been a palpable difference, really. You have been so kind.*
+*You have been so kind.*
 
 *I am flattered.*
 
@@ -356,7 +342,9 @@ Maddy looked Nadia in the eyes. Nadia's head nodded half a degree.
 
 *—really was wonderfully made, ma'am, but I can't begin to imagine what these two would do to me if I defied them.* Lewis said truthfully.
 
-*Right, of course.*
+*But, Maddy, think of what your mother would think. You and Nadia sleeping with Lewis in the same room.* The lady said.
+
+*I get why you worry, but, we would feel a lot more comfortable if we had big brother close.*
 
 Not much was said afterwards, except that Lewis unlocked the briefcase with their personal effects, and took out the family shotgun. The action was freshly greased, and the two shells slid in without a sound. The floor was not cold, but his back grew sore from the hardwood as Nadia and Maddy slept, holding each other. The other bed was empty.
 
@@ -366,8 +354,8 @@ The bed creaked, and a figure haunted Lewis.
 
 Nadia set her foot down onto the floor with a light *thud*, and gestured about the gun.
 
-*Go to sleep, Rambo.*
+*Gimme.*
 
-He did, perpendicular to the empty bed. Nadia felt for the shells in their breech.
+He did, and conked out perpendicular on the empty bed. Nadia felt for the shells in their breech.
 
 She had the watch.
