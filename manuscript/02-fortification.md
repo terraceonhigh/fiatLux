@@ -30,7 +30,7 @@ For immediate distribution to affiliated bakeries.
 | 8. Bake                                                           | 30-45m   | 220-230°C, falling | Internal temperature 99°C.                              |
 | 9. Depan and cool                                                 | 60m      | 25°C               | Depan and cool on racks.                                |
 
-Printed by University Press.
+Printed by Arbutus University Press.
 
 ---
 
