@@ -5,6 +5,8 @@
 #
 #   make                      build every chapter whose markdown changed
 #   make copy CH=01-continuity-test    put one chapter's HTML on the clipboard
+#   make publish CH=01-continuity-test dry-run the AO3 chapter update
+#   make publish CH=... POST=1         actually push it (needs $AO3_COOKIE or .ao3-cookie)
 #   make clean                remove build/
 #
 # The pandoc flags are load-bearing, not stylistic:
@@ -21,7 +23,7 @@ PANDOC_FLAGS := -f markdown-smart -t html --ascii
 SRC  := $(wildcard manuscript/*.md)
 HTML := $(patsubst manuscript/%.md,build/%.html,$(SRC))
 
-.PHONY: all copy clean
+.PHONY: all copy publish clean
 .DELETE_ON_ERROR:
 
 all: $(HTML)
@@ -44,6 +46,20 @@ copy: $(HTML)
 	@pbcopy < build/$(CH).html
 	@echo "clipboard <- build/$(CH).html ($$(wc -c < build/$(CH).html | tr -d ' ') bytes)"
 	@echo "paste into the AO3 chapter editor with the HTML tab selected, not Rich Text."
+
+# Headless replacement for copy-then-paste. Dry run unless POST=1. The chapter
+# id comes from tools/ao3-chapters.tsv, or CHID=<id> to override. The login
+# cookie is Terrace's: $AO3_COOKIE, or a .ao3-cookie file (gitignored).
+publish: $(HTML)
+	@test -n "$(CH)" || { \
+	  echo "usage: make publish CH=<chapter-slug> [CHID=<ao3 id>] [POST=1]"; \
+	  echo "available:"; ls -1 build/*.html 2>/dev/null | sed 's|build/|  |;s|\.html$$||'; \
+	  exit 2; }
+	@test -f build/$(CH).html || { echo "no such chapter: build/$(CH).html"; exit 2; }
+	@tools/ao3-publish.py --slug $(CH) --html build/$(CH).html \
+	  $(if $(CHID),--chid $(CHID)) \
+	  $(if $(wildcard .ao3-cookie),--cookie-file .ao3-cookie) \
+	  $(if $(POST),--post)
 
 clean:
 	@rm -rf build

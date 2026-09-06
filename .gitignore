@@ -2,3 +2,4 @@
 build/
 .playwright-mcp/
 .mcp.json
+.ao3-cookie
