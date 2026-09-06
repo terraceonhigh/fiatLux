@@ -138,3 +138,26 @@ A **weir** is a tidal fish trap, genuine historical practice on this coast, so t
 **Chosen partly on sound, against Aldermere.** Aldermere is all liquids; Weirwick is hard and ends on a *k*. **Fleming's town sounds like a meadow and the Swartz town sounds like work**, which does quiet characterisation every time either name appears.
 
 **Naming rule observed throughout:** invented names recombine **settler-English and Scandinavian morphology only.** Saanich, Chemainus, Nooksack, Sechelt and Quilcene derive from living languages; manufacturing plausible-sounding fakes would be inventing words that belong to actual peoples. Any Indigenous place name in this setting should be a real one, used deliberately.
+
+### Where the names may surface — cascade slots (Tier 2, surveyed 2026-09-05)
+
+**The rule splits the two cases.** The *university* name is never spoken; its job is to sit on inscribed official objects (above). **Town** names are the opposite — people say the name of the town they live in. So **Arbutus hides on objects; Aldermere and Weirwick live in mouths.** These are candidate slots, not decisions; Terrace writes the prose.
+
+**Arbutus — inscribed surfaces, ranked by how well the object earns it:**
+
+1. `08-druzhina.md:209` — the banknote obverse (already carries President / Dean / Director + Dogwood-Mahonia seal). Best slot in the book; the name belongs on currency above all.
+2. `04-off-label-part-i.md:129` — the dead-brand pocket watch, *"engraved with the university's seal and motto."* A motto is where a Latin institutional name sits; quietest, on a relic object.
+3. `10-wild-oats.md:313` — the envelope *"addressed to University Admissions."* Named in canon as the name's home.
+4. `10-wild-oats.md:135` — Nadia's chit, *"a metal seal of the University."*
+5. `02-fortification.md:33` — *"Printed by University Press."* An imprint line, on a document-inside-the-story.
+6. `00-ante-finem-mundi.md:75` — the laminated cards (handwritten in longhand, so the name reads as Collie's hand).
+7. Weakest — property stamps: `04:87` gauze logo, `04:195` stretcher, `11:1` laundromat panel.
+
+Keep generic (spoken/rhetorical): `06-isolation.md:131` Bréal's *"wear this seal,"* `03-formulary.md:185` *"university hospital,"* `11-mulberry.md:67` *"the bazaar."*
+
+**Aldermere and Weirwick — spoken slots:**
+
+- **Weirwick** has one chapter, so it should surface there at least once: `10-wild-oats.md:119` *"the fishing town,"* `:133` Main Street, the **Calypso Diner** (in Weirwick — the diner names its town readily), the mayor/fishwife, or the officers' paperwork.
+- **Aldermere** spans ch1 (convoy town) and ch3 (Rosa's clinic town, Diana's town). ch1 is deliberately hazy; anchor it once in **ch3** in a townsperson's or Rosa's mouth and leave ch1's haze.
+
+**The `08-druzhina.md:55` fork — recommendation: keep it withheld.** Fleming: *"the one to the east. What's its name..."* If Aldermere becomes his dukedom, the absentee lord who cannot name the town he holds is the sharper beat. Naming it here spends a characterisation the withholding gives for free.

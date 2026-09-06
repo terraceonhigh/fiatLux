@@ -2770,3 +2770,35 @@ Neither requires anyone to give birth. **The only thing that ever wanted a womb 
 **Natural cap on scale, already motivated by the text:** `09-ground.md`'s whole storeroom argument is a load problem — honey too heavy for the upper floors, the larder driven down to the ground-floor common room. Planters full of wet soil are heavy for the same reason. So the roof supports a scatter of pots and not a garden, which caps the operation at exactly the size that keeps it beneath notice. **The building's own structural weakness is why the poisons stay deniable.**
 
 **Register note:** never let anyone call it an arsenal, a stock, or a supply. It is pots on a roof, tended between the laundry and the clothesline, and nobody in the household remarks on it any more than they remark on the washing.
+
+---
+
+## Long-distance goods flow, from the Palaeolithic model — 2026-09-05
+
+**Source:** Golovanova, Doronichev, Doronicheva, Sapega & Shackley 2021, *Long-distance contacts and social networks of the Upper Palaeolithic humans in the North-Western Caucasus (Mezmaiskaya Cave)*, J. Archaeol. Sci.: Reports 39:103118. A study of how foragers 40–24 ka moved obsidian, azurite, mammoth-tusk ornaments and Black Sea shells across hundreds of km. Terrace brought it for goods flow in the setting. Each finding below is anchored to a manuscript line; do not stack them.
+
+**The paper's mechanism, in six moves:**
+
+1. **Distance-decay.** Home range ≤100 km, preferred sources 30–40 km. Exotic obsidian is rare — 0.5–3% of lithics. The further the source, the rarer the good.
+2. **Form encodes distance.** Obsidian arrives "ready-to-use small laminar blanks" or finished tools, only rarely as raw cores. You carry concentrated value over distance, never bulk.
+3. **Maintained network vs sporadic contact.** Recurrent procurement from two *specific* sources across 15,000 years = "well-established social networks" — structured, directional, culturally bonded. Mammoth-tusk ornaments from the Russian Plain = rare one-off contact with "culture-unrelated" groups. Two different categories.
+4. **Direct vs intermediary threshold.** ≤170–200 km one-way: "conceivably undertaken by the inhabitants themselves." >250–350 km: "some form of intermediary exchange." Past a walking threshold you stop controlling provenance.
+5. **Non-utilitarian goods ride the utilitarian corridors.** Shells and the azurite pebble travel the *same paths* cut for obsidian, and so "outline directions and limits" of movement. The prestige object rides the necessity.
+6. **Terrain gates the route; the network traces a cultural area.** They avoided the >3500 m passes; routes follow least-cost paths. The reach of a material outlines the boundary of a culturally-similar population; beyond it, contact is sporadic and with strangers.
+
+**Implications for the setting — the load-bearing four:**
+
+**A. The network-vs-sporadic split is what the naval pivot actually is.** `10-wild-oats.md` Weirwick is currently reached the sporadic way — the same register as `01-continuity-test.md:47`, *"another run by another crew to another town."* The Swartz pivot (cordage, pilotage, the cutter, marriage into Weirwick) is the move from sporadic contact to a **maintained, directional, kin-bonded network** — Golovanova's category 3. That is the difference between a trade and a dukedom: a one-off run does not build a polity, a recurrent socially-maintained corridor does. **The pivot's whole meaning is the category change, not the extra salmon.**
+
+**B. Non-utilitarian rides utilitarian — Collie's method, named.** She already moves jam and mead (gift-register, non-utilitarian) down corridors cut for water, medicine and labour: `06-isolation.md:196` (jam sample to Bréal's woman) riding the pipe-repair emergency, `01-continuity-test.md:159` (cake to Bréal) riding the salvage convoy. The paper's finding is the general law under it: **the extent of Swartz social reach equals the extent of the Swartz material corridors.** Where the jam goes, the allegiance goes — and the pure-prestige objects to come (banknote, seal, heraldry) will ride the food corridors too. Symbolic goods map the reach of the network.
+
+**C. "University country" is the direct-procurement radius; the Port is the intermediary zone.** The 3-day truck circuit, `~60 km/h` governed (`01-continuity-test.md:13`, `10-wild-oats.md:33`), defines the radius the university reaches *directly* — embedded, controlled, its people made "officers." This is Golovanova's ≤200 km direct band. `setting-map.dot`'s "beyond the horizon" Port cluster is the >250 km intermediary band: goods arrive light, finished, sporadic, and of **provenance the university cannot control.** The map already has the threshold drawn; the paper says what changes across it — control of provenance.
+
+**D. The sea breaks the terrain gate.** Land routes are gated by fuel (`11-mulberry.md:113` "Joker on fuel"), road decay, and the mountain. A boat moves bulk cheaply where trucks cannot, so the naval pivot **converts far-and-sporadic coastal points into near-and-direct networked ones** — it extends the direct-procurement radius along the water. That is the mechanical reason the sea matters: Weirwick plus a cutter turns a stretch of coast into university country.
+
+**Two texture rules that fall out, for prop plausibility (findings 1–2):**
+
+- **Anything arriving from far must be light, finished and precious** — never bulk. Bulk calories come from near (butter, leather, jam from the fields, `02-fortification`/ch1). A working chip, a bottle of real wine, a watch — distant, finished, rare — are plausible imports; distant bulk is not. This disciplines what the Port can supply.
+- **Form can signal origin.** Local salvage arrives raw and worked on site (Lewis's copper wire, `01`); distant goods arrive already concentrated (grapes are impossible, so *Château Swartz* is a local joke, `06-isolation.md:208`; finished wine could travel). Same logic as obsidian arriving as blanks, not cores.
+
+**What NOT to import from the paper:** its foragers had no state, no currency, no coercion. The setting has all three emerging, which *inverts* one thing — Golovanova's networks were maintained by reciprocity and kinship alone, whereas the Swartz/Arbutus network is maintained by kinship **plus** the ratchet (necessity, standing, the banknote). So the setting's corridors are stickier and more directional than the Palaeolithic ones, and can be captured. That is the whole plot; the paper is the pre-state baseline it departs from.
