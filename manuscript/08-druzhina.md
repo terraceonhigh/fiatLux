@@ -1,4 +1,4 @@
-The Emeritus' property was something done in concrete and stone, in the brutalist style that was in vogue after the Second World War(unlike the red brick construction of the Swartz property that was popular before that). The windows were no longer glazed, but rather covered with wooden shutters that does not seem to be painted, or at least painted yet. Collie relaxed the fingers gripping the straps to her tote, and presented the doorman with her card.
+The Emeritus' property was something done in concrete and stone, in the brutalist style that was in vogue after the Second World War (unlike the red brick construction of the Swartz property that was popular before that). The windows were no longer glazed, but rather covered with wooden shutters that did not seem to be painted, or at least painted yet. Collie relaxed the fingers gripping the straps to her tote, and presented the doorman with her card.
 
 *And the purpose of your visit, Madam Swartz?*
 
