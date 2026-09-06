@@ -1,4 +1,4 @@
-The Emeritus' property was built after the Swartzes, something done in concrete and stone, with windows that were covered with planks instead of glass as one in every four. Collie relaxed the fingers gripping the straps to her tote, and presented the doorman with her card.
+The Emeritus' property was something done in concrete and stone, in the brutalist style that was in vogue after the Second World War(unlike the red brick construction of the Swartz property that was popular before that). The windows were no longer glazed, but rather covered with wooden shutters that does not seem to be painted, or at least painted yet. Collie relaxed the fingers gripping the straps to her tote, and presented the doorman with her card.
 
 *And the purpose of your visit, Madam Swartz?*
 
@@ -54,7 +54,7 @@ The servant brought them the bottle and the sliced bread, with three butters, ja
 
 *Same town as you, most likely, the one to the east. What's its name...*
 
-*Funny, then. Because I know my Lewis has a sweetheart there.*
+*Aldermere. Funny, then. Because I know my Lewis has a sweetheart there.*
 
 *He is getting about that age, isn't he? I hope you are learning just how fast they grow up.*
 
@@ -94,7 +94,7 @@ Another person came back with more tea, along with a few strips of bacon and egg
 
 *Bréal would be delighted.*
 
-*Yes, he would. I admire your confidence, but you cannot possibly think he would always be affordable with wine alone.*
+*Yes, he would. I admire your confidence, but you cannot possibly think he would always be bought with wine alone.*
 
 *It worked for Rome for four hundred years.*
 
