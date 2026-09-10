@@ -44,9 +44,23 @@ Dr Fleming drank from his cup, a delicate porcelain one etched in pink and gold.
 
 *I see you finally finished the old greenhouse.*
 
-*Yes, shame the old faculty never got to it. And for once I did the trendy thing just in time.* He chuckled.
+*Yes, Ada, why don't you tell Coelia what you did about the roof?* Fleming commanded.
 
-Picturing the creature that had transfixed the internet population for two months and thirteen days, Collie smiled from her eyes and covered her mouth half a second after a rhythmic giggle began their departure.
+*Well, it wasn't much, really. Just some strings and weights and some quick math to get the frames just right.* Ada's voice was almost all nasal, and her throat did only half the work of talking.
+
+*Oh, you know it was anything but trivial.* Fleming pressed.
+
+*Umm, well, y'know, I just, did it with physical models.* Collie could see that Ada was shy.
+
+*And entirely without electronics! Isn't she smart, Coelia?* Fleming patted his grown granddaughter on the head. From his eyes, she was just still a baby.
+
+*Well, Ada, that really is something to be proud about. I don't even know how to operate a slide rule.* Collie said
+
+*Oh, well, it's easy, dealing with the thorns is harder, I am sure.* Ada put on her best impression of puppy eyes toward her grandpa.
+
+*Shame the old faculty never got to it. And for once I did the trendy thing in time.* He chuckled.
+
+Picturing the creature that had transfixed the internet population for two months and thirteen days, and the dance that Dr Fleming did in imitation of it four months in, Collie smiled from her eyes and covered her mouth half a second after a rhythmic giggle began their departure.
 
 *It is good to see you, Coelia.*
 
@@ -56,9 +70,11 @@ The servant brought them the bottle and the sliced bread, with three butters, ja
 
 *Same town as you, most likely, the one to the east. What's its name...*
 
-*Aldermere. Funny, then. Because I know my Lewis has a sweetheart there.*
+*Aldermere, papa.* Ada supplied.
 
-*He is getting about that age, isn't he? I hope you are learning just how fast they grow up.*
+*Funny, then. My Lewis has a sweetheart there, though he thinks I am clueless.*
+
+*He is getting about that age, isn't he? I hope you are learning just how fast they grow up.* Fleming stroked Ada's cheek with his thumb, Ada covered her face, Collie said an *Aww.*
 
 *And how about your own.* Collie said a moment after they toasted, to good health.
 
@@ -66,7 +82,13 @@ The servant brought them the bottle and the sliced bread, with three butters, ja
 
 *And her mother?*
 
+Ada went still for a moment, Dr Fleming went still for half of that.
+
 *Less so, Klara's quite lethargic these days, doctors say nothing to worry about, though.*
+
+*The doctor put her on a plan, she is comfortable.* Ada recited.
+
+*See? What would I do without her?* Fleming chuckled.
 
 Collie topped her toast with pepper and gouda, Fleming had his with cinnamon and jam.
 
@@ -146,13 +168,13 @@ They had something fluffy and light after that. Topped with whipped cream.
 
 *Someone like us.*
 
-*Klara is in no condition to sign, And, I want to back the bill that would grant us our holdings, and because I did the greenhouse thing not to destroy you, but rather so no coronation is due in our lifetimes.* Collie helped Dr Fleming sit back down.
+*Klara is in no condition to sign. And, I want to back the bill that would grant us our holdings.* Collie helped Dr Fleming sit back down.
 
 That bill was going to pass anyways. 
 
-*Generous, then, to show us the reason why we should back you.*
+*Generous, then, to show us the reason why we should back you.* Collie said.
 
-*University politics was very transferrable to our current Circumstances.*
+*The greenhouse matter, please do not take it personally. I just found the notion of attending a coronation tiresome.* He said.
 
 They had another helping of mead.
 
