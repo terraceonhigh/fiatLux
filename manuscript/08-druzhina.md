@@ -176,7 +176,7 @@ That bill was going to pass anyway.
 
 *Generous, then, to show us the reason why we should back you.* Collie said.
 
-*The greenhouse matter, please do not take it personally. I just found the notion of attending a coronation tiresome.* He said.
+*The matter with Nadia, please do not take it personally. I just found the notion of attending a coronation tiresome.* He said.
 
 They had another helping of mead.
 
