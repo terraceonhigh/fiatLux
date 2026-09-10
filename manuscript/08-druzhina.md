@@ -22,7 +22,7 @@ She walked past a bronze sculpture of Demeter.
 
 *And the loaf, she said she will bring them sliced with the butters.*
 
-*You simply must try the one she makes with lard and dill*
+*You simply must try the one she makes with lard and dill.*
 
 *I can hardly wait for the cinnamon buns.* Collie's eyes did not twitch.
 
@@ -36,7 +36,7 @@ Ada, Fleming's granddaughter, brought the fine china. She poured tea into Collie
 
 *I simply must see that little sunshine again soon.* Fleming said. *What of Lewis?*
 
-*Fixing old laptops, building parts and pulls wire with Epsilon on crews.*
+*Fixing old laptops, building parts and pulling wire with Epsilon on crews.*
 
 *Laptops.* Ada interjected, with the tone and eyes that one reserved for relics.
 
@@ -56,7 +56,7 @@ Dr Fleming drank from his cup, a delicate porcelain one etched in pink and gold.
 
 *And entirely without electronics! Isn't she smart?* Fleming patted his grown granddaughter on the head. From his eyes, she was just still a baby.
 
-*Well, Ada, that really is something to be proud about. I don't even know how to operate a slide rule.* Collie said
+*Well, Ada, that really is something to be proud about. I don't even know how to operate a slide rule.* Collie said.
 
 *Oh, well, it's easy, dealing with the thorns is harder, I am sure.* Ada put on her best impression of puppy eyes toward her grandpa.
 
@@ -78,7 +78,7 @@ The servant brought them the bottle and the sliced bread, with three butters, ja
 
 *He is getting about that age, isn't he? I hope you are learning just how fast they grow up.* Fleming stroked Ada's cheek with his thumb, Ada covered her face, Collie said an *Aww.*
 
-*And how about your own.* Collie said a moment after they toasted, to good health.
+*And how about your own?* Collie said a moment after they toasted, to good health.
 
 *Oh, Cecilia's out building now, with the rest of the engineers. Last I heard she was up the coast, fixing mountain passes.*
 
@@ -114,7 +114,7 @@ Collie perked up, but caught it in time to turn it to a piqued.
 
 *—and a less backbreaking post for... what's her name, Nona, yes? I am sure you would love it.*
 
-She slathered one more slice of toast, with jam and parmesan. A moment passed before she triangulated her next line. *Have you considered voting in support of the entreaty with Epsilon and Iota.*
+She slathered one more slice of toast, with jam and parmesan. A moment passed before she triangulated her next line. *Have you considered voting in support of the entreaty with Epsilon and Iota?*
 
 The servant came back with more tea, along with a few strips of bacon and eggs for the two, nothing too absurd to get in the way of the afternoon.
 
@@ -172,7 +172,7 @@ They had something fluffy and light after that. Topped with whipped cream.
 
 *Klara is in no condition to sign. And, I want to back the bill that would grant us our holdings.* Collie helped Dr Fleming sit back down.
 
-That bill was going to pass anyways. 
+That bill was going to pass anyway. 
 
 *Generous, then, to show us the reason why we should back you.* Collie said.
 
