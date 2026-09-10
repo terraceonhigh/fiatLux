@@ -186,7 +186,7 @@ She cut the egg into bite-sized pieces, and then carried on cutting. The yolk po
 
 *I can write it all back, now that things are better.*
 
-Maddy skewered two mushroom slices on her fork, and stabbed a third unblinking.
+Maddy glanced at her aunt, skewered two mushroom slices on her fork, and stabbed a third unblinking.
 
 *Don't worry about that, mom.*
 
@@ -197,6 +197,8 @@ Collie did the dishes, and Maddy dried them with a towel before setting them bac
 *I have to do my makeup before I go, you go and get some sleep.*
 
 *I want to watch.*
+
+---
 
 There was a black paste and a rust-red one.
 
