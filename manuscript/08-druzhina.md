@@ -24,17 +24,19 @@ She walked past a bronze sculpture of Demeter.
 
 *I can hardly wait for the cinnamon buns.* Collie's eyes did not twitch.
 
-Dr Fleming poured tea into her cup first.
+Ada, Fleming's granddaughter, brought the fine china. She poured tea into Collie's cup first, which she had the arm to do from the other side of the table without standing up.
 
-*Let us wait until we are done with the first course, today is too good a day to squander in the name of business.* Dr Fleming said. *Tell me, how has Maddy been doing at school?*
+*Let us wait until we are done with the first course, today is too good a day to squander in the name of business.* Dr Fleming said.
+
+*Tell me, how has Maddy been doing at school?*
 
 *Apprentice now, hospital took her in in the spring.*
 
-*Lovely to hear. I see she takes after you. What about Lewis?*
+*I simply must see that little sunshine again soon.* Fleming said. *What of Lewis?*
 
 *Fixing old laptops, building parts and pulls wire with Epsilon on crews.*
 
-*Laptops.*
+*Laptops.* Ada interjected, with the tone and eyes that one reserved for relics.
 
 *He is resourceful.*
 
@@ -70,13 +72,17 @@ Collie topped her toast with pepper and gouda, Fleming had his with cinnamon and
 
 *I will have my people bring herbs, then.* Collie said.
 
-*Right, regarding that.* Fleming washed down a crumb with a sip of tea. *That girl, Nadia. My sweet Ada said your girl is quite excellent helping in Botany.*
+*Right, regarding that.* Fleming washed down a crumb with a sip of tea. *That girl, Nadia. My sweet Ada said your girl is quite excellent helping in Botany.* Ada giggled, in a way that did not engage the vocal cords, but rather made its sound entirely by the rushing of air out of her nostrils.
 
-*Yes, she really is so much more a greenthumb that our generation ever was.*
+*Yes, she really is so much more a greenthumb that our generation ever was.* Collie said.
 
-*I have something for her.*
+*I have something for her.* Fleming said, in a tone befitting the line.
 
 Collie perked up, but caught it in time to turn it to a piqued.
+
+*Ada, would you go back to the weaving? Me and Lady Swartz will need a moment to ourselves.*
+
+*Yes, grandfather.* Ada nodded, and excused herself back to the ground floor, where the looms were.
 
 *She will want some field experience soon, for her degree. I have a slot for her, for the next season.*
 
@@ -84,17 +90,15 @@ Collie perked up, but caught it in time to turn it to a piqued.
 
 *—and a less backbreaking post for... what's her name, Nona, yes? I am sure you would love it.*
 
-*I should call her soon, then. She would be pleased.* Collie said in an even tone.
+She slathered one more slice of toast, with jam and parmesan. A moment passed before she triangulated her next line. *Have you considered voting in support of the entreaty with Epsilon and Iota.*
 
-*I am not sure I am not the kind of guest to ask my host to defang himself, in kind.* She slathered one more slice of toast, with jam and parmesan *But, you vote in support of the entreaty with Epsilon and Iota.*
-
-Another person came back with more tea, along with a few strips of bacon and eggs for the two, nothing too absurd to get in the way of the afternoon.
+A servant came back with more tea, along with a few strips of bacon and eggs for the two, nothing too absurd to get in the way of the afternoon.
 
 *I don't think I can, Coelia.*
 
 *Bréal would be delighted.*
 
-*Yes, he would. I admire your confidence, but you cannot possibly think he would always be bought with wine alone.*
+*Yes, he would, but you cannot possibly think he would always be bought with wine alone.*
 
 *It worked for Rome for four hundred years.*
 
@@ -108,9 +112,17 @@ Collie helped herself to another cup.
 
 *My bloc won't flip, I suggest you ask me to help you finding a place for Bréal instead of scheming about a private army.*
 
-*That won't be necessary. Though, I would appreciate a slot for Lewis in Electrical Engineering.*
+Collie sighed, and rose to follow Dr Fleming's walk through the glass-covered garden.
 
-He rang a bell, and whispered into his servant's ear. *He sits, like anyone else.* Dr Fleming wiped what was left of the yolk with a piece of toast.
+*I will tell Bréal myself first, then the rest of the men.*
+
+*Just Bréal. Because after the vote, you will be escorted by Campus Security into the Epsilon building, to convince them to hand over their guns.* Fleming fed a caged bird with nectar.
+
+*I say this now, before the University commissions you to, because he and I would both trust you to do it right.* Fleming continued. There was a shower above the university then, and the catchment from the roof flowed upon the glass to water the covered gardens. 
+
+*Then I would appreciate a slot for Lewis in Electrical Engineering.*
+
+Dr Fleming sighed, rang a bell, and whispered into his servant's ear. *He sits, like anyone else.* Dr Fleming wiped what was left of the yolk with a piece of toast.
 
 *Of course.* Collie gripped on her knife a little too hard, and the muscle was seen straining.
 
@@ -118,23 +130,7 @@ He rang a bell, and whispered into his servant's ear. *He sits, like anyone else
 
 *You always were steadfast about academic integrity.*
 
-Collie sighed, and rose to follow Dr Fleming's walk through the glass-covered garden.
-
-*I am an old man, Coelia, quite old.*
-
-*And, evidently, still quite sharp.*
-
-*I will want a doctor soon, not a poisoner. I want to meet your Maddy again before I put her on retainer the moment she graduates.*
-
-*And I will tell Bréal myself first, and the rest of the brothers.*
-
-*Just Bréal.*
-
-*And what if he tells.*
-
-*He won't, because you will be escorted by Campus Security into the Epsilon building, to convince them to hand over their guns.* Fleming fed a caged bird with nectar.
-
-*I ask because Epsilon and I both trust you to do it right.* Fleming continued. There was a shower above the university then, and the catchment from the roof flowed upon the glass to water the covered gardens. *It is sausage that fills stomachs. You yourself should know panem et circenses.*
+*It is sausage that fills stomachs. You yourself should know panem et circenses.*
 
 *I specialized between Athens and Sparta.*
 
@@ -146,19 +142,17 @@ They had something fluffy and light after that. Topped with whipped cream.
 
 *What will she need?*
 
-*She is smart, a computer now, she will know. All she needs is someone like us to sign.*
+*She is smart, she will know. All she needs is someone like us to sign.*
 
-*A computer.*
+*Someone like us.*
 
-*Yes, crunching numbers in the greenhouses. Klara is in no condition to sign.* Collie helped Dr Fleming sit back down.
+*Klara is in no condition to sign, And, I want to back the bill that would grant us our holdings, and because I did the greenhouse thing not to destroy you, but rather so no coronation is due in our lifetimes.* Collie helped Dr Fleming sit back down.
 
-*But why would I do that?*
+That bill was going to pass anyways. 
 
-*Because I want to give the Elbakyans the apiary they have been taking care of, because she is a Fleming, and because, despite what you think, your family does not have a monopoly on the use of force.*
+*Generous, then, to show us the reason why we should back you.*
 
-*Proving by demonstration, then, the reason why we should back you.*
-
-*University politics was somehow very transferrable to our current Circumstances.*
+*University politics was very transferrable to our current Circumstances.*
 
 They had another helping of mead.
 
@@ -172,9 +166,9 @@ They had another helping of mead.
 
 *One must focus on what they can control.* Collie set cup and plate back on the table.
 
-*...and still as disconcertingly amicable as always. I maintain the opinion on your capability I put on that letter.*
+*...and still as disconcertingly amicable as always.*
 
-*I am flattered.*
+*You taught me that, before the thesis defense.*
 
 *Take care on the way home, Lady Swartz. And, congratulations on the new apiary.* Fleming did the above-the-waist part of a courtly bow. With the twisting of the outreached hand as flourish.
 
