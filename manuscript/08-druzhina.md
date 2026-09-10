@@ -106,7 +106,7 @@ Collie perked up, but caught it in time to turn it to a piqued.
 
 *Ada, would you go back to the weaving? Me and Lady Swartz will need a moment to ourselves.*
 
-*Yes, grandfather.* Ada nodded, and excused herself back to the ground floor, where the looms were.
+*Yes, papa.* Ada nodded, and excused herself back to the ground floor, where the looms were.
 
 *She will want some field experience soon, for her degree. I have a slot for her, for the next season.*
 
