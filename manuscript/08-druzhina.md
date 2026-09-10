@@ -4,7 +4,9 @@ The Emeritus' property was something done in concrete and stone, in the brutalis
 
 *Socializing.*
 
-She was led in by a guard taller than her, and was patted down once the two turned a corner. The guard apologized for the measures, and Collie was gracious in understanding due caution. She was delivered to him, in the garden, where hydrangea and lavenders were in bloom.
+*Please come with me.*
+
+She was led in, and was patted down once the two turned a corner. The doorman apologized for the measures, and Collie was gracious in understanding due caution. She was delivered to him, in the garden, where hydrangea and lavenders were in bloom.
 
 She walked past a bronze sculpture of Demeter. 
 
@@ -24,7 +26,7 @@ She walked past a bronze sculpture of Demeter.
 
 *I can hardly wait for the cinnamon buns.* Collie's eyes did not twitch.
 
-Ada, Fleming's granddaughter, brought the fine china. She poured tea into Collie's cup first, which she had the arm to do from the other side of the table without standing up.
+Ada, Fleming's granddaughter, brought the fine china. She poured tea into Collie's cup first, which she had the arm to do from the other side of the table without standing up. She was in a dress too, another pre-collapse piece, but with fresh embroidery at the waist and shoulders. Collie could faintly recall seeing the same dress from an old magazine.
 
 *Let us wait until we are done with the first course, today is too good a day to squander in the name of business.* Dr Fleming said.
 
@@ -38,11 +40,11 @@ Ada, Fleming's granddaughter, brought the fine china. She poured tea into Collie
 
 *Laptops.* Ada interjected, with the tone and eyes that one reserved for relics.
 
-*He is resourceful.*
+*He is a resourceful young man.* Collie replied.
 
 Dr Fleming drank from his cup, a delicate porcelain one etched in pink and gold. A bee crawled on the tip of a bloom.
 
-*I see you finally finished the old greenhouse.*
+*I see you finally finished the old greenhouse.* Collie said.
 
 *Yes, Ada, why don't you tell Coelia what you did about the roof?* Fleming commanded.
 
@@ -52,7 +54,7 @@ Dr Fleming drank from his cup, a delicate porcelain one etched in pink and gold.
 
 *Umm, well, y'know, I just, did it with physical models.* Collie could see that Ada was shy.
 
-*And entirely without electronics! Isn't she smart, Coelia?* Fleming patted his grown granddaughter on the head. From his eyes, she was just still a baby.
+*And entirely without electronics! Isn't she smart?* Fleming patted his grown granddaughter on the head. From his eyes, she was just still a baby.
 
 *Well, Ada, that really is something to be proud about. I don't even know how to operate a slide rule.* Collie said
 
@@ -72,7 +74,7 @@ The servant brought them the bottle and the sliced bread, with three butters, ja
 
 *Aldermere, papa.* Ada supplied.
 
-*Funny, then. My Lewis has a sweetheart there, though he thinks I am clueless.*
+*Funny, then. My Lewis has a sweetheart there, though he thinks I am clueless.* Collie said.
 
 *He is getting about that age, isn't he? I hope you are learning just how fast they grow up.* Fleming stroked Ada's cheek with his thumb, Ada covered her face, Collie said an *Aww.*
 
@@ -90,7 +92,7 @@ Ada went still for a moment, Dr Fleming went still for half of that.
 
 *See? What would I do without her?* Fleming chuckled.
 
-Collie topped her toast with pepper and gouda, Fleming had his with cinnamon and jam.
+Collie topped her toast with pepper and gouda, Fleming had his with cinnamon and jam, Ada just had hers with butter.
 
 *I will have my people bring herbs, then.* Collie said.
 
@@ -114,7 +116,7 @@ Collie perked up, but caught it in time to turn it to a piqued.
 
 She slathered one more slice of toast, with jam and parmesan. A moment passed before she triangulated her next line. *Have you considered voting in support of the entreaty with Epsilon and Iota.*
 
-A servant came back with more tea, along with a few strips of bacon and eggs for the two, nothing too absurd to get in the way of the afternoon.
+The servant came back with more tea, along with a few strips of bacon and eggs for the two, nothing too absurd to get in the way of the afternoon.
 
 *I don't think I can, Coelia.*
 
