@@ -236,6 +236,10 @@ Maddy was on the precipice of emptying the skin.
 
 *Mmm.*
 
+*The bees'll live?*
+
+*They're hardy.*
+
 Nadia took the waterskin, and screwed the cap back on.
 
 *Well, the wires will want inspection.*

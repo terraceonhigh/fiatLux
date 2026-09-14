@@ -104,7 +104,7 @@ The T-shirts they were wearing hung somewhere around the tail-end of the clothes
 
 ---
 
-The big radio needed the engine running, and the engine was noisy, so Lewis wired it to the CB handset and took the call in the cab. The girls were unloading the rest of the gear into this town's pub, the room upstairs.
+The big radio needed the engine running, and the engine was noisy, so Lewis wired it to the CB handset and took the call in the cab. The girls were unloading the rest of the gear into this town's pub, to the room upstairs.
 
 *University Station, This is Truck 02, coming in for our evening check-in. Over.*
 
