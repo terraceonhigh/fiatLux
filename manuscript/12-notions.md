@@ -90,7 +90,7 @@ It was a two-page spread of a leopard.
 
 *What a strange cougar.* Nadia said.
 
-*Wait, why does it look weird?*
+*Wait, why is it weird?*
 
 *...You don't get to call me silly for the heels.*
 
@@ -102,11 +102,11 @@ A bust of a model, with tousled hair, wearing a pair of bulky smart glasses with
 
 *Did she get stung by a bee? Why did they take her photo like this?*
 
-*And on the mouth too, how did she smile with that?*
+*Right on the lips too, and still pushing out a smile...*
 
-Fillers in her lips, as it were. Either hyaluronic acid or fat injection, though the specifics were ambiguous even at the time of her surgery. The Get Ready With Me and the day-by-day recovery vlog she posted within the span of a week both neglected to clarify the exact procedure. Above that on the For You Page was a photo-dump from Ibiza.
+An injection, yes. Though of hyaluronic acid rather than bee venom.
 
-*But hey, that's a cool leather jacket, though.* Nadia defended her
+*That's a cool leather jacket, though.* Nadia defended her
 
 *They didn't put any patches on for her.* Maddy said, while picturing Bréal's own jacket.
 
