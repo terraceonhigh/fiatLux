@@ -1,10 +1,10 @@
-The town was dry, and sandy at the margins. Nadia, Lewis, and Maddy rode in before dark and checked in as university officials. Nadia bought a discount for dinner by opening her leather wallet to the other side and presenting the chunk of copper engraved with the Swartz name. They shared an onion and egg pie, with less butter than they were used to. For vegetables they had something they and the town called Kimchi, though the specific spice profile would have been alien to their parents. Ale with hops washed it down. It was good.
+The town was dry, and sandy at the margins. Nadia, Lewis, and Maddy rode in before dark and checked in as university officials. Nadia bought a discount for dinner by opening her leather wallet to the other side and presenting the chunk of copper engraved with the Swartz name. They shared an onion and egg pie, with less butter than they were used to. For vegetables they had something they and the town called kimchi, though the specific spice profile would have been alien to their parents. Ale with hops washed it down. It was good.
 
 A few children played skipping rope outside, before the innkeeper told them to git and head home for dinner. The children put their tire-made sandals back on and walked home.
 
 Nadia had to walk out midway, to sign some papers for this town's seeds. Maddy speared and stole a slice of hard-boiled egg from Nadia's pie when she was busy. Nobody would say they noticed.
 
-After dinner, an oil-lamp light shone in the girls' room. Maddy was supine, on the bed, doing half a cat's cradle. Nadia crunched the numbers that came in from this town's mayor. The wall adjoining Lewis' room was silent.
+After dinner, an oil-lamp light shone in the girls' room. Maddy was supine, on the bed, doing half a cat's cradle. Nadia crunched the numbers that came in from this town's mayor. The wall adjoining Lewis's room was silent.
 
 *Still working?* Maddy asked.
 
@@ -14,7 +14,7 @@ After dinner, an oil-lamp light shone in the girls' room. Maddy was supine, on t
 
 *Good, better than what Professor had theorized. At this rate the soil will be stable in two hundred years.*
 
-Maddy translated two hundred years to her language, roughly eight generations. *Woah.*
+Maddy translated two hundred years to her language, roughly eight generations. *Whoa.*
 
 *Yeah, he's going to love the numbers.* Nadia did not notice the exclamation.
 
@@ -46,7 +46,7 @@ They found themselves a bowl of dried nuts, roasted to a slight bitterness. Madd
 
 *Come on, page one.*
 
-It was a two-page advertisement, a model raced down mahogany stairs carrying a clutch.  
+It was a two-page advertisement, a model raced down mahogany stairs carrying a clutch.
 
 *Oooh.* Nadia exclaimed. *She's got one of Auntie Maia's big wallets.*
 
@@ -62,17 +62,17 @@ The dress the model was wearing did not seem to have pockets.
 
 *Or maybe she had servants to bring her water.*
 
-*mmm*, Maddy conceded.
+*mmm.* Maddy conceded.
 
 Nadia reached and turned the next page.
 
-Another two pages, bought out by one brand. On the left a woman stood in a form-fitting lilac top, and a high-waisted leather midi skirt, the stilettos were made of the same leather.
+Another two pages, bought out by one brand. On the left a woman stood in a form-fitting lilac top, and a high-waisted leather midi skirt. The stilettos were made of the same leather.
 
 Maddy looked at her calves, and saw that they were in tension. *She is on her tippy toes.* The model was photographed face-on, and so the heels were covered by the front of her feet.
 
 *No, look, there is no crease in the shoes.* Nadia said. *It's heels, look at the photo on the right.*
 
-Maddy's eyes began at the mesh-covered waist and the translucence that allows the patterned tights to show through, and marched down to the other model's feet. 
+Maddy's eyes began at the mesh-covered waist and the translucence that allowed the patterned tights to show through, and marched down to the other model's feet.
 
 *Oh god.* Maddy's legs went sore, vicariously and approximately twenty years late.
 
@@ -106,7 +106,7 @@ A bust of a model, with tousled hair, wearing a pair of bulky smart glasses with
 
 An injection, yes. Though of hyaluronic acid rather than bee venom.
 
-*That's a cool leather jacket, though.* Nadia defended her
+*That's a cool leather jacket, though.* Nadia defended her.
 
 *They didn't put any patches on for her.* Maddy said, while picturing Bréal's own jacket.
 
