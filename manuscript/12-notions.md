@@ -4,7 +4,7 @@ A few children played skipping rope outside, before the innkeeper told them to g
 
 Nadia had to walk out midway, to sign some papers for this town's seeds. Maddy speared and stole a slice of hard-boiled egg from Nadia's pie when she was busy. Nobody would say they noticed.
 
-After dinner, an oil-lamp light shone in the girls' room. Maddy was supine, on the bed, doing half a cat's cradle. Nadia crunched the numbers that came in from this town's mayor. The wall adjoining Lewis's room was silent.
+After dinner, an oil-lamp light shone in the girls' room. Maddy was supine, on the bed, doing half a cat's cradle. Nadia crunched the numbers that came in from this town's mayor. The wall adjoining Lewis's room was silent (barring a snore audible only when both of them held their breaths).
 
 *Still working?* Maddy asked.
 
@@ -50,7 +50,7 @@ It was a two-page advertisement, a model raced down mahogany stairs carrying a c
 
 *Oooh.* Nadia exclaimed. *She's got one of Auntie Maia's big wallets.*
 
-Maddy's eyes rested at the bag, with the same naturalness with which a hand settles at a well-worn tool, and lingered there for a while. After the brief trance, Maddy's eyes followed the model's three-fingered cradle on the bag upward to her arms, her shoulders, dwelled a moment at her scarf, and then her cheeks. The model was thin, and tall, her name was known to Collie, and her current whereabouts were unknown to anyone west of these mountains.
+Maddy's eyes rested on the bag, with the same naturalness with which a hand settles on a well-worn tool, and lingered there for a while. After the brief trance, Maddy's eyes followed the model's three-fingered cradle on the bag upward to her arms, her shoulders, dwelled a moment at her scarf, and then her cheeks. The model was thin, and tall, her name was known to Collie, and her current whereabouts were unknown to anyone west of these mountains.
 
 The dress the model was wearing did not seem to have pockets.
 
