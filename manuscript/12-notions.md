@@ -104,10 +104,52 @@ A bust of a model, with tousled hair, wearing a pair of bulky smart glasses with
 
 *Right on the lips too, and still pushing out a smile...*
 
-An injection, yes. Though of hyaluronic acid rather than bee venom.
-
 *That's a cool leather jacket, though.* Nadia defended her.
 
 *They didn't put any patches on for her.* Maddy said, while picturing Bréal's own jacket.
 
 *Must have been a loaner.*
+
+---
+
+[one more page]
+
+---
+
+[Sleep]
+
+---
+
+The clock they used were also from before they were born — and was wound mechanically. It rang its physical bells before the sun came up. Nadia covered the hammer a second after it came on, and told Maddy to go back to bed. She set the alarm to ring again in a ninety minutes. Doctors needed good sleep to work at their best.
+
+She changed from her pajama pants into her jeans and lit a lantern. The backpack with her kit was heavy when she went to lift it up, and considerably less unwieldy when she put it on. last item of preparation was to go down to the truck and collect the family's bees, which were kept warm under a blanket.
+
+The dry grass crunched under her boots. The local apiary had been expecting her, Mom Nona told her. Nadia scratched at an itch on her nape. She couldn't wait to finally go home for a proper wash.
+
+She cleared her throat, and knocked on the door to the beekeeper's house. The door opened.
+
+*Nadia Elbakyan-Swartz, I am here about the mites?*
+
+*Oh, yes, young lady, the mites.*
+
+[1. Count first — alcohol wash from the truck's disinfectant, half a cup of bees off a brood frame, mites counted at the bottom. "The mites" as a known thing means they've already seen them on bees]
+
+[2. The abacus — counts against the line across the keeper's hives, a fixed number of queens to spend, done on the beads while the keeper watches]
+
+[3. Sage in the smoker]
+
+[4. Nona's rubber gloves on her hands]
+
+[5. A number of queens off the truck, under the blanket]
+
+[6. Find and pinch the old queens — dawn, clustered and dull; cage between two brood frames, candy end up, don't open for a week]
+
+[7. The one crashing hive — deformed wings, crawlers, spotty brood; she wants it killed before it gets robbed out; the keeper may want it kept. She loses this one, or doesn't]
+
+[8. The keeper corrects her hands, once — grip, stance, or smoke]
+
+[9. The exchange back — a frame of survivor brood or a queen cell for the family apiary. Nona sent her for this too]
+
+[10. Written orders left in the keeper's hand — release dates, what to look for, when to radio. The result arrives after the truck leaves]
+
+[11. The clock — sun up means robbing; Maddy's alarm in ninety minutes]
