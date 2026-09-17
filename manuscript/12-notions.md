@@ -132,6 +132,24 @@ She cleared her throat, and knocked on the door to the beekeeper's house. The do
 
 *Oh, yes, young lady, the mites.*
 
+---
+
+The boxen were painted in different, vibront, colours, and reflected in the beautiful pastels even now, peppered among the ones that were just plain wood now, with worse nals and the same dedication to carpentry.
+
+*No, miss, with this style of smoker you hold it like this*,
+
+*Oh — I see, thankk you, sir.* Nadia said under the cover of mesh.
+
+the bees in the cup did not seem to mind, until the moment the alcohol came iin, the beekeeper seemedd to wince under his own hat when shaking the sealed cup.
+
+five mites. 
+
+*See, Nadia?*
+
+*Yes, I see how that could be a problem.*
+
+
+
 [1. Count first — alcohol wash from the truck's disinfectant, half a cup of bees off a brood frame, mites counted at the bottom. "The mites" as a known thing means they've already seen them on bees]
 
 [2. The abacus — counts against the line across the keeper's hives, a fixed number of queens to spend, done on the beads while the keeper watches]

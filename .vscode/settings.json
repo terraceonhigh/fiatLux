@@ -8,5 +8,6 @@
         "readback",
         "Swartz",
         "Weirwick"
-    ]
+    ],
+    "editor.wordWrap": "on"
 }
