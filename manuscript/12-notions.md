@@ -126,6 +126,8 @@ She changed from her pajama pants into her jeans and lit a lantern. The backpack
 
 The dry grass crunched under her boots. The local apiary had been expecting her, Mom Nona told her. Nadia scratched at an itch on her nape. She couldn't wait to finally go home for a proper wash.
 
+All was quiet before dawn. The house was a baby blue, and the east side windows upstairs were boarded up.
+
 She cleared her throat, and knocked on the door to the beekeeper's house. The door opened.
 
 *Nadia Elbakyan-Swartz, I am here about the mites?*
@@ -138,7 +140,7 @@ The boxen were painted in different, vibront, colours, and reflected in the beau
 
 *No, miss, with this style of smoker you hold it like this*,
 
-*Oh — I see, thankk you, sir.* Nadia said under the cover of mesh.
+*Oh — I see, thank you, sir.* Nadia said under the cover of mesh.
 
 the bees in the cup did not seem to mind, until the moment the alcohol came iin, the beekeeper seemedd to wince under his own hat when shaking the sealed cup.
 
@@ -146,17 +148,75 @@ five mites.
 
 *See, Nadia?*
 
-*Yes, I see how that could be a problem.*
+*Yes, I understand how that could be a problem.*
 
 *Your mother told uss that hou have the queens, the new quees.*
 
 *Yes, in my backpack.*
 
-,.*I ran the math last month, we will want five new hives*
+*That is why Mother sent me out, sir. To make sure everything works right. Shall we gather some more recent data?*
 
-*How about we collect some moru data today first?*
+---
 
+The smoke was harsh, and only faintly smelled of the sage. Nadia's abacus clacked against itself as she ran the calculations, though the movements she were taught were calibrated for someone longer fingers; Fingers that were not wearing two-poppy rubber gloves.
 
+*Just nine queens should suffice, sir, by my math.*
+
+*We will want more, the radio told us the honey harvest failed up north. The university will want more.*
+
+*Oh* Nadia said *I was not aware*
+
+*Came in last week, miss.*
+
+*I apologize for the underestimate.*
+
+*'salright, miss*
+
+A jar of freshly drowned bees floated on top of alcohol, in a jam jar.
+
+At dawn, they followed the beekeeper's month-old paper to the infected hives, at this month, the boxes were heavy. The beekeeper was the one to pick out the queen with his forceps, and Nadia installed the new queens in their mesh boxes, open-side up. The queens' attendants saw their first sunrise in days.
+
+The opening was sealed, with a yellow candy, that Maddy was told explicitly to add no flavouring to.
+
+By the time the hive had licked through the candy, they would have become accustomed to the new queen.
+
+There was a hive, the record of which was underlined in the beekeeper's paper, and circled twice in Nadia's from this morning.
+
+When they opened the hive, a nizable chunk of the bees fell out, crawling, on the ground. Wings were growing up deformed.
+
+The box was one of the colourful, sun-bleached, ones. Except for a few planks, where it was swapped out for newer raw strips from pallets. The same sky-blue as the beekeeper's house.
+
+The paint job seemed to have been amateur, there were places where a hammer struck but not on the nail.
+
+Where it left impressions.
+
+The Beekeeper did not wince.
+
+*This one, this one needs to be cleaned out.* Nadio said.
+
+*No, miss.*
+
+*We have to, before the other hives rob them and spread the mites.*
+
+*No. We won't* The beekeeper kept his cool, mostly.
+
+*Why?*
+
+*We can deal with this ourselves, miss.*
+
+Ah.
+
+*Right. Of course*
+
+The beekeeper took out his multitool, and then put it back in.
+
+*Sir, House Swartz would still like a sample*
+
+*Come with me.*
+
+---
+
+When they departed from the town, Nadia put into the logbook—the one not dor the university—that two queens were well received and on their way back home.
 
 [1. Count first — alcohol wash from the truck's disinfectant, half a cup of bees off a brood frame, mites counted at the bottom. "The mites" as a known thing means they've already seen them on bees]
 
