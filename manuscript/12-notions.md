@@ -156,7 +156,7 @@ She cleared her throat and knocked on the door to the beekeeper's house. The doo
 
 ---
 
-The boxen were painted in different vibrant colours, and reflected in the beautiful pastels even now, peppered among the ones that were just plain wood now, with worse nails and the same dedication to carpentry.
+The boxes were painted in different vibrant colours, and reflected in the beautiful pastels even now, peppered among the ones that were just plain wood now, with worse nails and the same dedication to carpentry.
 
 *No, miss, with this style of smoker you hold it like this.*
 
