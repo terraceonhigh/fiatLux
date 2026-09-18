@@ -136,7 +136,7 @@ Nadia thought to herself to spit the salt-water further than that little witch e
 
 Maddy always was the inner spoon, even though she was almost too big for it now.
 
-On the other side of the wall, Lewis curled into a ball to keep himself warm
+On the other side of the wall, Lewis curled into a ball to keep himself warm.
 
 ---
 
