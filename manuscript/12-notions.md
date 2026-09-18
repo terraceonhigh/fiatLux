@@ -232,4 +232,4 @@ The beekeeper took out his multitool and then put it back in.
 
 ---
 
-When they departed from the town, Nadia put into the logbook—the one not for the university—that two queens were well received and on their way back home.
+When they departed from the town, Nadia put into the logbook—the one not for the university, but rather Nona—that two viable queens were secured and on their way back home.
