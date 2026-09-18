@@ -2,7 +2,7 @@ name: Sync canary to terrace-zone
 
 on:
   push:
-    branches: [main]
+    branches: [terrace/second-canon]
     paths: [manuscript/**]
 
 jobs:
