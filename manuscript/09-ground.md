@@ -168,7 +168,7 @@ Someone knocked on her door. She closed a binder.
 
 *But, we would then also be walling off the common room. I don't know how we can handle that.*
 
-*Oh, it shouldn't be too hard. I will try my best to convince the neighbours. We can acquire locks and keys, yes?*
+*Oh, it shan't be too hard. Worry not about the neighbours. The cargo basxet was really nice work. We can acquire locks and keys, yes?*
 
 *Certainly.*
 
