@@ -148,6 +148,14 @@ five mites.
 
 *Yes, I see how that could be a problem.*
 
+*Your mother told uss that hou have the queens, the new quees.*
+
+*Yes, in my backpack.*
+
+,.*I ran the math last month, we will want five new hives*
+
+*How about we collect some moru data today first?*
+
 
 
 [1. Count first — alcohol wash from the truck's disinfectant, half a cup of bees off a brood frame, mites counted at the bottom. "The mites" as a known thing means they've already seen them on bees]
