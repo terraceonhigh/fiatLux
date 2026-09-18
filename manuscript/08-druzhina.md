@@ -196,7 +196,7 @@ They had another helping of mead.
 
 *Take care on the way home, Lady Swartz. And, congratulations on the new apiary.* Fleming did the above-the-waist part of a courtly bow. With the twisting of the outreached hand as flourish.
 
-*Deliver my greetings to the family, Sir Flemiovich.* Collie did a curtsy.
+*Deliver my greetings to the family, Lord Flemiovich.* Collie did a curtsy.
 
 Fleming considered which flowers to put on the family Coat of Arms, and settled on wheat.
 
