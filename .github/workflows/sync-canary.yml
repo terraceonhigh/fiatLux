@@ -1,0 +1,36 @@
+name: Sync canary to terrace-zone
+
+on:
+  push:
+    branches: [main]
+    paths: [manuscript/**]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: fiatLux
+
+      - uses: actions/checkout@v4
+        with:
+          repository: terraceonhigh/terrace-zone
+          path: terrace-zone
+          token: ${{ secrets.TERRACE_ZONE_TOKEN }}
+
+      - uses: r-lib/actions/setup-pandoc@v2
+
+      - run: python3 terrace-zone/tools/sync-fiat-lux.py "$GITHUB_WORKSPACE/fiatLux"
+      - run: python3 build.py
+        working-directory: terrace-zone
+
+      - name: Commit and push if changed
+        working-directory: terrace-zone
+        run: |
+          git config user.name "fiatLux canary sync"
+          git config user.email "actions@users.noreply.github.com"
+          git add writing/posts/fiat-lux.md writing/fiat-lux.html writing/index.html
+          git diff --cached --quiet && exit 0
+          git commit -m "Sync Fiat Lux canary from ${GITHUB_SHA:0:7}"
+          git push
