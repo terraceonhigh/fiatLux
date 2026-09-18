@@ -164,7 +164,7 @@ The boxen were painted in different vibrant colours, and reflected in the beauti
 
 The bees in the cup did not seem to mind, until the moment the alcohol came in, the beekeeper seemed to wince under his own hat when shaking the sealed cup.
 
-five mites.
+Five mites.
 
 *See, Nadia?*
 
@@ -172,9 +172,7 @@ five mites.
 
 *Your mother told us that you have the queens, the new queens.*
 
-*Yes, in my backpack.*
-
-*That is why Mother sent me out, sir. To make sure everything works right. Shall we gather some more recent data?*
+*Yes, in my backpack. That is why Mother sent me out, sir. To make sure everything worked right. Shall we gather some more recent data?*
 
 ---
 
@@ -190,7 +188,6 @@ The smoke was harsh, and only faintly smelled of the sage. Nadia's abacus clacke
 
 *I apologize for the underestimate.*
 
-*'salright, miss*
 *'salright, miss.*
 
 A jar of freshly drowned bees floated on top of alcohol in a jam jar.
