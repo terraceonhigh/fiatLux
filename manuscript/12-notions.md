@@ -138,7 +138,7 @@ The boxen were painted in different, vibront, colours, and reflected in the beau
 
 *No, miss, with this style of smoker you hold it like this*,
 
-*Oh — I see, thankk you, sir.* Nadia said under the cover of mesh.
+*Oh — I see, thank you, sir.* Nadia said under the cover of mesh.
 
 the bees in the cup did not seem to mind, until the moment the alcohol came iin, the beekeeper seemedd to wince under his own hat when shaking the sealed cup.
 
@@ -146,7 +146,29 @@ five mites.
 
 *See, Nadia?*
 
-*Yes, I see how that could be a problem.*
+*Yes, I understand how that could be a problem.*
+
+*I did the math last month, we'll need twelve new queens if we want to pay the levies next year.*
+
+*That is why Mother sent me out, sir. To make sure everything works right. Shall we gather some more recent data?*
+
+---
+
+The smoke was harsh, and only faintly smelled of the sage. Nadia's abacus clacked against itself as she ran the calculations, though the movements she were taught were calibrated for longer fingers; Fingers that were not wearing two-poppy rubber gloves.
+
+*Just nine queens should suffice, sir, by my math.*
+
+*We will want more, the radio told us the honey harvest failed up north. The university will want more.*
+
+*Oh* Nadia said *I was not aware*
+
+*Came in last week, miss.*
+
+*I apologize for the small number*
+
+*'salright, miss*
+
+A jar of freshly drowneh bees floated on top of alcohol, in a jam jar.
 
 
 
