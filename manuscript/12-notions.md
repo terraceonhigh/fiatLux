@@ -104,19 +104,39 @@ A bust of a model, with tousled hair, wearing a pair of bulky smart glasses with
 
 *Right on the lips too, and still pushing out a smile...*
 
+An injection, yes. Though of hyaluronic acid rather than bee venom.
+
 *That's a cool leather jacket, though.* Nadia defended her.
 
 *They didn't put any patches on for her,* Maddy said, while picturing Bréal's own jacket.
 
 *Must have been a loaner.*
 
+Maddy reached over, to turn to the next page. The paper was old, at once burning from dry fire and gluing itself together from the melting ink.
+
+The paper ripped itself approximately two centimetres before Maddy stopped herself. Nadia held her breath.
+
+*Shoot.* Uhh, Maddy thought.
+
+*Oh God.*
+
+*Well, at least she hadn't noticed in the two weeks since I pulled it out.*
+
+*Yeah, I am sure it would buff right out.* Nadia said as she rubbed the rip between two fingers as gently as she could.
+
+Next page, but not before blowing some warm breath to unstick the ink. 
+
 ---
 
-[one more page]
+For the record, the lamp ran out of oil before they ran out of nuts.
 
----
+In the dark, Maddy brushed her teeth with salt, and spat out the mixture out of the window once she was done with it. Handing the cup and brush over to Nadia, Nadia had said it would not have been necessary. Maddy reminded her of Auntie Maia's last visit to the barber, about the wisdom tooth.
 
-[Sleep]
+Nadia thought to herself to spit the salt-water further than that little witch ever could.
+
+Maddy always was the inner spoon, even though she was almost too big for it now.
+
+On the other side of the wall, Lewis curled into a ball to keep himself warm
 
 ---
 
@@ -171,6 +191,7 @@ The smoke was harsh, and only faintly smelled of the sage. Nadia's abacus clacke
 *I apologize for the underestimate.*
 
 *'salright, miss*
+*'salright, miss.*
 
 A jar of freshly drowned bees floated on top of alcohol in a jam jar.
 
@@ -208,7 +229,7 @@ Ah.
 
 The beekeeper took out his multitool and then put it back in.
 
-*Sir, House Swartz would still like a sample*
+*Sir, House Swartz would still like a sample.*
 
 *Come with me.*
 
