@@ -2870,3 +2870,19 @@ Neither requires anyone to give birth. **The only thing that ever wanted a womb 
 **And it complicates the naval pivot in a useful direction.** If the Swartzes hold cordage *and* the only domestic rubber, the house supplies both halves of what a boat and a pipe network need. That is a much harder thing for Fleming to reassign than a greenhouse bench.
 
 **Open:** whether TKS is already in the agronomy programme or is Nadia's own proposal. The `06-isolation.md` greenhouse telegram lists the medicinal stock and no industrial crop, which weakly suggests the university has not thought of it. **Terrace's call**, and the second reading is better: the institution guards the pharmacy and misses the gasket.
+
+---
+
+## Renaming *Druzhina* — flagged 2026-09-18, not yet decided
+
+**Terrace's call, pending:** *Druzhina* may be retitled, candidate ***Hyperbolic***. Two anchors offered: Ada's catenary-curve work, and the "pretend-but-not-pretend nobility" of Fleming and Collie.
+
+**Unchecked against the manuscript as it stands** — Ada's catenary work isn't yet on the page in `08-druzhina.md` (checked: no hits for "Ada," "catenary," or "curve" in that file), so this pun is being reached for ahead of the text that would carry it, same as *Druzhina*'s own etymology (spitball.md:598) was settled before it was fully earned on the page. Worth noting for whoever picks this up: **a hyperbolic cosine is the function that describes a catenary**, so "Hyperbolic" would carry the math sense cleanly *if* Ada's curve work makes it into the chapter — and separately carries *hyperbole* for Fleming and Collie's performed rank, the same one-word-two-registers move *Druzhina* itself made (friend-band/war-band). Both senses are real; neither is confirmed in `08-druzhina.md`'s current text.
+
+---
+
+## Renaming *Formulary* — flagged 2026-09-18, no candidate yet
+
+**Terrace's call, pending:** *Formulary* (ch3) is slated for a title change. No replacement offered yet.
+
+**Why it's on the list:** it's the single-register title identified in the 2026-09-18 polysemy survey — the chapter's only use of the word is Rosa chasing "the formula" for Diana's salve (`03-formulary.md:193`), and spitball.md:717 already flagged *Formulary* and *Notifiable* as "clinical titles" next to *Off-Label*, which is the one of the three that does double duty on the page. No dictionary second sense of "formulary" (a set liturgical form, a book of legal/religious formulas) is activated anywhere in the chapter's text.
