@@ -11,6 +11,7 @@ Published on AO3 as [work 89851861](https://archiveofourown.org/works/89851861).
 | `manuscript/` | The chapters, as markdown | Human prose, plus explicit `[STORYBOARD: ...]` model scaffolds |
 | `canon/` | Names, kinship, geography, settled decisions | `canon/pedigree.md` is authoritative for names and relations, `canon/setting-map.md` for places and what flows between them; both have a Graphviz companion |
 | `notes/` | Directions still being weighed | **Not canon.** `chapter-plan.md` is the sequence; `spitball.md` is the discursive record with reasoning; `stripped-canon.md` inventories what commit `7330333` removed. Settled things graduate to `canon/` |
+| `world/` | Economic, technical, environmental, and institutional systems | Each definition has one owning file. Every claim keeps its provenance |
 | `research/` | Briefs written to support the fiction | Primary documents under `research/sources/` |
 | `tools/` | Build and check scripts | |
 | `build/` | Generated HTML | Gitignored. Derived from `manuscript/`, never hand-edited |
