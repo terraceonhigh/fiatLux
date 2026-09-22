@@ -20,3 +20,5 @@ armed groups, diplomatic obligations, travel range, and unknown territory.
 ## Open questions
 
 ## Sources
+
+- [`../research/briefs/absorbing-armed-bands.md`](../research/briefs/absorbing-armed-bands.md)

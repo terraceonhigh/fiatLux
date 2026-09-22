@@ -27,4 +27,4 @@ Status: Planned. Manuscript file: `manuscript/14-ruts.md`.
 
 ## Legacy source
 
-`notes/chapter-plan.md`, row *Ruts*.
+`planning/legacy/chapter-plan.md`, row *Ruts*.

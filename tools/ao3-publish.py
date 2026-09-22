@@ -32,7 +32,7 @@ from html.parser import HTMLParser
 WORK = 89851861
 BASE = "https://archiveofourown.org"
 HERE = os.path.dirname(os.path.abspath(__file__))
-DEFAULT_MAP = os.path.join(HERE, "ao3-chapters.tsv")
+DEFAULT_MAP = os.path.join(os.path.dirname(HERE), "publishing", "ao3-manifest.yml")
 CONTENT_FIELD = "chapter[content]"
 USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 "
@@ -219,16 +219,42 @@ def succeeded(body, chid):
 
 # --------------------------------------------------------------------- main
 
+def manifest_chapter_ids(lines):
+    """Read the small chapter/id subset of the repository's YAML manifest.
+
+    This deliberately avoids a YAML dependency. It accepts only the structure
+    used by publishing/ao3-manifest.yml and ignores unrelated fields.
+    """
+    ids = {}
+    current = None
+    in_chapters = False
+    for raw in lines:
+        line = raw.rstrip("\n")
+        if line == "chapters:":
+            in_chapters = True
+            current = None
+            continue
+        if not in_chapters or not line or line.lstrip().startswith("#"):
+            continue
+        chapter = re.fullmatch(r"  ([a-z0-9]+(?:-[a-z0-9]+)*):", line)
+        if chapter:
+            current = chapter.group(1)
+            continue
+        chapter_id = re.fullmatch(r"    ao3_id: ([0-9]+)", line)
+        if chapter_id and current:
+            ids[current] = chapter_id.group(1)
+    return ids
+
+
 def resolve_chid(slug, chid, map_path):
     if chid:
         return chid
     if not slug:
         raise SystemExit("need --slug or --chid")
     with open(map_path, encoding="utf-8") as f:
-        for line in f:
-            cols = line.split()
-            if len(cols) == 2 and cols[0] == slug:
-                return cols[1]
+        chapter_ids = manifest_chapter_ids(f)
+    if slug in chapter_ids:
+        return chapter_ids[slug]
     raise SystemExit(f"{slug} is not in {map_path}; add it or pass CHID=<id>")
 
 
@@ -311,6 +337,14 @@ FIXTURE = """
 
 
 def self_test():
+    manifest = """chapters:
+  01-continuity-test:
+    ao3_id: 239850826
+    position: 2
+"""
+    assert manifest_chapter_ids(manifest.splitlines()) == {
+        "01-continuity-test": "239850826"
+    }, "manifest chapter IDs must parse"
     form = chapter_form(FIXTURE, "239850826")
     assert form is not None, "must find the chapter form by action"
     assert chapter_form(FIXTURE, "999") is None, "wrong chid must not match"
@@ -347,7 +381,7 @@ def self_test():
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--slug", help="manuscript slug, looked up in the tsv map")
+    ap.add_argument("--slug", help="manuscript slug, looked up in the AO3 manifest")
     ap.add_argument("--chid", help="AO3 chapter id; overrides --slug")
     ap.add_argument("--html", help="built HTML file to send")
     ap.add_argument("--map", default=DEFAULT_MAP)

@@ -20,3 +20,7 @@ preservation, seed life, yields, and the farm calendar.
 ## Open questions
 
 ## Sources
+
+- [`../research/briefs/cropping-a-summer-dry-coast.md`](../research/briefs/cropping-a-summer-dry-coast.md)
+- [`../research/briefs/prepper-beekeeping.md`](../research/briefs/prepper-beekeeping.md)
+- [`../research/briefs/the-national-loaf.md`](../research/briefs/the-national-loaf.md)

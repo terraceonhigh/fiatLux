@@ -14,6 +14,11 @@ REQUIRED = (
     "README.md",
     "planning/sequence.md",
     "planning/manuscript-ledger.md",
+    "planning/worklist.md",
+    "canon/README.md",
+    "canon/people.md",
+    "canon/places.md",
+    "canon/chronology.md",
     "world/README.md",
     "publishing/ao3-manifest.yml",
     ".agents/skills/simple-english/SKILL.md",
@@ -48,6 +53,18 @@ def check():
     for path in ROOT.rglob("*.dup-bak"):
         if ".git" not in path.parts:
             problems.append(f"duplicate backup file: {path.relative_to(ROOT)}")
+
+    if (ROOT / "notes").exists():
+        problems.append("retired notes/ directory is present")
+
+    for obsolete in (
+        "tools/ao3-chapters.tsv",
+        "ao3-chapters.json",
+        "canon/pedigree.dot",
+        "canon/setting-map.dot",
+    ):
+        if (ROOT / obsolete).exists():
+            problems.append(f"obsolete duplicate is present: {obsolete}")
 
     if problems:
         for problem in problems:

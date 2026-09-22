@@ -12,4 +12,4 @@
 
 ## Legacy sources
 
-- `notes/spitball.md`
+- `planning/idea-bank.md`

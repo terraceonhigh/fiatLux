@@ -26,4 +26,4 @@ Status: Planned. Manuscript file: `manuscript/17-colt.md`.
 
 ## Legacy source
 
-`notes/chapter-plan.md`, row *Colt*.
+`planning/legacy/chapter-plan.md`, row *Colt*.

@@ -12,5 +12,5 @@
 
 ## Legacy sources
 
-- `notes/spitball.md`
-- `notes/druzhina-elements.md`
+- `planning/idea-bank.md`
+- `planning/legacy/druzhina-elements.md`

@@ -23,4 +23,4 @@ Status: Planned. Manuscript file: `manuscript/16-pulp.md`.
 
 ## Legacy source
 
-`notes/chapter-plan.md`, row *Pulp*.
+`planning/legacy/chapter-plan.md`, row *Pulp*.

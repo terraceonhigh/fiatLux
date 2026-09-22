@@ -20,3 +20,6 @@ sterilization, surveillance, triage, referral, and unavailable procedures.
 ## Open questions
 
 ## Sources
+
+- [`../research/briefs/copper-iud-no-resupply.md`](../research/briefs/copper-iud-no-resupply.md)
+- [`../research/sources/who-essential-medicines-list-2023.md`](../research/sources/who-essential-medicines-list-2023.md)

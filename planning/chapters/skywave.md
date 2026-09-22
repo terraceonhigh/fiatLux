@@ -24,4 +24,4 @@ Status: Planned. Manuscript file: `manuscript/15-skywave.md`.
 
 ## Legacy source
 
-`notes/chapter-plan.md`, row *Skywave*.
+`planning/legacy/chapter-plan.md`, row *Skywave*.

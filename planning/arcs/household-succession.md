@@ -12,5 +12,5 @@
 
 ## Legacy sources
 
-- `notes/spitball.md`
-- `notes/2026-09-13-notions-fleming-session.md`
+- `planning/idea-bank.md`
+- [`../sessions/2026-09-13-notions-fleming.md`](../sessions/2026-09-13-notions-fleming.md)

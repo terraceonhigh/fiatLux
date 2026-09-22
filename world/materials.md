@@ -20,3 +20,6 @@ quality, recycling, and substitutes.
 ## Open questions
 
 ## Sources
+
+- [`../research/briefs/the-national-loaf.md`](../research/briefs/the-national-loaf.md)
+- [`../research/briefs/copper-iud-no-resupply.md`](../research/briefs/copper-iud-no-resupply.md)

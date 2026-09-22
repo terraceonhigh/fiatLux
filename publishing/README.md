@@ -18,5 +18,5 @@ explicit authorization from Terrace.
 Credentials belong in the ignored `.ao3-cookie` file or `AO3_COOKIE`. Never
 commit or print them.
 
-`tools/ao3-chapters.tsv` remains the machine input for the publisher during the
-migration. `ao3-manifest.yml` owns the fuller external-state record.
+The publisher reads `ao3-manifest.yml` directly. Pass `--chid` only as an
+explicit override after checking the live AO3 owner page.

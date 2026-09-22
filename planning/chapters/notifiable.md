@@ -24,4 +24,4 @@ Status: Planned. Manuscript file: `manuscript/05-notifiable.md`.
 
 ## Legacy source
 
-`notes/chapter-plan.md`, row *Notifiable*.
+`planning/legacy/chapter-plan.md`, row *Notifiable*.

@@ -62,7 +62,7 @@ copy: $(HTML)
 	@echo "paste into the AO3 chapter editor with the HTML tab selected, not Rich Text."
 
 # Headless replacement for copy-then-paste. Dry run unless POST=1. The chapter
-# id comes from tools/ao3-chapters.tsv, or CHID=<id> to override. The login
+# id comes from publishing/ao3-manifest.yml, or CHID=<id> to override. The login
 # cookie is Terrace's: $AO3_COOKIE, or a .ao3-cookie file (gitignored).
 publish: $(HTML)
 	@test -n "$(CH)" || { \

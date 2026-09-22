@@ -21,4 +21,4 @@ Status: Unplaced. No manuscript file.
 
 ## Legacy source
 
-`notes/chapter-plan.md`, row *Spatchcock*.
+`planning/legacy/chapter-plan.md`, row *Spatchcock*.

@@ -20,3 +20,5 @@ hygiene, wells, emergency isolation, and waterborne disease risk.
 ## Open questions
 
 ## Sources
+
+- [`../research/briefs/water-systems-under-failure.md`](../research/briefs/water-systems-under-failure.md)

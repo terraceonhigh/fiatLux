@@ -58,8 +58,9 @@ Put settled names, relations, places, and chronology in `canon/`.
 Preserve competing ideas. Mark decisions, rejections, and corrections beside
 their source. Do not synthesize disagreement into a false consensus.
 
-The files in `notes/` are legacy records during migration. They can supply
-ideas and attribution evidence, but they are not active authority.
+Historical and mixed-author material lives under `planning/legacy/`,
+`planning/sessions/`, and `planning/idea-bank.md`. It can supply ideas and
+attribution evidence, but it is not active authority.
 
 ## Research
 

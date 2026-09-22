@@ -9,14 +9,13 @@ Published on AO3 as [work 89851861](https://archiveofourown.org/works/89851861).
 | Path | Holds | Rule |
 |---|---|---|
 | `manuscript/` | The chapters, as markdown | Human prose, plus explicit `[STORYBOARD: ...]` model scaffolds |
-| `canon/` | Names, kinship, geography, settled decisions | `canon/pedigree.md` is authoritative for names and relations, `canon/setting-map.md` for places and what flows between them; both have a Graphviz companion |
-| `notes/` | Directions still being weighed | **Not canon.** `chapter-plan.md` is the sequence; `spitball.md` is the discursive record with reasoning; `stripped-canon.md` inventories what commit `7330333` removed. Settled things graduate to `canon/` |
+| `canon/` | Manuscript-derived people, places, and chronology | Compact factual index with line citations; no speculative pedigree or map |
 | `world/` | Economic, technical, environmental, and institutional systems | Each definition has one owning file. Every claim keeps its provenance |
 | `planning/` | Future chapters, arcs, candidates, and open questions | Mixed material with explicit provenance |
 | `publishing/` | AO3 state and operating instructions | External state; recheck before writes |
 | `docs/` | Repository architecture | Technical documentation |
 | `.agents/skills/` | Vendored cross-agent writing skills | Pinned by `skills-lock.json` |
-| `research/` | Briefs written to support the fiction | Primary documents under `research/sources/` |
+| `research/` | Briefs written to support the fiction | Evidence, not canon; primary documents under `research/sources/` |
 | `tools/` | Build and check scripts | |
 | `build/` | Generated HTML | Gitignored. Derived from `manuscript/`, never hand-edited |
 
@@ -51,7 +50,7 @@ Paste into the AO3 chapter editor **with the HTML tab selected**, not Rich Text.
 
 **Slot state, verified 2026-09-10 at `/works/89851861/chapters/manage` (the owner page that shows drafts) and `/navigate`:** twelve slots, eleven posted. One draft, at **6** (*Notifiable* — untitled placeholder, chapter id 241992671). Readers see eleven chapters (`Chapters: 11/?`); the draft is invisible to them and holds its position. *Druzhina* is live at **9**, *Ground* at **10**, *Wild Oats* at **11**, *Mulberry* at **12**.
 
-**Check `/chapters/manage` before calling anything a draft.** The paragraph above said *Druzhina* was a draft for three weeks after it went live, and on 2026-09-10 a line edit was pushed to it with `make publish` on that belief. `make publish` updates whatever is in the slot, posted or not, and a posted chapter changes in front of readers immediately. `tools/ao3-chapters.tsv` holds the chapter ids for every written file.
+**Check `/chapters/manage` before calling anything a draft.** The paragraph above said *Druzhina* was a draft for three weeks after it went live, and on 2026-09-10 a line edit was pushed to it with `make publish` on that belief. `make publish` updates whatever is in the slot, posted or not, and a posted chapter changes in front of readers immediately. `publishing/ao3-manifest.yml` records the last-checked chapter IDs and states.
 
 **Do not run pandoc by hand.** Two flags in the `Makefile` are load-bearing rather than cosmetic: one stops apostrophes being silently rewritten, the other stops the macOS pasteboard corrupting accented characters when the HTML is pasted into the browser. Both are explained in place at the top of the `Makefile`, because both have bitten once already.
 
@@ -69,5 +68,5 @@ If a chapter file is renamed while an editor has it open, re-save from the edito
 
 ## Known gaps
 
-- **The working bible is not in the working tree, but it is in the history.** `canon/the-academy-brainstorm.md` — 310 lines, third edition, subtitled *"descent removed, project installed"* — was stripped in `7330333` along with 2,062 lines of research and the origin chat. Deliberate, not lost. Inventory and recovery paths in [`notes/stripped-canon.md`](notes/stripped-canon.md), which also flags a live contradiction between that bible's removal of descent and the current direction. **The 809th Vavilov Lecture** remains outside the repo entirely.
+- **The former working bible is available only in Git history.** `canon/the-academy-brainstorm.md` was stripped in `7330333` with older research and the origin chat. The recovery inventory is in [`docs/history/stripped-canon.md`](docs/history/stripped-canon.md). It is historical evidence, not canon. **The 809th Vavilov Lecture** remains outside the repo entirely.
 - **The AO3 work-level tags were rewritten on 2026-08-13** — 34 canonical tags, no longer chapter one's set. Still no relationship tag and no Diana, and `POV Multiple` survived a rewrite it now fits worse than ever, Ch3 being three in-world documents. The Fandoms field also carries `Climate Change - Fandom`, apparently an unintended disambiguation suffix. **Re-verified live 2026-08-21 and every clause above still holds**: 34 additional tags, Characters still only `Original Female Character(s)` / `Original Male Character(s)`, no Relationships field at all, `Climate Change - Fandom` still there. **One clause has aged the other way, though** — `POV Multiple` now fits *better* than when it was written, because *Ground* added Alex as a fifth POV. The complaint was really about Ch3 having no POV rather than about the work having one.

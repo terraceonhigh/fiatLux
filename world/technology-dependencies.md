@@ -20,3 +20,7 @@ consumables, skills, tools, energy, maintenance, outputs, substitutes, and failu
 ## Open questions
 
 ## Sources
+
+Use the relevant brief in [`../research/briefs/`](../research/briefs/) for each
+object. A source supports an input or failure mode; it does not settle that the
+object exists in the story.

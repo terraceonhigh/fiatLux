@@ -10,7 +10,8 @@
 | `research/` | Briefs and primary sources | Evidence |
 | `publishing/` | AO3 manifest and operating instructions | External state |
 | `tools/` | Reproducible checks, builds, and publishing commands | Implementation |
-| `notes/` | Legacy model and session records | Historical evidence |
+| `planning/legacy/` | Superseded and mixed-author records | Historical evidence |
+| `docs/history/` | Repository recovery records | Historical evidence |
 
 ## Information flow
 
