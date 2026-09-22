@@ -40,6 +40,9 @@ His crotch was then damp, with ammonia.
 
 Bréal was so strong, why didn't he and his men brick the windows by themselves?
 
+<!-- placeholder: reconcile crew with Ground (09-ground.md:181) — Alex names four Epsilon men plus himself and Lewis for this job. Neither appears on the page here. Decide: are they elsewhere on site, is this a separate crew of hired day-labour brought in alongside Epsilon's four, or does Ground's headcount need revisiting? -->
+
+
 They were in whe hallway now.
 
 *Bréal, what is it with this one?*
@@ -68,7 +71,7 @@ Bréal set him down in the hallway the way one set down a duffel bag of sweaty l
 
 Lady Swartz brought him a piece of bread — rye bread — and a cup of cold broth. The bread was just handed to him, and the broth was served in a stainless steel bowl.
 
-*Eat, and when you can stand, go back to Bréal.*
+*Eat, and when you can stand, go back to the foreman.*
 
 He nodded.
 
@@ -76,4 +79,14 @@ The broth had hints of richness. There was bone, garlic, carrots, celery and cel
 
 His dad used to be a cook, a Michelin cook, back in the old country, before the war happened, and before he brought wife and children to here, it was hard learning english, and then the refugee benefits stopped coming.
 
-It was a good broth
+He lapped up what was still stuck to the bottom of the bowl.
+
+It was a good broth.
+
+A minute after that, he stood up and limped back toward the room that needed boarding up. Bréal looked at him, and told him to man the mortar station.
+
+He did not have to be on his legs for that job, and it did not hurt as much as the bricklaying did.
+
+When they were done, the room was dark except for the light that shone in from the one doorway that remained. Lady Swartz came back, and handed them three with 
+
+[$40, and describe the bank notes, keyword rose engine]
