@@ -3,7 +3,9 @@
 # manuscript/ is source only. Every generated file lands in build/, which is
 # gitignored — nothing here ever writes back into manuscript/.
 #
+#   make check                validate repository rules and tool self-tests
 #   make                      build every chapter whose markdown changed
+#   make storyboards          list unresolved manuscript storyboards
 #   make copy CH=01-continuity-test    put one chapter's HTML on the clipboard
 #   make publish CH=01-continuity-test dry-run the AO3 chapter update
 #   make publish CH=... POST=1         actually push it (needs $AO3_COOKIE or .ao3-cookie)
@@ -23,10 +25,18 @@ PANDOC_FLAGS := -f markdown-smart -t html --ascii
 SRC  := $(wildcard manuscript/*.md)
 HTML := $(patsubst manuscript/%.md,build/%.html,$(SRC))
 
-.PHONY: all copy publish clean
+.PHONY: all check storyboards copy publish clean
 .DELETE_ON_ERROR:
 
 all: $(HTML)
+
+check:
+	@tools/check-project.py
+	@tools/verify-fidelity.py --self-test
+	@tools/ao3-publish.py --self-test
+
+storyboards:
+	@grep -nH '^\[STORYBOARD' manuscript/*.md || true
 
 build:
 	@mkdir -p build
@@ -44,8 +54,7 @@ copy: $(HTML)
 	  exit 2; }
 	@test -f build/$(CH).html || { echo "no such chapter: build/$(CH).html"; exit 2; }
 	@tools/verify-fidelity.py --no-storyboard manuscript/$(CH).md
-	@pbcopy < build/$(CH).html
-	@echo "clipboard <- build/$(CH).html ($$(wc -c < build/$(CH).html | tr -d ' ') bytes)"
+	@tools/copy-html.py build/$(CH).html
 	@echo "paste into the AO3 chapter editor with the HTML tab selected, not Rich Text."
 
 # Headless replacement for copy-then-paste. Dry run unless POST=1. The chapter
