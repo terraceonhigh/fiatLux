@@ -2886,3 +2886,38 @@ Neither requires anyone to give birth. **The only thing that ever wanted a womb 
 **Terrace's call, pending:** *Formulary* (ch3) is slated for a title change. No replacement offered yet.
 
 **Why it's on the list:** it's the single-register title identified in the 2026-09-18 polysemy survey — the chapter's only use of the word is Rosa chasing "the formula" for Diana's salve (`03-formulary.md:193`), and spitball.md:717 already flagged *Formulary* and *Notifiable* as "clinical titles" next to *Off-Label*, which is the one of the three that does double duty on the page. No dictionary second sense of "formulary" (a set liturgical form, a book of legal/religious formulas) is activated anywhere in the chapter's text.
+
+## The university dollar, pegged to the Statute of Labourers — 2026-09-21
+
+**Terrace: denominate the economy properly rather than banking one wage figure.** Anchor on the page: two samosas and a sausage roll cost $25 (`08-druzhina.md:225`), and Terrace set the ordinary pasty at **$8**. The peg is 1351, the Statute of Labourers — the wage freeze imposed on English labour immediately after the Black Death, when a population collapse should have handed survivors leverage and the law took it away instead, holding wages at pre-plague levels by statute. Already banked as *Gleaning*'s alternate title *Statute* (`spitball.md:2257`), so pegging the whole economy to this exact moment costs nothing extra and buys consistency everywhere else. The pasty is priced as the era's cheap, portable labourer's food, which fixes the conversion rate for everything below it.
+
+**Wages, at the statutory (suppressed) rate:**
+
+| Labour | $ |
+|---|---|
+| Unskilled, food provided | $16/day |
+| Unskilled, no food provided | $24/day |
+| Skilled (carpenter, mason), fed | $32/day |
+| Skilled, unfed | $48/day |
+| Master craftsman / foreman | $64/day |
+
+**Staples, same peg:**
+
+| Good | $ |
+|---|---|
+| Ordinary pasty | $8 |
+| Farthing loaf (small, Assize-set) | $4 |
+| Halfpenny loaf | $8 |
+| Gallon of ale (Assize-fixed) | $16 |
+| Dozen eggs | $16 |
+| A chicken | $32 |
+| Pair of boots | $64–96 |
+| Quarter of wheat (8 bushels) | $960–1,150 |
+
+**The gap is the point.** A free labour market, priced off the pasty-to-wage ratio alone, predicts an unskilled day's work should fetch something like $33–67 (see the ratio math earlier in this entry's history). The statutory rate above sits well under that — $16–24 against a $33–67 free-market prediction — which is the 1351 statute's own move, reproduced in the currency rather than argued in prose. Whatever *Gleaning*'s labourer is actually paid on the page should read as at or below the unskilled row, not above it.
+
+**Worth keeping, not just the numbers: the Assize mechanism.** Bread and ale prices were fixed by law relative to grain cost, with loaf *weight* floating instead of price — a penny always bought bread, just less of it in a bad year. If scarcity should show up as shrinking portions rather than rising prices, that lever is already built into the peg.
+
+**Flagged as sketch-precision.** Real 14th-century wage-and-price data is regionally noisy and thin in places; these are defensible period figures, not scholarly-grade ones. Fine for fiction, worth knowing if a real citation is ever wanted.
+
+**Open:** whether any of these figures ever need to appear on the page, or only need to hold as the background the actual, visible payments in *Gleaning* are measured against.
