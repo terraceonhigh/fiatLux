@@ -6,6 +6,14 @@
       "sourceType": "github",
       "skillPath": "skills/simple-english/SKILL.md",
       "computedHash": "53a34747a05a3b8d9178b78cf2843d26beab30e01a18bc8d3bc8dd41e2230f5f"
+    },
+    "humanizer": {
+      "source": "blader/humanizer",
+      "sourceType": "github",
+      "commit": "9862685f575c65a8247f90369951df1b3416e3d6",
+      "version": "3.0.0",
+      "skillPath": "SKILL.md",
+      "computedHash": "e8269e236bed06ed0fe4824c274112e54950b0cb46b0bafe5e1576ef7c9f93d5"
     }
   }
 }
