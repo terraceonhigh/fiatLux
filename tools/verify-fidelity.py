@@ -9,6 +9,7 @@ Two failure modes this exists to catch, both of which have actually happened:
 
 Usage:  verify-fidelity.py <source.md> <built.html>
         verify-fidelity.py --self-test
+        verify-fidelity.py --no-storyboard <source.md>
 """
 
 import html
@@ -79,6 +80,15 @@ def bad_tags(text):
     return sorted(found - ALLOWED)
 
 
+def storyboard_lines(text):
+    """Return line numbers that contain reserved storyboard markers."""
+    return [
+        number
+        for number, line in enumerate(text.splitlines(), start=1)
+        if line.startswith("[STORYBOARD:")
+    ]
+
+
 def check(md_path, html_path):
     md = open(md_path, encoding="utf-8").read()
     ht = open(html_path, encoding="utf-8").read()
@@ -119,12 +129,22 @@ def self_test():
     assert bad_tags("<p><del>x</del></p>") == [], "pandoc's strikeout tag must be allowed"
     assert bad_tags("<p>x</p><script>y</script>") == ["script"], "allowlist must flag script"
     assert bad_tags("<p><em>x</em><hr /></p>") == [], "allowed tags must pass"
+    assert storyboard_lines("prose\n[STORYBOARD: Add the turn.]\nprose") == [2]
+    assert storyboard_lines("[ordinary brackets]") == []
     print("verify-fidelity self-test: ok")
 
 
 def main():
     if sys.argv[1:] == ["--self-test"]:
         return self_test()
+    if len(sys.argv) == 3 and sys.argv[1] == "--no-storyboard":
+        md_path = sys.argv[2]
+        markers = storyboard_lines(open(md_path, encoding="utf-8").read())
+        if markers:
+            joined = ", ".join(str(line) for line in markers)
+            sys.exit(f"FAIL {md_path}: storyboard marker(s) remain on line(s) {joined}")
+        print(f"ok {md_path} (no storyboard markers)")
+        return
     if len(sys.argv) != 3:
         sys.exit(__doc__)
 

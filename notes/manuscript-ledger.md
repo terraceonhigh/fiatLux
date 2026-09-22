@@ -24,7 +24,7 @@ manuscript edit.
 | 11 | `10-wild-oats.md` | 365 lines of prose |
 | 12 | `11-mulberry.md` | 125 lines of prose |
 | 13 | `12-notions.md` | 235 lines of prose |
-| 14 | `13-gleaning.md` | 92 lines of incomplete prose and one placeholder |
+| 14 | `13-gleaning.md` | 92 lines of incomplete prose and two storyboard markers |
 | 15 | `14-ruts.md` | Empty |
 | 16 | `15-skywave.md` | Empty |
 | 17 | `16-pulp.md` | Empty |
@@ -139,8 +139,8 @@ manuscript edit.
 - `TEXT` Bréal hired him and other day laborers to lay brick (`:13-29`).
 - `TEXT` A falling brick injured his foot (`:31-39`).
 - `TEXT` Lady Swartz gave him bread and broth, then sent him back to work (`:46-88`).
-- `TEXT` An inline placeholder flags a crew conflict with `09-ground.md` (`:43`).
-- `TEXT` The final sentence and the banknote description remain incomplete (`:90-92`).
+- `TEXT` A storyboard marker flags a crew conflict with `09-ground.md` (`:43`).
+- `TEXT` A storyboard marker holds the unfinished payment and banknote beat (`:90-92`).
 
 ### Empty chapter files
 

@@ -43,6 +43,7 @@ copy: $(HTML)
 	  echo "available:"; ls -1 build/*.html 2>/dev/null | sed 's|build/|  |;s|\.html$$||'; \
 	  exit 2; }
 	@test -f build/$(CH).html || { echo "no such chapter: build/$(CH).html"; exit 2; }
+	@tools/verify-fidelity.py --no-storyboard manuscript/$(CH).md
 	@pbcopy < build/$(CH).html
 	@echo "clipboard <- build/$(CH).html ($$(wc -c < build/$(CH).html | tr -d ' ') bytes)"
 	@echo "paste into the AO3 chapter editor with the HTML tab selected, not Rich Text."
@@ -56,6 +57,7 @@ publish: $(HTML)
 	  echo "available:"; ls -1 build/*.html 2>/dev/null | sed 's|build/|  |;s|\.html$$||'; \
 	  exit 2; }
 	@test -f build/$(CH).html || { echo "no such chapter: build/$(CH).html"; exit 2; }
+	@tools/verify-fidelity.py --no-storyboard manuscript/$(CH).md
 	@tools/ao3-publish.py --slug $(CH) --html build/$(CH).html \
 	  $(if $(CHID),--chid $(CHID)) \
 	  $(if $(wildcard .ao3-cookie),--cookie-file .ao3-cookie) \

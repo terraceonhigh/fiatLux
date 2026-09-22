@@ -8,7 +8,7 @@ Published on AO3 as [work 89851861](https://archiveofourown.org/works/89851861).
 
 | Path | Holds | Rule |
 |---|---|---|
-| `manuscript/` | The chapters, as markdown | **Prose only.** Nothing generated ever lands here |
+| `manuscript/` | The chapters, as markdown | Human prose, plus explicit `[STORYBOARD: ...]` model scaffolds |
 | `canon/` | Names, kinship, geography, settled decisions | `canon/pedigree.md` is authoritative for names and relations, `canon/setting-map.md` for places and what flows between them; both have a Graphviz companion |
 | `notes/` | Directions still being weighed | **Not canon.** `chapter-plan.md` is the sequence; `spitball.md` is the discursive record with reasoning; `stripped-canon.md` inventories what commit `7330333` removed. Settled things graduate to `canon/` |
 | `research/` | Briefs written to support the fiction | Primary documents under `research/sources/` |
@@ -49,6 +49,7 @@ Every build runs `tools/verify-fidelity.py`, which fails the build if the render
 ## Conventions
 
 - **Chapter files are `NN-slug.md`, where the slug is that chapter's AO3 title**, lowercased and hyphenated. No in-file heading — the filename carries the title.
+- **A model storyboard uses one line in the form `[STORYBOARD: ...]`.** It can name beats, constraints, decisions, or continuity work. It cannot contain finished narration or dialogue. Remove every marker before copying or publishing the chapter. The build tools enforce the publication boundary.
 - **Each chapter is titled in its POV character's own register.** Ch1 *ante finem mundi* is Collie's, a classics adjunct, so Latin. Ch2 *Continuity Test* is Lewis's, an electronics kid who never got the university, so engineering English. The rule keeps ch1's Latin hers rather than the book's.
 - Paragraph references inside `canon/` carry a chapter — `ch2 ¶71`. A bare `¶N` means chapter one.
 - Commit subjects are imperative and written in the chapter's own voice.

@@ -6,6 +6,8 @@ Terrace writes the novel. You are a research and critique collaborator, not a co
 
 **Never draft prose.** Not a line, not a sample, not "something like." Describe pressures, targets and structure instead — name the beat, not the sentence. Documents *inside* the story (formulae, telegrams, tables, lists) are fine. On an explicitly authorised copyedit: fix mechanics and tense, flag everything else.
 
+**Storyboards are the only manuscript carveout.** When Terrace asks for storyboarding, you may add single-line `[STORYBOARD: ...]` markers inside `manuscript/`. State beats, constraints, missing decisions, or continuity work. Do not put finished narration or dialogue inside a marker. Do not replace a marker with prose. `make copy` and `make publish` reject chapters that still contain markers.
+
 **Build AO3 HTML with `make`.** Never invoke pandoc by hand.
 
 ## How to reason
