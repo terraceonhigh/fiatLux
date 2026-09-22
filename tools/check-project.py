@@ -20,7 +20,7 @@ REQUIRED = (
     "canon/places.md",
     "canon/chronology.md",
     "world/README.md",
-    "world/place-name-components.tsv",
+    "world/place-name-corpus.tsv",
     "publishing/ao3-manifest.yml",
     ".agents/skills/simple-english/SKILL.md",
     ".agents/skills/humanizer/SKILL.md",

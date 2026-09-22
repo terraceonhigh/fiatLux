@@ -1,87 +1,107 @@
 #!/usr/bin/env python3
-"""Combine approved components into candidate settlement names.
+"""Blend real British Columbia and Washington settlement names.
 
 The output is planning material. A generated name is not canon. Examine real
-place names and trademarks before Terrace selects a candidate.
+place names, language origins, and trademarks before Terrace selects a name.
 """
 
 import argparse
 import csv
-import itertools
 import random
+import re
+import unicodedata
 from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parent.parent
-DEFAULT_COMPONENTS = ROOT / "world" / "place-name-components.tsv"
+DEFAULT_CORPUS = ROOT / "world" / "place-name-corpus.tsv"
 
 
-def load_components(path):
-    groups = {"root": [], "suffix": []}
+def load_names(path, jurisdiction=None):
     with path.open(encoding="utf-8", newline="") as source:
-        for row in csv.DictReader(source, delimiter="\t"):
-            kind = row["kind"]
-            if kind not in groups:
-                raise SystemExit(f"unknown component kind: {kind}")
-            groups[kind].append(row)
-    if not groups["root"] or not groups["suffix"]:
-        raise SystemExit("the component file needs roots and suffixes")
-    return groups
+        rows = list(csv.DictReader(source, delimiter="\t"))
+    if jurisdiction:
+        rows = [row for row in rows if row["jurisdiction"] == jurisdiction]
+    if len(rows) < 2:
+        raise SystemExit("the corpus needs at least two source names")
+    return rows
 
 
-def candidates(groups, terrain=None):
-    pairs = itertools.product(groups["root"], groups["suffix"])
+def compact(name):
+    text = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode()
+    return re.sub(r"[^a-z]", "", text.lower())
+
+
+def blend(left, right, left_cut, right_cut):
+    first = compact(left)[:left_cut]
+    second = compact(right)[right_cut:]
+    if first[-1:] == second[:1]:
+        second = second[1:]
+    return (first + second).title()
+
+
+def candidates(rows, count, seed):
+    rng = random.Random(seed)
+    source_names = {compact(row["name"]) for row in rows}
     results = []
-    for root, suffix in pairs:
-        tags = set(root["terrain"].split(",")) | set(suffix["terrain"].split(","))
-        if terrain and terrain not in tags:
+    used = set()
+    attempts = 0
+    while len(results) < count and attempts < count * 1000:
+        attempts += 1
+        left, right = rng.sample(rows, 2)
+        left_text = compact(left["name"])
+        right_text = compact(right["name"])
+        if len(left_text) < 5 or len(right_text) < 5:
             continue
-        results.append((root["component"] + suffix["component"], root, suffix))
+        left_cut = rng.randrange(2, len(left_text) - 1)
+        right_cut = rng.randrange(1, len(right_text) - 2)
+        name = blend(left["name"], right["name"], left_cut, right_cut)
+        key = name.lower()
+        if not 6 <= len(name) <= 14 or key in source_names or key in used:
+            continue
+        used.add(key)
+        results.append((name, left, right, left_cut, right_cut))
+    if len(results) < count:
+        raise SystemExit(f"made only {len(results)} candidates after {attempts} attempts")
     return results
 
 
 def self_test():
-    groups = load_components(DEFAULT_COMPONENTS)
-    names = {name for name, _, _ in candidates(groups)}
-    assert "aldermere" in names
-    assert "weirwick" in names
-    assert [name for name, _, _ in candidates(groups, "coastal")] == [
-        "alderwick",
-        "weirmere",
-        "weirwick",
-    ]
+    rows = load_names(DEFAULT_CORPUS)
+    assert len(rows) == 440
+    first = candidates(rows, 5, 0)
+    second = candidates(rows, 5, 0)
+    assert first == second
+    source_names = {compact(row["name"]) for row in rows}
+    assert all(compact(name) not in source_names for name, *_ in first)
     print("place-names self-test: ok")
 
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--components", type=Path, default=DEFAULT_COMPONENTS)
-    parser.add_argument("--terrain", help="keep names with this terrain tag")
-    parser.add_argument("--count", type=int, help="maximum number of names")
-    parser.add_argument("--seed", type=int, default=0, help="shuffle seed")
-    parser.add_argument("--explain", action="store_true", help="show meanings")
+    parser.add_argument("--corpus", type=Path, default=DEFAULT_CORPUS)
+    parser.add_argument("--jurisdiction", choices=("BC", "WA"))
+    parser.add_argument("--count", type=int, default=20)
+    parser.add_argument("--seed", type=int, default=0)
+    parser.add_argument("--explain", action="store_true", help="show source names")
     parser.add_argument("--self-test", action="store_true")
     args = parser.parse_args()
 
     if args.self_test:
         self_test()
         return
+    if args.count < 1:
+        parser.error("--count must be positive")
 
-    results = candidates(load_components(args.components), args.terrain)
-    random.Random(args.seed).shuffle(results)
-    if args.count is not None:
-        if args.count < 1:
-            parser.error("--count must be positive")
-        results = results[:args.count]
-
-    for name, root, suffix in results:
+    rows = load_names(args.corpus, args.jurisdiction)
+    for name, left, right, left_cut, right_cut in candidates(rows, args.count, args.seed):
         if args.explain:
             print(
-                f"{name.title()}\t{root['component']} ({root['meaning']}) + "
-                f"{suffix['component']} ({suffix['meaning']})"
+                f"{name}\t{left['jurisdiction']}:{left['name']}[:{left_cut}] + "
+                f"{right['jurisdiction']}:{right['name']}[{right_cut}:]"
             )
         else:
-            print(name.title())
+            print(name)
 
 
 if __name__ == "__main__":

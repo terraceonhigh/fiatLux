@@ -39,9 +39,10 @@ Forest, settlements, steep slopes, and fishing water are additional areas.
 `TERRACE` Invented names use settler-English and Scandinavian components.
 Do not manufacture names that resemble words from living Indigenous languages.
 
-The component list is in `place-name-components.tsv`. The list contains only
-the components that produced Aldermere and Weirwick. Add a component only
-after its meaning, origin, and terrain use are established.
+The source corpus is in `place-name-corpus.tsv`. It contains 159 British
+Columbia municipal names and 281 incorporated Washington place names. The BC
+table was copied from a public mirror because the government directory blocked
+automated retrieval.
 
 Run this command to list candidate recombinations:
 
@@ -49,9 +50,18 @@ Run this command to list candidate recombinations:
 tools/place-names.py --explain
 ```
 
-Use `--terrain coastal`, `--count 10`, or `--seed 4` to filter the output.
+Use `--jurisdiction BC`, `--count 10`, or `--seed 4` to change the output.
+The explanation shows both source names and their cut positions.
+
 Generated names are planning material. Terrace selects names for the story.
-Before selection, examine real place names and trademarks for collisions.
+Before selection, examine language origins, real names, and trademarks. Do not
+use a generated fragment that imitates a living Indigenous language.
+
+The corpus sources are:
+
+- [British Columbia municipality list](https://www2.gov.bc.ca/gov/content/governments/local-governments/facts-framework/systems/municipalities)
+- [Public mirror of the BC municipality table](https://en.wikipedia.org/wiki/List_of_municipalities_in_British_Columbia)
+- [Washington State Department of Transportation city layer](https://data.wsdot.wa.gov/arcgis/rest/services/Shared/CityLimits/MapServer/0)
 
 ## Open questions
 

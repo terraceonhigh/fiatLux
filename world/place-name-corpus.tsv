@@ -1,0 +1,441 @@
+jurisdiction	name
+BC	100 Mile House
+BC	Abbotsford
+BC	Alert Bay
+BC	Anmore
+BC	Armstrong
+BC	Ashcroft
+BC	Barriere
+BC	Belcarra
+BC	Bowen Island
+BC	Burnaby
+BC	Burns Lake
+BC	Cache Creek
+BC	Campbell River
+BC	Canal Flats
+BC	Castlegar
+BC	Central Saanich
+BC	Chase
+BC	Chetwynd
+BC	Chilliwack
+BC	Clearwater
+BC	Clinton
+BC	Coldstream
+BC	Colwood
+BC	Comox
+BC	Coquitlam
+BC	Courtenay
+BC	Cranbrook
+BC	Creston
+BC	Cumberland
+BC	Daajing Giids
+BC	Dawson Creek
+BC	Delta
+BC	Duncan
+BC	Elkford
+BC	Enderby
+BC	Esquimalt
+BC	Fernie
+BC	Fort St. James
+BC	Fort St. John
+BC	Fraser Lake
+BC	Fruitvale
+BC	Gibsons
+BC	Gold River
+BC	Golden
+BC	Grand Forks
+BC	Granisle
+BC	Greenwood
+BC	Harrison Hot Springs
+BC	Hazelton
+BC	Highlands
+BC	Hope
+BC	Houston
+BC	Hudson's Hope
+BC	Invermere
+BC	Kamloops
+BC	Kaslo
+BC	Kelowna
+BC	Kent
+BC	Keremeos
+BC	Kimberley
+BC	Kitimat
+BC	Ladysmith
+BC	Lake Country
+BC	Lake Cowichan
+BC	Langford
+BC	Langley
+BC	Lantzville
+BC	Lillooet
+BC	Lions Bay
+BC	Logan Lake
+BC	Lumby
+BC	Lytton
+BC	Mackenzie
+BC	Maple Ridge
+BC	Masset
+BC	McBride
+BC	Merritt
+BC	Metchosin
+BC	Midway
+BC	Mission
+BC	Montrose
+BC	Nakusp
+BC	Nanaimo
+BC	Nelson
+BC	New Denver
+BC	New Hazelton
+BC	New Westminster
+BC	North Cowichan
+BC	North Saanich
+BC	North Vancouver
+BC	Northern Rockies
+BC	Oak Bay
+BC	Oliver
+BC	Osoyoos
+BC	Parksville
+BC	Peachland
+BC	Pemberton
+BC	Penticton
+BC	Pitt Meadows
+BC	Port Alberni
+BC	Port Alice
+BC	Port Clements
+BC	Port Coquitlam
+BC	Port Edward
+BC	Port Hardy
+BC	Port McNeill
+BC	Port Moody
+BC	Pouce Coupe
+BC	Powell River
+BC	Prince George
+BC	Prince Rupert
+BC	Princeton
+BC	Qualicum Beach
+BC	Quesnel
+BC	Radium Hot Springs
+BC	Revelstoke
+BC	Richmond
+BC	Rossland
+BC	Saanich
+BC	Salmo
+BC	Salmon Arm
+BC	Sayward
+BC	Sechelt
+BC	Sicamous
+BC	Sidney
+BC	Silverton
+BC	Slocan
+BC	Smithers
+BC	Sooke
+BC	Spallumcheen
+BC	Sparwood
+BC	Squamish
+BC	Stewart
+BC	Summerland
+BC	Sun Peaks Mountain
+BC	Surrey
+BC	Tahsis
+BC	Taylor
+BC	Telkwa
+BC	Terrace
+BC	Tofino
+BC	Trail
+BC	Tumbler Ridge
+BC	Ucluelet
+BC	Valemount
+BC	Vancouver
+BC	Vanderhoof
+BC	Vernon
+BC	Victoria
+BC	View Royal
+BC	Warfield
+BC	Wells
+BC	West Kelowna
+BC	West Vancouver
+BC	Whistler
+BC	White Rock
+BC	Williams Lake
+BC	Zeballos
+BC	shíshálh Nation
+WA	Aberdeen
+WA	Airway Heights
+WA	Albion
+WA	Algona
+WA	Almira
+WA	Anacortes
+WA	Arlington
+WA	Asotin
+WA	Auburn
+WA	Bainbridge Island
+WA	Battle Ground
+WA	Beaux Arts
+WA	Bellevue
+WA	Bellingham
+WA	Benton City
+WA	Bingen
+WA	Black Diamond
+WA	Blaine
+WA	Bonney Lake
+WA	Bothell
+WA	Bremerton
+WA	Brewster
+WA	Bridgeport
+WA	Brier
+WA	Buckley
+WA	Bucoda
+WA	Burien
+WA	Burlington
+WA	Camas
+WA	Carbonado
+WA	Carnation
+WA	Cashmere
+WA	Castle Rock
+WA	Cathlamet
+WA	Centralia
+WA	Chehalis
+WA	Chelan
+WA	Cheney
+WA	Chewelah
+WA	Clarkston
+WA	Cle Elum
+WA	Clyde Hill
+WA	Colfax
+WA	College Place
+WA	Colton
+WA	Colville
+WA	Conconully
+WA	Concrete
+WA	Connell
+WA	Cosmopolis
+WA	Coulee City
+WA	Coulee Dam
+WA	Coupeville
+WA	Covington
+WA	Creston
+WA	Cusick
+WA	Darrington
+WA	Davenport
+WA	Dayton
+WA	Deer Park
+WA	Des Moines
+WA	DuPont
+WA	Duvall
+WA	East Wenatchee
+WA	Eatonville
+WA	Edgewood
+WA	Edmonds
+WA	Electric City
+WA	Ellensburg
+WA	Elma
+WA	Elmer City
+WA	Endicott
+WA	Entiat
+WA	Enumclaw
+WA	Ephrata
+WA	Everett
+WA	Everson
+WA	Fairfield
+WA	Farmington
+WA	Federal Way
+WA	Ferndale
+WA	Fife
+WA	Fircrest
+WA	Forks
+WA	Friday Harbor
+WA	Garfield
+WA	George
+WA	Gig Harbor
+WA	Gold Bar
+WA	Goldendale
+WA	Grand Coulee
+WA	Grandview
+WA	Granger
+WA	Granite Falls
+WA	Hamilton
+WA	Harrah
+WA	Harrington
+WA	Hartline
+WA	Hatton
+WA	Hoquiam
+WA	Hunts Point
+WA	Ilwaco
+WA	Index
+WA	Ione
+WA	Issaquah
+WA	Kahlotus
+WA	Kalama
+WA	Kelso
+WA	Kenmore
+WA	Kennewick
+WA	Kent
+WA	Kettle Falls
+WA	Kirkland
+WA	Kittitas
+WA	Krupp
+WA	La Center
+WA	La Conner
+WA	La Crosse
+WA	Lacey
+WA	Lake Forest Park
+WA	Lake Stevens
+WA	Lakewood
+WA	Lamont
+WA	Langley
+WA	Latah
+WA	Leavenworth
+WA	Liberty Lake
+WA	Lind
+WA	Long Beach
+WA	Longview
+WA	Lyman
+WA	Lynden
+WA	Lynnwood
+WA	Mabton
+WA	Malden
+WA	Mansfield
+WA	Maple Valley
+WA	Marcus
+WA	Marysville
+WA	Mattawa
+WA	McCleary
+WA	Medical Lake
+WA	Medina
+WA	Mercer Island
+WA	Mesa
+WA	Metaline
+WA	Metaline Falls
+WA	Mill Creek
+WA	Millwood
+WA	Milton
+WA	Monroe
+WA	Montesano
+WA	Morton
+WA	Moses Lake
+WA	Mossyrock
+WA	Mount Vernon
+WA	Mountlake Terrace
+WA	Moxee
+WA	Mukilteo
+WA	Naches
+WA	Napavine
+WA	Nespelem
+WA	Newcastle
+WA	Newport
+WA	Nooksack
+WA	Normandy Park
+WA	North Bend
+WA	North Bonneville
+WA	Northport
+WA	Oak Harbor
+WA	Oakesdale
+WA	Oakville
+WA	Ocean Shores
+WA	Odessa
+WA	Okanogan
+WA	Olympia
+WA	Omak
+WA	Oroville
+WA	Orting
+WA	Othello
+WA	Pacific
+WA	Palouse
+WA	Pasco
+WA	Pateros
+WA	Pe Ell
+WA	Pomeroy
+WA	Port Angeles
+WA	Port Orchard
+WA	Port Townsend
+WA	Poulsbo
+WA	Prescott
+WA	Prosser
+WA	Pullman
+WA	Puyallup
+WA	Quincy
+WA	Rainier
+WA	Raymond
+WA	Reardan
+WA	Redmond
+WA	Renton
+WA	Republic
+WA	Richland
+WA	Ridgefield
+WA	Ritzville
+WA	Riverside
+WA	Rock Island
+WA	Rockford
+WA	Rosalia
+WA	Roslyn
+WA	Roy
+WA	Royal City
+WA	Ruston
+WA	Saint John
+WA	Sammamish
+WA	SeaTac
+WA	Seattle
+WA	Sedro-Woolley
+WA	Selah
+WA	Sequim
+WA	Shelton
+WA	Shoreline
+WA	Skykomish
+WA	Snohomish
+WA	Snoqualmie
+WA	Soap Lake
+WA	South Bend
+WA	South Cle Elum
+WA	South Prairie
+WA	Spangle
+WA	Spokane
+WA	Spokane Valley
+WA	Sprague
+WA	Springdale
+WA	Stanwood
+WA	Starbuck
+WA	Steilacoom
+WA	Stevenson
+WA	Sultan
+WA	Sumas
+WA	Sumner
+WA	Sunnyside
+WA	Tacoma
+WA	Tekoa
+WA	Tenino
+WA	Tieton
+WA	Toledo
+WA	Tonasket
+WA	Toppenish
+WA	Tukwila
+WA	Tumwater
+WA	Twisp
+WA	Union Gap
+WA	Uniontown
+WA	University Place
+WA	Vader
+WA	Vancouver
+WA	Waitsburg
+WA	Walla Walla
+WA	Wapato
+WA	Warden
+WA	Washougal
+WA	Washtucna
+WA	Waterville
+WA	Waverly
+WA	Wenatchee
+WA	West Richland
+WA	Westport
+WA	White Salmon
+WA	Wilbur
+WA	Wilkeson
+WA	Wilson Creek
+WA	Winlock
+WA	Winthrop
+WA	Woodinville
+WA	Woodland
+WA	Woodway
+WA	Yacolt
+WA	Yakima
+WA	Yarrow Point
+WA	Yelm
+WA	Zillah
