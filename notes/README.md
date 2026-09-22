@@ -1,5 +1,9 @@
 # Notes index
 
+> **Migration status:** This directory is a legacy record. New planning belongs
+> in [`../planning/`](../planning/). Use these files for recovery and provenance,
+> not as active authority.
+
 The manuscript is the authority for facts that appear in the story. Read
 [`manuscript-ledger.md`](manuscript-ledger.md) before you use another note.
 

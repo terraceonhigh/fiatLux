@@ -12,11 +12,21 @@ Published on AO3 as [work 89851861](https://archiveofourown.org/works/89851861).
 | `canon/` | Names, kinship, geography, settled decisions | `canon/pedigree.md` is authoritative for names and relations, `canon/setting-map.md` for places and what flows between them; both have a Graphviz companion |
 | `notes/` | Directions still being weighed | **Not canon.** `chapter-plan.md` is the sequence; `spitball.md` is the discursive record with reasoning; `stripped-canon.md` inventories what commit `7330333` removed. Settled things graduate to `canon/` |
 | `world/` | Economic, technical, environmental, and institutional systems | Each definition has one owning file. Every claim keeps its provenance |
+| `planning/` | Future chapters, arcs, candidates, and open questions | Mixed material with explicit provenance |
+| `publishing/` | AO3 state and operating instructions | External state; recheck before writes |
+| `docs/` | Repository architecture | Technical documentation |
+| `.agents/skills/` | Vendored cross-agent writing skills | Pinned by `skills-lock.json` |
 | `research/` | Briefs written to support the fiction | Primary documents under `research/sources/` |
 | `tools/` | Build and check scripts | |
 | `build/` | Generated HTML | Gitignored. Derived from `manuscript/`, never hand-edited |
 
 ## Shipping a chapter
+
+Run the project checks first:
+
+```bash
+make check
+```
 
 ```bash
 make
