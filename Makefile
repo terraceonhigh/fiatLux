@@ -6,6 +6,7 @@
 #   make check                validate repository rules and tool self-tests
 #   make                      build every chapter whose markdown changed
 #   make storyboards          list unresolved manuscript storyboards
+#   make ledger               refresh the mechanical manuscript ledger
 #   make copy CH=01-continuity-test    put one chapter's HTML on the clipboard
 #   make publish CH=01-continuity-test dry-run the AO3 chapter update
 #   make publish CH=... POST=1         actually push it (needs $AO3_COOKIE or .ao3-cookie)
@@ -25,7 +26,7 @@ PANDOC_FLAGS := -f markdown-smart -t html --ascii
 SRC  := $(wildcard manuscript/*.md)
 HTML := $(patsubst manuscript/%.md,build/%.html,$(SRC))
 
-.PHONY: all check storyboards copy publish clean
+.PHONY: all check ledger storyboards copy publish clean
 .DELETE_ON_ERROR:
 
 all: $(HTML)
@@ -34,6 +35,9 @@ check:
 	@tools/check-project.py
 	@tools/verify-fidelity.py --self-test
 	@tools/ao3-publish.py --self-test
+
+ledger:
+	@tools/manuscript-ledger.py
 
 storyboards:
 	@grep -nH '^\[STORYBOARD' manuscript/*.md || true

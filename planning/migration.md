@@ -14,4 +14,4 @@ archive disposition.
 | `notes/parked-prose.md` | `parked-prose.md` | Move verbatim | Pending |
 | `notes/stripped-canon.md` | Raw archive | Preserve recovery record | Pending |
 | `notes/terrace-zone-deployment.md` | Operations documentation | Recheck and move | Pending |
-| `notes/manuscript-ledger.md` | Generated ledger | Replace by tooling | Pending |
+| `notes/manuscript-ledger.md` | `planning/manuscript-ledger.md` | Replaced by mechanical tooling | Complete |

@@ -13,6 +13,7 @@ REQUIRED = (
     "AGENTS.md",
     "README.md",
     "planning/sequence.md",
+    "planning/manuscript-ledger.md",
     "world/README.md",
     "publishing/ao3-manifest.yml",
     ".agents/skills/simple-english/SKILL.md",
@@ -29,6 +30,11 @@ def check():
     for relative in REQUIRED:
         if not (ROOT / relative).is_file():
             problems.append(f"missing required file: {relative}")
+
+    for adapter in ("AGENTS.md", "CLAUDE.md"):
+        path = ROOT / adapter
+        if path.is_file() and "PROJECT.md" not in path.read_text(encoding="utf-8"):
+            problems.append(f"agent adapter does not point to PROJECT.md: {adapter}")
 
     for path in sorted(MANUSCRIPT.glob("*.md")):
         if not CHAPTER_NAME.fullmatch(path.name):
