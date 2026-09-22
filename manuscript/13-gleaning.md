@@ -66,8 +66,14 @@ Bréal set him down in the hallway the way one set down a duffel bag of sweaty l
 
 *Sit, Lady Swartz will deal with you.* And then Bréal walked back to the room being bricked up.
 
-Lady Swartz brought him a loaf — something plain, from a dough of flour and water — and a cup of cold broth. The bread was just handed to him, and the broth was served in a stainless steel bowl.
+Lady Swartz brought him a piece of bread — rye bread — and a cup of cold broth. The bread was just handed to him, and the broth was served in a stainless steel bowl.
 
 *Eat, and when you can stand, go back to Bréal.*
 
 He nodded.
+
+The broth had hints of richness. There was bone, garlic, carrots, celery and celery seeds, caraway, fennel. Hints of sausage, though no actual chunks. a good handful of split peas were found at the bottom of the bowl.
+
+His dad used to be a cook, a Michelin cook, back in the old country, before the war happened, and before he brought wife and children to here, it was hard learning english, and then the refugee benefits stopped coming.
+
+It was a good broth
