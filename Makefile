@@ -35,6 +35,7 @@ check:
 	@tools/check-project.py
 	@tools/verify-fidelity.py --self-test
 	@tools/ao3-publish.py --self-test
+	@tools/place-names.py --self-test
 
 ledger:
 	@tools/manuscript-ledger.py

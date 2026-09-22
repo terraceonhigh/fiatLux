@@ -34,6 +34,25 @@ Forest, settlements, steep slopes, and fishing water are additional areas.
 
 ## Substitutes and adaptations
 
+## Place-name construction
+
+`TERRACE` Invented names use settler-English and Scandinavian components.
+Do not manufacture names that resemble words from living Indigenous languages.
+
+The component list is in `place-name-components.tsv`. The list contains only
+the components that produced Aldermere and Weirwick. Add a component only
+after its meaning, origin, and terrain use are established.
+
+Run this command to list candidate recombinations:
+
+```bash
+tools/place-names.py --explain
+```
+
+Use `--terrain coastal`, `--count 10`, or `--seed 4` to filter the output.
+Generated names are planning material. Terrace selects names for the story.
+Before selection, examine real place names and trademarks for collisions.
+
 ## Open questions
 
 - `OPEN` Which township produces most of the grain, pulses, and potatoes?

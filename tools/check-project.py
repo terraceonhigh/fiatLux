@@ -20,10 +20,12 @@ REQUIRED = (
     "canon/places.md",
     "canon/chronology.md",
     "world/README.md",
+    "world/place-name-components.tsv",
     "publishing/ao3-manifest.yml",
     ".agents/skills/simple-english/SKILL.md",
     ".agents/skills/humanizer/SKILL.md",
     "skills-lock.json",
+    "tools/place-names.py",
 )
 CHAPTER_NAME = re.compile(r"\d{2}-[a-z0-9]+(?:-[a-z0-9]+)*\.md$")
 STORYBOARD = re.compile(r"^\[STORYBOARD(?: [a-z0-9-]+)?: .+\]$")
