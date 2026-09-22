@@ -17,6 +17,19 @@ distance, travel time, and seasonal access.
 
 ## Terrace decisions
 
+`TERRACE` Arbutus University occupies a favorable Cascadian site. The setting
+resembles the University of Washington region in physical form, but it does not
+include Seattle or its former population.
+
+`TERRACE` The university stands beside a navigable lake or sheltered inlet. A
+short water route connects the university to the regional sea.
+
+`TERRACE` A nearby river system connects the university to a broad, fertile
+breadbasket. Farms, townships, and mills occupy this watershed.
+
+`TERRACE` The fictional setting can combine Cascadian landforms. It does not
+copy the political or settlement geography of a real region.
+
 ## Quantities and assumptions
 
 `MODEL` University country contains approximately twelve townships. Weirwick
@@ -29,6 +42,12 @@ lands. Its total population is usually 2,000–3,000.
 Forest, settlements, steep slopes, and fishing water are additional areas.
 
 ## Dependencies
+
+- The water route supports bulk food transport between the breadbasket and the
+  campus core.
+- The breadbasket supports the campus population and the township network.
+- The river system creates sites for mills, ports, tolls, bridges, and flood
+  control.
 
 ## Failure modes
 
@@ -65,8 +84,12 @@ The corpus sources are:
 
 ## Open questions
 
+- `OPEN` What are the names of the lake, river, sound, and breadbasket?
+- `OPEN` How far is the main grain plain from Arbutus University?
+- `OPEN` Which authorities control the river ports and milling sites?
 - `OPEN` Which township produces most of the grain, pulses, and potatoes?
 - `OPEN` Is Aldermere the town that contains Diana's home?
+  Yes, refer to Druzhina
 - `OPEN` Which towns share the three-day circuit in *Wild Oats*?
 
 ## Sources

@@ -15,8 +15,28 @@ preservation, seed life, yields, and the farm calendar.
   water-system failure. (`manuscript/06-isolation.md:178-186`)
 - `TEXT` Town agriculture uses oxen and university seed distribution.
   (`manuscript/10-wild-oats.md:187-193`)
+- `TEXT` Commercial bakery pastry uses lard, not butter. A private-estate loaf
+  is described as "lard and dill." (`manuscript/08-druzhina.md:25`)
+- `TEXT` Whipped cream still exists, but only at the top of the class ladder.
+  The Swartz household calls it a thing they might never find; Fleming's
+  estate serves it as a topping. It is a rank marker, not a lost good.
+  (`manuscript/02-fortification.md:61`; `manuscript/08-druzhina.md:163`)
+- `TEXT` Butter supply is not flat across townships. A pie eaten on the road
+  in another town has "less butter than they were used to."
+  (`manuscript/12-notions.md:1`)
+- `TEXT` Cheese comes in several kinds: cheddar and colby at the clinic
+  (`manuscript/03-formulary.md:209`), gouda and parmesan at Fleming's estate
+  (`manuscript/08-druzhina.md:69-95`).
+- `TEXT` Ginger is a home-patch garden crop, not a traded or greenhouse good.
+  (`manuscript/01-continuity-test.md:13`)
 
 ## Terrace decisions
+
+`TERRACE` Arbutus University has access to a nearby, UW-style breadbasket. The
+model uses comparable terrain and climate without the population of Seattle.
+
+`TERRACE` The campus does not feed the campus core from its own grounds. Rural
+townships provide most food through a regional farm system.
 
 ## Quantities and assumptions
 
@@ -60,6 +80,20 @@ not yet named. A working mix contains:
 - One flexible mixed-farming and reserve district.
 
 These are primary functions. Each township also produces other food.
+
+### Production zones
+
+`MODEL` The farm system has three broad production zones:
+
+- The campus and near shore contain gardens, orchards, poultry, seed plots,
+  apiaries, and greenhouses.
+- Nearby townships produce potatoes, vegetables, dairy products, pigs, hay,
+  and other fresh food.
+- The outer breadbasket produces grain, pulses, oil crops, cattle, and reserve
+  food.
+
+Water transport moves much of the outer breadbasket surplus to the campus
+core. Roads serve local movement and routes that do not reach navigable water.
 
 ## Dependencies
 
