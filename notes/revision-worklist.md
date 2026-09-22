@@ -1,43 +1,29 @@
 # Revision worklist — self-consistency fixes
 
-From the 2026-08-31 six-model round (`notes/external-critique.md`). These are the
-items that survived checking against the text: places where the prose breaks its
-own rules, not places where it deviates from convention. Conformity complaints
-are deliberately excluded — see the Frame section of the critique digest.
+This file began with the 2026-08-31 model critique. Every active item must quote
+the current manuscript or record a Terrace decision. Model agreement alone does
+not keep an item active.
 
-Unchecked. Terrace has made no calls on any of these.
+Publication state is external. Recheck AO3 before you act on a publishing item.
 
-## Take straight
+## Rechecked against the manuscript
 
-- [ ] **`03-formulary.md:51`** — "Rosa turned to face the wall while she did so.
+- [ ] **OPEN: `03-formulary.md:51`** — "Rosa turned to face the wall while she did so.
       Diana rolled her eyes."
-      Chapter is Rosa-locked (`:3` "Egghead flipped the note", `:5` "her office",
-      `:9` "Rusina had her kneel"). Rosa is facing the wall; the eye-roll is not
-      available to her.
+      The cited text remains. The claim that the chapter permits no access to
+      Diana is a model interpretation, not a manuscript fact.
 
-- [ ] **`11-mulberry.md:73`** — "...massaging the liquid into Nona's hair, Collie
-      could be seen sinking most of herself into the river."
-      Two faults in one clause: a passive positing an observer the ensemble camera
-      does not have, and a comma splice. A period plus an active verb kills both.
+- [x] **`11-mulberry.md:73`** — The manuscript now reads, "Collie sank most of
+      herself into the river." The passive clause is gone.
 
-- [ ] **`11-mulberry.md:3`** — "The load in the other machines were pure white."
-      Subject-verb agreement.
+- [x] **`11-mulberry.md:3`** — The manuscript now reads, "The loads in the other
+      machines were pure white."
 
-- [ ] **`00-ante-finem-mundi.md:23`** — "Collie got Lewis a proper bunk when he was
-      twelve, and spent as much time as he did at her apartment as he did at Maia's
-      place, which Maia did sob and thank her a few times through the handset."
-      Subject mutates mid-sentence; "which" has no antecedent that can sob. The most
-      tangled sentence in the draft.
+- [x] **`00-ante-finem-mundi.md:23`** — The sentence now separates Lewis's living
+      arrangement from Maia's response. The dangling "which" clause is gone.
 
-- [ ] **`01-continuity-test.md:51`** — "The schoolteacher hugged her beau, who rode
-      the truck behind him and Egghead."
-      "him" is meant to be Lewis, who is not named until the NEXT sentence. The
-      nearest male noun is the beau, who is already the subject of "rode", so the
-      first available reading has him riding behind himself. Cataphora across a
-      sentence boundary with a competing antecedent in between.
-      (Line reference was wrongly recorded as `:149` until 2026-08-31; `:149` is
-      "The convoy was short one beau, and the town was up one carpenter", which is
-      sound and is the payoff this sentence plants.)
+- [x] **`01-continuity-test.md:49`** — The manuscript now identifies the beau as
+      the carpenter and says that he rode behind Lewis and Egghead.
 
 ## Your call
 
@@ -125,12 +111,11 @@ purpose, recorded here so they do not get "fixed" by a later pass:
   functionally wrong. Note also that these two were originally split across
   take-straight and your-call, which was an error — they are one device.
 
-## Publishing — AO3 drift, opened 2026-09-06
+## Publishing — state last recorded 2026-09-06
 
-Two **posted** chapters were edited locally on 2026-09-06 and now differ from
-what readers see. `make publish` (added the same day, `tools/ao3-publish.py`)
-does this headlessly; it needs Terrace's AO3 cookie in `.ao3-cookie` or
-`$AO3_COOKIE`, which Claude does not handle.
+The entries in this section describe historical drift. They do not establish
+the current AO3 state. Compare the live chapter with the manuscript before use.
+`make publish` needs Terrace's AO3 cookie in `.ao3-cookie` or `$AO3_COOKIE`.
 
 - [ ] **`02-fortification.md:33`** — AO3 chapter 3. "Printed by Arbutus
       University Press" (was "University Press"). Commit `f526fc2`.
@@ -146,11 +131,6 @@ does this headlessly; it needs Terrace's AO3 cookie in `.ao3-cookie` or
       republish, so the live chapter is one word stale.
       `make publish CH=10-wild-oats` to dry-run, then `POST=1`.
 
-**Do these two first**, in that order — they are one-line changes on live
-chapters, so they double as the first real test of `make publish`, and any
-wrong form assumption shows up somewhere harmless. The dry run prints the
-field list; check it before adding `POST=1`.
-
-Not urgent: **`08-druzhina.md`** was edited too (commits `c57a805`, `3662b39`)
-but is still an unposted draft holding AO3 slot 9, so readers see nothing.
-It syncs whenever that chapter goes up.
+The old instruction to publish two items was internally inconsistent with the
+three entries. It also called *Druzhina* an unposted draft after publication.
+Those instructions are withdrawn. Recheck all four chapters before publication.

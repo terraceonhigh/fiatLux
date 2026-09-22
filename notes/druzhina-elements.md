@@ -22,7 +22,7 @@ Register for the chapter: **Latin against Slavic** — Collie the classicist aga
 
 | | |
 |---|---|
-| Before dawn | `07-boil-water.md` — Maddy's nightmare, Alice Richards named for the first time, the good dress ironed for *"a meeting with the Emeritus today"* (`:31`) |
+| Before dawn | `07-boil-water.md` — Maddy's nightmare, Alice Swartz named, the good dress ironed for *"a meeting with the Emeritus today"* (`:31`) |
 | **Midday** | ***Druzhina*** — the office, the mead, the trade |
 | Afternoon | `09-ground.md` — home to Alex and Lewis walling the hallway, dress back in the wardrobe |
 | That night | `09-ground.md:53`, Maia to Alex: *"The committee talked today."* Collie sits in the flat with the deal already struck **and says nothing.** |
