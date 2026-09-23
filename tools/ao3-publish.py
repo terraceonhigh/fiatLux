@@ -13,7 +13,8 @@ Usage:  ao3-publish.py --slug 01-continuity-test --html build/01-continuity-test
         ao3-publish.py --chid 239850826 --html build/01-continuity-test.html --post
         ao3-publish.py --self-test
 
-Cookie: the full Cookie header string from a logged-in browser session, via
+Cookie: the full Cookie header string from a logged-in browser session, or
+just the bare _otwarchive_session value (the name is prepended), via
 $AO3_COOKIE or --cookie-file. Never stored, never printed.
 """
 
@@ -258,13 +259,25 @@ def resolve_chid(slug, chid, map_path):
     raise SystemExit(f"{slug} is not in {map_path}; add it or pass CHID=<id>")
 
 
+def normalize_cookie(c):
+    """Accept a bare session value, as the Firefox cookie tooling exports it.
+
+    A Rails session value is `<payload>--<digest>`; any name=value pair has an
+    `=` before the `--`. Trailing base64 padding is not a name separator.
+    """
+    if "=" not in c.split("--", 1)[0].rstrip("="):
+        return f"_otwarchive_session={c}"
+    return c
+
+
 def load_cookie(args):
     if args.cookie_file:
-        return open(args.cookie_file, encoding="utf-8").read().strip()
-    c = os.environ.get("AO3_COOKIE", "").strip()
+        c = open(args.cookie_file, encoding="utf-8").read().strip()
+    else:
+        c = os.environ.get("AO3_COOKIE", "").strip()
     if not c:
         raise SystemExit("no cookie: set $AO3_COOKIE or pass --cookie-file")
-    return c
+    return normalize_cookie(c)
 
 
 def publish(args):
@@ -337,6 +350,10 @@ FIXTURE = """
 
 
 def self_test():
+    assert normalize_cookie("eyJx%3D--ab12") == "_otwarchive_session=eyJx%3D--ab12", "bare value gets its name"
+    assert normalize_cookie("eyJx==--ab12") == "_otwarchive_session=eyJx==--ab12", "padding is not a separator"
+    full = "_otwarchive_session=eyJx--ab12; user_credentials=1"
+    assert normalize_cookie(full) == full, "full header passes through"
     manifest = """chapters:
   01-continuity-test:
     ao3_id: 239850826
