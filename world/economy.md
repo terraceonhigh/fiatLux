@@ -59,8 +59,8 @@ and how towns read them.
   university's monetary system and spreads the currency outward.
   (2026-09-23)
 - `TERRACE` The currency symbol is a plain dollar sign, `$`. (2026-09-23)
-- `TERRACE` Note serial numbers are in hexadecimal or base64, for a modern
-  feel. (2026-09-23)
+- `TERRACE` Note serial numbers are in hexadecimal, for a modern feel.
+  (2026-09-23; base64 was considered and dropped.)
 - `TERRACE` Towns have local redemption points. Who runs a given one — a
   public office, a religious institution, or a private business — varies.
   (2026-09-23)
@@ -224,9 +224,8 @@ defeat them best, and the university controls both.
 `MODEL` Holograms and colour-shifting ink are out of reach; they need
 industrial production.
 
-`MODEL` Serials in base64 need custom numbering wheels with 64 positions, and
-confusable characters (0/O, l/I) invite misreading. Hexadecimal needs
-16-position wheels and avoids most confusion.
+`MODEL` Hexadecimal serials need numbering wheels with 16 positions, 0–9 and
+A–F, instead of the usual 10. The machine shop can cut them.
 
 `MODEL` Redemption doubles as inspection. Notes return through bakeries and
 pools to Food Services, where worn and counterfeit notes are caught and
@@ -271,7 +270,6 @@ log of spoiled sheets destroyed.
 - `OPEN` Whether note paper glows under ultraviolet light. Pulp from books made
   before about 1950 lacks optical brighteners; later pulp glows. This decides
   which way a UV test works.
-- `OPEN` Hexadecimal or base64 for serials.
 - `OPEN` Where Weirwick's salmon fits: calories, but not a redeemable staple.
   The university buys it from operating funds, not new issue.
 
