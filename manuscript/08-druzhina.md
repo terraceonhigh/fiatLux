@@ -222,8 +222,8 @@ It clicked down, sharp. *Here you go, madam.*
 
 *How much would that be?*
 
-*Twenty-five dollars.*
+*Fifteen dollars.*
 
-Collie opened her leather wallet, and gave him two tens and a five. On the Obverse were three reproduced signatures, one by the University President, one by the Dean of Economics, and one by the Director of Food Services. The centered seal had a Dogwood flower wrapped in a Mahonia wreath.  
+Collie opened her leather wallet, and gave him a ten and a five. On the Obverse were three reproduced signatures, one by the University President, one by the Dean of Economics, and one by the Director of Food Services. The centered seal had a Dogwood flower wrapped in a Mahonia wreath.  
 
 She went to the market after, to distract herself.
