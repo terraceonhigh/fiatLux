@@ -213,20 +213,17 @@ not to.
 
 ## Open questions
 
+- `OPEN` How the two payment systems (university banknotes, barter/gift
+  goods) trade against each other. No fixed exchange rate appears in the text
+  yet.
+- `OPEN` The Dean of Economics's training. Terrace suggested the Chicago
+  School; a model analysis weighed Chicago price theory against mainstream
+  central banking, MMT, and Ostrom-style institutionalism.
 - `OPEN` Whether the Standard Loaf's $5 price is fixed by bylaw, like an Assize
   of Bread, or held by competition.
 - `OPEN` What Food Services pays towns for grain, and in what.
 - `OPEN` Where Weirwick's salmon fits: calories, but not a redeemable staple.
   The university buys it from operating funds, not new issue.
-- `OPEN` Who runs Weirwick's redemption point.
-- `OPEN` Cannery wages relative to the $15 campus day rate.
-
-Deferred by Terrace (2026-09-23), not currently relevant:
-
-- How notes and barter goods trade against each other.
-- The Dean of Economics's training. Terrace suggested the Chicago School; a
-  model analysis weighed Chicago price theory against mainstream central
-  banking, MMT, and Ostrom-style institutionalism.
 
 ## Sources
 
