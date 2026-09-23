@@ -51,6 +51,13 @@ and how towns read them.
   (2026-09-23)
 - `TERRACE` Groups pool to reach the bulk minimum. Religious institutions and
   pooling carry this, not patronage. (2026-09-23)
+- `TERRACE` Pooling takes three common forms: public offices, religious
+  institutions, and private enterprise. Each acts as a spoke of the
+  university's monetary system and spreads the currency outward.
+  (2026-09-23)
+- `TERRACE` Towns have local redemption points. Who runs a given one — a
+  public office, a religious institution, or a private business — varies.
+  (2026-09-23)
 
 ## Quantities and assumptions
 
@@ -109,6 +116,21 @@ clause is public and names a resumption date and an issue cap.
 
 ## Pooling
 
+`TERRACE` Pools and redemption points run through three kinds of operator.
+Each is a spoke of the university's monetary system: it gathers notes or
+grain in bulk, redeems at the hub, and carries the currency further out.
+
+| Operator | Examples | What it adds |
+|---|---|---|
+| Public office | A town office holding the town's granary account | Political control of redemption |
+| Religious institution | Gurdwara, parish | Storage, kitchen, membership, trust |
+| Private enterprise | Licensed exchange house, merchant counter | A fee for convenience; reach where no office or congregation exists |
+
+`MODEL` Mixed arrangements are common. A town office may hold the account
+while a licensed merchant runs the counter. An employer that runs redemption
+for its own workers — a cannery, for example — risks the company-store
+problem, because it controls both the wage and what the wage is worth.
+
 `MODEL` Any group with a registered signatory can redeem in bulk. Registration
 needs no sponsor.
 
@@ -134,6 +156,11 @@ pottage need a pot and a fire, not a mill and an oven.
 wholesale calories, and supper is retail bread bought with same-day cash.
 
 ## How towns acquire dollars
+
+`MODEL` Weirwick's cannery is paid in dollars for fish and pays its workers in
+dollars. Its need for university salt gives dollars value across the town.
+The town's local redemption point keeps dollars near par despite the
+three-day circuit.
 
 `MODEL` The reserve works as a currency board in reverse. A town delivers
 graded grain or pulses at the published staple rate and receives notes or a
@@ -195,6 +222,11 @@ not to.
   of Bread, or held by competition.
 - `OPEN` What Food Services pays towns for grain, and in what.
 - `OPEN` Where Weirwick's salmon fits: calories, but not a redeemable staple.
+  The university buys it from operating funds, not new issue.
+- `OPEN` Who runs Weirwick's redemption point.
+- `OPEN` Cannery wages relative to the $15 campus day rate.
+- `OPEN` Whether to keep "A$" as the currency symbol. It is also the real
+  Australian dollar's symbol.
 
 ## Sources
 
