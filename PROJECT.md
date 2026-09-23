@@ -86,6 +86,18 @@ Use repository commands. Do not invoke Pandoc by hand.
 Never publish a chapter that contains a storyboard marker. Never publish based
 on a note that claims an AO3 chapter is still a draft. Check external state.
 
+## Commits
+
+A model that makes a commit ends the message with a trailer that names the
+model and its lab:
+
+```
+Co-Authored-By: <Model Name> <noreply@<lab domain>>
+```
+
+For example, `Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>`. Use
+the lab's primary domain. Terrace's own commits carry no trailer.
+
 ## Output style
 
 Keep chat and critique brief. Use plain, direct sentences. Remove filler,
