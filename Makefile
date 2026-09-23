@@ -20,8 +20,11 @@
 #                       Pasting real UTF-8 into the AO3 editor via the macOS
 #                       pasteboard reinterprets it as MacRoman — é becomes √©.
 #                       Entities have no non-ASCII bytes left to misread.
+#   --strip-comments    drops <!-- author notes --> from the output. They are
+#                       the manuscript's only comment syntax; without the flag
+#                       pandoc passes them through into the pasted HTML.
 
-PANDOC_FLAGS := -f markdown-smart -t html --ascii
+PANDOC_FLAGS := -f markdown-smart -t html --ascii --strip-comments
 
 SRC  := $(wildcard manuscript/*.md)
 HTML := $(patsubst manuscript/%.md,build/%.html,$(SRC))

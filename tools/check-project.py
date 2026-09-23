@@ -51,6 +51,10 @@ def check():
                 problems.append(
                     f"invalid storyboard syntax: {path.relative_to(ROOT)}:{number}"
                 )
+            if line.startswith("//"):
+                problems.append(
+                    f"use <!-- --> for author notes: {path.relative_to(ROOT)}:{number}"
+                )
 
     for path in ROOT.rglob("*.dup-bak"):
         if ".git" not in path.parts:

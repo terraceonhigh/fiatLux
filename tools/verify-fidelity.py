@@ -66,6 +66,7 @@ def md_words(text):
     the doubled marker is stripped — a lone `~` is prose and must survive on
     both sides or it becomes a phantom mismatch of its own.
     """
+    text = re.sub(r"<!--.*?-->", "", text, flags=re.S)   # author note -> (nothing)
     text = re.sub(r"^---\s*$", "", text, flags=re.M)     # scene break -> <hr>
     text = re.sub(r"^#{1,6}\s+", "", text, flags=re.M)   # heading     -> <hN>
     text = re.sub(r"^\|[\s|:-]+\|\s*$", "", text, flags=re.M)  # rule  -> (nothing)
@@ -103,6 +104,9 @@ def check(md_path, html_path):
                 break
         problems.append(f"text differs from source — {detail}")
 
+    if "<!--" in ht:
+        problems.append("an author comment survived into the html")
+
     if extra := bad_tags(ht):
         problems.append(f"tags outside AO3's allowlist: {', '.join(extra)}")
 
@@ -126,6 +130,8 @@ def self_test():
     assert md_words("~~him~~") == ["him"], "strikeout markers must drop"
     assert md_words("~~him~~") == html_words("<p><del>him</del></p>"), "strikeout round trip"
     assert md_words("~5 miles") == html_words("<p>~5 miles</p>"), "lone tilde is prose, not syntax"
+    assert md_words("a <!-- note --> b") == ["a", "b"], "inline author note must drop"
+    assert md_words("a\n\n<!-- two\nlines -->\n\nb") == ["a", "b"], "block author note must drop"
     assert bad_tags("<p><del>x</del></p>") == [], "pandoc's strikeout tag must be allowed"
     assert bad_tags("<p>x</p><script>y</script>") == ["script"], "allowlist must flag script"
     assert bad_tags("<p><em>x</em><hr /></p>") == [], "allowed tags must pass"

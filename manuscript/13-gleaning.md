@@ -50,7 +50,7 @@ They were sealing a window, a few windows, actually. One big continuous one to t
 
 A man was working on the door, and gestured at an apprentice to come have a look. Only that the apprentice was not there.
 
-// (The kids are still on their road trip.)
+<!-- The kids are still on their road trip. -->
 
 Bréal made them take off their bags, set them at a corner, he kept one eye on them as he worked the bricks.
 
@@ -116,7 +116,7 @@ When they were done, the room was dark except for the light that shone in from t
 
 It was hard to balance on his good foot, but he stayed steady. The backpack at his feet helped anchor him.
 
-The bill was, for the most part, soft, clean, and crisp. There was a pattern on it, on the center-left, a mathematical rose. Red, for the five dollar note. The machine that generated the pattern was itself made by a professor of engineering. University bylaw stipulated that any new dies for the mathematical rose may only be made one at a time, with Senate approval.
+The bill was, for the most part, soft, clean, and crisp. There was a pattern on it, on the center-left, a mathematical rose. Red, for the five-dollar note. The machine that generated the pattern was itself made by a professor of engineering. University bylaw stipulated that any new dies for the mathematical rose may only be made one at a time, with Senate approval.
 
 The hemp content made it tough, and the pulped old books made it cheap enough to print. Lady Swartz did not pay them from a wallet, but rather from a manila envelope.
 
@@ -128,7 +128,7 @@ He wanted to thank her, but he was smarter than that.
 
 One of the workmen lent him a shoulder to lean on, as they walked back to the truck. It rained on the way back home, and the dust from the day washed off into the truck bed.
 
-When they got home, he went back to his house, to dry off at the oil-drum fire someone had moved to the living room. Someone else took the money and came back with two loaves of bread and three onions. (near-starvation for the household)
+When they got home, he went back to his house, to dry off at the oil-drum fire someone had moved to the living room. Someone else took the money and came back with two loaves of bread and three onions. <!-- near-starvation for the household -->
 
 They threw the onions into the fire, and used a metal pike to skewer them back out when they were done. The same pike as the one sleeping closest to the door held in their sleep.
 
