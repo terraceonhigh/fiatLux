@@ -30,6 +30,27 @@ breadbasket. Farms, townships, and mills occupy this watershed.
 `TERRACE` The fictional setting can combine Cascadian landforms. It does not
 copy the political or settlement geography of a real region.
 
+`TERRACE` Weirwick is set-dressed as Steveston. This governs how the town
+looks, not where it sits on the map. (Decision 2026-09-22.)
+
+`MODEL` Steveston's history includes the Japanese Canadian fishing fleet and
+its seizure, which began in December 1941 (see
+`research/briefs/non-white-settlers-bc.md`). The set-dressing can carry that history only if
+Terrace chooses.
+
+`TERRACE` Weirwick has a cannery, in keeping with the Steveston set-dressing.
+Its process is in `technology-dependencies.md`; its salt supply is in
+`flows.md`. (Adopted 2026-09-22 from a model proposal.)
+
+`SOURCE` Edmund A. Smith's 1903 fish-butchering machine displaced Chinese
+cannery butchers. Smith named it with an anti-Chinese slur (HistoryLink, File
+2109). A surviving machine is at the Gulf of Georgia Cannery in Steveston.
+
+`MODEL` Historic cannery labor was divided by race: Japanese fishermen,
+Chinese butchering crews hired through contractors, Indigenous women on the
+filling lines, and white management. Attach a Steveston-specific source before
+use.
+
 ## Quantities and assumptions
 
 `MODEL` University country contains approximately twelve townships. Weirwick
@@ -93,3 +114,6 @@ The corpus sources are:
 - `OPEN` Which towns share the three-day circuit in *Wild Oats*?
 
 ## Sources
+
+- [HistoryLink, File 2109: automated salmon cleaning machine, 1903](https://www.historylink.org/File/2109)
+- [Tommy Ting, *Machine* (the Gulf of Georgia Cannery unit)](https://tommyting.com/Machine-Iron-Chink-invented-in-1903-found-at-the-Gulf-of-Georgia)

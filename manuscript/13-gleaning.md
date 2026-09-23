@@ -6,6 +6,8 @@ He hoped to find a lock to link together the two runners on the big zipper, keep
 
 What woke him up, was the 6am bell from the clock tower. It was colder in the winter, because one had to stay somewhere where the sound could reach.
 
+[STORYBOARD: Replace the oil-drum ramen breakfast below with a langar. Decisions and constraints are in `planning/chapters/gleaning.md`.]
+
 Outside, a few of the others were boiling a kettle over an oil-drum flame. They split between them two packets of ramen. The ink that recorded the Best Before date had already rubbud off.
 
 He was given two swigs of the broth.
