@@ -1,12 +1,18 @@
 # Gleaning
 
-Status: Incomplete. Manuscript file: `manuscript/13-gleaning.md`.
+Status: Posted to AO3 as chapter 14 (2026-09-23). Manuscript file:
+`manuscript/13-gleaning.md`.
 
 ## Terrace decisions
 
 - `TERRACE` Replace the oil-drum ramen breakfast with a langar. Terrace's
   reason: the langar brings non-white settlers into the chapter.
-  (Decision 2026-09-22; marker at `13-gleaning.md:9`.)
+  (Decision 2026-09-22; written at `13-gleaning.md:9-11`.)
+- `TERRACE` Alex hangs the door while Bréal's crew bricks the windows; his
+  apprentice Lewis is away on the road trip. This settles the headcount
+  against `09-ground.md:181`. (`13-gleaning.md:51-53`)
+- `TERRACE` The day wage is fifteen dollars per man; the household's supper is
+  two loaves and three onions. (`13-gleaning.md:115`, `:131`)
 
 ## Manuscript dependencies
 
@@ -14,11 +20,13 @@ Status: Incomplete. Manuscript file: `manuscript/13-gleaning.md`.
 - `TEXT` He keeps the locked backpack with him at all times (`:3`).
 - `TEXT` He sleeps within earshot of the 6am bell, which is colder in winter
   (`:7`).
-- `TEXT` The current breakfast is a kettle over an oil drum, two packets of
-  ramen split between several men, and two swigs of broth for him (`:11-13`).
-- `TEXT` Bréal calls him "coolie" (`:25`).
-- `TEXT` Lady Swartz's broth contains bone and hints of sausage (`:80`).
-- `TEXT` His father was a cook in "the old country" and a refugee (`:82`).
+- `TEXT` Breakfast is lentil stew, two flatbreads, and Greek-style yoghurt at
+  the langar (`:9`).
+- `TEXT` Bréal comes the next day before breakfast, so he boards the truck
+  hungry (`:33`).
+- `TEXT` Bréal calls him "coolie" (`:43`).
+- `TEXT` Lady Swartz's broth contains bone and hints of sausage (`:103`).
+- `TEXT` His father was a cook in "the old country" and a refugee (`:105`).
   Alex uses the same phrase (`09-ground.md:105`).
 
 ## Candidate material
@@ -32,21 +40,23 @@ Status: Incomplete. Manuscript file: `manuscript/13-gleaning.md`.
   door.
 - `MODEL` Vancouver's Sikh history includes the first gurdwara (1908) and shore
   support for the Komagata Maru passengers (1914). Attach a source before use.
-- `MODEL` The headcount mismatch in the existing storyboard (`:43`) may be
-  diegetic: Collie hires cheap day labor through Bréal instead of the crew Alex
-  planned.
+- `SUPERSEDED` The headcount mismatch may be diegetic: Collie hires cheap day
+  labor through Bréal instead of the crew Alex planned. Superseded by the
+  Alex-at-the-door decision.
 
 ## Rejected or superseded
 
-- `SUPERSEDED` The oil-drum ramen breakfast (`:11-13`), by the langar decision.
+- `SUPERSEDED` The oil-drum ramen breakfast, by the langar decision.
 
 ## Open questions
 
 - `OPEN` Who else sits in his row at the langar.
-- `OPEN` Why he is still hungry at `:1` if a langar exists: distance, short
-  supply, or the radius of the 6am bell.
+- `TERRACE` Why he is hungry despite a langar: Bréal comes before breakfast
+  the next day (`:33`). Resolved.
 - `OPEN` Whether "coolie" beside a langar should make him read as Punjabi, and
-  how that meets the old-country and refugee backstory (`:82`).
+  how that meets the old-country and refugee backstory (`:105`). He follows
+  the Rosary without knowing it (`:29`), which keeps his background open.
 - `OPEN` Whether karah prashad would use honey in a sugar-poor economy. Check
   with someone who does seva.
-- `OPEN` Whether the storyboard's $40 is a total or per man (`:94`).
+- `TERRACE` The storyboard's $40 became fifteen dollars per man (`:115`).
+  Resolved.
