@@ -12,7 +12,17 @@ It was quiet, except for the noises of mastication and metal trays clacking toge
 
 When he got back to his part of town, he helped a friend carry hay to make a bed.
 
-[full day after that]
+For the afternoon, a priest wanted men to dig a grave. The dead woman had stopped coming to the langar two days ago, they buried her in her clothes, six feet deep, where the wolves won't dig her up.
+
+He escorted the woman's companion back to their home, and said he was sorry. The companion loathed himself, that he should have come back sooner, he told the companion that there was no way he would have known.
+
+The medicine the companion brought back was sold off before the sun went down, he used the money to buy a plushie, for her. He dug a small hole with his hands and buried it, so that she had something soft and small to go with her.
+
+*See you some day, my dear.*
+
+The companion said the Rosary.
+
+---
 
 Mr Bréal came before breakfast, and kept his hand on the horn until everyone came out of the doors. And then some after that.
 
@@ -45,7 +55,6 @@ His crotch was then damp, with ammonia.
 Bréal was so strong, why didn't he and his men brick the windows by themselves?
 
 [STORYBOARD: Reconcile this crew with `09-ground.md:181`. Alex names four Epsilon men, himself, and Lewis. Decide whether this is a second crew or whether the headcount changes.]
-
 
 They were in whe hallway now.
 
@@ -97,8 +106,10 @@ When they were done, the room was dark except for the light that shone in from t
 
 The bill was, for the most part, soft, clean, and crisp. There was a pattern on it, on the center-left, a mathematical rose. The machine that generated the pattern was itself made by a professor of engineering. University bylaw stipulated that any new dies for the mathematical rose may only be made one at a time, with Senate approval.
 
-The hemp content made it tough, and the pulped old books pushed seigniorage to an acceptable value. Lady Swartz did not pay them from a wallet, but rather from a manila envelope.
+The hemp content made it tough, and the pulped old books made it cheap enough to print. Lady Swartz did not pay them from a wallet, but rather from a manila envelope.
 
 It had a string on it, it was the kind that mama put their passports in, the same kind as the one she held to her chest in the back of that cargo container.
 
-He wondered if Lady Swartz had ever been in a container.
+He wondered if Lady Swartz had ever been in a container, ate in a container, slept in a container, defecated in a container, held her backpack high in a container, so the water did not ruin the diplomas inside.
+
+He wanted to thank her, but he was smarter than that.
