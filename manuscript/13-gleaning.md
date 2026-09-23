@@ -110,7 +110,7 @@ A minute after that, he stood up and limped back toward the room that needed boa
 
 He did not have to be on his legs for that job, and it did not hurt as much as the bricklaying did.
 
-When they were done, the room was dark except for the light that shone in from the one doorway that remained. Lady Swartz came back, had them line up, and handed them three [amount] dollars each. The first man in line bowed when he received his share, so he bowed too.
+When they were done, the room was dark except for the light that shone in from the one doorway that remained. Lady Swartz came back, had them line up, and handed them three [amount0] dollars each. The first man in line bowed when he received his share, so he bowed too.
 
 It was hard to balance on his good foot, but he stayed steady. The backpack at his feet helped anchor him.
 
@@ -126,7 +126,7 @@ He wanted to thank her, but he was smarter than that.
 
 One of the workmen lent him a shoulder to lean on, as they walked back to the truck. It rained on the way back home, and the dust from the day washed off into the truck bed.
 
-When they got home, he went back to his house, to dry off at the oil-drum fire someone had moved to the living room. Someone else took the money and came back with two loaves of bread and three onions.
+When they got home, he went back to his house, to dry off at the oil-drum fire someone had moved to the living room. Someone else took the money and came back with [amount1] loaves of bread and [amount2] onions. (near-starvation for the household)
 
 They threw the onions into the fire, and used a metal pike to skewer them back out when they were done. The same pike as the one sleeping closest to the door held in their sleep.
 
