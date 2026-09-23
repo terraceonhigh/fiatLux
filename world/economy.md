@@ -10,11 +10,27 @@ gifts, requisitions, and seasonal scarcity.
 - `TEXT` The university prints its own banknotes. The front shows three
   signatures — the University President, the Dean of Economics, and the
   Director of Food Services — under a dogwood-and-mahonia seal.
-  (`manuscript/08-druzhina.md:225-227`)
+  (`manuscript/08-druzhina.md:227`)
+- `TEXT` Notes come in tens and fives. The five-dollar note carries a red
+  rose-engine pattern at centre-left. (`manuscript/08-druzhina.md:227`;
+  `manuscript/13-gleaning.md:119`)
+- `TEXT` University bylaw lets the Senate approve new dies for the rose
+  pattern only one at a time. (`manuscript/13-gleaning.md:119`)
+- `TEXT` Note paper is hemp and pulped old books. The hemp makes it tough; the
+  book pulp makes it cheap enough to print. (`manuscript/13-gleaning.md:121`)
+- `TEXT` Two potato samosas and a sausage roll cost fifteen dollars at a campus
+  bakery. (`manuscript/08-druzhina.md:225`)
+- `TEXT` A day labourer earns fifteen dollars a day. His household spends it on
+  two loaves and three onions for supper. (`manuscript/13-gleaning.md:115`,
+  `:131`)
 - `TEXT` Barter and gift payment run alongside cash. Mead, honey, sausage, and
   jam pay for goods and favours. "Two vials of poppy" is the price the
   hardware store sets for a pair of rubber gloves.
   (`manuscript/01-continuity-test.md:15`, `:159`)
+- `TEXT` The university hands out seed and assigns oxen to towns.
+  (`manuscript/10-wild-oats.md:131`, `:191`)
+- `TEXT` A langar serves free breakfast. A message board there carries job
+  postings. (`manuscript/13-gleaning.md:9-11`)
 - `TEXT` University staff on official duty carry a chit and a metal seal.
   (`manuscript/10-wild-oats.md:131`)
 
@@ -23,18 +39,155 @@ and how towns read them.
 
 ## Terrace decisions
 
+- `TERRACE` Collie's bakery order is retconned from $25 to $15, paid with a ten
+  and a five. Reason: an ordinary bakery margin, and a regular quick lunch for
+  Collie. (2026-09-23)
+- `TERRACE` The dollar is backed by a caloric amount of staple crops. Bread is
+  the one product redeemed at the highest volume, not the backing itself.
+  (2026-09-23)
+- `TERRACE` Redemption is in bulk only. Individuals do not redeem notes at a
+  window. (2026-09-23)
+- `TERRACE` The system is honest. The reserve is not secretly fractional.
+  (2026-09-23)
+- `TERRACE` Groups pool to reach the bulk minimum. Religious institutions and
+  pooling carry this, not patronage. (2026-09-23)
+
 ## Quantities and assumptions
+
+`MODEL` One dollar redeems 1,000 kcal of staple at wholesale.
+
+`MODEL` Each redeemable staple has its own rate, set near market ratios
+rather than by pure calorie count. The Dean of Economics revises the rates once
+a year, after harvest. Pure calorie parity would let holders drain the most
+valued staple.
+
+`MODEL` The reserve holds grain and dried pulses only. Potatoes do not store
+long enough to back notes. They can be a harvest-season redemption product.
+
+`MODEL` Price and cost ladder:
+
+| Item | Price | Notes |
+|---|---:|---|
+| Standard Loaf, 1 kg dough | $5 | About 2,000 kcal |
+| Flour for one loaf, at redemption | $2 | About 580 g |
+| Fuel, labour, minor ingredients, margin per loaf | $3 | Open market |
+| Storage onion, winter | $1.50 | Not a redeemable staple |
+| Potato samosa | $4 | Retail, not pegged |
+| Sausage roll | $7 | Retail, not pegged |
+| Unskilled day wage | $15 | `TEXT` |
+
+`MODEL` The retail loaf costs about 2.5 times its wholesale calories. The
+labourer's $15 buys about 4,000 kcal at retail and would buy 15,000 kcal at
+wholesale. That gap is the cost of not redeeming in bulk.
+
+`MODEL` The minimum redemption is one sack, about 25 kg of wheat or $85.
+
+`MODEL` A campus core of 20,000 holding about 2.5 months of calories in notes
+needs about 3.5 billion kcal in reserve: roughly 1,000 tonnes of grain, or
+$3.5 million in circulation.
+
+## The reserve
+
+`MODEL` Every note is backed by graded grain and pulses in store. No note is
+issued without grain behind it.
+
+`MODEL` Seed comes from a separate seed bank, not from the currency reserve.
+Bred seed, such as the landrace Nadia distributes
+(`manuscript/10-wild-oats.md:189`), was never food stock.
+
+`MODEL` Towns repay seed loans in grain, with published interest, at harvest.
+The interest grain enters the reserve. The Senate issues new notes against it
+once a year, after the harvest is counted.
+
+`MODEL` The University Press prints a monthly reserve statement: grain held,
+notes in circulation, and seed loans outstanding.
+
+`MODEL` If a harvest fails, the Senate may suspend redemption. The suspension
+clause is public and names a resumption date and an issue cap.
+
+`MODEL` A grading bureau inspects grain before it enters the reserve.
+
+## Pooling
+
+`MODEL` Any group with a registered signatory can redeem in bulk. Registration
+needs no sponsor.
+
+`MODEL` Religious institutions are the main pooling infrastructure. They
+provide what poor households lack: safe storage, a kitchen or oven, a
+signatory, and a standing membership.
+
+- The gurdwara pools donations and redeems in bulk. This is how the langar
+  feeds people for free (`manuscript/13-gleaning.md:9`).
+- A Catholic parish runs pools for its members. The Rosary couple in Gleaning
+  belongs to one (`manuscript/13-gleaning.md:23-28`).
+
+`MODEL` Rotating savings groups let households without savings join a pool.
+Each member pays in weekly, and one member takes the pot each round.
+
+`MODEL` Other pools form around crews, fraternities such as the Epsilons
+(`manuscript/06-isolation.md:131`), shared houses, and neighbourhoods.
+
+`MODEL` Poor pools redeem oats and dried peas more than wheat. Porridge and
+pottage need a pot and a fire, not a mill and an oven.
+
+`MODEL` Gleaning already shows both halves: breakfast at the langar is pooled
+wholesale calories, and supper is retail bread bought with same-day cash.
 
 ## Dependencies
 
+- Grain and pulse harvests from the breadbasket and townships.
+- Grading, storage, and pest control for the reserve.
+- The University Press, for notes, the Standard Loaf specification, and the
+  reserve statement.
+- Fuel and labour for bakeries, both priced on the open market.
+
 ## Failure modes
 
+- `MODEL` A bad harvest shrinks the reserve and forces a public suspension or
+  a smaller note issue.
+- `MODEL` Fuel is the uncontrolled bakery input. Dear firewood squeezes the
+  fixed $5 loaf. Bakers may short-weight loaves or lobby for a rate change.
+- `MODEL` Graders can be bribed to accept wet or infested grain.
+- `MODEL` Staple rates drift from market ratios between annual revisions.
+- `MODEL` Households living day to day cannot save toward a pool without a
+  rotating group.
+
 ## Substitutes and adaptations
+
+- `TEXT` Barter in honey, mead, sausage, jam, and poppy vials where notes are
+  scarce or no redemption point is near.
 
 ## Open questions
 
 - `OPEN` How the two payment systems (university banknotes, barter/gift
-  goods) trade against each other. No fixed
-  exchange rate appears in the text yet.
+  goods) trade against each other. No fixed exchange rate appears in the text
+  yet.
+- `OPEN` The Dean of Economics's training. Terrace suggested the Chicago
+  School; a model analysis weighed Chicago price theory against mainstream
+  central banking, MMT, and Ostrom-style institutionalism.
+- `OPEN` Why towns accept dollars: dues owed to the university in dollars,
+  medicine and parts sold only for dollars, or both.
+- `OPEN` Whether the Standard Loaf's $5 price is fixed by bylaw, like an Assize
+  of Bread, or held by competition.
+- `OPEN` What Food Services pays towns for grain, and in what.
+- `OPEN` Where Weirwick's salmon fits: calories, but not a redeemable staple.
 
 ## Sources
+
+Precedents named during design (2026-09-23). These came from model memory and
+have not been checked against primary sources. Verify before relying on them.
+
+- Benjamin Graham, commodity-reserve currency (*Storage and Stability*, 1937).
+- F. A. Hayek, "A Commodity Reserve Currency" (1943).
+- Milton Friedman, "Commodity-Reserve Currency" (1951).
+- The Chicago Plan for full-reserve banking (1933); Benes and Kumhof, "The
+  Chicago Plan Revisited" (IMF, 2012).
+- Bank Charter Act 1844: weekly Bank of England returns; suspensions in 1847,
+  1857, and 1866.
+- Chicago Board of Trade grain grading (1850s); Illinois Warehouse Act (1871);
+  *Munn v. Illinois* (1877).
+- Assize of Bread and Ale (England, 13th to 19th century).
+- Wang Anshi's Green Sprouts seed loans (11th-century China).
+- Rentenmark stabilisation (Germany, 1923).
+- Rochdale Society of Equitable Pioneers (1844); rotating savings and credit
+  associations.
