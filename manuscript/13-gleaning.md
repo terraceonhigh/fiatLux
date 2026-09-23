@@ -14,13 +14,19 @@ When he got back to his part of town, he helped a friend carry hay to make a bed
 
 For the afternoon, a priest wanted men to dig a grave. The dead woman had stopped coming to the langar two days ago, they buried her in her clothes, six feet deep, where the wolves wouldn't dig her up.
 
-He escorted the woman's companion back to their home, and said he was sorry. The companion loathed himself, that he should have come back sooner, he told the companion that there was no way he would have known.
+He escorted the woman's companion back to their home, and said he was sorry. The companion loathed himself, that he should have come back sooner, he told the companion that there was no way he could have known.
 
-The medicine the companion brought back was sold off before the sun went down, he used the money to buy a plushie, for her. He dug a small hole with his hands and buried it, so that she had something soft and small to go with her.
+The medicine the companion brought back was sold off before the sun went down. He used the money to buy a plushie, for her. He dug a small hole with his hands and buried it, so that she had something soft and small to go with her.
 
 *See you some day, my dear.*
 
-The companion said the Rosary.
+The companion said the Rosary in the twilight.
+
+*We have to go, my friend. Or the others will eat before we get back.*
+
+*...*
+
+He knelt, next to the companion, and repeated what the companion prayed.
 
 ---
 
@@ -42,6 +48,8 @@ They had him laying bricks, which came down on a winch from some upstairs. The o
 
 They were sealing a window, a few windows, actually. One big continuous one to the outside, and a few smaller ones that ran from ceiling to floor which pointed at the hallway. Bréal told them to lay the bricks close to where the wooden frame for the eventual door would go, and told them to not worry about the door.
 
+Bréal made them take off their bags, set it at a corner, he kept one eye on it as he worked the bricks.
+
 His wrist hurt by the time the big window was half-bricked up, and two layers after that, his hand slipped and the brick fell onto his toes.
 
 The corner hit his second toe, before the rest of it crushed the back of his foot.
@@ -50,7 +58,7 @@ There was a strong exhalation, something approximating a moan, and then he was o
 
 His crotch was then damp, with ammonia.
 
-*Fucking useless,* Bréal said as he dragged him by the collar. His companions looked at the floor instead of his eyes.
+*Fucking useless,* Bréal said as he dragged him by the collar. The other workmen looked at the floor instead of his eyes.
 
 Bréal was so strong, why didn't he and his men brick the windows by themselves?
 
@@ -82,6 +90,8 @@ Bréal set him down in the hallway the way one set down a duffel bag of sweaty l
 
 *Sit, Lady Swartz will deal with you.* And then Bréal walked back to the room being bricked up.
 
+He wanted to crawl back to the room, to get his bag, he did not know the other workmen very well.
+
 Lady Swartz brought him a piece of bread — rye bread — and a cup of cold broth. The bread was just handed to him, and the broth was served in a stainless steel bowl.
 
 *Eat, and when you can stand, go back to the foreman.*
@@ -96,13 +106,13 @@ He lapped up what was still stuck to the bottom of the bowl.
 
 It was a good broth.
 
-A minute after that, he stood up and limped back toward the room that needed boarding up. Bréal looked at him, and told him to man the mortar station.
+A minute after that, he stood up and limped back toward the room that needed boarding up. Bréal looked at him, and told him to man the mortar station. He looked at the bags, and saw that they were undisturbed. He wanted to check the insides, but that would have to wait.
 
 He did not have to be on his legs for that job, and it did not hurt as much as the bricklaying did.
 
-When they were done, the room was dark except for the light that shone in from the one doorway that remained. Lady Swartz came back, and handed them three with 
+When they were done, the room was dark except for the light that shone in from the one doorway that remained. Lady Swartz came back, had them line up, and handed them three with [amount] dollars each. The first man in line bowed when he received his share, so he bowed too.
 
-[STORYBOARD: Pay the three laborers $40 and describe the banknotes. Use a rose-engine pattern.]
+It was hard to balance on his good foot, but he stayed steady. The backpack at his feet helped anchor him.
 
 The bill was, for the most part, soft, clean, and crisp. There was a pattern on it, on the center-left, a mathematical rose. The machine that generated the pattern was itself made by a professor of engineering. University bylaw stipulated that any new dies for the mathematical rose may only be made one at a time, with Senate approval.
 
@@ -113,3 +123,13 @@ It had a string on it, it was the kind that mama put their passports in, the sam
 He wondered if Lady Swartz had ever been in a container, eaten in a container, slept in a container, defecated in a container, held her backpack high in a container, so the water did not ruin the diplomas inside.
 
 He wanted to thank her, but he was smarter than that.
+
+One of the workmen lent him a shoulder to lean on, as they walked back to the truck. It rained on the way back home, and the dust from the day washed off into the truck bed.
+
+When they got home, he went back to his house, to dry off at the oil-drum fire someone had moved to the living room. Someone else took the money and came back with two loaves of bread and three onions.
+
+They threw the onions into the fire, and used a metal pike to skewer them back out when they were done. The same pike as the one sleeping closest to the door held in their sleep.
+
+It was hot, and soft, and thunder cracked through the open window.
+
+It was a good day.
