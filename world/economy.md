@@ -45,6 +45,9 @@ and how towns read them.
 - `TERRACE` The dollar is backed by a caloric amount of staple crops. Bread is
   the one product redeemed at the highest volume, not the backing itself.
   (2026-09-23)
+- `TERRACE` Five dollars is principally backed by the Standard Loaf: $5 is one
+  Standard Loaf. The loaf's price is fixed by the currency's definition, not by
+  competition. (2026-09-23)
 - `TERRACE` Redemption is in bulk only. Individuals do not redeem notes at a
   window. (2026-09-23)
 - `TERRACE` The system is honest. The reserve is not secretly fractional.
@@ -63,6 +66,12 @@ and how towns read them.
 ## Quantities and assumptions
 
 `MODEL` One dollar redeems 1,000 kcal of staple at wholesale.
+
+`MODEL` The Standard Loaf is the headline peg; the wholesale staple rates are
+set beneath it so a bakery can make the loaf at $5. Flour for one loaf
+redeems at $2, and fuel, labour, and margin make up the rest. A bakery that
+cannot cover those costs at $5 short-weights the loaf or lobbies for a rate
+change.
 
 `MODEL` Each redeemable staple has its own rate, set near market ratios
 rather than by pure calorie count. The Dean of Economics revises the rates once
@@ -219,8 +228,6 @@ not to.
 - `OPEN` The Dean of Economics's training. Terrace suggested the Chicago
   School; a model analysis weighed Chicago price theory against mainstream
   central banking, MMT, and Ostrom-style institutionalism.
-- `OPEN` Whether the Standard Loaf's $5 price is fixed by bylaw, like an Assize
-  of Bread, or held by competition.
 - `OPEN` What Food Services pays towns for grain, and in what.
 - `OPEN` Where Weirwick's salmon fits: calories, but not a redeemable staple.
   The university buys it from operating funds, not new issue.
