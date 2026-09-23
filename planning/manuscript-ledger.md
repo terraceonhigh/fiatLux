@@ -19,7 +19,7 @@ This ledger records mechanical state only. It does not summarize the story.
 | 11 | `10-wild-oats.md` | 365 | 2956 | Drafted |
 | 12 | `11-mulberry.md` | 125 | 1666 | Drafted |
 | 13 | `12-notions.md` | 235 | 1903 | Drafted |
-| 14 | `13-gleaning.md` | 137 | 1525 | Drafted |
+| 14 | `13-gleaning.md` | 92 | 856 | Incomplete; 2 storyboard marker(s) |
 | 15 | `14-ruts.md` | 0 | 0 | Empty |
 | 16 | `15-skywave.md` | 0 | 0 | Empty |
 | 17 | `16-pulp.md` | 0 | 0 | Empty |
@@ -27,4 +27,5 @@ This ledger records mechanical state only. It does not summarize the story.
 
 ## Storyboards
 
-None.
+- `13-gleaning.md:43`: `[STORYBOARD: Reconcile this crew with `09-ground.md:181`. Alex names four Epsilon men, himself, and Lewis. Decide whether this is a second crew or whether the headcount changes.]`
+- `13-gleaning.md:92`: `[STORYBOARD: Pay the three laborers $40 and describe the banknotes. Use a rose-engine pattern.]`

@@ -17,7 +17,7 @@ The manuscript determines draft state. AO3 state belongs in `publishing/`.
 | 11 | *Wild Oats* | `10-wild-oats.md` | Drafted |
 | 12 | *Mulberry* | `11-mulberry.md` | Drafted |
 | 13 | *Notions* | `12-notions.md` | Drafted |
-| 14 | *Gleaning* | `13-gleaning.md` | Complete; posted on AO3 as chapter 14 |
+| 14 | *Gleaning* | `13-gleaning.md` | Incomplete; three storyboards |
 | 15 | *Ruts* | `14-ruts.md` | Empty |
 | 16 | *Skywave* | `15-skywave.md` | Empty |
 | 17 | *Pulp* | `16-pulp.md` | Empty |
