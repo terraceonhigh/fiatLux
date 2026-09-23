@@ -1,18 +1,18 @@
 He was hungry, first thing he noticed when he woke up was that he was hungry.
 
-He was a lucky one, though. He found a backpack that locked, one of those old plastic ones that refused to be cut with a knifo. He kept this bag with him, at all times. He wore it on his back when he was working, and held it when he went to sleep.
+He was a lucky one, though. He found a backpack that locked, one of those old plastic ones that refused to be cut with a knife. He kept this bag with him, at all times. He wore it on his back when he was working, and held it when he went to sleep.
 
 He hoped to find a lock to link together the two runners on the big zipper, keep it safe when he was asleep.
 
-What woke him up, was the six a.m. bell from the clock tower. It was colder in the winter, because one had to stay somewhere where the sound could reach.
+What woke him up was the six a.m. bell from the clock tower. It was colder in the winter, because one had to stay somewhere where the sound could reach.
 
-At the langar, the two who had shoes took them off, and left it at the front. He just walked in and washed his face. A lentil stew and two pieces of flatbread, and a cup of yoghurt. The yoghurt was done in a Greek style, because the family that made it was Greek.
+At the langar, the two who had shoes took them off, and left them at the front. He just walked in and washed his face. A lentil stew and two pieces of flatbread, and a cup of yoghurt. The yoghurt was done in a Greek style, because the family that made it was Greek.
 
 It was quiet, except for the noises of mastication and metal trays clacking together. Someone read something off the message board, for her friend, who could not read. Seemed to be a job to work in a cannery, two days away by foot. Three if loaded with a backpack like his.
 
 When he got back to his part of town, he helped a friend carry hay to make a bed.
 
-For the afternoon, a priest wanted men to dig a grave. The dead woman had stopped coming to the langar two days ago, they buried her in her clothes, six feet deep, where the wolves won't dig her up.
+For the afternoon, a priest wanted men to dig a grave. The dead woman had stopped coming to the langar two days ago, they buried her in her clothes, six feet deep, where the wolves wouldn't dig her up.
 
 He escorted the woman's companion back to their home, and said he was sorry. The companion loathed himself, that he should have come back sooner, he told the companion that there was no way he would have known.
 
@@ -38,9 +38,9 @@ It was his lucky day.
 
 The bed of the truck smelled of rancid french fries, he gulped the saliva back down his throat.
 
-They had him laying bricks, which came down on a winch from some upstairs. The ord mortar was still on there, faintly. Bréal showed them how to, and then stood back, and told them to earn their pay. He only intervened in three ways, shouting, slapping hands, and raising the string rule.
+They had him laying bricks, which came down on a winch from some upstairs. The old mortar was still on there, faintly. Bréal showed them how to, and then stood back, and told them to earn their pay. He only intervened in three ways, shouting, slapping hands, and raising the string rule.
 
-They were sealing a window, a few windows, actually. One big continous one to the outside, and a few smaller ones that ran from ceiling to floor which pointed at the hallway. Bréal told them to lay the bricks close to where the wooden frame for the eventual door would go, and told them to not worry about the door.
+They were sealing a window, a few windows, actually. One big continuous one to the outside, and a few smaller ones that ran from ceiling to floor which pointed at the hallway. Bréal told them to lay the bricks close to where the wooden frame for the eventual door would go, and told them to not worry about the door.
 
 His wrist hurt by the time the big window was half-bricked up, and two layers after that, his hand slipped and the brick fell onto his toes.
 
@@ -50,13 +50,13 @@ There was a strong exhalation, something approximating a moan, and then he was o
 
 His crotch was then damp, with ammonia.
 
-*Fucking useless.* Bréal said as he dragged him by the collar. His companions looked at the floor instead of his eyes.
+*Fucking useless,* Bréal said as he dragged him by the collar. His companions looked at the floor instead of his eyes.
 
 Bréal was so strong, why didn't he and his men brick the windows by themselves?
 
 [STORYBOARD: Reconcile this crew with `09-ground.md:181`. Alex names four Epsilon men, himself, and Lewis. Decide whether this is a second crew or whether the headcount changes.]
 
-They were in whe hallway now.
+They were in the hallway now.
 
 *Bréal, what is it with this one?*
 
@@ -68,13 +68,13 @@ He was still panting.
 
 *Bring him to the front, Bréal. He will want some water.*
 
-*Oh, thank you, madam, thank you.* He said.
+*Oh, thank you, madam, thank you,* he said.
 
-*Speech,* Lady Swartz spat. *was not what you were hired for. Do not make me reconsider.*
+*Speech,* Lady Swartz spat, *was not what you were hired for. Do not make me reconsider.*
 
-*Or I can save you some money.* Bréal offered.
+*Or I can save you some money,* Bréal offered.
 
-*That would be the thrifty option, Yes. But I can spare a loaf. Like I said, him, front.*
+*That would be the thrifty option, yes. But I can spare a loaf. Like I said, him, front.*
 
 *Whatever you say.*
 
@@ -88,9 +88,9 @@ Lady Swartz brought him a piece of bread — rye bread — and a cup of cold bro
 
 He nodded.
 
-The broth had hints of richness. There was bone, garlic, carrots, celery and celery seeds, caraway, fennel. Hints of sausage, though no actual chunks. a good handful of split peas were found at the bottom of the bowl.
+The broth had hints of richness. There was bone, garlic, carrots, celery and celery seeds, caraway, fennel. Hints of sausage, though no actual chunks. A good handful of split peas were found at the bottom of the bowl.
 
-His dad used to be a cook, a Michelin cook, back in the old country, before the war happened, and before he brought wife and children to here, it was hard learning english, and then the refugee benefits stopped coming.
+His dad used to be a cook, a Michelin cook, back in the old country, before the war happened, and before he brought wife and children to here, it was hard learning English, and then the refugee benefits stopped coming.
 
 He lapped up what was still stuck to the bottom of the bowl.
 
@@ -110,6 +110,6 @@ The hemp content made it tough, and the pulped old books made it cheap enough to
 
 It had a string on it, it was the kind that mama put their passports in, the same kind as the one she held to her chest in the back of that cargo container.
 
-He wondered if Lady Swartz had ever been in a container, ate in a container, slept in a container, defecated in a container, held her backpack high in a container, so the water did not ruin the diplomas inside.
+He wondered if Lady Swartz had ever been in a container, eaten in a container, slept in a container, defecated in a container, held her backpack high in a container, so the water did not ruin the diplomas inside.
 
 He wanted to thank her, but he was smarter than that.
