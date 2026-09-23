@@ -4,15 +4,17 @@ He was a lucky one, though. He found a backpack that locked, one of those old pl
 
 He hoped to find a lock to link together the two runners on the big zipper, keep it safe when he was asleep.
 
-What woke him up, was the 6am bell from the clock tower. It was colder in the winter, because one had to stay somewhere where the sound could reach.
+What woke him up, was the six a.m. bell from the clock tower. It was colder in the winter, because one had to stay somewhere where the sound could reach.
 
-[STORYBOARD: Replace the oil-drum ramen breakfast below with a langar. Decisions and constraints are in `planning/chapters/gleaning.md`.]
+At the langar, the two who had shoes took them off, and left it at the front. He just walked in and washed his face. A lentil stew and two pieces of flatbread, and a cup of yoghurt. The yoghurt was done in a Greek style, because the family that made it was Greek.
 
-Outside, a few of the others were boiling a kettle over an oil-drum flame. They split between them two packets of ramen. The ink that recorded the Best Before date had already rubbud off.
+It was quiet, except for the noises of mastication and metal trays clacking together. Someone read something off the message board, for her friend, who could not read. Seemed to be a job to work in a cannery, two days away by foot. Three if loaded with a backpack like his.
 
-He was given two swigs of the broth.
+When he got back to his part of town, he helped a friend carry hay to make a bed.
 
-Mr Bréal came around eight, and kept his hand on the horn until everyone came out of the doors. And then some after that.
+[full day after that]
+
+Mr Bréal came before breakfast, and kept his hand on the horn until everyone came out of the doors. And then some after that.
 
 *You, you, and...*
 
@@ -92,3 +94,11 @@ He did not have to be on his legs for that job, and it did not hurt as much as t
 When they were done, the room was dark except for the light that shone in from the one doorway that remained. Lady Swartz came back, and handed them three with 
 
 [STORYBOARD: Pay the three laborers $40 and describe the banknotes. Use a rose-engine pattern.]
+
+The bill was, for the most part, soft, clean, and crisp. There was a pattern on it, on the center-left, a mathematical rose. The machine that generated the pattern was itself made by a professor of engineering. University bylaw stipulated that any new dies for the mathematical rose may only be made one at a time, with Senate approval.
+
+The hemp content made it tough, and the pulped old books pushed seigniorage to an acceptable value. Lady Swartz did not pay them from a wallet, but rather from a manila envelope.
+
+It had a string on it, it was the kind that mama put their passports in, the same kind as the one she held to her chest in the back of that cargo container.
+
+He wondered if Lady Swartz had ever been in a container.
