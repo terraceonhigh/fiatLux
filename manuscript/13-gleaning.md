@@ -48,7 +48,7 @@ They had him laying bricks, which came down on a winch from some upstairs. The o
 
 They were sealing a window, a few windows, actually. One big continuous one to the outside, and a few smaller ones that ran from ceiling to floor which pointed at the hallway. Bréal told them to lay the bricks close to where the wooden frame for the eventual door would go, and told them to not worry about the door.
 
-Bréal made them take off their bags, set it at a corner, he kept one eye on it as he worked the bricks.
+Bréal made them take off their bags, set them at a corner, he kept one eye on them as he worked the bricks.
 
 His wrist hurt by the time the big window was half-bricked up, and two layers after that, his hand slipped and the brick fell onto his toes.
 
@@ -110,7 +110,7 @@ A minute after that, he stood up and limped back toward the room that needed boa
 
 He did not have to be on his legs for that job, and it did not hurt as much as the bricklaying did.
 
-When they were done, the room was dark except for the light that shone in from the one doorway that remained. Lady Swartz came back, had them line up, and handed them three with [amount] dollars each. The first man in line bowed when he received his share, so he bowed too.
+When they were done, the room was dark except for the light that shone in from the one doorway that remained. Lady Swartz came back, had them line up, and handed them three [amount] dollars each. The first man in line bowed when he received his share, so he bowed too.
 
 It was hard to balance on his good foot, but he stayed steady. The backpack at his feet helped anchor him.
 
