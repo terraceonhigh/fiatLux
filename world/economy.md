@@ -59,6 +59,8 @@ and how towns read them.
   university's monetary system and spreads the currency outward.
   (2026-09-23)
 - `TERRACE` The currency symbol is a plain dollar sign, `$`. (2026-09-23)
+- `TERRACE` Note serial numbers are in hexadecimal or base64, for a modern
+  feel. (2026-09-23)
 - `TERRACE` Towns have local redemption points. Who runs a given one — a
   public office, a religious institution, or a private business — varies.
   (2026-09-23)
@@ -196,6 +198,43 @@ fishing town like Weirwick, and far from redemption points
 dollars. A dean who knows the history of colonial currency taxes would choose
 not to.
 
+## Note security
+
+`TEXT` Established features: the rose-engine pattern from Senate-controlled
+dies, three facsimile signatures, the centred dogwood-and-mahonia seal, a
+colour per denomination, and hemp and book-pulp paper.
+(`manuscript/08-druzhina.md:227`; `manuscript/13-gleaning.md:119-121`)
+
+`MODEL` The main counterfeiting threat is salvaged scanners, photocopiers,
+and inkjet printers. Features built into the paper and the printing process
+defeat them best, and the university controls both.
+
+`MODEL` Proposed features:
+
+| Feature | How it is made | Why it fits |
+|---|---|---|
+| Watermark | Shaped mould at the university paper mill | Cannot be copied; checked against light |
+| Coloured hemp fibres | Dyed red and blue fibres mixed into the pulp | Uses existing hemp; cannot be printed |
+| Intaglio printing | Ink pressed from engraved plates; the rose-engine die is the master | Raised ink can be checked by touch, including by people who cannot read |
+| Serial numbers | Numbering machine; one unique serial per note | Serial ranges in circulation appear in the monthly reserve statement |
+| Microprinting | Tiny engraved lettering worked into the rose pattern | Copiers blur it |
+| Embedded thread | Dyed silk or hemp thread laid into the forming sheet | A second paper-level feature |
+| Redemption promise | Printed line promising bulk redemption through Food Services | Puts the backing on the note |
+
+`MODEL` Holograms and colour-shifting ink are out of reach; they need
+industrial production.
+
+`MODEL` Serials in base64 need custom numbering wheels with 64 positions, and
+confusable characters (0/O, l/I) invite misreading. Hexadecimal needs
+16-position wheels and avoids most confusion.
+
+`MODEL` Redemption doubles as inspection. Notes return through bakeries and
+pools to Food Services, where worn and counterfeit notes are caught and
+retired. Bakers become the front line of detection.
+
+`MODEL` The Senate's die control extends to plates made from each die, with a
+log of spoiled sheets destroyed.
+
 ## Dependencies
 
 - Grain and pulse harvests from the breadbasket and townships.
@@ -229,6 +268,10 @@ not to.
   School; a model analysis weighed Chicago price theory against mainstream
   central banking, MMT, and Ostrom-style institutionalism.
 - `OPEN` What Food Services pays towns for grain, and in what.
+- `OPEN` Whether note paper glows under ultraviolet light. Pulp from books made
+  before about 1950 lacks optical brighteners; later pulp glows. This decides
+  which way a UV test works.
+- `OPEN` Hexadecimal or base64 for serials.
 - `OPEN` Where Weirwick's salmon fits: calories, but not a redeemable staple.
   The university buys it from operating funds, not new issue.
 
