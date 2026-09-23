@@ -133,6 +133,32 @@ pottage need a pot and a fire, not a mill and an oven.
 `MODEL` Gleaning already shows both halves: breakfast at the langar is pooled
 wholesale calories, and supper is retail bread bought with same-day cash.
 
+## How towns acquire dollars
+
+`MODEL` The reserve works as a currency board in reverse. A town delivers
+graded grain or pulses at the published staple rate and receives notes or a
+credit on its granary account.
+
+`MODEL` A town's granary account at the university is its bank balance. Towns
+are bulk depositors, so they are also natural bulk redeemers.
+
+`MODEL` University services — doctor tours, oxen, seed, fuses, medicine,
+salt — carry dollar prices. A town can settle them by delivering grain into
+its account. The university does not require payment in dollars; dealing in
+dollars is simply the cheapest way to deal with it.
+
+`MODEL` Dollars reach town markets through staff paid on tour
+(`manuscript/01-continuity-test.md:41-49`) and through town merchants who sell
+at the campus bazaar (`manuscript/11-mulberry.md:67`).
+
+`MODEL` Barter persists where a town has little grain to deposit, such as a
+fishing town like Weirwick, and far from redemption points
+(`manuscript/01-continuity-test.md:15`).
+
+`MODEL` The university does not levy a head tax or hut tax payable only in
+dollars. A dean who knows the history of colonial currency taxes would choose
+not to.
+
 ## Dependencies
 
 - Grain and pulse harvests from the breadbasket and townships.
@@ -165,8 +191,6 @@ wholesale calories, and supper is retail bread bought with same-day cash.
 - `OPEN` The Dean of Economics's training. Terrace suggested the Chicago
   School; a model analysis weighed Chicago price theory against mainstream
   central banking, MMT, and Ostrom-style institutionalism.
-- `OPEN` Why towns accept dollars: dues owed to the university in dollars,
-  medicine and parts sold only for dollars, or both.
 - `OPEN` Whether the Standard Loaf's $5 price is fixed by bylaw, like an Assize
   of Bread, or held by competition.
 - `OPEN` What Food Services pays towns for grain, and in what.
@@ -191,3 +215,12 @@ have not been checked against primary sources. Verify before relying on them.
 - Rentenmark stabilisation (Germany, 1923).
 - Rochdale Society of Equitable Pioneers (1844); rotating savings and credit
   associations.
+- West African Currency Board (1912), sterling-backed colonial currency.
+- British colonial hut and poll taxes: Sierra Leone Hut Tax War (1898),
+  Bambatha rebellion (1906).
+- Roman provincial tribute in coin; Vindolanda tablets on frontier spending.
+- Han salt and iron monopoly, *Discourses on Salt and Iron* (81 BC); the
+  British Indian salt tax and the Salt March (1930).
+- Spanish silver dollars and chop marks in China; the Maria Theresa thaler.
+- Commutation of labour services in medieval England; Mughal *zabt*
+  assessment; Tokugawa rice taxation in *koku*.
