@@ -55,6 +55,7 @@ and how towns read them.
   institutions, and private enterprise. Each acts as a spoke of the
   university's monetary system and spreads the currency outward.
   (2026-09-23)
+- `TERRACE` The currency symbol is a plain dollar sign, `$`. (2026-09-23)
 - `TERRACE` Towns have local redemption points. Who runs a given one — a
   public office, a religious institution, or a private business — varies.
   (2026-09-23)
@@ -212,12 +213,6 @@ not to.
 
 ## Open questions
 
-- `OPEN` How the two payment systems (university banknotes, barter/gift
-  goods) trade against each other. No fixed exchange rate appears in the text
-  yet.
-- `OPEN` The Dean of Economics's training. Terrace suggested the Chicago
-  School; a model analysis weighed Chicago price theory against mainstream
-  central banking, MMT, and Ostrom-style institutionalism.
 - `OPEN` Whether the Standard Loaf's $5 price is fixed by bylaw, like an Assize
   of Bread, or held by competition.
 - `OPEN` What Food Services pays towns for grain, and in what.
@@ -225,8 +220,13 @@ not to.
   The university buys it from operating funds, not new issue.
 - `OPEN` Who runs Weirwick's redemption point.
 - `OPEN` Cannery wages relative to the $15 campus day rate.
-- `OPEN` Whether to keep "A$" as the currency symbol. It is also the real
-  Australian dollar's symbol.
+
+Deferred by Terrace (2026-09-23), not currently relevant:
+
+- How notes and barter goods trade against each other.
+- The Dean of Economics's training. Terrace suggested the Chicago School; a
+  model analysis weighed Chicago price theory against mainstream central
+  banking, MMT, and Ostrom-style institutionalism.
 
 ## Sources
 
