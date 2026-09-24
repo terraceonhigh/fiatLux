@@ -146,7 +146,7 @@ She changed from her pajama pants into her jeans and lit a lantern. The backpack
 
 The dry grass crunched under her boots. The local apiary had been expecting her, Mom Nona told her. Nadia scratched at an itch on her nape. She couldn't wait to finally go home for a proper wash.
 
-All was quiet before dawn. The house was a baby blue, and the east side windows upstairs were boarded up.
+All was quiet before dawn. The house was a baby blue, and the east side windows upstairs were boarded up. The grime in the nooks were mixed with sand.
 
 She cleared her throat and knocked on the door to the beekeeper's house. The door opened.
 
@@ -180,7 +180,7 @@ The smoke was harsh, and only faintly smelled of the sage. Nadia's abacus clacke
 
 *Just nine queens should suffice, sir, by my math.*
 
-*We will want more. The radio told us the honey harvest failed up north. The university will want more.*
+*We will want more. Drought, the radio told us. The bees died in the north. The university will want more.*
 
 *Oh,* Nadia said. *I was not aware.*
 

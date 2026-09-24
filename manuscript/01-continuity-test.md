@@ -2,6 +2,8 @@ Lewis had a job now, at the old repair workshop that fixed Collie's phone back d
 
 Every other weekend, though, Bréal and the boys from Epsilon Rho Rho would toot the horn outside the building to tell him they were there, and then they would all drive out to the city to find old parts. Madam Nona always made him bring two vials of mead on the way out. The small one for the guards at the gate, the bigger one for the boys around the fire. And she will want new rubber gloves and a few bundles of sage by next Monday.
 
+The smoke cancelled the last three trips. Lewis grabbed his backpack from the same corner of his room.
+
 Maia always hugged him tight before they headed out, he couldn't bear to tell her that it was a bit embarrassing.
 
 At her behest, he double-checked his backpack: one large electrician's toolkit (packed last night), two pairs of insulating gloves, one hardhat, one tourniquet and first aid kit. One large vial of mead, one medium vial of mead, and one small vial of grease and ointment each.
