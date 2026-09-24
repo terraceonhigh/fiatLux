@@ -82,7 +82,7 @@ It was ice-cold, and tasted faintly of blood.
 
 He whittled his pencil, and considered how to convince the Rector not to look too close at the pledge records this semester. Then onto more pragmatic matters, if an extra circle on top of a "0 credits this term" read convincingly enough as an 8.
 
-A brother called for him to the common room, said a Madam Oyá asked for the bossman on the phone, and that it was urgent.
+Vavasseur called for him to the common room, said a Madam Oyá asked for the bossman on the phone, and that it was urgent.
 
 *You're talking to him.*
 

@@ -114,6 +114,8 @@ Maddy's voice rang in, from the cab. *Remember, only eat the hot stuff.*
 
 The seed spreading stopped two crests before the fishing town, and the flag was raised one crest before that. Lewis was on the binoculars, and Nadia behind the wheel.
 
+The piers and wharfs grew into the water, the way a tree takes root. It was half-empty. Scaffolding cocooned one apparently distressed boat on the shore.
+
 *Visual, guard tower one o'clock. Driver, toot the horn twice.*
 
 The horn on this truck was something more guttural than a toot.
@@ -127,6 +129,8 @@ A voice came in on the radio. Lewis opened an envelope and mumbled something bac
 *Maddy, stand up on the bed and wave to them.*
 
 They let them in, the handful of people on Main Street turned their heads.
+
+A few children could be seen jumping rope. The three of them held their breath as they drove past the cannery.
 
 Nadia unfolded the leather wallet the department gave to her and produced her chit, along with a metal seal of Arbutus University. The mayor and his men took stock of their share of seeds and said the diner was expecting them.
 
@@ -156,7 +160,7 @@ It was not fish and chips, but rather fish and potatoes arranged together in ano
 
 Nadia blew her smoke away from the table, it was something milder than her morning one. *So, tell us about your girls, playboy.*
 
-*How did you know anyways?*
+*Just the one, this I stress,* Lewis said. *How did you know anyways?*
 
 *Oh, I told her.* Maddy interjected, while trying to snap off a chunk of biscuit. *Why is this so tough to crack?*
 
@@ -166,7 +170,7 @@ Nadia blew her smoke away from the table, it was something milder than her morni
 
 Lewis groaned, and gestured for the cigarette.
 
-*Well, uhh, name's Diana, lives on the outskirts of town, real good trapper, lives with her mom. God, and the way her eyes look when she's angry.*
+*Well, uhh, name's Diana, lives on the outskirts of town, real good trapper, lives with her mom. God, and the way she looks when she's angry.*
 
 *And you either love her under the sky or in her mother's home.* Nadia muttered something about men.
 
