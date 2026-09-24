@@ -14,4 +14,9 @@ jobs:
       - run: make check
       - run: make
       - run: make ledger
-      - run: git diff --exit-code -- planning/manuscript-ledger.md
+      # The ledger is derived from the manuscript. A stale copy is a nudge to run
+      # `make ledger`, not a build failure: manuscript edits made on the web or
+      # another device cannot regenerate it.
+      - run: |
+          git diff --quiet -- planning/manuscript-ledger.md ||
+            echo "::warning file=planning/manuscript-ledger.md::Ledger is stale; run make ledger"
