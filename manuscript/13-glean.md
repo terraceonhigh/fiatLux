@@ -94,7 +94,7 @@ Bréal set him down in the hallway the way one set down a duffel bag of sweaty l
 
 He wanted to crawl back to the room, to get his bag, he did not know the other workmen very well.
 
-Lady Swartz brought him a piece of bread — rye bread — and a cup of cold broth. The bread was just handed to him, and the broth was served in a stainless steel bowl.
+Lady Swartz brought him a piece of bread—rye bread—and a cup of cold broth. The bread was just handed to him, and the broth was served in a stainless steel bowl.
 
 *Eat, and when you can stand, go back to the foreman.*
 
@@ -110,7 +110,7 @@ It was a good broth.
 
 A minute after that, he stood up and limped back toward the room that needed boarding up.
 
-Lady Swartz was there, at the stairwell. She explained to two of her neighbours that now that they can put things in the common room, she can buy at wholesale rates for the whole building. One of Bréal's friends rested his shovel three steps behind her and started to smoke, Lady Swartz asked him if he could smoke outside
+Lady Swartz was there, at the stairwell. She explained to two of her neighbours that now that they can put things in the common room, she can buy at wholesale rates for the whole building. One of Bréal's friends rested his shovel three steps behind her and started to smoke, Lady Swartz asked him if he could smoke outside.
 
 Bréal made one of the workmen lift the foosball table upstairs with him.
 

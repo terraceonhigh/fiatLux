@@ -98,7 +98,7 @@ Collie topped her toast with pepper and gouda, Fleming had his with cinnamon and
 
 *Right, regarding that.* Fleming washed down a crumb with a sip of tea. *That girl, Nadia. My sweet Ada said your girl is quite excellent helping in Botany.* Ada giggled, in a way that did not engage the vocal cords, but rather made its sound entirely by the rushing of air out of her nostrils.
 
-*Yes, she really is so much more a greenthumb that our generation ever was.* Collie said.
+*Yes, she really is so much more a green thumb than our generation ever was.* Collie said.
 
 *I have something for her.* Fleming said, in a tone befitting the line.
 
@@ -114,7 +114,7 @@ Collie perked up, but caught it in time to turn it to a piqued.
 
 *—and a less backbreaking post for... what's her name, Nona, yes? I am sure you would love it.*
 
-She slathered one more slice of toast, with jam and parmesan. A moment passed before she triangulated her next line. *Have you considered voting in support of the entreaty with Epsilon and Iota?*
+She slathered one more slice of toast, with jam and parmesan. A moment passed before she triangulated her next line. *Have you considered voting in support of the treaty with Epsilon and Iota?*
 
 The servant came back with more tea, along with a few strips of bacon and eggs for the two, nothing too absurd to get in the way of the afternoon.
 
@@ -126,7 +126,7 @@ The servant came back with more tea, along with a few strips of bacon and eggs f
 
 *It worked for Rome for four hundred years.*
 
-*It was less reliable east of the Balkans.* He let the bacon's heat melt the pepper butter, onto a slice of toast. There was rosemary in the loaf Coelia brought.
+*It was less reliable east of the Balkans.* He let the bacon's heat melt the pepper butter, onto a slice of toast. There was rosemary in the loaf Collie brought.
 
 Collie helped herself to another cup.
 
@@ -134,7 +134,7 @@ Collie helped herself to another cup.
 
 *And you wrote the book on how the oligarchs got filthy rich, after the Soviets fell.* Collie opened a jar of liver paste, which made a *pop* as the button gave under it. *You could be the biggest winner. Nobody quite remembers who took over Doctor's Sausage.* Collie folded her legs, under her wine-dark dress. The same one she wore for the first week of every semester.
 
-*My bloc won't flip, I suggest you ask me to help you finding a place for Bréal instead of scheming about a private army.*
+*My bloc won't flip, I suggest you ask me to help you find a place for Bréal instead of scheming about a private army.*
 
 Collie sighed, and rose to follow Dr Fleming's walk through the glass-covered garden.
 
@@ -194,7 +194,7 @@ They had another helping of mead.
 
 *You taught me that, before the thesis defense.*
 
-*Take care on the way home, Lady Swartz. And, congratulations on the new apiary.* Fleming did the above-the-waist part of a courtly bow. With the twisting of the outreached hand as flourish.
+*Take care on the way home, Lady Swartz. And, congratulations on the new apiary.* Fleming did the above-the-waist part of a courtly bow. With the twisting of the outstretched hand as flourish.
 
 *Deliver my greetings to the family, Lord Flemiovich.* Collie did a curtsy.
 
@@ -216,7 +216,7 @@ The oven was fifteen degrees warmer than it was supposed to be at this hour. The
 
 *Just the pastries, please.*
 
-Collie had a metal one for takeouts — and in the earlier days, gruel — its lid held with a spring-loaded mechanism that she was never quite able to describe in words.
+Collie had a metal one for takeouts—and in the earlier days, gruel—its lid held with a spring-loaded mechanism that she was never quite able to describe in words.
 
 It clicked down, sharp. *Here you go, madam.*
 

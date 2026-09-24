@@ -6,7 +6,7 @@ Rosa spent the morning on horseback, the ranch had put her on a mare to help wit
 
 Okay, head trauma, she trained for this.
 
-*When did it happen.*
+*When did it happen?*
 
 *I heard that cry and rode and had a look and then I rode for you.*
 
@@ -52,7 +52,7 @@ Okay, what's next, what's next. What did Doctor Franklin say in freshman year?
 
 *Fifteen.*
 
-*Laying down, how?* She slacked the reins more.
+*Lying down, how?* She slacked the reins more.
 
 *On his back.*
 
@@ -78,7 +78,7 @@ Mrs Cassidy was kneeling next to him, crying, and holding a handkerchief to his 
 
 *Freeze! Keep his head straight!* They made sure she could yell before sending her out.
 
-Unmount, a stumble, she took off one side of the mare's pannier and washed her hands from the pouch.
+Dismount, a stumble, she took off one side of the mare's pannier and washed her hands from the pouch.
 
 *If you'll excuse me, Mr—*
 
@@ -110,7 +110,7 @@ He was heavy, the way a sack of flour is heavy.
 
 *And what day is it today?*
 
-*its a thursday, november... don't think i recall the date.*
+*it's a thursday, november... don't think i recall the date.*
 
 *Do you remember what happened?*
 

@@ -76,7 +76,7 @@ Her pupils were too big, he was certain of that.
 
 Outside the room, her thumb stroked the back of Nona's hand.
 
-*You're going to be okay, ma'am.* He said
+*You're going to be okay, ma'am,* he said.
 
 *Nadia won't even notice.*
 

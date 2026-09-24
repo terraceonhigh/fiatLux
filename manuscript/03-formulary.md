@@ -114,13 +114,13 @@ Some metallic things clinked together as she dug into her satchel.
 
 *Whatever you gotta do.*
 
-*Hmm, this is quite thick,* Rosa pushed the thimbleful around her finger. *do you know what else it is made of?*
+*Hmm, this is quite thick,* Rosa pushed the thimbleful around her finger. *Do you know what else it is made of?*
 
 *Dunno, I just warm the vial against me before I use it.*
 
 *You said your boyfriend gave you this? What does his family do?*
 
-*Well, just from the vial its quite clear they got someone making medicine, and always be talking about herbs and bringing mead so I figure they do beekeeping.*
+*Well, just from the vial it's quite clear they got someone making medicine, and always be talking about herbs and bringing mead so I figure they do beekeeping.*
 
 Rosa put the sample up to her nose.
 

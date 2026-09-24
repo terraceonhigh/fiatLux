@@ -1,6 +1,6 @@
 The town was dry, and sandy at the margins. Nadia, Lewis, and Maddy rode in before dark and checked in as university officials. Nadia bought a discount for dinner by opening her leather wallet to the other side and presenting the chunk of copper engraved with the Swartz name. They shared an onion and egg pie, with less butter than they were used to. For vegetables they had something they and the town called kimchi, though the specific spice profile would have been alien to their parents. Ale with hops washed it down. It was good.
 
-A few children played skipping rope outside, before the innkeeper told them to get and head home for dinner. The children put their tire-made sandals back on and walked home.
+A few children played skipping rope outside, before the innkeeper told them to get going and head home for dinner. The children put their tire-made sandals back on and walked home.
 
 Nadia had to walk out midway, to sign some papers for this town's seeds. Maddy speared and stole a slice of hard-boiled egg from Nadia's pie when she was busy. Nobody would say they noticed.
 
@@ -130,7 +130,7 @@ Next page, but not before blowing some warm breath to unstick the ink.
 
 For the record, the lamp ran out of oil before they ran out of nuts.
 
-In the dark, Maddy brushed her teeth with salt, and spat out the mixture out of the window once she was done with it. Handing the cup and brush over to Nadia, Nadia had said it would not have been necessary. Maddy reminded her of Auntie Maia's last visit to the barber, about the wisdom tooth.
+In the dark, Maddy brushed her teeth with salt, and spat the mixture out of the window once she was done with it. When Maddy handed the cup and brush over, Nadia had said it would not have been necessary. Maddy reminded her of Auntie Maia's last visit to the barber, about the wisdom tooth.
 
 Nadia thought to herself to spit the salt-water further than that little witch ever could.
 
@@ -140,13 +140,13 @@ On the other side of the wall, Lewis curled into a ball to keep himself warm.
 
 ---
 
-The clock they used was also from before they were born — and was wound mechanically. It rang its physical bells before the sun came up. Nadia covered the hammer a second after it came on, and told Maddy to go back to bed. She set the alarm to ring again in ninety minutes. Doctors needed good sleep to work at their best.
+The clock they used was also from before they were born—and was wound mechanically. It rang its physical bells before the sun came up. Nadia covered the hammer a second after it came on, and told Maddy to go back to bed. She set the alarm to ring again in ninety minutes. Doctors needed good sleep to work at their best.
 
 She changed from her pajama pants into her jeans and lit a lantern. The backpack with her kit was heavy when she went to lift it up, and considerably less unwieldy when she put it on. The last item of preparation was to go down to the truck and collect the family's bees, which were kept warm under a blanket.
 
 The dry grass crunched under her boots. The local apiary had been expecting her, Mom Nona told her. Nadia scratched at an itch on her nape. She couldn't wait to finally go home for a proper wash.
 
-All was quiet before dawn. The house was a baby blue, and the east side windows upstairs were boarded up. The grime in the nooks were mixed with sand.
+All was quiet before dawn. The house was a baby blue, and the east side windows upstairs were boarded up. The grime in the nooks was mixed with sand.
 
 She cleared her throat and knocked on the door to the beekeeper's house. The door opened.
 
@@ -156,11 +156,11 @@ She cleared her throat and knocked on the door to the beekeeper's house. The doo
 
 ---
 
-The boxes were painted in different vibrant colours, and reflected in the beautiful pastels even now, peppered among the ones that were just plain wood now, with worse nails and the same dedication to carpentry.
+The boxes were painted in different vibrant colours, and reflected in the beautiful pastels even now, peppered among the ones that were just plain wood, with worse nails and the same dedication to carpentry.
 
 *No, miss, with this style of smoker you hold it like this.*
 
-*Oh — I see, thank you, sir,* Nadia said under the cover of mesh.
+*Oh—I see, thank you, sir,* Nadia said under the cover of mesh.
 
 The bees in the cup did not seem to mind, until the moment the alcohol came in, the beekeeper seemed to wince under his own hat when shaking the sealed cup.
 
@@ -190,7 +190,7 @@ The smoke was harsh, and only faintly smelled of the sage. Nadia's abacus clacke
 
 *'salright, miss.*
 
-A jar of freshly drowned bees floated on top of alcohol in a jam jar.
+Freshly drowned bees floated on top of alcohol in a jam jar.
 
 At dawn, they followed the beekeeper's month-old paper to the infected hives. This month, the boxes were heavy. The beekeeper was the one to pick out the queen with his forceps, and Nadia installed the new queens in their mesh boxes, open-side up. The queens' attendants saw their first sunrise in days.
 
@@ -202,7 +202,7 @@ There was a hive whose record was underlined in the beekeeper's paper and circle
 
 When they opened the hive, a sizable chunk of the bees fell out, crawling on the ground. Their wings were growing in deformed.
 
-The box was one of the colourful, sun-bleached ones, except for a few planks swapped out for newer raw strips from pallets. It was the same sky-blue as the beekeeper's house.
+The box was one of the colourful, sun-bleached ones, except for a few planks swapped out for newer raw strips from pallets. It was the same baby blue as the beekeeper's house.
 
 The paint job seemed to have been amateur. There were places where a hammer struck but not on the nail, leaving impressions.
 

@@ -68,9 +68,9 @@ Around the bottom of a hamper was an item of underwear. Nona had bought it from 
 
 The name *MADDY* had been sewed in on the tailbone, facing outward. Nona put it in her bag, and made a mental note to run a small bucket and soak it overnight. Something to work on for tomorrow.
 
-The bedding was the hardest to wash, large and unwieldy as it was. Collie and Nona did the wringing. Collie had to be swapped out to Maia about halfway. Collie complained of a sore wrist and Maia almost twisted her back. They washed the clothes on their backs last, the pieces they hung up first had already begun to billow slightly in the wind.
+The bedding was the hardest to wash, large and unwieldy as it was. Collie and Nona did the wringing. Collie had to be swapped out for Maia about halfway. Collie complained of a sore wrist and Maia almost twisted her back. They washed the clothes on their backs last, the pieces they hung up first had already begun to billow slightly in the wind.
 
-The T-shirts they were wearing hung somewhere around the tail-end of the clothesline, where they still had room after the bedding ate most of the rest. Maia coaxed the block of soap in her hands first, before massaging the liquid into Nona's hair, Collie sank most of herself into the river.
+The t-shirts they were wearing hung somewhere around the tail-end of the clothesline, where they still had room after the bedding ate most of the rest. Maia coaxed the block of soap in her hands first, before massaging the liquid into Nona's hair, Collie sank most of herself into the river.
 
 *Nona, babe, can I ask you a favour?*
 
@@ -106,13 +106,13 @@ The T-shirts they were wearing hung somewhere around the tail-end of the clothes
 
 The big radio needed the engine running, and the engine was noisy, so Lewis wired it to the CB handset and took the call in the cab. The girls were unloading the rest of the gear into this town's pub, to the room upstairs.
 
-*University Station, This is Truck 02, coming in for our evening check-in. Over.*
+*University Station, this is Truck 02, coming in for our evening check-in. Over.*
 
-*Truck 02, University Station receives, status report. Over*
+*Truck 02, University Station receives, status report. Over.*
 
-*Making good progress, preliminary data from the Mission Specialist indicates a higher variance and greater recovery effect than previous models predicted. Joker on fuel, settlements cooperative. Expect to RTB tomorrow afternoon. Over*
+*Making good progress, preliminary data from the Mission Specialist indicates a higher variance and greater recovery effect than previous models predicted. Joker on fuel, settlements cooperative. Expect to RTB tomorrow afternoon. Over.*
 
-*University Station Receives. And, one message from your mom, Lewis. Over.*
+*University Station receives. And, one message from your mom, Lewis. Over.*
 
 *Huh? Over.*
 

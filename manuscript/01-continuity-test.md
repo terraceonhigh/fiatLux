@@ -20,7 +20,7 @@ The medical student threw up from the fumes about the time when they lost sight 
 
 *First time, egghead?* Lewis snatched the mint.
 
-*Yeah.* the egghead wiped her lips with a stretched sleeve.
+*Yeah.* The egghead wiped her lips with a stretched sleeve.
 
 *First time in a truck or first time in a truck bed?*
 

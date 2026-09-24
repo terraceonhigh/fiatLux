@@ -114,7 +114,7 @@ The professor covered the microphone, and told Oyá to issue evacuation orders f
 
 *Anything else?*
 
-*Yes, get those valves turning on their end, and take whatever maps they have that aren't twenty-years old. Bring the two workers back to the university.*
+*Yes, get those valves turning on their end, and take whatever maps they have that aren't twenty years old. Bring the two workers back to the university.*
 
 *One sec... The shift leader said they already tried the valves. About three neighbourhoods are already bone-dry and the rest of the city will depressurize by 2000.*
 
@@ -203,7 +203,7 @@ Bréal was in the office tent, where the engineering department had laid the pen
 
 *Oh, you won't have to. Just... recommend the engineers to recompute the district triage with slightly different weightings. The sandwiches are just here to relieve our working boys, yes?*
 
-*Okay. okay.*
+*Okay, okay.*
 
 *And, just for my best foreman.* Collie produced a bottle that must have been tied to her calves. *A gift, from Château Swartz.*
 

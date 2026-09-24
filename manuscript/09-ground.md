@@ -10,11 +10,11 @@ It would appear that he cursed himself, under the breath, for forgetting to tell
 
 A basket came down from the fifth floor. Lewis's voice came down the well. *Daaaad, bricks for ya.*
 
-*Come down and help me with wall.*
+*Come down and help me with the wall.*
 
 They sat down and drank the soda first. But not before Alex went to the bathroom and ran the tap to a bucket. It was a honey-sweetened bug, with a smattering of whatever it was that Nadia helped grow in the greenhouses. It smelled faintly of oak.
 
-*How are we gonna take out the threshold? and I found tiles to match our foyer on fifth.*
+*How are we gonna take out the threshold? And I found tiles to match our foyer on fifth.*
 
 *Foyer?*
 
@@ -48,7 +48,7 @@ The nightstand held a beeswax candle, unscented.
 
 *Alex.*
 
-*Hmm? what is it, four-eyes?*
+*Hmm? What is it, four-eyes?*
 
 *The committee talked today.*
 
@@ -88,7 +88,7 @@ His hand covered hers, he could feel her nose and forehead on the small of his b
 
 *And close to us, and another hand to pack things, and we will be out in no time.*
 
-*But, won't it better, if, he is young, and, if we don't, Collie would—*
+*But, won't it be better, if, he is young, and, if we don't, Collie would—*
 
 *We will, I promise. Our son has good eyes, your eyes.*
 
@@ -168,7 +168,7 @@ Someone knocked on her door. She closed a binder.
 
 *But, we would then also be walling off the common room. I don't know how we can handle that.*
 
-*Oh, it shan't be too hard. Worry not about the neighbours. The cargo basxet was really nice work. We can acquire locks and keys, yes?*
+*Oh, it shan't be too hard. Worry not about the neighbours. The cargo basket was really nice work. We can acquire locks and keys, yes?*
 
 *Certainly.*
 

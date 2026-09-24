@@ -58,7 +58,7 @@ Serves eight, prepare and bring to the bakery after lunch when the oven has cool
 
 2 eggs, whisked.
 
-Your choice of toppings. we have huckleberry jam, but whipped cream is traditional if we ever found some.
+Your choice of toppings. We have huckleberry jam, but whipped cream is traditional if we ever found some.
 
 Water to mix
 

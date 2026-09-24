@@ -44,7 +44,7 @@ Bréal grabbed a towel, the part was no longer blue. *Now, V, stand aside if you
 
 *Why you seem so pressed about them? Lewis is cool, if anything bit soft for a brother. And the girls capable bachelorettes.*
 
-*Well,* the bossman took off his safety glasses. *You ever seen them all together? Like, lined up, side to side. Or, like, heard Lewis talk about his moms and dad, singular?*
+*Well,* the bossman took off his safety glasses. *You ever seen them all together? Like, lined up, side by side. Or, like, heard Lewis talk about his moms and dad, singular?*
 
 *They do look very different, yes.*
 
@@ -104,7 +104,7 @@ Thunk.
 
 Maddy's voice rang in, from the cab. *Remember, only eat the hot stuff.*
 
-*But it's so hoooooot* Nadia moaned.
+*But it's so hoooooot,* Nadia moaned.
 
 *Okay, this advice I can actually get behind. The rest of that child's antics notwithstanding.* Lewis grabbed another seed packet.
 
@@ -160,7 +160,7 @@ Nadia blew her smoke away from the table, it was something milder than her morni
 
 *Oh, I told her.* Maddy interjected, while trying to snap off a chunk of biscuit. *Why is this so tough to crack?*
 
-*Is there no secrets under our roof?*
+*Are there no secrets under our roof?*
 
 *No, not really. Except that magazine you keep under your pillow.* Maddy said. Nadia raised her eyebrow.
 
@@ -302,7 +302,7 @@ And so humble too, the woman thought.
 
 She produced an envelope, as yet unsealed. There was a letter of recommendation inside, addressed to University Admissions. A few lines of handwriting each, from a skim, between navigators, shipwrights, and builders.
 
-*I was wondering if you could add a line of yourself, or even just bring it back to the university.*
+*I was wondering if you could add a line yourself, or even just bring it back to the university.*
 
 *Why, I certainly can deliver it.*
 

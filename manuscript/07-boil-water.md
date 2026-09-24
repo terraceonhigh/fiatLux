@@ -84,7 +84,7 @@ Maddy didn't.
 
 It didn't, the syringes were properly disinfected and stored, and it drew excellently that day.
 
-*We, found some poppy. She just went to sleep.* And the undertaker came half and hour after that.
+*We, found some poppy. She just went to sleep.* And the undertaker came half an hour after that.
 
 Maddy nursed her cup. Collie put the iron down, poured more of the tea, and went back and worked on the chest.
 
