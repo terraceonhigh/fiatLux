@@ -119,7 +119,7 @@ entangled with these groups.
   (`00-ante-finem-mundi.md:85`).
 - "Coolie" (`13-glean.md:43`) is set against Bréal's "lil bro" to Lewis
   (`01-continuity-test.md:65`).
-- The langar decision (`planning/chapters/gleaning.md`) and the Weirwick
+- The langar decision (`planning/chapters/glean.md`) and the Weirwick
   cannery (`world/geography.md`) are already recorded.
 
 ## VIII. Open joints

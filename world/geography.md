@@ -110,7 +110,7 @@ The corpus sources are:
 - `OPEN` Which authorities control the river ports and milling sites?
 - `OPEN` Which township produces most of the grain, pulses, and potatoes?
 - `OPEN` Is Aldermere the town that contains Diana's home?
-  Yes, refer to Druzhina
+  Yes, refer to Hyperbolic
 - `OPEN` Which towns share the three-day circuit in *Wild Oats*?
 
 ## Sources

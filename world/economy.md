@@ -152,7 +152,7 @@ signatory, and a standing membership.
 
 - The gurdwara pools donations and redeems in bulk. This is how the langar
   feeds people for free (`manuscript/13-glean.md:9`).
-- A Catholic parish runs pools for its members. The Rosary couple in Gleaning
+- A Catholic parish runs pools for its members. The Rosary couple in Glean
   belongs to one (`manuscript/13-glean.md:23-29`).
 
 `MODEL` Rotating savings groups let households without savings join a pool.
@@ -164,7 +164,7 @@ Each member pays in weekly, and one member takes the pot each round.
 `MODEL` Poor pools redeem oats and dried peas more than wheat. Porridge and
 pottage need a pot and a fire, not a mill and an oven.
 
-`MODEL` Gleaning already shows both halves: breakfast at the langar is pooled
+`MODEL` Glean already shows both halves: breakfast at the langar is pooled
 wholesale calories, and supper is retail bread bought with same-day cash.
 
 ## How towns acquire dollars

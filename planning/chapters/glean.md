@@ -1,4 +1,6 @@
-# Gleaning
+# Glean
+
+Formerly titled *Gleaning*.
 
 Status: Posted to AO3 as chapter 14 (2026-09-23). Manuscript file:
 `manuscript/13-glean.md`.

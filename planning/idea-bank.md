@@ -2875,6 +2875,10 @@ Neither requires anyone to give birth. **The only thing that ever wanted a womb 
 
 ## Renaming *Druzhina* — flagged 2026-09-18, not yet decided
 
+**Decided 2026-09-24: retitled *Hyperbolic*** (file renamed to
+`08-hyperbolic.md` in `1b0cabc`). *Gleaning* was retitled *Glean* the same
+day (`e924f0a`).
+
 **Terrace's call, pending:** *Druzhina* may be retitled, candidate ***Hyperbolic***. Two anchors offered: Ada's catenary-curve work, and the "pretend-but-not-pretend nobility" of Fleming and Collie.
 
 **Unchecked against the manuscript as it stands** — Ada's catenary work isn't yet on the page in `08-druzhina.md` (checked: no hits for "Ada," "catenary," or "curve" in that file), so this pun is being reached for ahead of the text that would carry it, same as *Druzhina*'s own etymology (spitball.md:598) was settled before it was fully earned on the page. Worth noting for whoever picks this up: **a hyperbolic cosine is the function that describes a catenary**, so "Hyperbolic" would carry the math sense cleanly *if* Ada's curve work makes it into the chapter — and separately carries *hyperbole* for Fleming and Collie's performed rank, the same one-word-two-registers move *Druzhina* itself made (friend-band/war-band). Both senses are real; neither is confirmed in `08-druzhina.md`'s current text.
