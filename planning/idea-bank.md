@@ -1826,6 +1826,8 @@ Options considered, kept on the shelf:
 
 ## Banked: a washing-up chapter — 2026-08-24
 
+**Written as *Mulberry* (`manuscript/11-mulberry.md`). Terrace, 2026-09-24.**
+
 **Terrace wants a chapter of just the adults, off-duty, to show Collie's human side.** Landed on **washing** — the flat's clothesline, or by the river. Deliberately not worked out further yet.
 
 Why washing and not a dinner: **it is the only labour in the book that produces nothing.** Everything else these people do generates something tradeable, requisitionable, or fileable. Maintenance can't be, so it is the one activity Collie cannot run a play inside — no crisis needed to get her out of her own competence.
