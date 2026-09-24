@@ -1,0 +1,1 @@
+yeah the kid's parents should be groundskeeper instead of astronomers, I think. So we can do a class thing when they burn to death in the wildfire and the kids is taken into House Swartz. Also with how they were the ones tuck on the observatory and maia gets to go home.
