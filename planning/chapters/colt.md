@@ -6,8 +6,8 @@ Status: Planned. Manuscript file: `manuscript/17-colt.md`.
 
 ## Manuscript dependencies
 
-- `TEXT` Fleming asks Collie to provide a future signature for Ada (`08-druzhina.md:147-179`).
-- `TEXT` Lewis seeks entry into Electrical Engineering (`08-druzhina.md:147-169`).
+- `TEXT` Fleming asks Collie to provide a future signature for Ada (`08-hyperbolic.md:147-179`).
+- `TEXT` Lewis seeks entry into Electrical Engineering (`08-hyperbolic.md:147-169`).
 - `TEXT` Diana and Lewis have a private relationship (`01-continuity-test.md:67-147`).
 
 ## Candidate material

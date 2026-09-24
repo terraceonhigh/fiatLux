@@ -9,7 +9,7 @@
 - `TEXT` Maia works at the mountain observatory and is Lewis's mother.
   (`manuscript/00-ante-finem-mundi.md:19`)
 - `TEXT` Alex Tsien is Lewis's father and Maia's husband.
-  (`manuscript/00-ante-finem-mundi.md:25`, `:75`;
+  (`manuscript/00-ante-finem-mundi.md:25`, `:85`;
   `manuscript/09-ground.md:49-95`)
 - `TEXT` Lewis, Nadia, and Maddy grow up around Collie's home. Lewis is older
   than Nadia and Maddy. (`manuscript/00-ante-finem-mundi.md:17-29`)
@@ -24,7 +24,7 @@
 - `TEXT` Diana lives beyond the town and hunts. Lewis visits her during a
   salvage trip. (`manuscript/01-continuity-test.md:67-119`)
 - `TEXT` Dr Fleming taught Collie before her thesis defence. Ada is his
-  granddaughter. (`manuscript/08-druzhina.md:165-195`)
+  granddaughter. (`manuscript/08-hyperbolic.md:165-195`)
 
 ## Open identity questions
 

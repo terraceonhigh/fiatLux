@@ -10,19 +10,19 @@ gifts, requisitions, and seasonal scarcity.
 - `TEXT` The university prints its own banknotes. The front shows three
   signatures — the University President, the Dean of Economics, and the
   Director of Food Services — under a dogwood-and-mahonia seal.
-  (`manuscript/08-druzhina.md:227`)
+  (`manuscript/08-hyperbolic.md:227`)
 - `TEXT` Notes come in tens and fives. The five-dollar note carries a red
-  rose-engine pattern at centre-left. (`manuscript/08-druzhina.md:227`;
-  `manuscript/13-gleaning.md:119`)
+  rose-engine pattern at centre-left. (`manuscript/08-hyperbolic.md:227`;
+  `manuscript/13-glean.md:125`)
 - `TEXT` University bylaw lets the Senate approve new dies for the rose
-  pattern only one at a time. (`manuscript/13-gleaning.md:119`)
+  pattern only one at a time. (`manuscript/13-glean.md:125`)
 - `TEXT` Note paper is hemp and pulped old books. The hemp makes it tough; the
-  book pulp makes it cheap enough to print. (`manuscript/13-gleaning.md:121`)
+  book pulp makes it cheap enough to print. (`manuscript/13-glean.md:127`)
 - `TEXT` Two potato samosas and a sausage roll cost fifteen dollars at a campus
-  bakery. (`manuscript/08-druzhina.md:225`)
+  bakery. (`manuscript/08-hyperbolic.md:225`)
 - `TEXT` A day labourer earns fifteen dollars a day. His household spends it on
-  two loaves and three onions for supper. (`manuscript/13-gleaning.md:115`,
-  `:131`)
+  two loaves and three onions for supper. (`manuscript/13-glean.md:121`,
+  `:137`)
 - `TEXT` Barter and gift payment run alongside cash. Mead, honey, sausage, and
   jam pay for goods and favours. "Two vials of poppy" is the price the
   hardware store sets for a pair of rubber gloves.
@@ -30,7 +30,7 @@ gifts, requisitions, and seasonal scarcity.
 - `TEXT` The university hands out seed and assigns oxen to towns.
   (`manuscript/10-wild-oats.md:131`, `:191`)
 - `TEXT` A langar serves free breakfast. A message board there carries job
-  postings. (`manuscript/13-gleaning.md:9-11`)
+  postings. (`manuscript/13-glean.md:9-11`)
 - `TEXT` University staff on official duty carry a chit and a metal seal.
   (`manuscript/10-wild-oats.md:131`)
 
@@ -151,9 +151,9 @@ provide what poor households lack: safe storage, a kitchen or oven, a
 signatory, and a standing membership.
 
 - The gurdwara pools donations and redeems in bulk. This is how the langar
-  feeds people for free (`manuscript/13-gleaning.md:9`).
+  feeds people for free (`manuscript/13-glean.md:9`).
 - A Catholic parish runs pools for its members. The Rosary couple in Gleaning
-  belongs to one (`manuscript/13-gleaning.md:23-28`).
+  belongs to one (`manuscript/13-glean.md:23-29`).
 
 `MODEL` Rotating savings groups let households without savings join a pool.
 Each member pays in weekly, and one member takes the pot each round.
@@ -203,7 +203,7 @@ not to.
 `TEXT` Established features: the rose-engine pattern from Senate-controlled
 dies, three facsimile signatures, the centred dogwood-and-mahonia seal, a
 colour per denomination, and hemp and book-pulp paper.
-(`manuscript/08-druzhina.md:227`; `manuscript/13-gleaning.md:119-121`)
+(`manuscript/08-hyperbolic.md:227`; `manuscript/13-glean.md:125-127`)
 
 `MODEL` The main counterfeiting threat is salvaged scanners, photocopiers,
 and inkjet printers. Features built into the paper and the printing process

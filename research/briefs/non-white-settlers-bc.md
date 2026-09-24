@@ -106,18 +106,18 @@ entangled with these groups.
 
 `MODEL` All of these are proposals. Terrace decides.
 
-- The laborer (`13-gleaning.md:82`) and Alex (`09-ground.md:105`) both speak
+- The laborer (`13-glean.md:105`) and Alex (`09-ground.md:105`) both speak
   of "the old country."
 - Alex is being absorbed under the Swartz name. Vavasseur knows of "Mr
   Swartz" as an electrician (`10-wild-oats.md:53`). Maddy names Alex as her
   father to the fishwife (`10-wild-oats.md:321`). Collie lets his "Yes, ma'am"
   pass (`09-ground.md:193-195`). This parallels the assimilable and excluded
   immigrant.
-- The laminated affiliation cards (`00-ante-finem-mundi.md:75`) function as
+- The laminated affiliation cards (`00-ante-finem-mundi.md:89`) function as
   papers of belonging. They rhyme with head-tax certificates.
 - The international students leave, and the household takes their flats
-  (`00-ante-finem-mundi.md:75`).
-- "Coolie" (`13-gleaning.md:25`) is set against Bréal's "lil bro" to Lewis
+  (`00-ante-finem-mundi.md:85`).
+- "Coolie" (`13-glean.md:43`) is set against Bréal's "lil bro" to Lewis
   (`01-continuity-test.md:65`).
 - The langar decision (`planning/chapters/gleaning.md`) and the Weirwick
   cannery (`world/geography.md`) are already recorded.

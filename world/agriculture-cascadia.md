@@ -16,17 +16,17 @@ preservation, seed life, yields, and the farm calendar.
 - `TEXT` Town agriculture uses oxen and university seed distribution.
   (`manuscript/10-wild-oats.md:187-193`)
 - `TEXT` Commercial bakery pastry uses lard, not butter. A private-estate loaf
-  is described as "lard and dill." (`manuscript/08-druzhina.md:25`)
+  is described as "lard and dill." (`manuscript/08-hyperbolic.md:25`)
 - `TEXT` Whipped cream still exists, but only at the top of the class ladder.
   The Swartz household calls it a thing they might never find; Fleming's
   estate serves it as a topping. It is a rank marker, not a lost good.
-  (`manuscript/02-fortification.md:61`; `manuscript/08-druzhina.md:163`)
+  (`manuscript/02-fortification.md:61`; `manuscript/08-hyperbolic.md:163`)
 - `TEXT` Butter supply is not flat across townships. A pie eaten on the road
   in another town has "less butter than they were used to."
   (`manuscript/12-notions.md:1`)
 - `TEXT` Cheese comes in several kinds: cheddar and colby at the clinic
   (`manuscript/03-formulary.md:209`), gouda and parmesan at Fleming's estate
-  (`manuscript/08-druzhina.md:69-95`).
+  (`manuscript/08-hyperbolic.md:69-95`).
 - `TEXT` Ginger is a home-patch garden crop, not a traded or greenhouse good.
   (`manuscript/01-continuity-test.md:13`)
 

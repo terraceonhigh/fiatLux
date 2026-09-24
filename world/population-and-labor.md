@@ -10,9 +10,9 @@ seasonal labor, household work, injuries, and competing labor demands.
 - `TEXT` The university sends medical students, teachers, guards, and tradespeople
   to towns for fixed periods. (`manuscript/01-continuity-test.md:41-49`)
 - `TEXT` International students leave during the collapse. Their departure
-  opens university flats. (`manuscript/00-ante-finem-mundi.md:75`)
+  opens university flats. (`manuscript/00-ante-finem-mundi.md:85`)
 - `TEXT` Unaffiliated day laborers wait near the campus for daily work.
-  (`manuscript/13-gleaning.md:1-27`)
+  (`manuscript/13-glean.md:1-27`)
 
 ## Terrace decisions
 

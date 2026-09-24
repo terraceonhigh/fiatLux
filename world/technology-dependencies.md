@@ -8,7 +8,7 @@ consumables, skills, tools, energy, maintenance, outputs, substitutes, and failu
 ## Established in the manuscript
 
 - `TEXT` A jar of liver paste has a lid button that pops when opened
-  (`manuscript/08-druzhina.md:135`). `MODEL` Vacuum-sealed jars therefore
+  (`manuscript/08-hyperbolic.md:135`). `MODEL` Vacuum-sealed jars therefore
   exist in the setting.
 
 ## Terrace decisions

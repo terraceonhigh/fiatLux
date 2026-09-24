@@ -20,8 +20,8 @@
   salmon chowder with biscuits, and later grilled salmon with sauerkraut.
   (`manuscript/10-wild-oats.md:31-35`, `:89-259`)
 - `TEXT` Aldermere is a dairy township. Both House Swartz and Fleming's estate
-  buy their butter there. (`manuscript/08-druzhina.md:71-75`)
+  buy their butter there. (`manuscript/08-hyperbolic.md:71-75`)
 - `OPEN` Dr Fleming's estate has no place name yet, only "the Emeritus'
-  property." (`manuscript/08-druzhina.md:1`)
+  property." (`manuscript/08-hyperbolic.md:1`)
 - `OPEN` The manuscript does not identify a real-world city or fix a complete
   map of distances and adjacencies.

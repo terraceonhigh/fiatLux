@@ -8,7 +8,7 @@ distance, travel time, and seasonal access.
 ## Established in the manuscript
 
 - `TEXT` Aldermere is east of the university and supplies butter.
-  (`manuscript/08-druzhina.md:69-77`)
+  (`manuscript/08-hyperbolic.md:69-77`)
 - `TEXT` Weirwick is a fishing town on a three-day university circuit. It has
   a diner, a guard tower, a mayor, and a shipyard.
   (`manuscript/10-wild-oats.md:31-35`, `:89-153`, `:255-265`)

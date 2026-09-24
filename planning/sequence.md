@@ -12,12 +12,12 @@ The manuscript determines draft state. AO3 state belongs in `publishing/`.
 | 6 | *Notifiable* | `05-notifiable.md` | Empty |
 | 7 | *Isolation* | `06-isolation.md` | Drafted |
 | 8 | *Boil Water* | `07-boil-water.md` | Drafted |
-| 9 | *Druzhina* | `08-druzhina.md` | Drafted |
+| 9 | *Druzhina* | `08-hyperbolic.md` | Drafted |
 | 10 | *Ground* | `09-ground.md` | Drafted |
 | 11 | *Wild Oats* | `10-wild-oats.md` | Drafted |
 | 12 | *Mulberry* | `11-mulberry.md` | Drafted |
 | 13 | *Notions* | `12-notions.md` | Drafted |
-| 14 | *Gleaning* | `13-gleaning.md` | Posted (AO3 ch. 14) |
+| 14 | *Gleaning* | `13-glean.md` | Posted (AO3 ch. 14) |
 | 15 | *Ruts* | `14-ruts.md` | Empty |
 | 16 | *Skywave* | `15-skywave.md` | Empty |
 | 17 | *Pulp* | `16-pulp.md` | Empty |

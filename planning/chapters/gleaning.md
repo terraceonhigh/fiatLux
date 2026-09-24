@@ -1,22 +1,22 @@
 # Gleaning
 
 Status: Posted to AO3 as chapter 14 (2026-09-23). Manuscript file:
-`manuscript/13-gleaning.md`.
+`manuscript/13-glean.md`.
 
 ## Terrace decisions
 
 - `TERRACE` Replace the oil-drum ramen breakfast with a langar. Terrace's
   reason: the langar brings non-white settlers into the chapter.
-  (Decision 2026-09-22; written at `13-gleaning.md:9-11`.)
+  (Decision 2026-09-22; written at `13-glean.md:9-11`.)
 - `TERRACE` Alex hangs the door while Bréal's crew bricks the windows; his
   apprentice Lewis is away on the road trip. This settles the headcount
-  against `09-ground.md:181`. (`13-gleaning.md:51-53`)
+  against `09-ground.md:181`. (`13-glean.md:51-53`)
 - `TERRACE` The day wage is fifteen dollars per man; the household's supper is
-  two loaves and three onions. (`13-gleaning.md:115`, `:131`)
+  two loaves and three onions. (`13-glean.md:121`, `:137`)
 
 ## Manuscript dependencies
 
-- `TEXT` He wakes hungry (`13-gleaning.md:1`).
+- `TEXT` He wakes hungry (`13-glean.md:1`).
 - `TEXT` He keeps the locked backpack with him at all times (`:3`).
 - `TEXT` He sleeps within earshot of the 6am bell, which is colder in winter
   (`:7`).
@@ -58,5 +58,5 @@ Status: Posted to AO3 as chapter 14 (2026-09-23). Manuscript file:
   the Rosary without knowing it (`:29`), which keeps his background open.
 - `OPEN` Whether karah prashad would use honey in a sugar-poor economy. Check
   with someone who does seva.
-- `TERRACE` The storyboard's $40 became fifteen dollars per man (`:115`).
+- `TERRACE` The storyboard's $40 became fifteen dollars per man (`:121`).
   Resolved.
