@@ -6,20 +6,20 @@ This ledger records mechanical state only. It does not summarize the story.
 
 | Slot | File | Lines | Words | State |
 |---:|---|---:|---:|---|
-| 1 | `00-ante-finem-mundi.md` | 75 | 1490 | Drafted |
+| 1 | `00-ante-finem-mundi.md` | 89 | 1568 | Drafted |
 | 2 | `01-continuity-test.md` | 161 | 1789 | Drafted |
 | 3 | `02-fortification.md` | 97 | 504 | Drafted |
 | 4 | `03-formulary.md` | 213 | 1298 | Drafted |
 | 5 | `04-off-label-part-i.md` | 272 | 1674 | Drafted |
 | 6 | `05-notifiable.md` | 0 | 0 | Empty |
 | 7 | `06-isolation.md` | 212 | 1383 | Drafted |
-| 8 | `07-boil-water.md` | 235 | 1701 | Drafted |
-| 9 | `08-druzhina.md` | 229 | 1982 | Drafted |
+| 8 | `07-boil-water.md` | 235 | 1710 | Drafted |
+| 9 | `08-hyperbolic.md` | 229 | 1982 | Drafted |
 | 10 | `09-ground.md` | 223 | 1748 | Drafted |
 | 11 | `10-wild-oats.md` | 365 | 2956 | Drafted |
 | 12 | `11-mulberry.md` | 125 | 1666 | Drafted |
 | 13 | `12-notions.md` | 235 | 1903 | Drafted |
-| 14 | `13-gleaning.md` | 137 | 1525 | Drafted |
+| 14 | `13-glean.md` | 143 | 1601 | Drafted |
 | 15 | `14-ruts.md` | 0 | 0 | Empty |
 | 16 | `15-skywave.md` | 0 | 0 | Empty |
 | 17 | `16-pulp.md` | 0 | 0 | Empty |
