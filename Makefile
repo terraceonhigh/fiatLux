@@ -26,6 +26,10 @@
 
 PANDOC_FLAGS := -f markdown-smart -t html --ascii --strip-comments
 
+# Tools run through the interpreter rather than their shebangs, because the
+# phone's shared storage cannot hold an execute bit.
+PY ?= python3
+
 SRC  := $(wildcard manuscript/*.md)
 HTML := $(patsubst manuscript/%.md,build/%.html,$(SRC))
 
@@ -35,13 +39,13 @@ HTML := $(patsubst manuscript/%.md,build/%.html,$(SRC))
 all: $(HTML)
 
 check:
-	@tools/check-project.py
-	@tools/verify-fidelity.py --self-test
-	@tools/ao3-publish.py --self-test
-	@tools/place-names.py --self-test
+	@$(PY) tools/check-project.py
+	@$(PY) tools/verify-fidelity.py --self-test
+	@$(PY) tools/ao3-publish.py --self-test
+	@$(PY) tools/place-names.py --self-test
 
 ledger:
-	@tools/manuscript-ledger.py
+	@$(PY) tools/manuscript-ledger.py
 
 storyboards:
 	@grep -nH '^\[STORYBOARD' manuscript/*.md || true
@@ -53,7 +57,7 @@ build:
 # rather than on the Archive.
 build/%.html: manuscript/%.md tools/verify-fidelity.py | build
 	@pandoc $(PANDOC_FLAGS) $< -o $@
-	@tools/verify-fidelity.py $< $@
+	@$(PY) tools/verify-fidelity.py $< $@
 
 copy: $(HTML)
 	@test -n "$(CH)" || { \
@@ -61,8 +65,8 @@ copy: $(HTML)
 	  echo "available:"; ls -1 build/*.html 2>/dev/null | sed 's|build/|  |;s|\.html$$||'; \
 	  exit 2; }
 	@test -f build/$(CH).html || { echo "no such chapter: build/$(CH).html"; exit 2; }
-	@tools/verify-fidelity.py --no-storyboard manuscript/$(CH).md
-	@tools/copy-html.py build/$(CH).html
+	@$(PY) tools/verify-fidelity.py --no-storyboard manuscript/$(CH).md
+	@$(PY) tools/copy-html.py build/$(CH).html
 	@echo "paste into the AO3 chapter editor with the HTML tab selected, not Rich Text."
 
 # Headless replacement for copy-then-paste. Dry run unless POST=1. The chapter
@@ -74,8 +78,8 @@ publish: $(HTML)
 	  echo "available:"; ls -1 build/*.html 2>/dev/null | sed 's|build/|  |;s|\.html$$||'; \
 	  exit 2; }
 	@test -f build/$(CH).html || { echo "no such chapter: build/$(CH).html"; exit 2; }
-	@tools/verify-fidelity.py --no-storyboard manuscript/$(CH).md
-	@tools/ao3-publish.py --slug $(CH) --html build/$(CH).html \
+	@$(PY) tools/verify-fidelity.py --no-storyboard manuscript/$(CH).md
+	@$(PY) tools/ao3-publish.py --slug $(CH) --html build/$(CH).html \
 	  $(if $(CHID),--chid $(CHID)) \
 	  $(if $(wildcard .ao3-cookie),--cookie-file .ao3-cookie) \
 	  $(if $(POST),--post)
